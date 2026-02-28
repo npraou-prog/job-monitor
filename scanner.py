@@ -115,7 +115,11 @@ def fetch_deloitte_jobs(base_url, db, company_id):
     return jobs, new_found
 
 
-def main():
+def main(target_company=None):
+    """
+    Run scanner. If target_company specified, only scan that company.
+    Usage: python scanner.py [company_name]
+    """
     config = load_config()
     db = load_db()
     
@@ -123,7 +127,20 @@ def main():
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%H:%M")
     
-    for company in config["companies"]:
+    # Filter companies if target specified
+    companies_to_scan = config["companies"]
+    if target_company:
+        target_lower = target_company.lower()
+        companies_to_scan = [
+            c for c in config["companies"] 
+            if c["id"].lower() == target_lower or c["name"].lower() == target_lower
+        ]
+        if not companies_to_scan:
+            print(f"❌ Company '{target_company}' not found.", flush=True)
+            print(f"Available: {', '.join(c['name'] for c in config['companies'])}", flush=True)
+            return
+    
+    for company in companies_to_scan:
         print(f"\n{'='*50}", flush=True)
         print(f"Scanning: {company['name']}", flush=True)
         print(f"Referrers: {', '.join(company['referrers'])}", flush=True)
@@ -174,4 +191,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    target = sys.argv[1] if len(sys.argv) > 1 else None
+    main(target)
