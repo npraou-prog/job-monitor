@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Job Monitor Scanner - Memory efficient, incremental saves
+Job Monitor Scanner - Multi-company support
 """
 
 import json
@@ -49,17 +49,19 @@ def is_relevant_role(title, target_roles):
 
 
 def extract_job_id(url):
-    match = re.search(r'/(\d+)$', url)
+    match = re.search(r'/(\d+)', url)
     return match.group(1) if match else url
 
 
+# =============================================================================
+# DELOITTE FETCHER
+# =============================================================================
 def fetch_deloitte_jobs(base_url, db, company_id):
-    """Fetch jobs with incremental saves."""
+    """Fetch Deloitte jobs with pagination."""
     jobs = db["companies"].get(company_id, {})
     per_page = 10
     base = "https://apply.deloitte.com/en_US/careers/SearchJobs/"
     
-    # Get total
     print("Getting job count...", flush=True)
     resp = SESSION.get(base_url, timeout=30)
     match = re.search(r'(\d+)\s*jobs', resp.text)
@@ -97,17 +99,15 @@ def fetch_deloitte_jobs(base_url, db, company_id):
             
             if (i + 1) % 10 == 0:
                 print(f"  Page {i+1}/{pages}: {len(jobs)} total, {new_found} new", flush=True)
-                # Save progress
                 db["companies"][company_id] = jobs
                 save_db(db)
             
-            time.sleep(0.2)  # Be polite
+            time.sleep(0.2)
             
         except Exception as e:
             print(f"  Error page {i}: {e}", flush=True)
             continue
     
-    # Final save
     db["companies"][company_id] = jobs
     save_db(db)
     
@@ -115,6 +115,114 @@ def fetch_deloitte_jobs(base_url, db, company_id):
     return jobs, new_found
 
 
+# =============================================================================
+# CISCO FETCHER (Playwright - JS rendered)
+# =============================================================================
+def fetch_cisco_jobs(base_url, db, company_id):
+    """Fetch Cisco jobs using Playwright (JS rendered page)."""
+    from playwright.sync_api import sync_playwright
+    
+    jobs = db["companies"].get(company_id, {})
+    per_page = 10
+    
+    print("Launching browser...", flush=True)
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        
+        # Get total count - use proper URL with ?
+        first_url = f"{base_url}?from=0"
+        print(f"Loading {first_url}...", flush=True)
+        page.goto(first_url, wait_until='networkidle', timeout=60000)
+        page.wait_for_timeout(2000)  # Wait for dynamic content
+        
+        try:
+            count_el = page.locator('text=/\\d+ results/i').first
+            count_text = count_el.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+        except:
+            total = 500
+        
+        pages = (total // per_page) + 1
+        print(f"Total: {total} jobs, {pages} pages", flush=True)
+        
+        new_found = 0
+        for i in range(pages):
+            offset = i * per_page
+            url = f"{base_url}?from={offset}"
+            
+            try:
+                page.goto(url, wait_until='networkidle', timeout=30000)
+                page.wait_for_timeout(1000)  # Wait for JS
+                
+                links = page.locator('a[href*="/job/"]').all()
+                
+                for link in links:
+                    try:
+                        href = link.get_attribute('href') or ''
+                        title = link.inner_text().strip()
+                        
+                        if '/job/' in href and title:
+                            if not href.startswith('http'):
+                                href = f"https://careers.cisco.com{href}"
+                            
+                            job_id = extract_job_id(href)
+                            
+                            if job_id not in jobs:
+                                jobs[job_id] = {
+                                    "id": job_id,
+                                    "title": title,
+                                    "url": href,
+                                    "firstSeen": datetime.now().isoformat()
+                                }
+                                new_found += 1
+                    except:
+                        continue
+                
+                if (i + 1) % 10 == 0:
+                    print(f"  Page {i+1}/{pages}: {len(jobs)} total, {new_found} new", flush=True)
+                    db["companies"][company_id] = jobs
+                    save_db(db)
+                
+            except Exception as e:
+                print(f"  Error page {i}: {e}", flush=True)
+                continue
+        
+        browser.close()
+    
+    db["companies"][company_id] = jobs
+    save_db(db)
+    
+    print(f"Done: {len(jobs)} total jobs", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# COMPANY ROUTER
+# =============================================================================
+FETCHERS = {
+    "deloitte": fetch_deloitte_jobs,
+    "cisco": fetch_cisco_jobs,
+}
+
+
+def fetch_jobs(company, db):
+    """Route to appropriate fetcher based on company ID."""
+    company_id = company["id"]
+    fetcher = FETCHERS.get(company_id)
+    
+    if fetcher:
+        return fetcher(company["url"], db, company_id)
+    else:
+        print(f"  ⚠️ No fetcher for {company_id}, skipping.", flush=True)
+        return {}, 0
+
+
+# =============================================================================
+# MAIN
+# =============================================================================
 def main(target_company=None):
     """
     Run scanner. If target_company specified, only scan that company.
@@ -150,7 +258,7 @@ def main(target_company=None):
         stored_count = len(db["companies"].get(company_id, {}))
         is_baseline = stored_count == 0
         
-        jobs, new_count = fetch_deloitte_jobs(company["url"], db, company_id)
+        jobs, new_count = fetch_jobs(company, db)
         
         # Find relevant new jobs
         target_roles = config["targetRoles"]

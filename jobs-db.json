@@ -4321,7 +4321,2949 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Oracle-Cloud-Security-Senior-Consultant/300662",
         "firstSeen": "2026-02-28T00:40:18.866362"
       }
+    },
+    "cisco": {
+      "2000802": {
+        "id": "2000802",
+        "title": "Distinguished Engineer - Spark Infrastructure Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2000802/Distinguished-Engineer-Spark-Infrastructure-Architecture",
+        "firstSeen": "2026-02-28T15:53:08.388744"
+      },
+      "2008049": {
+        "id": "2008049",
+        "title": "Business Analyst (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008049/Business-Analyst-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:08.394371"
+      },
+      "2000797": {
+        "id": "2000797",
+        "title": "Distinguished Engineer - AI Infrastructure Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2000797/Distinguished-Engineer-AI-Infrastructure-Architecture",
+        "firstSeen": "2026-02-28T15:53:08.399087"
+      },
+      "2000081": {
+        "id": "2000081",
+        "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:08.403685"
+      },
+      "2000046": {
+        "id": "2000046",
+        "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000046/Software-Engineer-Backend-Platform-Systems-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:08.408822"
+      },
+      "2000090": {
+        "id": "2000090",
+        "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000090/Software-Engineer-Security-Automation-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:08.413019"
+      },
+      "2000087": {
+        "id": "2000087",
+        "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:08.416907"
+      },
+      "2000436": {
+        "id": "2000436",
+        "title": "Software Engineer Backend/Platform Systems I (Intern) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000436/Software-Engineer-Backend-Platform-Systems-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:08.420576"
+      },
+      "2000445": {
+        "id": "2000445",
+        "title": "Software Engineer Embedded/Network Systems I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000445/Software-Engineer-Embedded-Network-Systems-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:08.424392"
+      },
+      "2006280": {
+        "id": "2006280",
+        "title": "Leader, Sales - Splunk (Mid-Atlantic)",
+        "url": "https://careers.cisco.com/global/en/job/2006280/Leader-Sales-Splunk-Mid-Atlantic",
+        "firstSeen": "2026-02-28T15:53:08.428005"
+      },
+      "2005912": {
+        "id": "2005912",
+        "title": "Solutions Engineer, SLED, New York",
+        "url": "https://careers.cisco.com/global/en/job/2005912/Solutions-Engineer-SLED-New-York",
+        "firstSeen": "2026-02-28T15:53:13.900405"
+      },
+      "2001487": {
+        "id": "2001487",
+        "title": "Software Engineer Data/AI/Intelligent Systems PhD (Intern) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2001487/Software-Engineer-Data-AI-Intelligent-Systems-PhD-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:13.905550"
+      },
+      "2001164": {
+        "id": "2001164",
+        "title": "Software Engineer Security & Automation II (Intern) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2001164/Software-Engineer-Security-Automation-II-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:13.911018"
+      },
+      "2000137": {
+        "id": "2000137",
+        "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:13.915473"
+      },
+      "2000131": {
+        "id": "2000131",
+        "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:13.919765"
+      },
+      "2006179": {
+        "id": "2006179",
+        "title": "Observability Sales Specialist (US - Northeast)",
+        "url": "https://careers.cisco.com/global/en/job/2006179/Observability-Sales-Specialist-US-Northeast",
+        "firstSeen": "2026-02-28T15:53:13.923980"
+      },
+      "2002160": {
+        "id": "2002160",
+        "title": "Machine Learning Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002160/Machine-Learning-Engineer",
+        "firstSeen": "2026-02-28T15:53:13.928198"
+      },
+      "2005470": {
+        "id": "2005470",
+        "title": "Sales Business Development Manager - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2005470/Sales-Business-Development-Manager-Splunk-Remote",
+        "firstSeen": "2026-02-28T15:53:13.931972"
+      },
+      "2009332": {
+        "id": "2009332",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2009332/Account-Executive-Portfolio",
+        "firstSeen": "2026-02-28T15:53:13.935681"
+      },
+      "2002679": {
+        "id": "2002679",
+        "title": "Executive Assistant, VP, Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2002679/Executive-Assistant-VP-Engineering",
+        "firstSeen": "2026-02-28T15:53:13.939224"
+      },
+      "2000135": {
+        "id": "2000135",
+        "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:18.604754"
+      },
+      "2000127": {
+        "id": "2000127",
+        "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:18.611533"
+      },
+      "2003603": {
+        "id": "2003603",
+        "title": "Lead, Security Partner GTM Solutions and Programs",
+        "url": "https://careers.cisco.com/global/en/job/2003603/Lead-Security-Partner-GTM-Solutions-and-Programs",
+        "firstSeen": "2026-02-28T15:53:18.616088"
+      },
+      "2002860": {
+        "id": "2002860",
+        "title": "Manager, Isovalent & Hypershield Customer Success",
+        "url": "https://careers.cisco.com/global/en/job/2002860/Manager-Isovalent-Hypershield-Customer-Success",
+        "firstSeen": "2026-02-28T15:53:18.620184"
+      },
+      "2003415": {
+        "id": "2003415",
+        "title": "Senior Customer Success Architect",
+        "url": "https://careers.cisco.com/global/en/job/2003415/Senior-Customer-Success-Architect",
+        "firstSeen": "2026-02-28T15:53:18.624380"
+      },
+      "2008510": {
+        "id": "2008510",
+        "title": "Pre-Sales Solutions Engineer - Commercial NYC",
+        "url": "https://careers.cisco.com/global/en/job/2008510/Pre-Sales-Solutions-Engineer-Commercial-NYC",
+        "firstSeen": "2026-02-28T15:53:18.628344"
+      },
+      "2009511": {
+        "id": "2009511",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009511/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:53:18.631996"
+      },
+      "2000073": {
+        "id": "2000073",
+        "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:18.635511"
+      },
+      "2004562": {
+        "id": "2004562",
+        "title": "Software Engineer Embedded/Network Systems I (Co-Op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2004562/Software-Engineer-Embedded-Network-Systems-I-Co-Op-United-States",
+        "firstSeen": "2026-02-28T15:53:18.638899"
+      },
+      "2000123": {
+        "id": "2000123",
+        "title": "Software Engineer Security & Automation I (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2000123/Software-Engineer-Security-Automation-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:18.642893"
+      },
+      "2005790": {
+        "id": "2005790",
+        "title": "Partner Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2005790/Partner-Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:53:23.214313"
+      },
+      "2004472": {
+        "id": "2004472",
+        "title": "Senior Optical Packaging Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004472/Senior-Optical-Packaging-Engineer",
+        "firstSeen": "2026-02-28T15:53:23.219332"
+      },
+      "1444076": {
+        "id": "1444076",
+        "title": "Principal DSP Engineer \u2013 Coherent Optical Transmission Systems - Acacia (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/1444076/Principal-DSP-Engineer-Coherent-Optical-Transmission-Systems-Acacia-Remote",
+        "firstSeen": "2026-02-28T15:53:23.224210"
+      },
+      "2002562": {
+        "id": "2002562",
+        "title": "Integrated Photonics Technical Leader - Acacia (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2002562/Integrated-Photonics-Technical-Leader-Acacia-Onsite",
+        "firstSeen": "2026-02-28T15:53:23.228829"
+      },
+      "2001596": {
+        "id": "2001596",
+        "title": "Test Development Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2001596/Test-Development-Engineer",
+        "firstSeen": "2026-02-28T15:53:23.232929"
+      },
+      "1448271": {
+        "id": "1448271",
+        "title": "Wafer Fab Product Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1448271/Wafer-Fab-Product-Engineer-Hybrid",
+        "firstSeen": "2026-02-28T15:53:23.236970"
+      },
+      "2004856": {
+        "id": "2004856",
+        "title": "Software Engineer I (Co-op) United States",
+        "url": "https://careers.cisco.com/global/en/job/2004856/Software-Engineer-I-Co-op-United-States",
+        "firstSeen": "2026-02-28T15:53:23.241078"
+      },
+      "2001465": {
+        "id": "2001465",
+        "title": "Test Automation Engineer - Acacia (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2001465/Test-Automation-Engineer-Acacia-Onsite",
+        "firstSeen": "2026-02-28T15:53:23.244880"
+      },
+      "2003590": {
+        "id": "2003590",
+        "title": "Software Engineering Technical Leader - Acacia (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2003590/Software-Engineering-Technical-Leader-Acacia-Onsite",
+        "firstSeen": "2026-02-28T15:53:23.248520"
+      },
+      "1450611": {
+        "id": "1450611",
+        "title": "Power Design Hardware Engineer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1450611/Power-Design-Hardware-Engineer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:23.252015"
+      },
+      "2000918": {
+        "id": "2000918",
+        "title": "Technical Marketing Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2000918/Technical-Marketing-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:53:28.030186"
+      },
+      "2000435": {
+        "id": "2000435",
+        "title": "Hardware FPGA Design Engineer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2000435/Hardware-FPGA-Design-Engineer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:28.035208"
+      },
+      "2008904": {
+        "id": "2008904",
+        "title": "Senior ASIC Physical Design Engineer - Maynard, MA or Austin, TX",
+        "url": "https://careers.cisco.com/global/en/job/2008904/Senior-ASIC-Physical-Design-Engineer-Maynard-MA-or-Austin-TX",
+        "firstSeen": "2026-02-28T15:53:28.040056"
+      },
+      "2006088": {
+        "id": "2006088",
+        "title": "Physcial Design Engineer I (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2006088/Physcial-Design-Engineer-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:28.044844"
+      },
+      "2001069": {
+        "id": "2001069",
+        "title": "Optics Engineer I (Co-Op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001069/Optics-Engineer-I-Co-Op-United-States",
+        "firstSeen": "2026-02-28T15:53:28.049047"
+      },
+      "2002084": {
+        "id": "2002084",
+        "title": "ASIC Verification Engineer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2002084/ASIC-Verification-Engineer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:28.053013"
+      },
+      "2000886": {
+        "id": "2000886",
+        "title": "Engineering Program Manager, Acacia (onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2000886/Engineering-Program-Manager-Acacia-onsite",
+        "firstSeen": "2026-02-28T15:53:28.057136"
+      },
+      "2004788": {
+        "id": "2004788",
+        "title": "Quality Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2004788/Quality-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:53:28.061038"
+      },
+      "1450508": {
+        "id": "1450508",
+        "title": "NPI Supply Chain Program Manager (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1450508/NPI-Supply-Chain-Program-Manager-Hybrid",
+        "firstSeen": "2026-02-28T15:53:28.064955"
+      },
+      "2003045": {
+        "id": "2003045",
+        "title": "Business Architect- Supply Chain",
+        "url": "https://careers.cisco.com/global/en/job/2003045/Business-Architect-Supply-Chain",
+        "firstSeen": "2026-02-28T15:53:28.068642"
+      },
+      "1452082": {
+        "id": "1452082",
+        "title": "Systems Application Engineer (Acacia - Optical Communications)",
+        "url": "https://careers.cisco.com/global/en/job/1452082/Systems-Application-Engineer-Acacia-Optical-Communications",
+        "firstSeen": "2026-02-28T15:53:32.721234"
+      },
+      "2003588": {
+        "id": "2003588",
+        "title": "Software Engineering Technical Leader - Acacia (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2003588/Software-Engineering-Technical-Leader-Acacia-Onsite",
+        "firstSeen": "2026-02-28T15:53:32.726426"
+      },
+      "2001068": {
+        "id": "2001068",
+        "title": "ASIC Design Verification Engineer II (Co-Op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001068/ASIC-Design-Verification-Engineer-II-Co-Op-United-States",
+        "firstSeen": "2026-02-28T15:53:32.731190"
+      },
+      "2001867": {
+        "id": "2001867",
+        "title": "ASIC Design Verification Engineer I Intern - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001867/ASIC-Design-Verification-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:32.735653"
+      },
+      "2006070": {
+        "id": "2006070",
+        "title": "Software Engineer II (Co-op) United States",
+        "url": "https://careers.cisco.com/global/en/job/2006070/Software-Engineer-II-Co-op-United-States",
+        "firstSeen": "2026-02-28T15:53:32.739959"
+      },
+      "2000528": {
+        "id": "2000528",
+        "title": "Systems Quality Assurance I (Co-Op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000528/Systems-Quality-Assurance-I-Co-Op-United-States",
+        "firstSeen": "2026-02-28T15:53:32.744087"
+      },
+      "2004748": {
+        "id": "2004748",
+        "title": "Product Lifecycle New Product Project Manager Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2004748/Product-Lifecycle-New-Product-Project-Manager-Hybrid",
+        "firstSeen": "2026-02-28T15:53:32.747986"
+      },
+      "2001088": {
+        "id": "2001088",
+        "title": "Regulatory & Trade Compliance Program Manager",
+        "url": "https://careers.cisco.com/global/en/job/2001088/Regulatory-Trade-Compliance-Program-Manager",
+        "firstSeen": "2026-02-28T15:53:32.751627"
+      },
+      "2004060": {
+        "id": "2004060",
+        "title": "Senior Staff Product Manger - Identity & Access Management",
+        "url": "https://careers.cisco.com/global/en/job/2004060/Senior-Staff-Product-Manger-Identity-Access-Management",
+        "firstSeen": "2026-02-28T15:53:32.755279"
+      },
+      "2007892": {
+        "id": "2007892",
+        "title": "Leader, Sales Splunk Federal - Navy, Marines",
+        "url": "https://careers.cisco.com/global/en/job/2007892/Leader-Sales-Splunk-Federal-Navy-Marines",
+        "firstSeen": "2026-02-28T15:53:32.759071"
+      },
+      "2004973": {
+        "id": "2004973",
+        "title": "Leader, Product Management Coherent Optics - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2004973/Leader-Product-Management-Coherent-Optics-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:37.421625"
+      },
+      "2004107": {
+        "id": "2004107",
+        "title": "Senior Vulnerability Management Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004107/Senior-Vulnerability-Management-Engineer",
+        "firstSeen": "2026-02-28T15:53:37.427857"
+      },
+      "2004058": {
+        "id": "2004058",
+        "title": "Senior Staff Engineering Product Manager",
+        "url": "https://careers.cisco.com/global/en/job/2004058/Senior-Staff-Engineering-Product-Manager",
+        "firstSeen": "2026-02-28T15:53:37.432331"
+      },
+      "2001608": {
+        "id": "2001608",
+        "title": "AI Researcher",
+        "url": "https://careers.cisco.com/global/en/job/2001608/AI-Researcher",
+        "firstSeen": "2026-02-28T15:53:37.436380"
+      },
+      "2003192": {
+        "id": "2003192",
+        "title": "Senior Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003192/Senior-Design-Engineer",
+        "firstSeen": "2026-02-28T15:53:37.440874"
+      },
+      "2000113": {
+        "id": "2000113",
+        "title": "Hardware Engineer I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000113/Hardware-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:37.444660"
+      },
+      "2003189": {
+        "id": "2003189",
+        "title": "Senior Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003189/Senior-Design-Engineer",
+        "firstSeen": "2026-02-28T15:53:37.448253"
+      },
+      "2008529": {
+        "id": "2008529",
+        "title": "Leader, Sales",
+        "url": "https://careers.cisco.com/global/en/job/2008529/Leader-Sales",
+        "firstSeen": "2026-02-28T15:53:37.451807"
+      },
+      "1447815": {
+        "id": "1447815",
+        "title": "Sales Business Development Manager-Federal Program",
+        "url": "https://careers.cisco.com/global/en/job/1447815/Sales-Business-Development-Manager-Federal-Program",
+        "firstSeen": "2026-02-28T15:53:37.455289"
+      },
+      "2005375": {
+        "id": "2005375",
+        "title": "Account Executive - Splunk Federal Civilian - Treasury",
+        "url": "https://careers.cisco.com/global/en/job/2005375/Account-Executive-Splunk-Federal-Civilian-Treasury",
+        "firstSeen": "2026-02-28T15:53:37.458961"
+      },
+      "2003771": {
+        "id": "2003771",
+        "title": "Leader, Engineering Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2003771/Leader-Engineering-Hybrid",
+        "firstSeen": "2026-02-28T15:53:42.097886"
+      },
+      "2004812": {
+        "id": "2004812",
+        "title": "Account Executive - Splunk Federal Civil Acct",
+        "url": "https://careers.cisco.com/global/en/job/2004812/Account-Executive-Splunk-Federal-Civil-Acct",
+        "firstSeen": "2026-02-28T15:53:42.102965"
+      },
+      "2005802": {
+        "id": "2005802",
+        "title": "Account Executive - Splunk Commercial - Remote",
+        "url": "https://careers.cisco.com/global/en/job/2005802/Account-Executive-Splunk-Commercial-Remote",
+        "firstSeen": "2026-02-28T15:53:42.107694"
+      },
+      "2007336": {
+        "id": "2007336",
+        "title": "Account Executive - Splunk Federal Defense",
+        "url": "https://careers.cisco.com/global/en/job/2007336/Account-Executive-Splunk-Federal-Defense",
+        "firstSeen": "2026-02-28T15:53:42.112210"
+      },
+      "2003011": {
+        "id": "2003011",
+        "title": "Solutions Engineer - Splunk Federal Accounts(REMOTE)",
+        "url": "https://careers.cisco.com/global/en/job/2003011/Solutions-Engineer-Splunk-Federal-Accounts-REMOTE",
+        "firstSeen": "2026-02-28T15:53:42.116424"
+      },
+      "2009310": {
+        "id": "2009310",
+        "title": "Director, Sales - Splunk Federal Defense",
+        "url": "https://careers.cisco.com/global/en/job/2009310/Director-Sales-Splunk-Federal-Defense",
+        "firstSeen": "2026-02-28T15:53:42.120352"
+      },
+      "2001098": {
+        "id": "2001098",
+        "title": "Customer Delivery Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2001098/Customer-Delivery-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:53:42.124245"
+      },
+      "2006195": {
+        "id": "2006195",
+        "title": "2006195 Customer Delivery Technical Leader- Collaboration",
+        "url": "https://careers.cisco.com/global/en/job/2006195/2006195-Customer-Delivery-Technical-Leader-Collaboration",
+        "firstSeen": "2026-02-28T15:53:42.127964"
+      },
+      "2000560": {
+        "id": "2000560",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2000560/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:53:42.131552"
+      },
+      "2007003": {
+        "id": "2007003",
+        "title": "Software Engineer I (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2007003/Software-Engineer-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:42.134996"
+      },
+      "1451971": {
+        "id": "1451971",
+        "title": "Account Executive",
+        "url": "https://careers.cisco.com/global/en/job/1451971/Account-Executive",
+        "firstSeen": "2026-02-28T15:53:46.741950"
+      },
+      "2003838": {
+        "id": "2003838",
+        "title": "Engineering Manager - Observability Platforms (Remote/Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2003838/Engineering-Manager-Observability-Platforms-Remote-Hybrid",
+        "firstSeen": "2026-02-28T15:53:46.746998"
+      },
+      "2000676": {
+        "id": "2000676",
+        "title": "Sales Development Representative II (Full Time) United States",
+        "url": "https://careers.cisco.com/global/en/job/2000676/Sales-Development-Representative-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:46.751773"
+      },
+      "2006174": {
+        "id": "2006174",
+        "title": "Account Executive - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2006174/Account-Executive-Splunk",
+        "firstSeen": "2026-02-28T15:53:46.756543"
+      },
+      "2000756": {
+        "id": "2000756",
+        "title": "Application Platform Staff Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2000756/Application-Platform-Staff-Engineer",
+        "firstSeen": "2026-02-28T15:53:46.760766"
+      },
+      "1441217": {
+        "id": "1441217",
+        "title": "1441217 Customer Delivery Consulting Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1441217/1441217-Customer-Delivery-Consulting-Engineer",
+        "firstSeen": "2026-02-28T15:53:46.764843"
+      },
+      "2001576": {
+        "id": "2001576",
+        "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:46.768744"
+      },
+      "1444179": {
+        "id": "1444179",
+        "title": "1444179 Customer Delivery Consulting Engineer - Security",
+        "url": "https://careers.cisco.com/global/en/job/1444179/1444179-Customer-Delivery-Consulting-Engineer-Security",
+        "firstSeen": "2026-02-28T15:53:46.772769"
+      },
+      "2000876": {
+        "id": "2000876",
+        "title": "D\u00e9veloppeur logiciels I (stagiaire) - Canada / Software Developer I (Co-op) - Canada",
+        "url": "https://careers.cisco.com/global/en/job/2000876/D\u00e9veloppeur-logiciels-I-stagiaire-Canada-Software-Developer-I-Co-op-Canada",
+        "firstSeen": "2026-02-28T15:53:46.776447"
+      },
+      "2008506": {
+        "id": "2008506",
+        "title": "Inside Account Executive - Networking (Canada)",
+        "url": "https://careers.cisco.com/global/en/job/2008506/Inside-Account-Executive-Networking-Canada",
+        "firstSeen": "2026-02-28T15:53:46.779915"
+      },
+      "2008526": {
+        "id": "2008526",
+        "title": "Account Executive - Public Sector Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2008526/Account-Executive-Public-Sector-Portfolio",
+        "firstSeen": "2026-02-28T15:53:51.391870"
+      },
+      "2001072": {
+        "id": "2001072",
+        "title": "D\u00e9veloppeur logiciels II (\u00e0 temps plein) \u2013 Canada/Software Developer II (Full Time) \u2013 Canada",
+        "url": "https://careers.cisco.com/global/en/job/2001072/D\u00e9veloppeur-logiciels-II-\u00e0-temps-plein-Canada-Software-Developer-II-Full-Time-Canada",
+        "firstSeen": "2026-02-28T15:53:51.397325"
+      },
+      "2001076": {
+        "id": "2001076",
+        "title": "D\u00e9veloppeur logiciels I (\u00e0 temps plein) - Canada/Software Developer I (full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2001076/D\u00e9veloppeur-logiciels-I-\u00e0-temps-plein-Canada-Software-Developer-I-full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:51.402191"
+      },
+      "2009630": {
+        "id": "2009630",
+        "title": "Inside Account Executive - CAI Canada",
+        "url": "https://careers.cisco.com/global/en/job/2009630/Inside-Account-Executive-CAI-Canada",
+        "firstSeen": "2026-02-28T15:53:51.406776"
+      },
+      "2001523": {
+        "id": "2001523",
+        "title": "Analog/Mixed-signal Sustaining IC Design Developer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2001523/Analog-Mixed-signal-Sustaining-IC-Design-Developer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:51.411259"
+      },
+      "2007158": {
+        "id": "2007158",
+        "title": "AI Developer",
+        "url": "https://careers.cisco.com/global/en/job/2007158/AI-Developer",
+        "firstSeen": "2026-02-28T15:53:51.415281"
+      },
+      "2007032": {
+        "id": "2007032",
+        "title": "AI Development Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007032/AI-Development-Technical-Leader",
+        "firstSeen": "2026-02-28T15:53:51.419279"
+      },
+      "2007899": {
+        "id": "2007899",
+        "title": "Senior Software Developer - Cisco 8000 SDK",
+        "url": "https://careers.cisco.com/global/en/job/2007899/Senior-Software-Developer-Cisco-8000-SDK",
+        "firstSeen": "2026-02-28T15:53:51.423741"
+      },
+      "1440299": {
+        "id": "1440299",
+        "title": "French-Canadian / English - Principal DSP Developer \u2013 Coherent Optical Transmission Systems - Acacia (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/1440299/French-Canadian-English-Principal-DSP-Developer-Coherent-Optical-Transmission-Systems-Acacia-Remote",
+        "firstSeen": "2026-02-28T15:53:51.427399"
+      },
+      "2009553": {
+        "id": "2009553",
+        "title": "Software Developer (Intern) I - Canada",
+        "url": "https://careers.cisco.com/global/en/job/2009553/Software-Developer-Intern-I-Canada",
+        "firstSeen": "2026-02-28T15:53:51.431020"
+      },
+      "2006007": {
+        "id": "2006007",
+        "title": "Analog/mixed-signal IC Developer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2006007/Analog-mixed-signal-IC-Developer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:56.081757"
+      },
+      "2006005": {
+        "id": "2006005",
+        "title": "Senior Analog/mixed-signal IC Developer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2006005/Senior-Analog-mixed-signal-IC-Developer-Acacia-Hybrid",
+        "firstSeen": "2026-02-28T15:53:56.086765"
+      },
+      "2009159": {
+        "id": "2009159",
+        "title": "Solutions Engineer- ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2009159/Solutions-Engineer-ThousandEyes",
+        "firstSeen": "2026-02-28T15:53:56.091493"
+      },
+      "2005272": {
+        "id": "2005272",
+        "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+        "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+        "firstSeen": "2026-02-28T15:53:56.095734"
+      },
+      "2008512": {
+        "id": "2008512",
+        "title": "Security Research Engineer I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008512/Security-Research-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:56.099852"
+      },
+      "2009883": {
+        "id": "2009883",
+        "title": "Product Marketing Manager MBA (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2009883/Product-Marketing-Manager-MBA-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:56.103812"
+      },
+      "2007170": {
+        "id": "2007170",
+        "title": "Software Engineer I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2007170/Software-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:56.107850"
+      },
+      "2003066": {
+        "id": "2003066",
+        "title": "Site Reliability Engineer II (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2003066/Site-Reliability-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:56.111606"
+      },
+      "2000142": {
+        "id": "2000142",
+        "title": "Mechanical Engineer II (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000142/Mechanical-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:53:56.115194"
+      },
+      "2006085": {
+        "id": "2006085",
+        "title": "Product Management MBA (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2006085/Product-Management-MBA-Intern-United-States",
+        "firstSeen": "2026-02-28T15:53:56.118716"
+      },
+      "2010189": {
+        "id": "2010189",
+        "title": "Internet Measurement Researcher PhD (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2010189/Internet-Measurement-Researcher-PhD-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:00.756795"
+      },
+      "2002463": {
+        "id": "2002463",
+        "title": "Critical Accounts Manager MBA (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2002463/Critical-Accounts-Manager-MBA-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:00.761929"
+      },
+      "2002838": {
+        "id": "2002838",
+        "title": "Software QA Engineer II (Full Time) \u2013 United States",
+        "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:00.766737"
+      },
+      "2000128": {
+        "id": "2000128",
+        "title": "Hardware Engineer II (Co-op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000128/Hardware-Engineer-II-Co-op-United-States",
+        "firstSeen": "2026-02-28T15:54:00.771376"
+      },
+      "2000041": {
+        "id": "2000041",
+        "title": "Hardware Engineer I (Co-op) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000041/Hardware-Engineer-I-Co-op-United-States",
+        "firstSeen": "2026-02-28T15:54:00.775560"
+      },
+      "1449674": {
+        "id": "1449674",
+        "title": "Software Engineer (hybrid) - 1449674",
+        "url": "https://careers.cisco.com/global/en/job/1449674/Software-Engineer-hybrid-1449674",
+        "firstSeen": "2026-02-28T15:54:00.779658"
+      },
+      "2005209": {
+        "id": "2005209",
+        "title": "Software Engineering Technical Leader - Silicon One Customer Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2005209/Software-Engineering-Technical-Leader-Silicon-One-Customer-Engineering",
+        "firstSeen": "2026-02-28T15:54:00.783563"
+      },
+      "1449752": {
+        "id": "1449752",
+        "title": "Business System Analyst \u2013 Supply Chain Finance (hybrid) - 1449752",
+        "url": "https://careers.cisco.com/global/en/job/1449752/Business-System-Analyst-Supply-Chain-Finance-hybrid-1449752",
+        "firstSeen": "2026-02-28T15:54:00.787877"
+      },
+      "2005808": {
+        "id": "2005808",
+        "title": "Site Reliability Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005808/Site-Reliability-Engineer",
+        "firstSeen": "2026-02-28T15:54:00.791522"
+      },
+      "1450616": {
+        "id": "1450616",
+        "title": "Business Systems Analyst (hybrid) 1450616",
+        "url": "https://careers.cisco.com/global/en/job/1450616/Business-Systems-Analyst-hybrid-1450616",
+        "firstSeen": "2026-02-28T15:54:00.794955"
+      },
+      "2001548": {
+        "id": "2001548",
+        "title": "Customer Delivery Engineering Technical Leader (Cloud and Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2001548/Customer-Delivery-Engineering-Technical-Leader-Cloud-and-Remote",
+        "firstSeen": "2026-02-28T15:54:05.373781"
+      },
+      "2007039": {
+        "id": "2007039",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007039/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:05.379030"
+      },
+      "2003094": {
+        "id": "2003094",
+        "title": "Senior Staff Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003094/Senior-Staff-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:05.383700"
+      },
+      "2003743": {
+        "id": "2003743",
+        "title": "Principal Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003743/Principal-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:05.388218"
+      },
+      "2005146": {
+        "id": "2005146",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005146/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:05.392689"
+      },
+      "2007764": {
+        "id": "2007764",
+        "title": "Product Management Engineer II (Full Time)- United States",
+        "url": "https://careers.cisco.com/global/en/job/2007764/Product-Management-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:05.396508"
+      },
+      "2005518": {
+        "id": "2005518",
+        "title": "AR Operations Analytics & Cash Forecasting Manager",
+        "url": "https://careers.cisco.com/global/en/job/2005518/AR-Operations-Analytics-Cash-Forecasting-Manager",
+        "firstSeen": "2026-02-28T15:54:05.400359"
+      },
+      "2008084": {
+        "id": "2008084",
+        "title": "DevOps Engineer II (Full-Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:05.404235"
+      },
+      "2008175": {
+        "id": "2008175",
+        "title": "Technical Scrum Master II (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008175/Technical-Scrum-Master-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:05.408046"
+      },
+      "2009479": {
+        "id": "2009479",
+        "title": "Leader, Inside Sales GVSE",
+        "url": "https://careers.cisco.com/global/en/job/2009479/Leader-Inside-Sales-GVSE",
+        "firstSeen": "2026-02-28T15:54:05.411631"
+      },
+      "2002913": {
+        "id": "2002913",
+        "title": "Business Systems Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2002913/Business-Systems-Analyst",
+        "firstSeen": "2026-02-28T15:54:09.921815"
+      },
+      "2000247": {
+        "id": "2000247",
+        "title": "Project Specialist I (Intern) United States",
+        "url": "https://careers.cisco.com/global/en/job/2000247/Project-Specialist-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:09.928379"
+      },
+      "2001849": {
+        "id": "2001849",
+        "title": "Data Engineer II (Full Time) United States",
+        "url": "https://careers.cisco.com/global/en/job/2001849/Data-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:09.933183"
+      },
+      "2001887": {
+        "id": "2001887",
+        "title": "Account Development Representative II (Full Time) United States",
+        "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:09.937515"
+      },
+      "2008430": {
+        "id": "2008430",
+        "title": "Customer Experience Product Management Specialist I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008430/Customer-Experience-Product-Management-Specialist-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:09.941790"
+      },
+      "1448624": {
+        "id": "1448624",
+        "title": "AI Infrastructure Site Reliability Engineer (remote USA)",
+        "url": "https://careers.cisco.com/global/en/job/1448624/AI-Infrastructure-Site-Reliability-Engineer-remote-USA",
+        "firstSeen": "2026-02-28T15:54:09.945901"
+      },
+      "2002684": {
+        "id": "2002684",
+        "title": "Business Systems Analyst - Partner Incentives",
+        "url": "https://careers.cisco.com/global/en/job/2002684/Business-Systems-Analyst-Partner-Incentives",
+        "firstSeen": "2026-02-28T15:54:09.949731"
+      },
+      "2002809": {
+        "id": "2002809",
+        "title": "Technical Product Owner",
+        "url": "https://careers.cisco.com/global/en/job/2002809/Technical-Product-Owner",
+        "firstSeen": "2026-02-28T15:54:09.954828"
+      },
+      "1450507": {
+        "id": "1450507",
+        "title": "Director, Technical Systems Engineering",
+        "url": "https://careers.cisco.com/global/en/job/1450507/Director-Technical-Systems-Engineering",
+        "firstSeen": "2026-02-28T15:54:09.958513"
+      },
+      "1449824": {
+        "id": "1449824",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1449824/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:09.962120"
+      },
+      "1450309": {
+        "id": "1450309",
+        "title": "Business Architect",
+        "url": "https://careers.cisco.com/global/en/job/1450309/Business-Architect",
+        "firstSeen": "2026-02-28T15:54:14.566908"
+      },
+      "2002554": {
+        "id": "2002554",
+        "title": "Technical Product Owner",
+        "url": "https://careers.cisco.com/global/en/job/2002554/Technical-Product-Owner",
+        "firstSeen": "2026-02-28T15:54:14.572015"
+      },
+      "1448462": {
+        "id": "1448462",
+        "title": "Software Engineer - Infrastructure",
+        "url": "https://careers.cisco.com/global/en/job/1448462/Software-Engineer-Infrastructure",
+        "firstSeen": "2026-02-28T15:54:14.576749"
+      },
+      "2003052": {
+        "id": "2003052",
+        "title": "Data Engineer I (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2003052/Data-Engineer-I-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:14.581312"
+      },
+      "2000417": {
+        "id": "2000417",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2000417/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:14.588063"
+      },
+      "2009089": {
+        "id": "2009089",
+        "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
+        "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
+        "firstSeen": "2026-02-28T15:54:14.594919"
+      },
+      "1451453": {
+        "id": "1451453",
+        "title": "Invoice to Cash Transformation Project Manager",
+        "url": "https://careers.cisco.com/global/en/job/1451453/Invoice-to-Cash-Transformation-Project-Manager",
+        "firstSeen": "2026-02-28T15:54:14.598851"
+      },
+      "2008652": {
+        "id": "2008652",
+        "title": "Solutions Engineer - Federal, USPS",
+        "url": "https://careers.cisco.com/global/en/job/2008652/Solutions-Engineer-Federal-USPS",
+        "firstSeen": "2026-02-28T15:54:14.602622"
+      },
+      "2008989": {
+        "id": "2008989",
+        "title": "Solutions Engineer (SE) - US Public Sector (USPS) - SASE, SD-WAN, and Routing",
+        "url": "https://careers.cisco.com/global/en/job/2008989/Solutions-Engineer-SE-US-Public-Sector-USPS-SASE-SD-WAN-and-Routing",
+        "firstSeen": "2026-02-28T15:54:14.606053"
+      },
+      "1443404": {
+        "id": "1443404",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1443404/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:14.611235"
+      },
+      "1443414": {
+        "id": "1443414",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1443414/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:19.228350"
+      },
+      "1448803": {
+        "id": "1448803",
+        "title": "Business Analyst - Supply Chain Planning",
+        "url": "https://careers.cisco.com/global/en/job/1448803/Business-Analyst-Supply-Chain-Planning",
+        "firstSeen": "2026-02-28T15:54:19.233748"
+      },
+      "2003746": {
+        "id": "2003746",
+        "title": "Senior Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003746/Senior-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:19.238507"
+      },
+      "2007345": {
+        "id": "2007345",
+        "title": "Customer Experience Customer Success Specialist (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2007345/Customer-Experience-Customer-Success-Specialist-Remote",
+        "firstSeen": "2026-02-28T15:54:19.242996"
+      },
+      "2002231": {
+        "id": "2002231",
+        "title": "Site Reliability Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002231/Site-Reliability-Engineer",
+        "firstSeen": "2026-02-28T15:54:19.247400"
+      },
+      "1448558": {
+        "id": "1448558",
+        "title": "Business System Architect (hybrid) - 1448558",
+        "url": "https://careers.cisco.com/global/en/job/1448558/Business-System-Architect-hybrid-1448558",
+        "firstSeen": "2026-02-28T15:54:19.251416"
+      },
+      "1449657": {
+        "id": "1449657",
+        "title": "Software Engineer - Snowflake & ERP (hybrid) - 1449657",
+        "url": "https://careers.cisco.com/global/en/job/1449657/Software-Engineer-Snowflake-ERP-hybrid-1449657",
+        "firstSeen": "2026-02-28T15:54:19.255267"
+      },
+      "2001527": {
+        "id": "2001527",
+        "title": "Software Engineer - Licensing Cloud Team",
+        "url": "https://careers.cisco.com/global/en/job/2001527/Software-Engineer-Licensing-Cloud-Team",
+        "firstSeen": "2026-02-28T15:54:19.258868"
+      },
+      "2002372": {
+        "id": "2002372",
+        "title": "Software Engineer \u2013 AI & Platform Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2002372/Software-Engineer-AI-Platform-Engineering",
+        "firstSeen": "2026-02-28T15:54:19.262676"
+      },
+      "2008044": {
+        "id": "2008044",
+        "title": "ASIC Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008044/ASIC-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:19.266335"
+      },
+      "2004002": {
+        "id": "2004002",
+        "title": "Sales Enablement Manager",
+        "url": "https://careers.cisco.com/global/en/job/2004002/Sales-Enablement-Manager",
+        "firstSeen": "2026-02-28T15:54:23.904595"
+      },
+      "2006542": {
+        "id": "2006542",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006542/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:23.910812"
+      },
+      "2007057": {
+        "id": "2007057",
+        "title": "Hardware Engineer II (Full Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2007057/Hardware-Engineer-II-Full-Time-United-States",
+        "firstSeen": "2026-02-28T15:54:23.915576"
+      },
+      "2001651": {
+        "id": "2001651",
+        "title": "Program Manager",
+        "url": "https://careers.cisco.com/global/en/job/2001651/Program-Manager",
+        "firstSeen": "2026-02-28T15:54:23.919925"
+      },
+      "2001622": {
+        "id": "2001622",
+        "title": "Product Manager - Lifecycle Innovation and Operations Remote",
+        "url": "https://careers.cisco.com/global/en/job/2001622/Product-Manager-Lifecycle-Innovation-and-Operations-Remote",
+        "firstSeen": "2026-02-28T15:54:23.924196"
+      },
+      "2000495": {
+        "id": "2000495",
+        "title": "Product Management Specialist I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000495/Product-Management-Specialist-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:23.928203"
+      },
+      "2008662": {
+        "id": "2008662",
+        "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+        "firstSeen": "2026-02-28T15:54:23.931968"
+      },
+      "2006286": {
+        "id": "2006286",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2006286/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:23.935615"
+      },
+      "2005032": {
+        "id": "2005032",
+        "title": "Software Engineer - Networking",
+        "url": "https://careers.cisco.com/global/en/job/2005032/Software-Engineer-Networking",
+        "firstSeen": "2026-02-28T15:54:23.939264"
+      },
+      "2000134": {
+        "id": "2000134",
+        "title": "Hardware Engineer II (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000134/Hardware-Engineer-II-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:23.942851"
+      },
+      "2001815": {
+        "id": "2001815",
+        "title": "Quality Assurance I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001815/Quality-Assurance-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:28.410470"
+      },
+      "2000136": {
+        "id": "2000136",
+        "title": "Hardware Engineer PhD (Co-op)- United States",
+        "url": "https://careers.cisco.com/global/en/job/2000136/Hardware-Engineer-PhD-Co-op-United-States",
+        "firstSeen": "2026-02-28T15:54:28.415806"
+      },
+      "2000258": {
+        "id": "2000258",
+        "title": "Quality Assurance I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000258/Quality-Assurance-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:28.420544"
+      },
+      "2001892": {
+        "id": "2001892",
+        "title": "Support Engineer I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2001892/Support-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:28.425093"
+      },
+      "1443405": {
+        "id": "1443405",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1443405/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:28.429216"
+      },
+      "1443403": {
+        "id": "1443403",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1443403/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:28.433375"
+      },
+      "2006534": {
+        "id": "2006534",
+        "title": "2006534 Finance Manager",
+        "url": "https://careers.cisco.com/global/en/job/2006534/2006534-Finance-Manager",
+        "firstSeen": "2026-02-28T15:54:28.437292"
+      },
+      "2005870": {
+        "id": "2005870",
+        "title": "Account Executive - Splunk, Prime accounts",
+        "url": "https://careers.cisco.com/global/en/job/2005870/Account-Executive-Splunk-Prime-accounts",
+        "firstSeen": "2026-02-28T15:54:28.441246"
+      },
+      "2008874": {
+        "id": "2008874",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008874/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:54:28.444957"
+      },
+      "2002126": {
+        "id": "2002126",
+        "title": "Account Executive - Splunk Commercial SLED (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2002126/Account-Executive-Splunk-Commercial-SLED-Remote",
+        "firstSeen": "2026-02-28T15:54:28.448464"
+      },
+      "2007347": {
+        "id": "2007347",
+        "title": "Lead Product Manager, AI - ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2007347/Lead-Product-Manager-AI-ThousandEyes",
+        "firstSeen": "2026-02-28T15:54:33.106147"
+      },
+      "1449512": {
+        "id": "1449512",
+        "title": "Manager, SRE FedRAMP-33539",
+        "url": "https://careers.cisco.com/global/en/job/1449512/Manager-SRE-FedRAMP-33539",
+        "firstSeen": "2026-02-28T15:54:33.111392"
+      },
+      "2003639": {
+        "id": "2003639",
+        "title": "Director, Product Management - AI Experiences",
+        "url": "https://careers.cisco.com/global/en/job/2003639/Director-Product-Management-AI-Experiences",
+        "firstSeen": "2026-02-28T15:54:33.115926"
+      },
+      "2007552": {
+        "id": "2007552",
+        "title": "Solutions Engineer - US Commercial - Milwaukee",
+        "url": "https://careers.cisco.com/global/en/job/2007552/Solutions-Engineer-US-Commercial-Milwaukee",
+        "firstSeen": "2026-02-28T15:54:33.120375"
+      },
+      "2001630": {
+        "id": "2001630",
+        "title": "Executive Desktop \"Technical Support Specialist G6",
+        "url": "https://careers.cisco.com/global/en/job/2001630/Executive-Desktop-\"Technical-Support-Specialist-G6",
+        "firstSeen": "2026-02-28T15:54:33.124573"
+      },
+      "2008651": {
+        "id": "2008651",
+        "title": "Account Executive Portfolio - GES - Miami",
+        "url": "https://careers.cisco.com/global/en/job/2008651/Account-Executive-Portfolio-GES-Miami",
+        "firstSeen": "2026-02-28T15:54:33.128540"
+      },
+      "2002378": {
+        "id": "2002378",
+        "title": "Solutions Engineer SLED - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2002378/Solutions-Engineer-SLED-Splunk-Remote",
+        "firstSeen": "2026-02-28T15:54:33.132373"
+      },
+      "2002557": {
+        "id": "2002557",
+        "title": "Cloud Partner Sales - Business Development Manager",
+        "url": "https://careers.cisco.com/global/en/job/2002557/Cloud-Partner-Sales-Business-Development-Manager",
+        "firstSeen": "2026-02-28T15:54:33.136042"
+      },
+      "2001507": {
+        "id": "2001507",
+        "title": "Apple Technical Advisor",
+        "url": "https://careers.cisco.com/global/en/job/2001507/Apple-Technical-Advisor",
+        "firstSeen": "2026-02-28T15:54:33.139632"
+      },
+      "2000917": {
+        "id": "2000917",
+        "title": "Interconnects Technical Sourcing Commodity Manager (Hybrid) 2000917",
+        "url": "https://careers.cisco.com/global/en/job/2000917/Interconnects-Technical-Sourcing-Commodity-Manager-Hybrid-2000917",
+        "firstSeen": "2026-02-28T15:54:33.143270"
+      },
+      "2006809": {
+        "id": "2006809",
+        "title": "Product Manager",
+        "url": "https://careers.cisco.com/global/en/job/2006809/Product-Manager",
+        "firstSeen": "2026-02-28T15:54:37.703327"
+      },
+      "2007505": {
+        "id": "2007505",
+        "title": "Hardware Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007505/Hardware-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:37.708245"
+      },
+      "2008988": {
+        "id": "2008988",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008988/Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:54:37.712804"
+      },
+      "2002609": {
+        "id": "2002609",
+        "title": "Business Systems Architect",
+        "url": "https://careers.cisco.com/global/en/job/2002609/Business-Systems-Architect",
+        "firstSeen": "2026-02-28T15:54:37.717073"
+      },
+      "2000905": {
+        "id": "2000905",
+        "title": "Interconnects Technical Sourcing Commodity Manager (Hybrid) 2000905",
+        "url": "https://careers.cisco.com/global/en/job/2000905/Interconnects-Technical-Sourcing-Commodity-Manager-Hybrid-2000905",
+        "firstSeen": "2026-02-28T15:54:37.721327"
+      },
+      "1449672": {
+        "id": "1449672",
+        "title": "Implementation Engineer | ThousandEyes - Federal",
+        "url": "https://careers.cisco.com/global/en/job/1449672/Implementation-Engineer-ThousandEyes-Federal",
+        "firstSeen": "2026-02-28T15:54:37.725521"
+      },
+      "2001816": {
+        "id": "2001816",
+        "title": "Head of Product Design, ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2001816/Head-of-Product-Design-ThousandEyes",
+        "firstSeen": "2026-02-28T15:54:37.729379"
+      },
+      "2006081": {
+        "id": "2006081",
+        "title": "Solutions Engineer - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2006081/Solutions-Engineer-Splunk-Remote",
+        "firstSeen": "2026-02-28T15:54:37.732967"
+      },
+      "2006405": {
+        "id": "2006405",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006405/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:54:37.736562"
+      },
+      "2007121": {
+        "id": "2007121",
+        "title": "Splunk Solutions Engineer Intern (Summer 2026)",
+        "url": "https://careers.cisco.com/global/en/job/2007121/Splunk-Solutions-Engineer-Intern-Summer-2026",
+        "firstSeen": "2026-02-28T15:54:37.740081"
+      },
+      "2003544": {
+        "id": "2003544",
+        "title": "User Experience I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2003544/User-Experience-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:42.232248"
+      },
+      "2007558": {
+        "id": "2007558",
+        "title": "Machine Learning Engineer Master's (Intern)- India Engineering/ Splunk / UHR",
+        "url": "https://careers.cisco.com/global/en/job/2007558/Machine-Learning-Engineer-Master's-Intern-India-Engineering-Splunk-UHR",
+        "firstSeen": "2026-02-28T15:54:42.237457"
+      },
+      "2008606": {
+        "id": "2008606",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008606/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:42.242802"
+      },
+      "2009613": {
+        "id": "2009613",
+        "title": "Graduate Project Manager/Specialist - Early in Career, Norway",
+        "url": "https://careers.cisco.com/global/en/job/2009613/Graduate-Project-Manager-Specialist-Early-in-Career-Norway",
+        "firstSeen": "2026-02-28T15:54:42.247129"
+      },
+      "1443836": {
+        "id": "1443836",
+        "title": "UI Engineer-( 8yrs to 11yrs)",
+        "url": "https://careers.cisco.com/global/en/job/1443836/UI-Engineer-8yrs-to-11yrs",
+        "firstSeen": "2026-02-28T15:54:42.251440"
+      },
+      "2000349": {
+        "id": "2000349",
+        "title": "Account Executive - Major Service Provider",
+        "url": "https://careers.cisco.com/global/en/job/2000349/Account-Executive-Major-Service-Provider",
+        "firstSeen": "2026-02-28T15:54:42.255688"
+      },
+      "2009046": {
+        "id": "2009046",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009046/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:42.259722"
+      },
+      "2008117": {
+        "id": "2008117",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008117/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:42.263504"
+      },
+      "2008141": {
+        "id": "2008141",
+        "title": "Software Engineer (C programming, Kernel, USD, Embedded, Telecom/Networking, ASIC forwarding| 8-12 Years)",
+        "url": "https://careers.cisco.com/global/en/job/2008141/Software-Engineer-C-programming-Kernel-USD-Embedded-Telecom-Networking-ASIC-forwarding-8-12-Years",
+        "firstSeen": "2026-02-28T15:54:42.267058"
+      },
+      "2008628": {
+        "id": "2008628",
+        "title": "Operations Project Specialist I (Intern) - Costa Rica",
+        "url": "https://careers.cisco.com/global/en/job/2008628/Operations-Project-Specialist-I-Intern-Costa-Rica",
+        "firstSeen": "2026-02-28T15:54:42.270470"
+      },
+      "2003531": {
+        "id": "2003531",
+        "title": "PHY System",
+        "url": "https://careers.cisco.com/global/en/job/2003531/PHY-System",
+        "firstSeen": "2026-02-28T15:54:46.815669"
+      },
+      "2003652": {
+        "id": "2003652",
+        "title": "Strategic Account Manager (PubSec)",
+        "url": "https://careers.cisco.com/global/en/job/2003652/Strategic-Account-Manager-PubSec",
+        "firstSeen": "2026-02-28T15:54:46.820344"
+      },
+      "2003667": {
+        "id": "2003667",
+        "title": "Performance Test Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003667/Performance-Test-Engineer",
+        "firstSeen": "2026-02-28T15:54:46.824919"
+      },
+      "2009500": {
+        "id": "2009500",
+        "title": "Solutions Engineer, Denmark",
+        "url": "https://careers.cisco.com/global/en/job/2009500/Solutions-Engineer-Denmark",
+        "firstSeen": "2026-02-28T15:54:46.829136"
+      },
+      "2008734": {
+        "id": "2008734",
+        "title": "Senior Signal and Power Integrity Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008734/Senior-Signal-and-Power-Integrity-Engineer",
+        "firstSeen": "2026-02-28T15:54:46.832945"
+      },
+      "2008629": {
+        "id": "2008629",
+        "title": "Software Engineer I (Intern) - Costa Rica",
+        "url": "https://careers.cisco.com/global/en/job/2008629/Software-Engineer-I-Intern-Costa-Rica",
+        "firstSeen": "2026-02-28T15:54:46.837750"
+      },
+      "2000454": {
+        "id": "2000454",
+        "title": "AI Machine Learning Engineer I (Intern) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2000454/AI-Machine-Learning-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:46.841595"
+      },
+      "2003956": {
+        "id": "2003956",
+        "title": "Software Developer",
+        "url": "https://careers.cisco.com/global/en/job/2003956/Software-Developer",
+        "firstSeen": "2026-02-28T15:54:46.845214"
+      },
+      "2004180": {
+        "id": "2004180",
+        "title": "Mechanical Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2004180/Mechanical-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:46.848794"
+      },
+      "1439714": {
+        "id": "1439714",
+        "title": "Senior Mechanical Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1439714/Senior-Mechanical-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:46.852229"
+      },
+      "2008009": {
+        "id": "2008009",
+        "title": "Financial Analyst - LIFT (Intern) - Krakow, Poland",
+        "url": "https://careers.cisco.com/global/en/job/2008009/Financial-Analyst-LIFT-Intern-Krakow-Poland",
+        "firstSeen": "2026-02-28T15:54:51.454417"
+      },
+      "2008259": {
+        "id": "2008259",
+        "title": "Test Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008259/Test-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:51.462029"
+      },
+      "2008348": {
+        "id": "2008348",
+        "title": "SDWAN Security Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008348/SDWAN-Security-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:51.479259"
+      },
+      "2008342": {
+        "id": "2008342",
+        "title": "Client Operations Delivery Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2008342/Client-Operations-Delivery-Analyst",
+        "firstSeen": "2026-02-28T15:54:51.483842"
+      },
+      "2004061": {
+        "id": "2004061",
+        "title": "Hardware Validation Engineer (SerDes/Optics/Electrical) (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2004061/Hardware-Validation-Engineer-SerDes-Optics-Electrical-Onsite",
+        "firstSeen": "2026-02-28T15:54:51.487745"
+      },
+      "1446104": {
+        "id": "1446104",
+        "title": "Senior Strategic Account Executive (\u5927\u624b\u65e2\u5b58\u30b0\u30eb\u30fc\u30d7\u4f01\u696d\u62c5\u5f53) - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/1446104/Senior-Strategic-Account-Executive-\u5927\u624b\u65e2\u5b58\u30b0\u30eb\u30fc\u30d7\u4f01\u696d\u62c5\u5f53-Splunk",
+        "firstSeen": "2026-02-28T15:54:51.492019"
+      },
+      "1450454": {
+        "id": "1450454",
+        "title": "Site Reliability Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1450454/Site-Reliability-Engineer",
+        "firstSeen": "2026-02-28T15:54:51.495534"
+      },
+      "2006927": {
+        "id": "2006927",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006927/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:54:51.499018"
+      },
+      "2007905": {
+        "id": "2007905",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2007905/Account-Executive-Portfolio",
+        "firstSeen": "2026-02-28T15:54:51.502332"
+      },
+      "1440719": {
+        "id": "1440719",
+        "title": "Splunk - Strategic Account Manager(Financial Services Industry,\u91d1\u878d)",
+        "url": "https://careers.cisco.com/global/en/job/1440719/Splunk-Strategic-Account-Manager-Financial-Services-Industry-\u91d1\u878d",
+        "firstSeen": "2026-02-28T15:54:51.505771"
+      },
+      "1450909": {
+        "id": "1450909",
+        "title": "Senior Technical Lead - Signal / Power Integrity Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1450909/Senior-Technical-Lead-Signal-Power-Integrity-Engineer",
+        "firstSeen": "2026-02-28T15:54:56.131133"
+      },
+      "2000950": {
+        "id": "2000950",
+        "title": "Manufacturing Quality Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2000950/Manufacturing-Quality-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:54:56.136184"
+      },
+      "2004680": {
+        "id": "2004680",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004680/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:56.140825"
+      },
+      "2005350": {
+        "id": "2005350",
+        "title": "Platform/Security Engineer Intern - Prague - Czechia",
+        "url": "https://careers.cisco.com/global/en/job/2005350/Platform-Security-Engineer-Intern-Prague-Czechia",
+        "firstSeen": "2026-02-28T15:54:56.145175"
+      },
+      "2002350": {
+        "id": "2002350",
+        "title": "Software Engineer Summer Internship, Norway",
+        "url": "https://careers.cisco.com/global/en/job/2002350/Software-Engineer-Summer-Internship-Norway",
+        "firstSeen": "2026-02-28T15:54:56.149180"
+      },
+      "2000322": {
+        "id": "2000322",
+        "title": "AP Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2000322/AP-Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:56.153114"
+      },
+      "2003033": {
+        "id": "2003033",
+        "title": "Technical Marketing Engineer I Intern - United States",
+        "url": "https://careers.cisco.com/global/en/job/2003033/Technical-Marketing-Engineer-I-Intern-United-States",
+        "firstSeen": "2026-02-28T15:54:56.157110"
+      },
+      "2005554": {
+        "id": "2005554",
+        "title": "Virtual Sales Account Executive",
+        "url": "https://careers.cisco.com/global/en/job/2005554/Virtual-Sales-Account-Executive",
+        "firstSeen": "2026-02-28T15:54:56.160782"
+      },
+      "2008794": {
+        "id": "2008794",
+        "title": "Account Executive - Portfolio - Public Sector - Abu Dhabi",
+        "url": "https://careers.cisco.com/global/en/job/2008794/Account-Executive-Portfolio-Public-Sector-Abu-Dhabi",
+        "firstSeen": "2026-02-28T15:54:56.164456"
+      },
+      "2007311": {
+        "id": "2007311",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007311/Software-Engineer",
+        "firstSeen": "2026-02-28T15:54:56.167944"
+      },
+      "2009688": {
+        "id": "2009688",
+        "title": "ASIC DFT Engineer/ ASIC Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009688/ASIC-DFT-Engineer-ASIC-Engineer",
+        "firstSeen": "2026-02-28T15:55:00.830538"
+      },
+      "2008789": {
+        "id": "2008789",
+        "title": "Electrical Post Silicon Validation HW Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008789/Electrical-Post-Silicon-Validation-HW-Engineer",
+        "firstSeen": "2026-02-28T15:55:00.835892"
+      },
+      "2007972": {
+        "id": "2007972",
+        "title": "People & Communities Country Consultant",
+        "url": "https://careers.cisco.com/global/en/job/2007972/People-Communities-Country-Consultant",
+        "firstSeen": "2026-02-28T15:55:00.840977"
+      },
+      "2003497": {
+        "id": "2003497",
+        "title": "Communications Specialist, Intern - Singapore",
+        "url": "https://careers.cisco.com/global/en/job/2003497/Communications-Specialist-Intern-Singapore",
+        "firstSeen": "2026-02-28T15:55:00.845595"
+      },
+      "2007566": {
+        "id": "2007566",
+        "title": "Business Development Manager - IT/OT Network & Security",
+        "url": "https://careers.cisco.com/global/en/job/2007566/Business-Development-Manager-IT-OT-Network-Security",
+        "firstSeen": "2026-02-28T15:55:00.849881"
+      },
+      "2008511": {
+        "id": "2008511",
+        "title": "ASIC Physical Design Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008511/ASIC-Physical-Design-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:00.853958"
+      },
+      "1449750": {
+        "id": "1449750",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1449750/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:00.857911"
+      },
+      "2002832": {
+        "id": "2002832",
+        "title": "Lead/Senior Data Scientist",
+        "url": "https://careers.cisco.com/global/en/job/2002832/Lead-Senior-Data-Scientist",
+        "firstSeen": "2026-02-28T15:55:00.861766"
+      },
+      "2007177": {
+        "id": "2007177",
+        "title": "ASIC Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007177/ASIC-Engineer",
+        "firstSeen": "2026-02-28T15:55:00.865351"
+      },
+      "2006690": {
+        "id": "2006690",
+        "title": "ASIC Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006690/ASIC-Engineer",
+        "firstSeen": "2026-02-28T15:55:00.868948"
+      },
+      "2009185": {
+        "id": "2009185",
+        "title": "Account Executive - Services",
+        "url": "https://careers.cisco.com/global/en/job/2009185/Account-Executive-Services",
+        "firstSeen": "2026-02-28T15:55:05.560211"
+      },
+      "2009839": {
+        "id": "2009839",
+        "title": "ASIC Engineer Internship (Armenia)",
+        "url": "https://careers.cisco.com/global/en/job/2009839/ASIC-Engineer-Internship-Armenia",
+        "firstSeen": "2026-02-28T15:55:05.565438"
+      },
+      "2008601": {
+        "id": "2008601",
+        "title": "Python Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008601/Python-Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:05.570131"
+      },
+      "2005013": {
+        "id": "2005013",
+        "title": "Business Value Advisor- Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2005013/Business-Value-Advisor-Splunk",
+        "firstSeen": "2026-02-28T15:55:05.574579"
+      },
+      "2004054": {
+        "id": "2004054",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004054/Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:55:05.578892"
+      },
+      "2005119": {
+        "id": "2005119",
+        "title": "Technical Solutions Architect (ThousandEyes Channel)",
+        "url": "https://careers.cisco.com/global/en/job/2005119/Technical-Solutions-Architect-ThousandEyes-Channel",
+        "firstSeen": "2026-02-28T15:55:05.582798"
+      },
+      "1451128": {
+        "id": "1451128",
+        "title": "Senior Software Engineer \u2013 C, Linux, Device Drivers, Networking",
+        "url": "https://careers.cisco.com/global/en/job/1451128/Senior-Software-Engineer-C-Linux-Device-Drivers-Networking",
+        "firstSeen": "2026-02-28T15:55:05.586697"
+      },
+      "1448304": {
+        "id": "1448304",
+        "title": "ThousandEyes - Customer Success Specialist",
+        "url": "https://careers.cisco.com/global/en/job/1448304/ThousandEyes-Customer-Success-Specialist",
+        "firstSeen": "2026-02-28T15:55:05.590587"
+      },
+      "2005714": {
+        "id": "2005714",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005714/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:05.594244"
+      },
+      "1446538": {
+        "id": "1446538",
+        "title": "ASIC Design Engineer || RTL Design/Front-end/Lint/CDC || 4 to 6 years",
+        "url": "https://careers.cisco.com/global/en/job/1446538/ASIC-Design-Engineer-RTL-Design-Front-end-Lint-CDC-4-to-6-years",
+        "firstSeen": "2026-02-28T15:55:05.597727"
+      },
+      "1451702": {
+        "id": "1451702",
+        "title": "Senior Physical Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1451702/Senior-Physical-Design-Engineer",
+        "firstSeen": "2026-02-28T15:55:10.118618"
+      },
+      "2003721": {
+        "id": "2003721",
+        "title": "Software Engineer (Attack Analyzer)",
+        "url": "https://careers.cisco.com/global/en/job/2003721/Software-Engineer-Attack-Analyzer",
+        "firstSeen": "2026-02-28T15:55:10.123832"
+      },
+      "2000325": {
+        "id": "2000325",
+        "title": "Solutions Engineer - Cloud and AI (ASEAN)",
+        "url": "https://careers.cisco.com/global/en/job/2000325/Solutions-Engineer-Cloud-and-AI-ASEAN",
+        "firstSeen": "2026-02-28T15:55:10.128495"
+      },
+      "1450500": {
+        "id": "1450500",
+        "title": "Senior Analyst of Pricing Analytics",
+        "url": "https://careers.cisco.com/global/en/job/1450500/Senior-Analyst-of-Pricing-Analytics",
+        "firstSeen": "2026-02-28T15:55:10.132671"
+      },
+      "2007579": {
+        "id": "2007579",
+        "title": "Account Executive - Services - KSA",
+        "url": "https://careers.cisco.com/global/en/job/2007579/Account-Executive-Services-KSA",
+        "firstSeen": "2026-02-28T15:55:10.136839"
+      },
+      "2007223": {
+        "id": "2007223",
+        "title": "Senior Software Engineer \u2013 Core Networking, Kafka & Cloud Applications (6 - 11 Years))",
+        "url": "https://careers.cisco.com/global/en/job/2007223/Senior-Software-Engineer-Core-Networking-Kafka-Cloud-Applications-6-11-Years",
+        "firstSeen": "2026-02-28T15:55:10.140854"
+      },
+      "2007864": {
+        "id": "2007864",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007864/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:10.144815"
+      },
+      "2002759": {
+        "id": "2002759",
+        "title": "Software Engineer - C , Kerenel development , Device drivers",
+        "url": "https://careers.cisco.com/global/en/job/2002759/Software-Engineer-C-Kerenel-development-Device-drivers",
+        "firstSeen": "2026-02-28T15:55:10.148466"
+      },
+      "2002777": {
+        "id": "2002777",
+        "title": "Information Security Engineer - ThousandEyes(Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2002777/Information-Security-Engineer-ThousandEyes-Hybrid",
+        "firstSeen": "2026-02-28T15:55:10.152014"
+      },
+      "1442661": {
+        "id": "1442661",
+        "title": "Audio Machine Learning Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1442661/Audio-Machine-Learning-Engineer",
+        "firstSeen": "2026-02-28T15:55:10.155606"
+      },
+      "1450629": {
+        "id": "1450629",
+        "title": "Security Engineer - Automation (Python, LLM | Data Science| 4 - 8 Years)",
+        "url": "https://careers.cisco.com/global/en/job/1450629/Security-Engineer-Automation-Python-LLM-Data-Science-4-8-Years",
+        "firstSeen": "2026-02-28T15:55:14.538210"
+      },
+      "2001765": {
+        "id": "2001765",
+        "title": "Channel Security Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2001765/Channel-Security-Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:55:14.544972"
+      },
+      "2003632": {
+        "id": "2003632",
+        "title": "Inside Account Executive (Cybersecurity)",
+        "url": "https://careers.cisco.com/global/en/job/2003632/Inside-Account-Executive-Cybersecurity",
+        "firstSeen": "2026-02-28T15:55:14.549621"
+      },
+      "2009960": {
+        "id": "2009960",
+        "title": "ASIC Engineer_SoC Design Internship (Armenia)",
+        "url": "https://careers.cisco.com/global/en/job/2009960/ASIC-Engineer-SoC-Design-Internship-Armenia",
+        "firstSeen": "2026-02-28T15:55:14.554065"
+      },
+      "2007656": {
+        "id": "2007656",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007656/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:14.558510"
+      },
+      "2008444": {
+        "id": "2008444",
+        "title": "Hardware Engineer (High-speed IO/Testing) (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2008444/Hardware-Engineer-High-speed-IO-Testing-Onsite",
+        "firstSeen": "2026-02-28T15:55:14.562563"
+      },
+      "2006145": {
+        "id": "2006145",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006145/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:14.566387"
+      },
+      "2004043": {
+        "id": "2004043",
+        "title": "CyberSecurity Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004043/CyberSecurity-Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:55:14.570020"
+      },
+      "1451875": {
+        "id": "1451875",
+        "title": "ASIC Design Verification Engineer | UVM | Exp- 8+ Years",
+        "url": "https://careers.cisco.com/global/en/job/1451875/ASIC-Design-Verification-Engineer-UVM-Exp-8-Years",
+        "firstSeen": "2026-02-28T15:55:14.573757"
+      },
+      "2002398": {
+        "id": "2002398",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002398/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:14.577227"
+      },
+      "2003156": {
+        "id": "2003156",
+        "title": "Inside Account Executive (Cybersecurity)",
+        "url": "https://careers.cisco.com/global/en/job/2003156/Inside-Account-Executive-Cybersecurity",
+        "firstSeen": "2026-02-28T15:55:19.196983"
+      },
+      "2007240": {
+        "id": "2007240",
+        "title": "Senior Physical Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007240/Senior-Physical-Design-Engineer",
+        "firstSeen": "2026-02-28T15:55:19.202071"
+      },
+      "2000591": {
+        "id": "2000591",
+        "title": "Account Executive",
+        "url": "https://careers.cisco.com/global/en/job/2000591/Account-Executive",
+        "firstSeen": "2026-02-28T15:55:19.207216"
+      },
+      "2004439": {
+        "id": "2004439",
+        "title": "Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2004439/Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:55:19.211731"
+      },
+      "2002387": {
+        "id": "2002387",
+        "title": "Software Engineering Technical Leader \u2013 C/C++, Linux & Networking (L2/L3)",
+        "url": "https://careers.cisco.com/global/en/job/2002387/Software-Engineering-Technical-Leader-C-C-Linux-Networking-L2-L3",
+        "firstSeen": "2026-02-28T15:55:19.215779"
+      },
+      "2004910": {
+        "id": "2004910",
+        "title": "Solutions Engineer, Networking Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2004910/Solutions-Engineer-Networking-Architecture",
+        "firstSeen": "2026-02-28T15:55:19.219747"
+      },
+      "2009057": {
+        "id": "2009057",
+        "title": "Lab HW Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009057/Lab-HW-Engineer",
+        "firstSeen": "2026-02-28T15:55:19.223754"
+      },
+      "2010244": {
+        "id": "2010244",
+        "title": "DFT Intern - ASIC Student - Israel - ETR",
+        "url": "https://careers.cisco.com/global/en/job/2010244/DFT-Intern-ASIC-Student-Israel-ETR",
+        "firstSeen": "2026-02-28T15:55:19.227549"
+      },
+      "2002796": {
+        "id": "2002796",
+        "title": "Software Engineer- C, C++, Linux, Networking",
+        "url": "https://careers.cisco.com/global/en/job/2002796/Software-Engineer-C-C-Linux-Networking",
+        "firstSeen": "2026-02-28T15:55:19.231168"
+      },
+      "2009686": {
+        "id": "2009686",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009686/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:19.234635"
+      },
+      "2001235": {
+        "id": "2001235",
+        "title": "Software Engineer (L2/L3-Embedded)",
+        "url": "https://careers.cisco.com/global/en/job/2001235/Software-Engineer-L2-L3-Embedded",
+        "firstSeen": "2026-02-28T15:55:23.832841"
+      },
+      "2008593": {
+        "id": "2008593",
+        "title": "ASIC DFT DV Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008593/ASIC-DFT-DV-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:23.837894"
+      },
+      "2008812": {
+        "id": "2008812",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008812/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:23.842845"
+      },
+      "2006722": {
+        "id": "2006722",
+        "title": "Software Engineering Technical Leader (simulator) - San Jose, CA",
+        "url": "https://careers.cisco.com/global/en/job/2006722/Software-Engineering-Technical-Leader-simulator-San-Jose-CA",
+        "firstSeen": "2026-02-28T15:55:23.847303"
+      },
+      "1451408": {
+        "id": "1451408",
+        "title": "ASIC Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1451408/ASIC-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:23.851442"
+      },
+      "1450880": {
+        "id": "1450880",
+        "title": "Solutions Engineer - Cloud and AI Service Provider",
+        "url": "https://careers.cisco.com/global/en/job/1450880/Solutions-Engineer-Cloud-and-AI-Service-Provider",
+        "firstSeen": "2026-02-28T15:55:23.855331"
+      },
+      "2004024": {
+        "id": "2004024",
+        "title": "Implementation Engineer - Cisco ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2004024/Implementation-Engineer-Cisco-ThousandEyes",
+        "firstSeen": "2026-02-28T15:55:23.859806"
+      },
+      "2005471": {
+        "id": "2005471",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005471/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:55:23.863479"
+      },
+      "2004135": {
+        "id": "2004135",
+        "title": "Principal Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004135/Principal-Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:23.867084"
+      },
+      "2001708": {
+        "id": "2001708",
+        "title": "Meraki Network Support Engineer (Routing, Switching, Wireless | 5-10 Years)",
+        "url": "https://careers.cisco.com/global/en/job/2001708/Meraki-Network-Support-Engineer-Routing-Switching-Wireless-5-10-Years",
+        "firstSeen": "2026-02-28T15:55:23.870471"
+      },
+      "1444681": {
+        "id": "1444681",
+        "title": "AI Software Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1444681/AI-Software-Engineer-Hybrid",
+        "firstSeen": "2026-02-28T15:55:28.393155"
+      },
+      "2004241": {
+        "id": "2004241",
+        "title": "Staff Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004241/Staff-Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:28.398376"
+      },
+      "1451315": {
+        "id": "1451315",
+        "title": "Account Executive - Cisco ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/1451315/Account-Executive-Cisco-ThousandEyes",
+        "firstSeen": "2026-02-28T15:55:28.403161"
+      },
+      "2004025": {
+        "id": "2004025",
+        "title": "Implementation Engineer (Mexico)",
+        "url": "https://careers.cisco.com/global/en/job/2004025/Implementation-Engineer-Mexico",
+        "firstSeen": "2026-02-28T15:55:28.407670"
+      },
+      "2001342": {
+        "id": "2001342",
+        "title": "Sales Operations Analyst Trainee- Non Technical Graduate Apprentice- India UHR",
+        "url": "https://careers.cisco.com/global/en/job/2001342/Sales-Operations-Analyst-Trainee-Non-Technical-Graduate-Apprentice-India-UHR",
+        "firstSeen": "2026-02-28T15:55:28.411888"
+      },
+      "2004524": {
+        "id": "2004524",
+        "title": "AI Solution Engineering, Intern - Indonesia",
+        "url": "https://careers.cisco.com/global/en/job/2004524/AI-Solution-Engineering-Intern-Indonesia",
+        "firstSeen": "2026-02-28T15:55:28.415904"
+      },
+      "1444635": {
+        "id": "1444635",
+        "title": "Senior Manager Product Performance",
+        "url": "https://careers.cisco.com/global/en/job/1444635/Senior-Manager-Product-Performance",
+        "firstSeen": "2026-02-28T15:55:28.419676"
+      },
+      "1450886": {
+        "id": "1450886",
+        "title": "Solutions Engineer (CyberSecurity)",
+        "url": "https://careers.cisco.com/global/en/job/1450886/Solutions-Engineer-CyberSecurity",
+        "firstSeen": "2026-02-28T15:55:28.423489"
+      },
+      "2003881": {
+        "id": "2003881",
+        "title": "Renewals Manager (Renewal Sales Representative\uff09- Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2003881/Renewals-Manager-Renewal-Sales-Representative\uff09-Splunk",
+        "firstSeen": "2026-02-28T15:55:28.427355"
+      },
+      "2004309": {
+        "id": "2004309",
+        "title": "Leader, Product Management",
+        "url": "https://careers.cisco.com/global/en/job/2004309/Leader-Product-Management",
+        "firstSeen": "2026-02-28T15:55:28.430817"
+      },
+      "2004203": {
+        "id": "2004203",
+        "title": "ASIC DFT Engineer - 8 to 12 yrs",
+        "url": "https://careers.cisco.com/global/en/job/2004203/ASIC-DFT-Engineer-8-to-12-yrs",
+        "firstSeen": "2026-02-28T15:55:32.803216"
+      },
+      "2008234": {
+        "id": "2008234",
+        "title": "ASIC Design Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008234/ASIC-Design-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:55:32.808378"
+      },
+      "1448583": {
+        "id": "1448583",
+        "title": "\u3010\u969c\u788d\u8005\u63a1\u7528\u67a0\u3011HR Operations Support",
+        "url": "https://careers.cisco.com/global/en/job/1448583/\u3010\u969c\u788d\u8005\u63a1\u7528\u67a0\u3011HR-Operations-Support",
+        "firstSeen": "2026-02-28T15:55:32.812992"
+      },
+      "1447993": {
+        "id": "1447993",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1447993/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:32.817254"
+      },
+      "1448575": {
+        "id": "1448575",
+        "title": "Technical Systems Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1448575/Technical-Systems-Engineer",
+        "firstSeen": "2026-02-28T15:55:32.821341"
+      },
+      "2003335": {
+        "id": "2003335",
+        "title": "Software Engineer- SDK- Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003335/Software-Engineer-SDK-Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:55:32.825449"
+      },
+      "2003070": {
+        "id": "2003070",
+        "title": "C++ Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003070/C-Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:32.829292"
+      },
+      "2006731": {
+        "id": "2006731",
+        "title": "Technical Program Manager - Test Development & Eng Ops",
+        "url": "https://careers.cisco.com/global/en/job/2006731/Technical-Program-Manager-Test-Development-Eng-Ops",
+        "firstSeen": "2026-02-28T15:55:32.832888"
+      },
+      "2002737": {
+        "id": "2002737",
+        "title": "Solutions Engineer \u2013 AI specialist on Splunk (ASEAN)",
+        "url": "https://careers.cisco.com/global/en/job/2002737/Solutions-Engineer-AI-specialist-on-Splunk-ASEAN",
+        "firstSeen": "2026-02-28T15:55:32.836375"
+      },
+      "2002709": {
+        "id": "2002709",
+        "title": "Senior SW Engineer- Data Center Switching",
+        "url": "https://careers.cisco.com/global/en/job/2002709/Senior-SW-Engineer-Data-Center-Switching",
+        "firstSeen": "2026-02-28T15:55:32.840008"
+      },
+      "2006472": {
+        "id": "2006472",
+        "title": "Account Executive (Cloud & AI Specialist)",
+        "url": "https://careers.cisco.com/global/en/job/2006472/Account-Executive-Cloud-AI-Specialist",
+        "firstSeen": "2026-02-28T15:55:37.353455"
+      },
+      "1446579": {
+        "id": "1446579",
+        "title": "ASIC Design Engineer || RTL Design/Front-end/Lint/CDC || Exp 7 to 10 years",
+        "url": "https://careers.cisco.com/global/en/job/1446579/ASIC-Design-Engineer-RTL-Design-Front-end-Lint-CDC-Exp-7-to-10-years",
+        "firstSeen": "2026-02-28T15:55:37.359799"
+      },
+      "2007253": {
+        "id": "2007253",
+        "title": "ASIC Design Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007253/ASIC-Design-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:55:37.364549"
+      },
+      "1447078": {
+        "id": "1447078",
+        "title": "ASIC Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1447078/ASIC-Design-Engineer",
+        "firstSeen": "2026-02-28T15:55:37.368977"
+      },
+      "2005293": {
+        "id": "2005293",
+        "title": "Solutions Engineer - Internet & Mass-Scale Infrastructure",
+        "url": "https://careers.cisco.com/global/en/job/2005293/Solutions-Engineer-Internet-Mass-Scale-Infrastructure",
+        "firstSeen": "2026-02-28T15:55:37.373258"
+      },
+      "2007525": {
+        "id": "2007525",
+        "title": "Cloud Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007525/Cloud-Engineer",
+        "firstSeen": "2026-02-28T15:55:37.377291"
+      },
+      "2007183": {
+        "id": "2007183",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007183/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:37.381048"
+      },
+      "1448707": {
+        "id": "1448707",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1448707/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:37.384661"
+      },
+      "2006974": {
+        "id": "2006974",
+        "title": "ASIC Engineering Technical Leader | RTL Development",
+        "url": "https://careers.cisco.com/global/en/job/2006974/ASIC-Engineering-Technical-Leader-RTL-Development",
+        "firstSeen": "2026-02-28T15:55:37.388209"
+      },
+      "2007965": {
+        "id": "2007965",
+        "title": "ASIC Digital Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007965/ASIC-Digital-Design-Engineer",
+        "firstSeen": "2026-02-28T15:55:37.391887"
+      },
+      "2008155": {
+        "id": "2008155",
+        "title": "Regional Sales Manager",
+        "url": "https://careers.cisco.com/global/en/job/2008155/Regional-Sales-Manager",
+        "firstSeen": "2026-02-28T15:55:41.849895"
+      },
+      "2008252": {
+        "id": "2008252",
+        "title": "ASIC Engineer G08 | Physical implementation | Floor planning | Clock and Power distribution | Exp 4-8 Years | 2008252",
+        "url": "https://careers.cisco.com/global/en/job/2008252/ASIC-Engineer-G08-Physical-implementation-Floor-planning-Clock-and-Power-distribution-Exp-4-8-Years-2008252",
+        "firstSeen": "2026-02-28T15:55:41.855144"
+      },
+      "1449617": {
+        "id": "1449617",
+        "title": "Control Plane Engineer (Go & Python_ 4 to 8 years )",
+        "url": "https://careers.cisco.com/global/en/job/1449617/Control-Plane-Engineer-Go-Python-4-to-8-years",
+        "firstSeen": "2026-02-28T15:55:41.860162"
+      },
+      "1450323": {
+        "id": "1450323",
+        "title": "Software Engineer | C programming, Linux, Networking Protocols | 5-8 years",
+        "url": "https://careers.cisco.com/global/en/job/1450323/Software-Engineer-C-programming-Linux-Networking-Protocols-5-8-years",
+        "firstSeen": "2026-02-28T15:55:41.864561"
+      },
+      "2007981": {
+        "id": "2007981",
+        "title": "Cybersecurity Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007981/Cybersecurity-Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:55:41.868800"
+      },
+      "1450469": {
+        "id": "1450469",
+        "title": "Integration Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1450469/Integration-Engineer",
+        "firstSeen": "2026-02-28T15:55:41.881406"
+      },
+      "2002482": {
+        "id": "2002482",
+        "title": "Sr AI/ML Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002482/Sr-AI-ML-Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:41.885529"
+      },
+      "2001030": {
+        "id": "2001030",
+        "title": "Senior Observability Consultant",
+        "url": "https://careers.cisco.com/global/en/job/2001030/Senior-Observability-Consultant",
+        "firstSeen": "2026-02-28T15:55:41.889444"
+      },
+      "2002287": {
+        "id": "2002287",
+        "title": "Partner Account Executive MSP (Indonesian Speaking)",
+        "url": "https://careers.cisco.com/global/en/job/2002287/Partner-Account-Executive-MSP-Indonesian-Speaking",
+        "firstSeen": "2026-02-28T15:55:41.893114"
+      },
+      "2002089": {
+        "id": "2002089",
+        "title": "Software Engineer | C/C++/L2/L3/VXLAN/MPLS , Switching, Routing | 5-8 Years",
+        "url": "https://careers.cisco.com/global/en/job/2002089/Software-Engineer-C-C-L2-L3-VXLAN-MPLS-Switching-Routing-5-8-Years",
+        "firstSeen": "2026-02-28T15:55:41.896454"
+      },
+      "2003794": {
+        "id": "2003794",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2003794/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:46.464079"
+      },
+      "2005440": {
+        "id": "2005440",
+        "title": "Software Engineer Intern - Sizing & Architecture Governance, Australia",
+        "url": "https://careers.cisco.com/global/en/job/2005440/Software-Engineer-Intern-Sizing-Architecture-Governance-Australia",
+        "firstSeen": "2026-02-28T15:55:46.469105"
+      },
+      "2005532": {
+        "id": "2005532",
+        "title": "Software QA Automation Engineer (Multi-Cloud Networking & Automation)",
+        "url": "https://careers.cisco.com/global/en/job/2005532/Software-QA-Automation-Engineer-Multi-Cloud-Networking-Automation",
+        "firstSeen": "2026-02-28T15:55:46.473798"
+      },
+      "2007306": {
+        "id": "2007306",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007306/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:46.478031"
+      },
+      "2008016": {
+        "id": "2008016",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008016/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:46.481906"
+      },
+      "2003496": {
+        "id": "2003496",
+        "title": "Software Engineer Intern, Australia",
+        "url": "https://careers.cisco.com/global/en/job/2003496/Software-Engineer-Intern-Australia",
+        "firstSeen": "2026-02-28T15:55:46.485796"
+      },
+      "2003315": {
+        "id": "2003315",
+        "title": "Customer Success Manager",
+        "url": "https://careers.cisco.com/global/en/job/2003315/Customer-Success-Manager",
+        "firstSeen": "2026-02-28T15:55:46.489594"
+      },
+      "2007651": {
+        "id": "2007651",
+        "title": "Software Engineer - SDK Developer | Embedded C/C++, Networking | 4 to 8 Years | 2007651",
+        "url": "https://careers.cisco.com/global/en/job/2007651/Software-Engineer-SDK-Developer-Embedded-C-C-Networking-4-to-8-Years-2007651",
+        "firstSeen": "2026-02-28T15:55:46.493251"
+      },
+      "1452021": {
+        "id": "1452021",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1452021/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:46.496729"
+      },
+      "2006510": {
+        "id": "2006510",
+        "title": "MBIST/DFT Design and Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006510/MBIST-DFT-Design-and-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:55:46.500140"
+      },
+      "2007006": {
+        "id": "2007006",
+        "title": "Director, Cisco Silicon - Product Manager: AI Switching",
+        "url": "https://careers.cisco.com/global/en/job/2007006/Director-Cisco-Silicon-Product-Manager-AI-Switching\u00a0",
+        "firstSeen": "2026-02-28T15:55:51.076401"
+      },
+      "2006490": {
+        "id": "2006490",
+        "title": "Account Executive - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2006490/Account-Executive-Splunk",
+        "firstSeen": "2026-02-28T15:55:51.081882"
+      },
+      "2001652": {
+        "id": "2001652",
+        "title": "Software Engineering Manager (Splunk)",
+        "url": "https://careers.cisco.com/global/en/job/2001652/Software-Engineering-Manager-Splunk",
+        "firstSeen": "2026-02-28T15:55:51.086598"
+      },
+      "2007213": {
+        "id": "2007213",
+        "title": "Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2007213/Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:55:51.091291"
+      },
+      "2005075": {
+        "id": "2005075",
+        "title": "Component Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005075/Component-Engineer",
+        "firstSeen": "2026-02-28T15:55:51.095567"
+      },
+      "2006650": {
+        "id": "2006650",
+        "title": "Operations Manager",
+        "url": "https://careers.cisco.com/global/en/job/2006650/Operations-Manager",
+        "firstSeen": "2026-02-28T15:55:51.099587"
+      },
+      "2002515": {
+        "id": "2002515",
+        "title": "Manufacturing Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002515/Manufacturing-Engineer",
+        "firstSeen": "2026-02-28T15:55:51.103395"
+      },
+      "2006975": {
+        "id": "2006975",
+        "title": "ASIC Emulation Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006975/ASIC-Emulation-Engineer",
+        "firstSeen": "2026-02-28T15:55:51.107301"
+      },
+      "2001737": {
+        "id": "2001737",
+        "title": "Business Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2001737/Business-Analyst",
+        "firstSeen": "2026-02-28T15:55:51.111030"
+      },
+      "2008304": {
+        "id": "2008304",
+        "title": "Optical Test Engineer, DVT",
+        "url": "https://careers.cisco.com/global/en/job/2008304/Optical-Test-Engineer-DVT",
+        "firstSeen": "2026-02-28T15:55:51.114484"
+      },
+      "1447478": {
+        "id": "1447478",
+        "title": "Apple Technical Advisor - Korean speaking",
+        "url": "https://careers.cisco.com/global/en/job/1447478/Apple-Technical-Advisor-Korean-speaking",
+        "firstSeen": "2026-02-28T15:55:55.746297"
+      },
+      "1447008": {
+        "id": "1447008",
+        "title": "Software Engineering Technical Leader | C, Networking L2/L3, TCP/IP, Linux System Programming |18+years",
+        "url": "https://careers.cisco.com/global/en/job/1447008/Software-Engineering-Technical-Leader-C-Networking-L2-L3-TCP-IP-Linux-System-Programming-18-years",
+        "firstSeen": "2026-02-28T15:55:55.751341"
+      },
+      "2003239": {
+        "id": "2003239",
+        "title": "Software Development Test Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2003239/Software-Development-Test-Engineer",
+        "firstSeen": "2026-02-28T15:55:55.756088"
+      },
+      "2007643": {
+        "id": "2007643",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007643/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:55.760401"
+      },
+      "2002249": {
+        "id": "2002249",
+        "title": "Sr Hardware Test and Packaging Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002249/Sr-Hardware-Test-and-Packaging-Engineer",
+        "firstSeen": "2026-02-28T15:55:55.764513"
+      },
+      "1450337": {
+        "id": "1450337",
+        "title": "Solutions Engineer - Cyber Security",
+        "url": "https://careers.cisco.com/global/en/job/1450337/Solutions-Engineer-Cyber-Security",
+        "firstSeen": "2026-02-28T15:55:55.768354"
+      },
+      "2006792": {
+        "id": "2006792",
+        "title": "Electrical Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006792/Electrical-Engineer",
+        "firstSeen": "2026-02-28T15:55:55.772556"
+      },
+      "2007536": {
+        "id": "2007536",
+        "title": "Mechanical Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007536/Mechanical-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:55:55.776274"
+      },
+      "1448612": {
+        "id": "1448612",
+        "title": "Observability DevOps Site Reliability Engineer (SRE)",
+        "url": "https://careers.cisco.com/global/en/job/1448612/Observability-DevOps-Site-Reliability-Engineer-SRE",
+        "firstSeen": "2026-02-28T15:55:55.779915"
+      },
+      "1452017": {
+        "id": "1452017",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1452017/Software-Engineer",
+        "firstSeen": "2026-02-28T15:55:55.783353"
+      },
+      "2002925": {
+        "id": "2002925",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002925/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:56:00.233775"
+      },
+      "2007176": {
+        "id": "2007176",
+        "title": "Hardware Lab Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007176/Hardware-Lab-Engineer",
+        "firstSeen": "2026-02-28T15:56:00.247613"
+      },
+      "1450575": {
+        "id": "1450575",
+        "title": "Director of Product Marketing \u2013 Launch Strategy",
+        "url": "https://careers.cisco.com/global/en/job/1450575/Director-of-Product-Marketing-Launch-Strategy",
+        "firstSeen": "2026-02-28T15:56:00.252393"
+      },
+      "2001027": {
+        "id": "2001027",
+        "title": "Technical Project Manager",
+        "url": "https://careers.cisco.com/global/en/job/2001027/Technical-Project-Manager",
+        "firstSeen": "2026-02-28T15:56:00.256617"
+      },
+      "2000935": {
+        "id": "2000935",
+        "title": "Packaging Technical Leader, Silicon Photonics (HYBRID) 2000935",
+        "url": "https://careers.cisco.com/global/en/job/2000935/Packaging-Technical-Leader-Silicon-Photonics-HYBRID-2000935",
+        "firstSeen": "2026-02-28T15:56:00.260737"
+      },
+      "1443586": {
+        "id": "1443586",
+        "title": "Technical Marketing Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1443586/Technical-Marketing-Engineer",
+        "firstSeen": "2026-02-28T15:56:00.264683"
+      },
+      "2008920": {
+        "id": "2008920",
+        "title": "AI and Data Applications Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008920/AI-and-Data-Applications-Engineer",
+        "firstSeen": "2026-02-28T15:56:00.268271"
+      },
+      "2005551": {
+        "id": "2005551",
+        "title": "Account Executive - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2005551/Account-Executive-Splunk",
+        "firstSeen": "2026-02-28T15:56:00.271758"
+      },
+      "1426739": {
+        "id": "1426739",
+        "title": "ASIC Engineering Technical Lead :: DFT/MBIST/ATPG/Scan Insertion :: Exp 12+ Years",
+        "url": "https://careers.cisco.com/global/en/job/1426739/ASIC-Engineering-Technical-Lead-DFT-MBIST-ATPG-Scan-Insertion-Exp-12-Years",
+        "firstSeen": "2026-02-28T15:56:00.275242"
+      },
+      "2003677": {
+        "id": "2003677",
+        "title": "Software Engineering Technical Leader (Go + Cloud)",
+        "url": "https://careers.cisco.com/global/en/job/2003677/Software-Engineering-Technical-Leader-Go-Cloud",
+        "firstSeen": "2026-02-28T15:56:00.278674"
+      },
+      "2007385": {
+        "id": "2007385",
+        "title": "Thermal Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007385/Thermal-Engineer",
+        "firstSeen": "2026-02-28T15:56:04.671499"
+      },
+      "1449462": {
+        "id": "1449462",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1449462/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:04.677217"
+      },
+      "2004028": {
+        "id": "2004028",
+        "title": "EMC Test Engineer (Electromagnetic Compatibility) (Onsite)",
+        "url": "https://careers.cisco.com/global/en/job/2004028/EMC-Test-Engineer-Electromagnetic-Compatibility-Onsite",
+        "firstSeen": "2026-02-28T15:56:04.682046"
+      },
+      "2003790": {
+        "id": "2003790",
+        "title": "Engineering Product Manager - Splunk AI",
+        "url": "https://careers.cisco.com/global/en/job/2003790/Engineering-Product-Manager-Splunk-AI",
+        "firstSeen": "2026-02-28T15:56:04.686572"
+      },
+      "2002086": {
+        "id": "2002086",
+        "title": "Software Engineer | C/C++/L2/L3/VXLAN/MPLS , Switching, Routing | 5-8 Years",
+        "url": "https://careers.cisco.com/global/en/job/2002086/Software-Engineer-C-C-L2-L3-VXLAN-MPLS-Switching-Routing-5-8-Years",
+        "firstSeen": "2026-02-28T15:56:04.690848"
+      },
+      "2004500": {
+        "id": "2004500",
+        "title": "Software Engineer intern \u2013 Indexing & Clustering, Australia",
+        "url": "https://careers.cisco.com/global/en/job/2004500/Software-Engineer-intern-Indexing-Clustering-Australia",
+        "firstSeen": "2026-02-28T15:56:04.695008"
+      },
+      "2006597": {
+        "id": "2006597",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006597/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:56:04.698856"
+      },
+      "2005688": {
+        "id": "2005688",
+        "title": "Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2005688/Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:56:04.702510"
+      },
+      "2004268": {
+        "id": "2004268",
+        "title": "Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2004268/Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:56:04.706008"
+      },
+      "2004869": {
+        "id": "2004869",
+        "title": "Hardware Engineering Technical Failure Analysis Case Lead",
+        "url": "https://careers.cisco.com/global/en/job/2004869/Hardware-Engineering-Technical-Failure-Analysis-Case-Lead",
+        "firstSeen": "2026-02-28T15:56:04.709838"
+      },
+      "2002778": {
+        "id": "2002778",
+        "title": "Sales Account Executive \u2013 Industry Specialist (Transport), Riyadh",
+        "url": "https://careers.cisco.com/global/en/job/2002778/Sales-Account-Executive-Industry-Specialist-Transport-Riyadh",
+        "firstSeen": "2026-02-28T15:56:09.137834"
+      },
+      "2003689": {
+        "id": "2003689",
+        "title": "Solutions Engineer - Cyber Security",
+        "url": "https://careers.cisco.com/global/en/job/2003689/Solutions-Engineer-Cyber-Security",
+        "firstSeen": "2026-02-28T15:56:09.143108"
+      },
+      "1447480": {
+        "id": "1447480",
+        "title": "Apple Technical Advisor - Korean Speaking",
+        "url": "https://careers.cisco.com/global/en/job/1447480/Apple-Technical-Advisor-Korean-Speaking",
+        "firstSeen": "2026-02-28T15:56:09.147682"
+      },
+      "2002621": {
+        "id": "2002621",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002621/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:09.151974"
+      },
+      "2000359": {
+        "id": "2000359",
+        "title": "UI Framework Software Developer",
+        "url": "https://careers.cisco.com/global/en/job/2000359/UI-Framework-Software-Developer",
+        "firstSeen": "2026-02-28T15:56:09.156211"
+      },
+      "1451690": {
+        "id": "1451690",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/1451690/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:09.160351"
+      },
+      "2006997": {
+        "id": "2006997",
+        "title": "P4 Data Plane Developer",
+        "url": "https://careers.cisco.com/global/en/job/2006997/P4-Data-Plane-Developer",
+        "firstSeen": "2026-02-28T15:56:09.164223"
+      },
+      "2004122": {
+        "id": "2004122",
+        "title": "ASIC Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2004122/ASIC-Engineer",
+        "firstSeen": "2026-02-28T15:56:09.168062"
+      },
+      "2005342": {
+        "id": "2005342",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005342/Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:56:09.171644"
+      },
+      "2001313": {
+        "id": "2001313",
+        "title": "Strategic Account Executive - Telco",
+        "url": "https://careers.cisco.com/global/en/job/2001313/Strategic-Account-Executive-Telco",
+        "firstSeen": "2026-02-28T15:56:09.175255"
+      },
+      "2001346": {
+        "id": "2001346",
+        "title": "Account Executive - Collaboration",
+        "url": "https://careers.cisco.com/global/en/job/2001346/Account-Executive-Collaboration",
+        "firstSeen": "2026-02-28T15:56:13.598280"
+      },
+      "2002064": {
+        "id": "2002064",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002064/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:56:13.602235"
+      },
+      "2001259": {
+        "id": "2001259",
+        "title": "Mechanical Engineer - Process and Automation",
+        "url": "https://careers.cisco.com/global/en/job/2001259/Mechanical-Engineer-Process-and-Automation",
+        "firstSeen": "2026-02-28T15:56:13.605845"
+      },
+      "2001565": {
+        "id": "2001565",
+        "title": "ASIC Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2001565/ASIC-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:13.609880"
+      },
+      "2001896": {
+        "id": "2001896",
+        "title": "Principal Corporate Counsel- Telecom, Market access 10+yrs exp",
+        "url": "https://careers.cisco.com/global/en/job/2001896/Principal-Corporate-Counsel-Telecom-Market-access-10-yrs-exp",
+        "firstSeen": "2026-02-28T15:56:13.613359"
+      },
+      "2005227": {
+        "id": "2005227",
+        "title": "Solutions Engineer - Public Sector KSA",
+        "url": "https://careers.cisco.com/global/en/job/2005227/Solutions-Engineer-Public-Sector-KSA",
+        "firstSeen": "2026-02-28T15:56:13.616743"
+      },
+      "2002726": {
+        "id": "2002726",
+        "title": "Splunk Senior Security Solutions Architect",
+        "url": "https://careers.cisco.com/global/en/job/2002726/Splunk-Senior-Security-Solutions-Architect",
+        "firstSeen": "2026-02-28T15:56:13.620028"
+      },
+      "2002506": {
+        "id": "2002506",
+        "title": "Senior Solutions Engineer (Indonesian Speaking)",
+        "url": "https://careers.cisco.com/global/en/job/2002506/Senior-Solutions-Engineer-Indonesian-Speaking",
+        "firstSeen": "2026-02-28T15:56:13.623387"
+      },
+      "2005011": {
+        "id": "2005011",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2005011/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:13.626852"
+      },
+      "2005283": {
+        "id": "2005283",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005283/Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:56:13.630041"
+      },
+      "2004509": {
+        "id": "2004509",
+        "title": "Hardware Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2004509/Hardware-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:18.094052"
+      },
+      "1449463": {
+        "id": "1449463",
+        "title": "Full Stack Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1449463/Full-Stack-Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:18.099219"
+      },
+      "2006669": {
+        "id": "2006669",
+        "title": "Senior Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006669/Senior-Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:18.103729"
+      },
+      "2001273": {
+        "id": "2001273",
+        "title": "Senior Staff Applied AI Scientist",
+        "url": "https://careers.cisco.com/global/en/job/2001273/Senior-Staff-Applied-AI-Scientist",
+        "firstSeen": "2026-02-28T15:56:18.108484"
+      },
+      "2001664": {
+        "id": "2001664",
+        "title": "Junior Software Engineer, Platform Identity (Splunk)",
+        "url": "https://careers.cisco.com/global/en/job/2001664/Junior-Software-Engineer-Platform-Identity-Splunk",
+        "firstSeen": "2026-02-28T15:56:18.112600"
+      },
+      "2006867": {
+        "id": "2006867",
+        "title": "ASIC DFT DV Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2006867/ASIC-DFT-DV-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:18.116389"
+      },
+      "2006762": {
+        "id": "2006762",
+        "title": "ASIC Design Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006762/ASIC-Design-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:56:18.120200"
+      },
+      "2006704": {
+        "id": "2006704",
+        "title": "Performance Engineer (8+ years)",
+        "url": "https://careers.cisco.com/global/en/job/2006704/Performance-Engineer-8-years",
+        "firstSeen": "2026-02-28T15:56:18.124274"
+      },
+      "2005183": {
+        "id": "2005183",
+        "title": "Senior Layout Design Enginner",
+        "url": "https://careers.cisco.com/global/en/job/2005183/Senior-Layout-Design-Enginner",
+        "firstSeen": "2026-02-28T15:56:18.127806"
+      },
+      "2007229": {
+        "id": "2007229",
+        "title": "DFT Team Leader, Hardware Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2007229/DFT-Team-Leader-Hardware-Engineering",
+        "firstSeen": "2026-02-28T15:56:18.131233"
+      },
+      "2001284": {
+        "id": "2001284",
+        "title": "Senior PHY System",
+        "url": "https://careers.cisco.com/global/en/job/2001284/Senior-PHY-System",
+        "firstSeen": "2026-02-28T15:56:22.762040"
+      },
+      "2007309": {
+        "id": "2007309",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007309/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:22.770562"
+      },
+      "2006991": {
+        "id": "2006991",
+        "title": "Senior Business Development Representative - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2006991/Senior-Business-Development-Representative-Splunk",
+        "firstSeen": "2026-02-28T15:56:22.775751"
+      },
+      "2007952": {
+        "id": "2007952",
+        "title": "ASIC Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007952/ASIC-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:22.780080"
+      },
+      "2006108": {
+        "id": "2006108",
+        "title": "Global MSP Partner Solutions Engineer - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2006108/Global-MSP-Partner-Solutions-Engineer-Splunk",
+        "firstSeen": "2026-02-28T15:56:22.784132"
+      },
+      "1451957": {
+        "id": "1451957",
+        "title": "Senior STA CAD/Methodology Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1451957/Senior-STA-CAD-Methodology-Engineer",
+        "firstSeen": "2026-02-28T15:56:22.788017"
+      },
+      "2005057": {
+        "id": "2005057",
+        "title": "Software Engineer | C/C++, Linux system programming, Networking , Security | 4-8 years",
+        "url": "https://careers.cisco.com/global/en/job/2005057/Software-Engineer-C-C-Linux-system-programming-Networking-Security-4-8-years",
+        "firstSeen": "2026-02-28T15:56:22.791933"
+      },
+      "2007527": {
+        "id": "2007527",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007527/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:22.795544"
+      },
+      "2003969": {
+        "id": "2003969",
+        "title": "Observability Solutions Architect",
+        "url": "https://careers.cisco.com/global/en/job/2003969/Observability-Solutions-Architect",
+        "firstSeen": "2026-02-28T15:56:22.798987"
+      },
+      "2000773": {
+        "id": "2000773",
+        "title": "Principal Machine Learning Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2000773/Principal-Machine-Learning-Engineer",
+        "firstSeen": "2026-02-28T15:56:22.807869"
+      },
+      "2005980": {
+        "id": "2005980",
+        "title": "Inside Account Executive, Territory - KSA",
+        "url": "https://careers.cisco.com/global/en/job/2005980/Inside-Account-Executive-Territory-KSA",
+        "firstSeen": "2026-02-28T15:56:31.804938"
+      },
+      "1451134": {
+        "id": "1451134",
+        "title": "Sr AI/ML Engineer - CX",
+        "url": "https://careers.cisco.com/global/en/job/1451134/Sr-AI-ML-Engineer-CX",
+        "firstSeen": "2026-02-28T15:56:31.810202"
+      },
+      "2001250": {
+        "id": "2001250",
+        "title": "Senior Director, Product Management - AI Research (Foundation AI - Security)",
+        "url": "https://careers.cisco.com/global/en/job/2001250/Senior-Director-Product-Management-AI-Research-Foundation-AI-Security",
+        "firstSeen": "2026-02-28T15:56:31.814856"
+      },
+      "2006882": {
+        "id": "2006882",
+        "title": "Software Engineer - Silicon One Compiler Team",
+        "url": "https://careers.cisco.com/global/en/job/2006882/Software-Engineer-Silicon-One-Compiler-Team",
+        "firstSeen": "2026-02-28T15:56:31.819217"
+      },
+      "2006990": {
+        "id": "2006990",
+        "title": "ASIC Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006990/ASIC-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:56:31.823571"
+      },
+      "2006884": {
+        "id": "2006884",
+        "title": "ASIC Design Verification Emulation Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006884/ASIC-Design-Verification-Emulation-Engineer",
+        "firstSeen": "2026-02-28T15:56:31.827687"
+      },
+      "2006883": {
+        "id": "2006883",
+        "title": "ASIC Design Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006883/ASIC-Design-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:56:31.831518"
+      },
+      "2004880": {
+        "id": "2004880",
+        "title": "Senior Signal and Power Integrity Enginee",
+        "url": "https://careers.cisco.com/global/en/job/2004880/Senior-Signal-and-Power-Integrity-Enginee",
+        "firstSeen": "2026-02-28T15:56:31.835119"
+      },
+      "2007310": {
+        "id": "2007310",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007310/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:31.838680"
+      },
+      "2006930": {
+        "id": "2006930",
+        "title": "ASIC Design Engineer | Exp 8+ Years",
+        "url": "https://careers.cisco.com/global/en/job/2006930/ASIC-Design-Engineer-Exp-8-Years",
+        "firstSeen": "2026-02-28T15:56:31.842314"
+      },
+      "2007258": {
+        "id": "2007258",
+        "title": "PHY Firmware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007258/PHY-Firmware-Engineer",
+        "firstSeen": "2026-02-28T15:56:39.088121"
+      },
+      "2007439": {
+        "id": "2007439",
+        "title": "Quality Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007439/Quality-Engineer",
+        "firstSeen": "2026-02-28T15:56:39.093746"
+      },
+      "2002268": {
+        "id": "2002268",
+        "title": "Leader, EMEA Cloud Compliance",
+        "url": "https://careers.cisco.com/global/en/job/2002268/Leader-EMEA-Cloud-Compliance",
+        "firstSeen": "2026-02-28T15:56:39.098695"
+      },
+      "2006342": {
+        "id": "2006342",
+        "title": "Inside Account Executive, GVSE Cloud & AI Infrastructure",
+        "url": "https://careers.cisco.com/global/en/job/2006342/Inside-Account-Executive-GVSE-Cloud-AI-Infrastructure",
+        "firstSeen": "2026-02-28T15:56:39.103264"
+      },
+      "2007274": {
+        "id": "2007274",
+        "title": "Test Development Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007274/Test-Development-Engineer",
+        "firstSeen": "2026-02-28T15:56:39.107521"
+      },
+      "2006427": {
+        "id": "2006427",
+        "title": "Solutions Engineer, East Bay - SLED",
+        "url": "https://careers.cisco.com/global/en/job/2006427/Solutions-Engineer-East-Bay-SLED",
+        "firstSeen": "2026-02-28T15:56:39.111685"
+      },
+      "1446510": {
+        "id": "1446510",
+        "title": "Enterprise Account Executive (\u4e2d\u592e\u7701\u5e81\u3001\u516c\u5171\u30bb\u30af\u30bf\u30fc) - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/1446510/Enterprise-Account-Executive-\u4e2d\u592e\u7701\u5e81\u3001\u516c\u5171\u30bb\u30af\u30bf\u30fc-Splunk",
+        "firstSeen": "2026-02-28T15:56:39.115754"
+      },
+      "1451908": {
+        "id": "1451908",
+        "title": "Account Executive - Collaboration",
+        "url": "https://careers.cisco.com/global/en/job/1451908/Account-Executive-Collaboration",
+        "firstSeen": "2026-02-28T15:56:39.119559"
+      },
+      "2005635": {
+        "id": "2005635",
+        "title": "Splunk - Senior Business Development Representative",
+        "url": "https://careers.cisco.com/global/en/job/2005635/Splunk-Senior-Business-Development-Representative",
+        "firstSeen": "2026-02-28T15:56:39.123250"
+      },
+      "1447484": {
+        "id": "1447484",
+        "title": "Apple Technical Advisor - Japanese speaking",
+        "url": "https://careers.cisco.com/global/en/job/1447484/Apple-Technical-Advisor-Japanese-speaking",
+        "firstSeen": "2026-02-28T15:56:39.127175"
+      },
+      "2005346": {
+        "id": "2005346",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005346/Hardware-Engineer",
+        "firstSeen": "2026-02-28T15:56:43.820729"
+      },
+      "2005522": {
+        "id": "2005522",
+        "title": "Leader, Software Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2005522/Leader-Software-Engineering",
+        "firstSeen": "2026-02-28T15:56:43.825965"
+      },
+      "2006788": {
+        "id": "2006788",
+        "title": "Software Engineer - Optical Applications",
+        "url": "https://careers.cisco.com/global/en/job/2006788/Software-Engineer-Optical-Applications",
+        "firstSeen": "2026-02-28T15:56:43.830450"
+      },
+      "2005838": {
+        "id": "2005838",
+        "title": "Enterprise Account Manager (FSI Sector)",
+        "url": "https://careers.cisco.com/global/en/job/2005838/Enterprise-Account-Manager-FSI-Sector",
+        "firstSeen": "2026-02-28T15:56:43.834642"
+      },
+      "2006876": {
+        "id": "2006876",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2006876/Account-Executive-Portfolio",
+        "firstSeen": "2026-02-28T15:56:43.839101"
+      },
+      "2006823": {
+        "id": "2006823",
+        "title": "Product Manager, Cisco Silicon AI Switching",
+        "url": "https://careers.cisco.com/global/en/job/2006823/Product-Manager-Cisco-Silicon-AI-Switching",
+        "firstSeen": "2026-02-28T15:56:43.843051"
+      },
+      "2004525": {
+        "id": "2004525",
+        "title": "Service Delivery Manager",
+        "url": "https://careers.cisco.com/global/en/job/2004525/Service-Delivery-Manager",
+        "firstSeen": "2026-02-28T15:56:43.846829"
+      },
+      "2005855": {
+        "id": "2005855",
+        "title": "Inside Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2005855/Inside-Account-Executive-Architecture",
+        "firstSeen": "2026-02-28T15:56:43.850368"
+      },
+      "2005340": {
+        "id": "2005340",
+        "title": "Leader, Test Development Engineering",
+        "url": "https://careers.cisco.com/global/en/job/2005340/Leader-Test-Development-Engineering",
+        "firstSeen": "2026-02-28T15:56:43.858105"
+      },
+      "2006022": {
+        "id": "2006022",
+        "title": "Electrical Product Engineer ( 10+ Years)",
+        "url": "https://careers.cisco.com/global/en/job/2006022/Electrical-Product-Engineer-10-Years",
+        "firstSeen": "2026-02-28T15:56:43.862357"
+      },
+      "2006611": {
+        "id": "2006611",
+        "title": "Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2006611/Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:48.372367"
+      },
+      "1450421": {
+        "id": "1450421",
+        "title": "Failure Analysis Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1450421/Failure-Analysis-Engineer-Hybrid",
+        "firstSeen": "2026-02-28T15:56:48.378935"
+      },
+      "2002743": {
+        "id": "2002743",
+        "title": "Solutions Engineer - Splunk Sr. Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2002743/Solutions-Engineer-Splunk-Sr-Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.383584"
+      },
+      "2007370": {
+        "id": "2007370",
+        "title": "Hardware Lab Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007370/Hardware-Lab-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.396102"
+      },
+      "2007433": {
+        "id": "2007433",
+        "title": "Product Test Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007433/Product-Test-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.400495"
+      },
+      "1451703": {
+        "id": "1451703",
+        "title": "Physical Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1451703/Physical-Design-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.404400"
+      },
+      "1451793": {
+        "id": "1451793",
+        "title": "Account Executive - Industrial IoT",
+        "url": "https://careers.cisco.com/global/en/job/1451793/Account-Executive-Industrial-IoT",
+        "firstSeen": "2026-02-28T15:56:48.408383"
+      },
+      "1452010": {
+        "id": "1452010",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1452010/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.411862"
+      },
+      "1451180": {
+        "id": "1451180",
+        "title": "Senior Software Engineer - CX (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/1451180/Senior-Software-Engineer-CX-Hybrid",
+        "firstSeen": "2026-02-28T15:56:48.415274"
+      },
+      "2006793": {
+        "id": "2006793",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006793/Solutions-Engineer",
+        "firstSeen": "2026-02-28T15:56:48.418627"
+      },
+      "2001368": {
+        "id": "2001368",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2001368/Account-Executive-Portfolio",
+        "firstSeen": "2026-02-28T15:56:53.033654"
+      },
+      "2005716": {
+        "id": "2005716",
+        "title": "Sr. MBIST/DFT Design and Verification Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005716/Sr-MBIST-DFT-Design-and-Verification-Engineer",
+        "firstSeen": "2026-02-28T15:56:53.038765"
+      },
+      "2006894": {
+        "id": "2006894",
+        "title": "Supplier Quality Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006894/Supplier-Quality-Engineer",
+        "firstSeen": "2026-02-28T15:56:53.043584"
+      },
+      "1442275": {
+        "id": "1442275",
+        "title": "Leader, Technical Marketing - Network Experiences & AI",
+        "url": "https://careers.cisco.com/global/en/job/1442275/Leader-Technical-Marketing-Network-Experiences-AI",
+        "firstSeen": "2026-02-28T15:56:53.047842"
+      },
+      "2006665": {
+        "id": "2006665",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006665/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:53.051944"
+      },
+      "1451306": {
+        "id": "1451306",
+        "title": "Director of Marketing, Cisco Industrial IoT Networking",
+        "url": "https://careers.cisco.com/global/en/job/1451306/Director-of-Marketing-Cisco-Industrial-IoT-Networking",
+        "firstSeen": "2026-02-28T15:56:53.055903"
+      },
+      "1450913": {
+        "id": "1450913",
+        "title": "Signal Integrity Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1450913/Signal-Integrity-Engineer",
+        "firstSeen": "2026-02-28T15:56:53.059742"
+      },
+      "2003670": {
+        "id": "2003670",
+        "title": "Director, Partner Solutions Engineering and Cross-Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2003670/Director-Partner-Solutions-Engineering-and-Cross-Architecture",
+        "firstSeen": "2026-02-28T15:56:53.063370"
+      },
+      "1450824": {
+        "id": "1450824",
+        "title": "Inside Account Executive-SMB",
+        "url": "https://careers.cisco.com/global/en/job/1450824/Inside-Account-Executive-SMB",
+        "firstSeen": "2026-02-28T15:56:53.066875"
+      },
+      "1451121": {
+        "id": "1451121",
+        "title": "Operations Analyst - Partner",
+        "url": "https://careers.cisco.com/global/en/job/1451121/Operations-Analyst-Partner",
+        "firstSeen": "2026-02-28T15:56:53.070305"
+      },
+      "1451904": {
+        "id": "1451904",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/1451904/Software-Engineer",
+        "firstSeen": "2026-02-28T15:56:57.559122"
+      },
+      "2007382": {
+        "id": "2007382",
+        "title": "Senior Thermal Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2007382/Senior-Thermal-Engineer",
+        "firstSeen": "2026-02-28T15:56:57.564272"
+      },
+      "2005008": {
+        "id": "2005008",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2005008/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-02-28T15:56:57.568972"
+      },
+      "2005779": {
+        "id": "2005779",
+        "title": "Software Engineering Technical Leader- BMC / Redfish, Rack/ Blade Server Management- 10+ Years",
+        "url": "https://careers.cisco.com/global/en/job/2005779/Software-Engineering-Technical-Leader-BMC-Redfish-Rack-Blade-Server-Management-10-Years",
+        "firstSeen": "2026-02-28T15:56:57.573950"
+      },
+      "2006333": {
+        "id": "2006333",
+        "title": "Analog Layout Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006333/Analog-Layout-Design-Engineer",
+        "firstSeen": "2026-02-28T15:56:57.578371"
+      },
+      "2007297": {
+        "id": "2007297",
+        "title": "Sales Development Representative (German Speaker)",
+        "url": "https://careers.cisco.com/global/en/job/2007297/Sales-Development-Representative-German-Speaker",
+        "firstSeen": "2026-02-28T15:56:57.582280"
+      },
+      "1448815": {
+        "id": "1448815",
+        "title": "Software Engineer - Device Automation",
+        "url": "https://careers.cisco.com/global/en/job/1448815/Software-Engineer-Device-Automation",
+        "firstSeen": "2026-02-28T15:56:57.586136"
+      },
+      "1446953": {
+        "id": "1446953",
+        "title": "Solutions Engineer - Cyber Security",
+        "url": "https://careers.cisco.com/global/en/job/1446953/Solutions-Engineer-Cyber-Security",
+        "firstSeen": "2026-02-28T15:56:57.590376"
+      },
+      "1444161": {
+        "id": "1444161",
+        "title": "Software Engineer: Networking Mandatory Devops with Docker, Linux-based infrastructures, GitHub, Jira, CI/CD Pipelines & Jenkins (10+ Years)",
+        "url": "https://careers.cisco.com/global/en/job/1444161/Software-Engineer-Networking-Mandatory-Devops-with-Docker-Linux-based-infrastructures-GitHub-Jira-CI-CD-Pipelines-Jenkins-10-Years",
+        "firstSeen": "2026-02-28T15:56:57.593948"
+      },
+      "2008251": {
+        "id": "2008251",
+        "title": "ASIC Engineering Technical Leader G11 | RTL | STA | Floor Planning | Physical Design Verification | Node Exp | 12-17 years | 2008251",
+        "url": "https://careers.cisco.com/global/en/job/2008251/ASIC-Engineering-Technical-Leader-G11-RTL-STA-Floor-Planning-Physical-Design-Verification-Node-Exp-12-17-years-2008251",
+        "firstSeen": "2026-02-28T15:56:57.597498"
+      }
     }
   },
-  "lastUpdated": "2026-02-28T00:40:26.511345"
+  "lastUpdated": "2026-02-28T15:56:57.597516"
 }
