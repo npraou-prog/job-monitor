@@ -1,0 +1,20 @@
+{
+  "targetRoles": [
+    "data scientist",
+    "data analyst",
+    "machine learning",
+    "ml engineer",
+    "ai engineer",
+    "aiml",
+    "artificial intelligence"
+  ],
+  "companies": [
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "url": "https://apply.deloitte.com/careers/SearchJobs",
+      "referrers": ["Markies", "Ashish"],
+      "added": "2026-02-27"
+    }
+  ]
+}
