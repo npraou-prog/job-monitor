@@ -200,11 +200,79 @@ def fetch_cisco_jobs(base_url, db, company_id):
 
 
 # =============================================================================
+# VISA FETCHER (Playwright - JS rendered, single page with all results)
+# =============================================================================
+def fetch_visa_jobs(base_url, db, company_id):
+    """Fetch Visa jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+    
+    jobs = db["companies"].get(company_id, {})
+    
+    print("Launching browser...", flush=True)
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        
+        print(f"Loading {base_url[:60]}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=60000)
+        page.wait_for_timeout(3000)  # Wait for dynamic content
+        
+        # Get total count
+        try:
+            count_el = page.locator('text=/\\d+ results/i').first
+            count_text = count_el.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 0
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            total = 0
+            print("Could not determine job count", flush=True)
+        
+        # Find all job links with REF IDs
+        links = page.locator('a').all()
+        new_found = 0
+        
+        for link in links:
+            try:
+                href = link.get_attribute('href') or ''
+                title = link.inner_text().strip()
+                
+                # Check if it's a job link (contains REF ID pattern)
+                if 'REF' in href and '/jobs/' in href:
+                    # Extract job ID (REF followed by alphanumeric)
+                    job_id_match = re.search(r'(REF\w+)', href)
+                    if job_id_match:
+                        job_id = job_id_match.group(1)
+                        
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://corporate.visa.com{href}"
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat()
+                            }
+                            new_found += 1
+            except:
+                continue
+        
+        browser.close()
+    
+    db["companies"][company_id] = jobs
+    save_db(db)
+    
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # COMPANY ROUTER
 # =============================================================================
 FETCHERS = {
     "deloitte": fetch_deloitte_jobs,
     "cisco": fetch_cisco_jobs,
+    "visa": fetch_visa_jobs,
 }
 
 
