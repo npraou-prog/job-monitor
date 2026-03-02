@@ -1,12 +1,15 @@
 {
   "targetRoles": [
+    "data science",
     "data scientist",
     "data analyst",
     "machine learning",
     "ml engineer",
     "ai engineer",
     "aiml",
-    "artificial intelligence"
+    "artificial intelligence",
+    "applied scientist",
+    "research scientist"
   ],
   "companies": [
     {

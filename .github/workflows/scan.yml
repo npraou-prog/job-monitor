@@ -36,7 +36,7 @@ jobs:
           import json
           from datetime import datetime
           
-          TARGET_ROLES = ['data scientist', 'data analyst', 'machine learning', 'ml engineer', 'ai engineer', 'aiml', 'artificial intelligence']
+          TARGET_ROLES = ['data science', 'data scientist', 'data analyst', 'machine learning', 'ml engineer', 'ai engineer', 'aiml', 'artificial intelligence', 'applied scientist', 'research scientist']
           
           def is_relevant(title):
               return any(r in title.lower() for r in TARGET_ROLES)
