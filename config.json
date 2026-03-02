@@ -32,6 +32,20 @@
       "url": "https://corporate.visa.com/en/jobs/?cities=Ashburn&cities=Atlanta&cities=Austin&cities=Bellevue&cities=Columbus&cities=Foster&cities=Foster%20City&cities=Highlands%20Ranch&cities=Lehi&cities=Mentor&cities=Miami&cities=New%20York&cities=Oakland&cities=San%20Francisco&cities=San%20Juan&cities=Wilmington",
       "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
       "added": "2026-02-28"
+    },
+    {
+      "id": "globalpartners",
+      "name": "Global Partners",
+      "url": "https://careers.globalp.com/?keyword=data",
+      "referrers": ["Deepak (NEU, Boston) +1 857-230-2532"],
+      "added": "2026-03-02"
+    },
+    {
+      "id": "fidelity",
+      "name": "Fidelity",
+      "url": "https://jobs.fidelity.com/en/jobs/",
+      "referrers": ["Nagendra Babu"],
+      "added": "2026-03-02"
     }
   ]
 }

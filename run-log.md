@@ -9,3 +9,5 @@
 | 2026-03-02 | 01:12 | Deloitte | No change | 0 | 0 | - |
 | 2026-03-02 | 10:06 | Deloitte | NEW | 1 | 0 | 1 new (not matching) |
 | 2026-03-02 | 10:18 | Cisco | 🎯 MATCH | 186 | 12 | 12 relevant found! |
+| 2026-03-02 | 11:17 | Global Partners | BASELINE | 10 | 0 | Initial scan, 10 jobs indexed |
+| 2026-03-02 | 11:18 | Global Partners | BASELINE | 10 | 1 | Initial scan, 10 jobs indexed |
