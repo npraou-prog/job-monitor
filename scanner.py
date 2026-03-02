@@ -337,11 +337,14 @@ def fetch_fidelity_jobs(base_url, db, company_id):
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
         
         print(f"Loading {base_url}...", flush=True)
-        page.goto(base_url, wait_until='domcontentloaded', timeout=60000)
-        page.wait_for_timeout(3000)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(5000)
         
         # Get total count from "X open roles" text
         try:
@@ -362,8 +365,8 @@ def fetch_fidelity_jobs(base_url, db, company_id):
             
             try:
                 if i > 1:
-                    page.goto(url, wait_until='domcontentloaded', timeout=30000)
-                    page.wait_for_timeout(2000)
+                    page.goto(url, wait_until='networkidle', timeout=60000)
+                    page.wait_for_timeout(3000)
                 
                 # Find job links - pattern: /en/jobs/{id}/{slug}/
                 links = page.locator('a[href*="/en/jobs/"]').all()
