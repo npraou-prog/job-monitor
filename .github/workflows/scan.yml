@@ -1,0 +1,96 @@
+name: Daily Job Scan
+
+on:
+  schedule:
+    # 9 AM EST = 14:00 UTC (EST is UTC-5)
+    # During DST (EDT), 9 AM = 13:00 UTC
+    - cron: '0 14 * * *'
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+      
+      - name: Run scanner
+        run: python scanner.py
+        timeout-minutes: 30
+      
+      - name: Generate summary
+        id: summary
+        run: |
+          python - <<'EOF'
+          import json
+          from datetime import datetime
+          
+          TARGET_ROLES = ['data scientist', 'data analyst', 'machine learning', 'ml engineer', 'ai engineer', 'aiml', 'artificial intelligence']
+          
+          def is_relevant(title):
+              return any(r in title.lower() for r in TARGET_ROLES)
+          
+          def is_new_today(first_seen):
+              if not first_seen: return False
+              return first_seen.startswith(datetime.now().strftime('%Y-%m-%d'))
+          
+          with open('jobs-db.json') as f:
+              data = json.load(f)
+          
+          summary = []
+          total_new = 0
+          total_relevant_new = 0
+          
+          for company_id, jobs in data.get('companies', {}).items():
+              new_jobs = [j for j in jobs.values() if is_new_today(j.get('firstSeen'))]
+              relevant_new = [j for j in new_jobs if is_relevant(j.get('title', ''))]
+              
+              total_new += len(new_jobs)
+              total_relevant_new += len(relevant_new)
+              
+              if relevant_new:
+                  summary.append(f"\n🎯 **{company_id.title()}** - {len(relevant_new)} relevant new jobs:")
+                  for job in relevant_new[:5]:
+                      summary.append(f"  • [{job['title']}]({job['url']})")
+          
+          # Write to GitHub Actions output
+          with open('scan-summary.md', 'w') as f:
+              f.write(f"# Job Scan Summary - {datetime.now().strftime('%Y-%m-%d')}\n\n")
+              f.write(f"**New jobs today:** {total_new}\n")
+              f.write(f"**Relevant new jobs:** {total_relevant_new}\n")
+              if summary:
+                  f.write('\n'.join(summary))
+              else:
+                  f.write("\n\nNo new relevant jobs found today.")
+          
+          # Set output for notification
+          print(f"new_count={total_new}")
+          print(f"relevant_count={total_relevant_new}")
+          
+          EOF
+      
+      - name: Commit changes
+        run: |
+          git config user.name "Job Monitor Bot"
+          git config user.email "bot@jobmonitor.local"
+          git add jobs-db.json run-log.md scan-summary.md
+          git diff --staged --quiet || git commit -m "📊 Daily scan: $(date +%Y-%m-%d)"
+          git push
+      
+      - name: Upload summary artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-summary
+          path: scan-summary.md
+          retention-days: 7

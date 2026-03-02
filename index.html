@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Monitor Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f0f0f;
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #333;
+        }
+        
+        h1 {
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: #fff;
+        }
+        
+        .last-updated {
+            color: #888;
+            font-size: 0.875rem;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        
+        .stat-label {
+            font-size: 0.875rem;
+            color: #888;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #fff;
+        }
+        
+        .stat-value.highlight {
+            color: #22c55e;
+        }
+        
+        .stat-value.warning {
+            color: #f59e0b;
+        }
+        
+        .company-section {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
+            overflow: hidden;
+        }
+        
+        .company-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.25rem 1.5rem;
+            background: #222;
+            cursor: pointer;
+        }
+        
+        .company-header:hover {
+            background: #282828;
+        }
+        
+        .company-name {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #fff;
+        }
+        
+        .company-meta {
+            display: flex;
+            gap: 1.5rem;
+            font-size: 0.875rem;
+            color: #888;
+        }
+        
+        .company-meta span {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        
+        .badge-new {
+            background: rgba(34, 197, 94, 0.15);
+            color: #22c55e;
+        }
+        
+        .badge-relevant {
+            background: rgba(59, 130, 246, 0.15);
+            color: #3b82f6;
+        }
+        
+        .jobs-list {
+            padding: 1rem 1.5rem;
+            display: none;
+        }
+        
+        .jobs-list.expanded {
+            display: block;
+        }
+        
+        .job-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 1rem 0;
+            border-bottom: 1px solid #2a2a2a;
+        }
+        
+        .job-item:last-child {
+            border-bottom: none;
+        }
+        
+        .job-title {
+            font-weight: 500;
+            color: #fff;
+            margin-bottom: 0.25rem;
+        }
+        
+        .job-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+        
+        .job-title a:hover {
+            color: #3b82f6;
+        }
+        
+        .job-meta {
+            font-size: 0.8rem;
+            color: #666;
+        }
+        
+        .job-badges {
+            display: flex;
+            gap: 0.5rem;
+            flex-shrink: 0;
+        }
+        
+        .relevant-section {
+            border: 1px solid #3b82f6;
+        }
+        
+        .relevant-section .company-header {
+            background: rgba(59, 130, 246, 0.1);
+        }
+        
+        .referrer {
+            color: #888;
+            font-size: 0.875rem;
+            margin-top: 0.25rem;
+        }
+        
+        .filter-bar {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #333;
+            background: #1a1a1a;
+            color: #888;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: all 0.2s;
+        }
+        
+        .filter-btn:hover {
+            border-color: #555;
+            color: #fff;
+        }
+        
+        .filter-btn.active {
+            background: #3b82f6;
+            border-color: #3b82f6;
+            color: #fff;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 4rem;
+            color: #888;
+        }
+        
+        @media (max-width: 640px) {
+            body {
+                padding: 1rem;
+            }
+            
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+            
+            .company-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.75rem;
+            }
+            
+            .job-item {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎯 Job Monitor</h1>
+            <span class="last-updated" id="lastUpdated">Loading...</span>
+        </header>
+        
+        <div class="stats-grid" id="statsGrid">
+            <!-- Stats populated by JS -->
+        </div>
+        
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">All Jobs</button>
+            <button class="filter-btn" data-filter="relevant">🎯 Relevant Only</button>
+            <button class="filter-btn" data-filter="new">🆕 New Today</button>
+        </div>
+        
+        <div id="companiesContainer">
+            <div class="loading">Loading job data...</div>
+        </div>
+    </div>
+
+    <script>
+        const TARGET_ROLES = [
+            'data scientist', 'data analyst', 'machine learning', 
+            'ml engineer', 'ai engineer', 'aiml', 'artificial intelligence'
+        ];
+        
+        function isRelevant(title) {
+            const lower = title.toLowerCase();
+            return TARGET_ROLES.some(role => lower.includes(role));
+        }
+        
+        function isNewToday(firstSeen) {
+            if (!firstSeen) return false;
+            const today = new Date().toISOString().split('T')[0];
+            return firstSeen.startsWith(today);
+        }
+        
+        function formatDate(isoString) {
+            if (!isoString) return 'Unknown';
+            const date = new Date(isoString);
+            return date.toLocaleDateString('en-US', { 
+                month: 'short', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+        
+        async function loadData() {
+            try {
+                const response = await fetch('jobs-db.json');
+                const data = await response.json();
+                renderDashboard(data);
+            } catch (error) {
+                document.getElementById('companiesContainer').innerHTML = `
+                    <div class="empty-state">
+                        <p>Failed to load job data. Make sure jobs-db.json exists.</p>
+                        <p style="margin-top: 0.5rem; font-size: 0.875rem;">${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+        
+        function renderDashboard(data) {
+            // Update timestamp
+            document.getElementById('lastUpdated').textContent = 
+                `Last updated: ${formatDate(data.lastUpdated)}`;
+            
+            // Calculate stats
+            let totalJobs = 0;
+            let totalNew = 0;
+            let totalRelevant = 0;
+            const companies = [];
+            
+            for (const [companyId, jobs] of Object.entries(data.companies || {})) {
+                const jobsArray = Object.values(jobs);
+                const relevant = jobsArray.filter(j => isRelevant(j.title));
+                const newToday = jobsArray.filter(j => isNewToday(j.firstSeen));
+                
+                totalJobs += jobsArray.length;
+                totalNew += newToday.length;
+                totalRelevant += relevant.length;
+                
+                companies.push({
+                    id: companyId,
+                    name: companyId.charAt(0).toUpperCase() + companyId.slice(1),
+                    jobs: jobsArray,
+                    relevant,
+                    newToday
+                });
+            }
+            
+            // Render stats
+            document.getElementById('statsGrid').innerHTML = `
+                <div class="stat-card">
+                    <div class="stat-label">Companies Tracked</div>
+                    <div class="stat-value">${companies.length}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Total Jobs</div>
+                    <div class="stat-value">${totalJobs.toLocaleString()}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">🎯 Relevant Roles</div>
+                    <div class="stat-value highlight">${totalRelevant}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">🆕 New Today</div>
+                    <div class="stat-value ${totalNew > 0 ? 'warning' : ''}">${totalNew}</div>
+                </div>
+            `;
+            
+            // Render companies
+            renderCompanies(companies, 'all');
+            
+            // Setup filter buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    renderCompanies(companies, btn.dataset.filter);
+                });
+            });
+        }
+        
+        function renderCompanies(companies, filter) {
+            const container = document.getElementById('companiesContainer');
+            
+            let html = '';
+            
+            for (const company of companies) {
+                let jobsToShow = company.jobs;
+                
+                if (filter === 'relevant') {
+                    jobsToShow = company.relevant;
+                } else if (filter === 'new') {
+                    jobsToShow = company.newToday;
+                }
+                
+                if (jobsToShow.length === 0 && filter !== 'all') continue;
+                
+                const hasRelevant = company.relevant.length > 0;
+                
+                html += `
+                    <div class="company-section ${hasRelevant ? 'relevant-section' : ''}" data-company="${company.id}">
+                        <div class="company-header" onclick="toggleCompany('${company.id}')">
+                            <div>
+                                <span class="company-name">${company.name}</span>
+                            </div>
+                            <div class="company-meta">
+                                <span>${jobsToShow.length} jobs</span>
+                                ${company.relevant.length > 0 ? `<span class="badge badge-relevant">🎯 ${company.relevant.length} relevant</span>` : ''}
+                                ${company.newToday.length > 0 ? `<span class="badge badge-new">🆕 ${company.newToday.length} new</span>` : ''}
+                            </div>
+                        </div>
+                        <div class="jobs-list" id="jobs-${company.id}">
+                            ${renderJobs(jobsToShow)}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            container.innerHTML = html || '<div class="empty-state">No jobs match the current filter.</div>';
+        }
+        
+        function renderJobs(jobs) {
+            // Sort: relevant first, then by date
+            jobs.sort((a, b) => {
+                const aRelevant = isRelevant(a.title);
+                const bRelevant = isRelevant(b.title);
+                if (aRelevant !== bRelevant) return bRelevant - aRelevant;
+                return (b.firstSeen || '').localeCompare(a.firstSeen || '');
+            });
+            
+            return jobs.slice(0, 50).map(job => {
+                const relevant = isRelevant(job.title);
+                const isNew = isNewToday(job.firstSeen);
+                
+                return `
+                    <div class="job-item">
+                        <div>
+                            <div class="job-title">
+                                <a href="${job.url}" target="_blank" rel="noopener">${job.title}</a>
+                            </div>
+                            <div class="job-meta">First seen: ${formatDate(job.firstSeen)}</div>
+                        </div>
+                        <div class="job-badges">
+                            ${relevant ? '<span class="badge badge-relevant">🎯 Relevant</span>' : ''}
+                            ${isNew ? '<span class="badge badge-new">New</span>' : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function toggleCompany(companyId) {
+            const jobsList = document.getElementById(`jobs-${companyId}`);
+            jobsList.classList.toggle('expanded');
+        }
+        
+        // Load on page ready
+        loadData();
+    </script>
+</body>
+</html>
