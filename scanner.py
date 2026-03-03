@@ -568,7 +568,7 @@ def fetch_chewy_jobs(base_url, db, company_id):
 # META FETCHER (Playwright - JS rendered)
 # =============================================================================
 def fetch_meta_jobs(base_url, db, company_id):
-    """Fetch Meta jobs using Playwright."""
+    """Fetch Meta jobs using Playwright with infinite scroll."""
     from playwright.sync_api import sync_playwright
     
     jobs = db["companies"].get(company_id, {})
@@ -589,19 +589,21 @@ def fetch_meta_jobs(base_url, db, company_id):
         page.wait_for_timeout(5000)
         
         # Get total count
+        total = 1000
         try:
             count_text = page.locator('text=/\\d+ Items/i').first.inner_text()
             match = re.search(r'(\d+)', count_text)
             total = int(match.group(1)) if match else 1000
             print(f"Total: {total} jobs", flush=True)
         except:
-            total = 1000
-            print("Could not get job count", flush=True)
+            print("Could not get job count, estimating 1000", flush=True)
         
         new_found = 0
-        max_pages = 30  # Limit pages
+        last_count = 0
+        no_change_rounds = 0
+        max_scrolls = 200  # Safety limit
         
-        for page_num in range(max_pages):
+        for scroll_num in range(max_scrolls):
             # Find job links - Meta uses /profile/job_details/ID pattern
             links = page.locator('a[href*="/profile/job_details/"]').all()
             
@@ -614,17 +616,17 @@ def fetch_meta_jobs(base_url, db, company_id):
                     if job_match:
                         job_id = job_match.group(1)
                         
-                        # Get title from h3 inside the link
-                        try:
-                            title_el = link.locator('h3').first
-                            title = title_el.inner_text().strip() if title_el else ""
-                        except:
-                            title = ""
-                        
-                        if not title:
-                            title = f"Meta Job {job_id}"
-                        
                         if job_id not in jobs:
+                            # Get title from h3 inside the link
+                            try:
+                                title_el = link.locator('h3').first
+                                title = title_el.inner_text().strip() if title_el else ""
+                            except:
+                                title = ""
+                            
+                            if not title:
+                                title = f"Meta Job {job_id}"
+                            
                             full_url = f"https://www.metacareers.com/profile/job_details/{job_id}"
                             jobs[job_id] = {
                                 "id": job_id,
@@ -636,21 +638,30 @@ def fetch_meta_jobs(base_url, db, company_id):
                 except:
                     continue
             
-            # Try to go to next page
-            try:
-                next_btn = page.locator('button[aria-label="Next page"], button:has(img[alt*="next"])').last
-                if next_btn.is_enabled():
-                    next_btn.click()
-                    page.wait_for_timeout(2000)
-                else:
+            # Check if we're still finding new jobs
+            if len(jobs) == last_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 5:
+                    print(f"  No new jobs after 5 scrolls, stopping", flush=True)
                     break
-            except:
-                break
+            else:
+                no_change_rounds = 0
+                last_count = len(jobs)
             
-            if (page_num + 1) % 5 == 0:
-                print(f"  Page {page_num + 1}: {len(jobs)} total, {new_found} new", flush=True)
+            # Scroll down to load more
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(1500)
+            
+            # Progress update every 10 scrolls
+            if (scroll_num + 1) % 10 == 0:
+                print(f"  Scroll {scroll_num + 1}: {len(jobs)} total, {new_found} new", flush=True)
                 db["companies"][company_id] = jobs
                 save_db(db)
+            
+            # Stop if we have all jobs
+            if len(jobs) >= total:
+                print(f"  Reached total ({total}), stopping", flush=True)
+                break
         
         browser.close()
     
