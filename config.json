@@ -60,6 +60,13 @@
       "url": "https://careers.chewy.com/us/en/search-results",
       "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
       "added": "2026-03-02"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "url": "https://www.metacareers.com/jobs",
+      "referrers": ["TBD - tell me who"],
+      "added": "2026-03-02"
     }
   ]
 }

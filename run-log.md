@@ -15,3 +15,5 @@
 | 2026-03-02 | 11:46 | Fidelity | BASELINE | 525 | 10 | Initial scan, 525 jobs indexed |
 | 2026-03-02 | 23:44 | Synopsys | BASELINE | 15 | 1 | Initial scan, 15 jobs indexed |
 | 2026-03-02 | 23:45 | Chewy | BASELINE | 188 | 8 | Initial scan, 188 jobs indexed |
+| 2026-03-02 | 23:48 | Meta | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-02 | 23:49 | Meta | BASELINE | 13 | 1 | Initial scan, 13 jobs indexed |

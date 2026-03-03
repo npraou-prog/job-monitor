@@ -565,6 +565,103 @@ def fetch_chewy_jobs(base_url, db, company_id):
 
 
 # =============================================================================
+# META FETCHER (Playwright - JS rendered)
+# =============================================================================
+def fetch_meta_jobs(base_url, db, company_id):
+    """Fetch Meta jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+    
+    jobs = db["companies"].get(company_id, {})
+    
+    print("Launching browser...", flush=True)
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+        
+        # Load job search page
+        search_url = "https://www.metacareers.com/jobs"
+        print(f"Loading {search_url}...", flush=True)
+        page.goto(search_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(5000)
+        
+        # Get total count
+        try:
+            count_text = page.locator('text=/\\d+ Items/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 1000
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            total = 1000
+            print("Could not get job count", flush=True)
+        
+        new_found = 0
+        max_pages = 30  # Limit pages
+        
+        for page_num in range(max_pages):
+            # Find job links - Meta uses /profile/job_details/ID pattern
+            links = page.locator('a[href*="/profile/job_details/"]').all()
+            
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    
+                    # Match: /profile/job_details/123456789
+                    job_match = re.search(r'/profile/job_details/(\d+)', href)
+                    if job_match:
+                        job_id = job_match.group(1)
+                        
+                        # Get title from h3 inside the link
+                        try:
+                            title_el = link.locator('h3').first
+                            title = title_el.inner_text().strip() if title_el else ""
+                        except:
+                            title = ""
+                        
+                        if not title:
+                            title = f"Meta Job {job_id}"
+                        
+                        if job_id not in jobs:
+                            full_url = f"https://www.metacareers.com/profile/job_details/{job_id}"
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat()
+                            }
+                            new_found += 1
+                except:
+                    continue
+            
+            # Try to go to next page
+            try:
+                next_btn = page.locator('button[aria-label="Next page"], button:has(img[alt*="next"])').last
+                if next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(2000)
+                else:
+                    break
+            except:
+                break
+            
+            if (page_num + 1) % 5 == 0:
+                print(f"  Page {page_num + 1}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+        
+        browser.close()
+    
+    db["companies"][company_id] = jobs
+    save_db(db)
+    
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # COMPANY ROUTER
 # =============================================================================
 FETCHERS = {
@@ -575,6 +672,7 @@ FETCHERS = {
     "fidelity": fetch_fidelity_jobs,
     "synopsys": fetch_synopsys_jobs,
     "chewy": fetch_chewy_jobs,
+    "meta": fetch_meta_jobs,
 }
 
 
