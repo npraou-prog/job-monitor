@@ -413,6 +413,158 @@ def fetch_fidelity_jobs(base_url, db, company_id):
 
 
 # =============================================================================
+# SYNOPSYS FETCHER (Static HTML with pagination)
+# =============================================================================
+def fetch_synopsys_jobs(base_url, db, company_id):
+    """Fetch Synopsys jobs - static HTML, no JS needed."""
+    jobs = db["companies"].get(company_id, {})
+    per_page = 15
+    
+    print("Getting job count...", flush=True)
+    resp = SESSION.get(base_url, timeout=30)
+    match = re.search(r'(\d+)\s*results', resp.text)
+    total = int(match.group(1)) if match else 500
+    pages = (total // per_page) + 1
+    print(f"Total: {total} jobs, {pages} pages", flush=True)
+    
+    new_found = 0
+    for i in range(pages):
+        url = f"{base_url}?pg={i+1}" if i > 0 else base_url
+        
+        try:
+            resp = SESSION.get(url, timeout=15)
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            
+            for link in soup.select('a[href*="/job/"]'):
+                href = link.get('href', '')
+                title = link.get_text(strip=True)
+                
+                if '/job/' in href and title:
+                    # Extract job ID from URL pattern: /job/city/title/44408/JOB_ID
+                    job_id_match = re.search(r'/(\d{8,})$', href)
+                    if job_id_match:
+                        job_id = job_id_match.group(1)
+                        
+                        if job_id not in jobs:
+                            full_url = f"https://careers.synopsys.com{href}" if not href.startswith('http') else href
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat()
+                            }
+                            new_found += 1
+            
+            if (i + 1) % 10 == 0:
+                print(f"  Page {i+1}/{pages}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+            
+            time.sleep(0.2)
+            
+        except Exception as e:
+            print(f"  Error page {i}: {e}", flush=True)
+            continue
+    
+    db["companies"][company_id] = jobs
+    save_db(db)
+    
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# CHEWY FETCHER (Playwright - JS rendered)
+# =============================================================================
+def fetch_chewy_jobs(base_url, db, company_id):
+    """Fetch Chewy jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+    
+    jobs = db["companies"].get(company_id, {})
+    
+    print("Launching browser...", flush=True)
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+        
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(5000)
+        
+        # Get total count
+        try:
+            count_el = page.locator('text=/\\d+ results/i').first
+            count_text = count_el.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 0
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            total = 0
+            print("Could not determine job count", flush=True)
+        
+        new_found = 0
+        page_num = 0
+        max_pages = 50  # Safety limit
+        
+        while page_num < max_pages:
+            # Find job links - Chewy uses /us/en/job/ pattern
+            links = page.locator('a[href*="/job/"]').all()
+            
+            found_on_page = 0
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title_el = link.locator('h2, h3, .job-title').first
+                    title = title_el.inner_text() if title_el.count() > 0 else link.inner_text().strip()
+                    
+                    if '/job/' in href and title:
+                        # Extract job ID from URL
+                        job_id_match = re.search(r'/job/([^/]+)', href)
+                        if job_id_match:
+                            job_id = job_id_match.group(1)
+                            
+                            if job_id not in jobs:
+                                full_url = f"https://careers.chewy.com{href}" if not href.startswith('http') else href
+                                jobs[job_id] = {
+                                    "id": job_id,
+                                    "title": title[:200],  # Truncate long titles
+                                    "url": full_url,
+                                    "firstSeen": datetime.now().isoformat()
+                                }
+                                new_found += 1
+                                found_on_page += 1
+                except:
+                    continue
+            
+            page_num += 1
+            if (page_num) % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+            
+            # Try to go to next page
+            try:
+                next_btn = page.locator('button:has-text("Next"), a:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(2000)
+                else:
+                    break  # No more pages
+            except:
+                break
+        
+        browser.close()
+    
+    db["companies"][company_id] = jobs
+    save_db(db)
+    
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # COMPANY ROUTER
 # =============================================================================
 FETCHERS = {
@@ -421,6 +573,8 @@ FETCHERS = {
     "visa": fetch_visa_jobs,
     "globalpartners": fetch_globalpartners_jobs,
     "fidelity": fetch_fidelity_jobs,
+    "synopsys": fetch_synopsys_jobs,
+    "chewy": fetch_chewy_jobs,
 }
 
 
