@@ -137,6 +137,40 @@
             color: #3b82f6;
         }
         
+        .badge-citizen {
+            background: rgba(239, 68, 68, 0.15);
+            color: #ef4444;
+        }
+        
+        .badge-clearance {
+            background: rgba(249, 115, 22, 0.15);
+            color: #f97316;
+        }
+        
+        .badge-gc {
+            background: rgba(168, 85, 247, 0.15);
+            color: #a855f7;
+        }
+        
+        .referrer-info {
+            background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(34, 197, 94, 0.05));
+            border: 1px solid rgba(34, 197, 94, 0.3);
+            border-radius: 8px;
+            padding: 0.5rem 1rem;
+            margin-top: 0.5rem;
+            font-size: 0.9rem;
+        }
+        
+        .referrer-label {
+            color: #22c55e;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+        
+        .referrer-name {
+            color: #fff;
+        }
+        
         .jobs-list {
             padding: 1rem 1.5rem;
             display: none;
@@ -291,6 +325,8 @@
             'applied scientist', 'research scientist'
         ];
         
+        let CONFIG = { companies: [] };
+        
         function isRelevant(title) {
             const lower = title.toLowerCase();
             return TARGET_ROLES.some(role => lower.includes(role));
@@ -313,8 +349,27 @@
             });
         }
         
+        function getReferrers(companyId) {
+            const company = CONFIG.companies.find(c => c.id === companyId);
+            return company ? company.referrers : [];
+        }
+        
+        function getRestrictionBadges(restrictions) {
+            if (!restrictions || restrictions.length === 0) return '';
+            return restrictions.map(r => {
+                if (r === 'citizen') return '<span class="badge badge-citizen">🇺🇸 US Citizen</span>';
+                if (r === 'clearance') return '<span class="badge badge-clearance">🔒 Clearance</span>';
+                if (r === 'gc') return '<span class="badge badge-gc">💚 GC/PR</span>';
+                return '';
+            }).join(' ');
+        }
+        
         async function loadData() {
             try {
+                // Load config first for referrer info
+                const configResponse = await fetch('config.json');
+                CONFIG = await configResponse.json();
+                
                 const response = await fetch('jobs-db.json');
                 const data = await response.json();
                 renderDashboard(data);
@@ -408,11 +463,17 @@
                 
                 const hasRelevant = company.relevant.length > 0;
                 
+                const referrers = getReferrers(company.id);
+                const referrerHtml = referrers.length > 0 
+                    ? `<div class="referrer-info"><span class="referrer-label">📞 Contact:</span><span class="referrer-name">${referrers.join(', ')}</span></div>`
+                    : '';
+                
                 html += `
                     <div class="company-section ${hasRelevant ? 'relevant-section' : ''}" data-company="${company.id}">
                         <div class="company-header" onclick="toggleCompany('${company.id}')">
                             <div>
                                 <span class="company-name">${company.name}</span>
+                                ${referrerHtml}
                             </div>
                             <div class="company-meta">
                                 <span>${jobsToShow.length} jobs</span>
@@ -442,6 +503,7 @@
             return jobs.slice(0, 50).map(job => {
                 const relevant = isRelevant(job.title);
                 const isNew = isNewToday(job.firstSeen);
+                const restrictionBadges = getRestrictionBadges(job.restrictions);
                 
                 return `
                     <div class="job-item">
@@ -452,6 +514,7 @@
                             <div class="job-meta">First seen: ${formatDate(job.firstSeen)}</div>
                         </div>
                         <div class="job-badges">
+                            ${restrictionBadges}
                             ${relevant ? '<span class="badge badge-relevant">🎯 Relevant</span>' : ''}
                             ${isNew ? '<span class="badge badge-new">New</span>' : ''}
                         </div>

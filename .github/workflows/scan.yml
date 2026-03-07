@@ -3,8 +3,9 @@ name: Daily Job Scan
 on:
   schedule:
     # 9 AM EST = 14:00 UTC (EST is UTC-5)
-    # During DST (EDT), 9 AM = 13:00 UTC
     - cron: '0 14 * * *'
+    # 5 PM EST = 22:00 UTC
+    - cron: '0 22 * * *'
   workflow_dispatch:  # Manual trigger
 
 permissions:

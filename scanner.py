@@ -48,6 +48,26 @@ def is_relevant_role(title, target_roles):
     return any(role.lower() in title_lower for role in target_roles)
 
 
+# Keywords that indicate citizenship/clearance requirements
+RESTRICTION_KEYWORDS = {
+    'citizen': ['us citizen', 'u.s. citizen', 'american citizen', 'citizenship required'],
+    'clearance': ['security clearance', 'secret clearance', 'top secret', 'ts/sci', 'clearance required', 'public trust'],
+    'gc': ['green card', 'permanent resident', 'gc holder'],
+}
+
+
+def detect_restrictions(text):
+    """Detect citizenship/clearance requirements from text."""
+    text_lower = text.lower()
+    restrictions = []
+    
+    for restriction_type, keywords in RESTRICTION_KEYWORDS.items():
+        if any(kw in text_lower for kw in keywords):
+            restrictions.append(restriction_type)
+    
+    return restrictions
+
+
 def extract_job_id(url):
     match = re.search(r'/(\d+)', url)
     return match.group(1) if match else url
@@ -89,11 +109,13 @@ def fetch_deloitte_jobs(base_url, db, company_id):
                     job_id = extract_job_id(href)
                     
                     if job_id not in jobs:
+                        restrictions = detect_restrictions(title)
                         jobs[job_id] = {
                             "id": job_id,
                             "title": title,
                             "url": href,
-                            "firstSeen": datetime.now().isoformat()
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
                         }
                         new_found += 1
             
@@ -171,11 +193,13 @@ def fetch_cisco_jobs(base_url, db, company_id):
                             job_id = extract_job_id(href)
                             
                             if job_id not in jobs:
+                                restrictions = detect_restrictions(title)
                                 jobs[job_id] = {
                                     "id": job_id,
                                     "title": title,
                                     "url": href,
-                                    "firstSeen": datetime.now().isoformat()
+                                    "firstSeen": datetime.now().isoformat(),
+                                    "restrictions": restrictions
                                 }
                                 new_found += 1
                     except:
@@ -247,11 +271,13 @@ def fetch_visa_jobs(base_url, db, company_id):
                         
                         if job_id not in jobs:
                             full_url = href if href.startswith('http') else f"https://corporate.visa.com{href}"
+                            restrictions = detect_restrictions(title)
                             jobs[job_id] = {
                                 "id": job_id,
                                 "title": title,
                                 "url": full_url,
-                                "firstSeen": datetime.now().isoformat()
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
                             }
                             new_found += 1
             except:
@@ -305,11 +331,13 @@ def fetch_globalpartners_jobs(base_url, db, company_id):
                     
                     if job_id not in jobs:
                         full_url = f"https://careers.globalp.com{href}" if not href.startswith('http') else href
+                        restrictions = detect_restrictions(title)
                         jobs[job_id] = {
                             "id": job_id,
                             "title": title,
                             "url": full_url,
-                            "firstSeen": datetime.now().isoformat()
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
                         }
                         new_found += 1
             except:
@@ -384,11 +412,13 @@ def fetch_fidelity_jobs(base_url, db, company_id):
                             
                             if job_id not in jobs:
                                 full_url = f"https://jobs.fidelity.com{href}" if not href.startswith('http') else href
+                                restrictions = detect_restrictions(title)
                                 jobs[job_id] = {
                                     "id": job_id,
                                     "title": title,
                                     "url": full_url,
-                                    "firstSeen": datetime.now().isoformat()
+                                    "firstSeen": datetime.now().isoformat(),
+                                    "restrictions": restrictions
                                 }
                                 new_found += 1
                     except:
@@ -447,11 +477,13 @@ def fetch_synopsys_jobs(base_url, db, company_id):
                         
                         if job_id not in jobs:
                             full_url = f"https://careers.synopsys.com{href}" if not href.startswith('http') else href
+                            restrictions = detect_restrictions(title)
                             jobs[job_id] = {
                                 "id": job_id,
                                 "title": title,
                                 "url": full_url,
-                                "firstSeen": datetime.now().isoformat()
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
                             }
                             new_found += 1
             
@@ -529,11 +561,13 @@ def fetch_chewy_jobs(base_url, db, company_id):
                             
                             if job_id not in jobs:
                                 full_url = f"https://careers.chewy.com{href}" if not href.startswith('http') else href
+                                restrictions = detect_restrictions(title)
                                 jobs[job_id] = {
                                     "id": job_id,
                                     "title": title[:200],  # Truncate long titles
                                     "url": full_url,
-                                    "firstSeen": datetime.now().isoformat()
+                                    "firstSeen": datetime.now().isoformat(),
+                                    "restrictions": restrictions
                                 }
                                 new_found += 1
                                 found_on_page += 1
@@ -628,11 +662,13 @@ def fetch_meta_jobs(base_url, db, company_id):
                                 title = f"Meta Job {job_id}"
                             
                             full_url = f"https://www.metacareers.com/profile/job_details/{job_id}"
+                            restrictions = detect_restrictions(title)
                             jobs[job_id] = {
                                 "id": job_id,
                                 "title": title,
                                 "url": full_url,
-                                "firstSeen": datetime.now().isoformat()
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
                             }
                             new_found += 1
                 except:
