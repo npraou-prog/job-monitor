@@ -17,3 +17,11 @@
 | 2026-03-02 | 23:45 | Chewy | BASELINE | 188 | 8 | Initial scan, 188 jobs indexed |
 | 2026-03-02 | 23:48 | Meta | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
 | 2026-03-02 | 23:49 | Meta | BASELINE | 13 | 1 | Initial scan, 13 jobs indexed |
+| 2026-03-07 | 19:28 | Deloitte | 🎯 MATCH | 180 | 6 | 6 relevant found! |
+| 2026-03-07 | 19:28 | Cisco | 🎯 MATCH | 107 | 1 | 1 relevant found! |
+| 2026-03-07 | 19:28 | Visa | 🎯 MATCH | 78 | 4 | 4 relevant found! |
+| 2026-03-07 | 19:28 | Global Partners | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-03-07 | 19:28 | Fidelity | NEW | 120 | 0 | 120 new (not matching) |
+| 2026-03-07 | 19:28 | Synopsys | NEW | 14 | 0 | 14 new (not matching) |
+| 2026-03-07 | 19:28 | Chewy | 🎯 MATCH | 32 | 2 | 2 relevant found! |
+| 2026-03-07 | 19:28 | Meta | 🎯 MATCH | 10 | 2 | 2 relevant found! |
