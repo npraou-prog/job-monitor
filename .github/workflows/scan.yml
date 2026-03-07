@@ -7,6 +7,9 @@ on:
     - cron: '0 14 * * *'
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   scan:
     runs-on: ubuntu-latest
