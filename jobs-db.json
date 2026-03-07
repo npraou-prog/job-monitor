@@ -19154,6 +19154,13 @@
         "title": "Client Team Manager Core Market Defined Benefit",
         "url": "https://jobs.fidelity.com/en/jobs/2121803/client-team-manager-core-market-defined-benefit/",
         "firstSeen": "2026-03-07T19:42:48.080453"
+      },
+      "2125257": {
+        "id": "2125257",
+        "title": "Senior Python Full Stack Engineer",
+        "url": "https://jobs.fidelity.com/en/jobs/2125257/senior-python-full-stack-engineer/",
+        "firstSeen": "2026-03-07T22:56:00.873385",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -20795,5 +20802,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-07T19:45:54.854458"
+  "lastUpdated": "2026-03-07T23:00:29.374708"
 }

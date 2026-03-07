@@ -25,3 +25,11 @@
 | 2026-03-07 | 19:28 | Synopsys | NEW | 14 | 0 | 14 new (not matching) |
 | 2026-03-07 | 19:28 | Chewy | 🎯 MATCH | 32 | 2 | 2 relevant found! |
 | 2026-03-07 | 19:28 | Meta | 🎯 MATCH | 10 | 2 | 2 relevant found! |
+| 2026-03-07 | 22:44 | Deloitte | 🎯 MATCH | 0 | 21 | 21 relevant found! |
+| 2026-03-07 | 22:44 | Cisco | 🎯 MATCH | 0 | 2 | 2 relevant found! |
+| 2026-03-07 | 22:44 | Visa | 🎯 MATCH | 0 | 12 | 12 relevant found! |
+| 2026-03-07 | 22:44 | Global Partners | No change | 0 | 0 | - |
+| 2026-03-07 | 22:44 | Fidelity | 🎯 MATCH | 1 | 13 | 13 relevant found! |
+| 2026-03-07 | 22:44 | Synopsys | No change | 0 | 0 | - |
+| 2026-03-07 | 22:44 | Chewy | 🎯 MATCH | 0 | 4 | 4 relevant found! |
+| 2026-03-07 | 22:44 | Meta | 🎯 MATCH | 0 | 2 | 2 relevant found! |
