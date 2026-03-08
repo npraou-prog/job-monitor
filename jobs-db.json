@@ -5418,6 +5418,13 @@
         "title": "Tax Consultant Intern (Accounting) (Summer 2027)",
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Consultant-Intern-Accounting-Summer-2027/304171",
         "firstSeen": "2026-03-07T19:30:27.798033"
+      },
+      "326347": {
+        "id": "326347",
+        "title": "Budget Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Budget-Manager/326347",
+        "firstSeen": "2026-03-08T22:29:37.303448",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -20701,6 +20708,13 @@
         "url": "https://careers.chewy.com/us/en/job/R28920/Senior-Product-Manager-Identity",
         "firstSeen": "2026-03-08T14:43:44.972104",
         "restrictions": []
+      },
+      "R28996": {
+        "id": "R28996",
+        "title": "Associate Program Manager, Payments Operations",
+        "url": "https://careers.chewy.com/us/en/job/R28996/Associate-Program-Manager-Payments-Operations",
+        "firstSeen": "2026-03-08T22:45:20.562931",
+        "restrictions": []
       }
     },
     "meta": {
@@ -20844,5 +20858,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-08T14:44:33.501748"
+  "lastUpdated": "2026-03-08T22:46:07.145407"
 }
