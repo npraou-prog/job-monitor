@@ -1,7 +1,8 @@
-# Job Scan Summary - 2026-03-08
+# Job Scan Summary - 2026-03-09
 
-**New jobs today:** 8
-**Relevant new jobs:** 0
+**New jobs today:** 43
+**Relevant new jobs:** 2
 
-
-No new relevant jobs found today.
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2122680/principal-systems-analyst/)
+  • [Senior Cybersecurity Analyst](https://jobs.fidelity.com/en/jobs/2120901/senior-cybersecurity-analyst/)

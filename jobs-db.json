@@ -5425,6 +5425,20 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Budget-Manager/326347",
         "firstSeen": "2026-03-08T22:29:37.303448",
         "restrictions": []
+      },
+      "326325": {
+        "id": "326325",
+        "title": "Senior, Client Account Management",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Client-Account-Management/326325",
+        "firstSeen": "2026-03-09T14:53:52.903455",
+        "restrictions": []
+      },
+      "323192": {
+        "id": "323192",
+        "title": "M&A Integration & Divestiture Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/M-A-Integration-Divestiture-Manager/323192",
+        "firstSeen": "2026-03-09T14:54:58.977520",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -12619,6 +12633,83 @@
         "url": "https://careers.cisco.com/global/en/job/2009924/Software-Engineer",
         "firstSeen": "2026-03-08T14:38:28.754437",
         "restrictions": []
+      },
+      "2003461": {
+        "id": "2003461",
+        "title": "Engineering Product Manager(Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2003461/Engineering-Product-Manager-Hybrid",
+        "firstSeen": "2026-03-09T14:56:48.287702",
+        "restrictions": []
+      },
+      "2006424": {
+        "id": "2006424",
+        "title": "Leader, Solutions Engineer - US Commercial - RTP",
+        "url": "https://careers.cisco.com/global/en/job/2006424/Leader-Solutions-Engineer-US-Commercial-RTP",
+        "firstSeen": "2026-03-09T14:56:53.250606",
+        "restrictions": []
+      },
+      "2005469": {
+        "id": "2005469",
+        "title": "Contract Lifecycle Implementation Manager (Legal/Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2005469/Contract-Lifecycle-Implementation-Manager-Legal-Hybrid",
+        "firstSeen": "2026-03-09T14:57:03.760008",
+        "restrictions": []
+      },
+      "2006813": {
+        "id": "2006813",
+        "title": "Mechanical Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2006813/Mechanical-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-09T14:57:18.808152",
+        "restrictions": []
+      },
+      "2009433": {
+        "id": "2009433",
+        "title": "Account Executive - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2009433/Account-Executive-Splunk-Remote",
+        "firstSeen": "2026-03-09T14:57:38.749179",
+        "restrictions": []
+      },
+      "2008300": {
+        "id": "2008300",
+        "title": "Leader, Solutions Engineer - ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2008300/Leader-Solutions-Engineer-ThousandEyes",
+        "firstSeen": "2026-03-09T14:58:09.334964",
+        "restrictions": []
+      },
+      "1450162": {
+        "id": "1450162",
+        "title": "Software Engineer - Java Full Stack Developer",
+        "url": "https://careers.cisco.com/global/en/job/1450162/Software-Engineer-Java-Full-Stack-Developer",
+        "firstSeen": "2026-03-09T15:01:04.143435",
+        "restrictions": []
+      },
+      "2009192": {
+        "id": "2009192",
+        "title": "Software Engineer | Routing protocol and infra charter software development | 8-12 years",
+        "url": "https://careers.cisco.com/global/en/job/2009192/Software-Engineer-Routing-protocol-and-infra-charter-software-development-8-12-years",
+        "firstSeen": "2026-03-09T15:01:09.092303",
+        "restrictions": []
+      },
+      "2009020": {
+        "id": "2009020",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2009020/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-09T15:06:04.553320",
+        "restrictions": []
+      },
+      "2010173": {
+        "id": "2010173",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010173/Software-Engineer",
+        "firstSeen": "2026-03-09T15:06:04.561973",
+        "restrictions": []
+      },
+      "2006244": {
+        "id": "2006244",
+        "title": "Technical Consulting Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006244/Technical-Consulting-Engineer",
+        "firstSeen": "2026-03-09T15:06:04.602371",
+        "restrictions": []
       }
     },
     "visa": {
@@ -15249,6 +15340,27 @@
         "title": "Senior Director, Strategic Partnerships (Visa Commercial Solutions, NA)",
         "url": "https://corporate.visa.com/en/jobs/REF078951W",
         "firstSeen": "2026-03-07T19:39:48.411771"
+      },
+      "REF97267S": {
+        "id": "REF97267S",
+        "title": "Associate Product Manager (APM) Intern - Summer 2026 (Austin, TX)",
+        "url": "https://corporate.visa.com/en/jobs/REF97267S",
+        "firstSeen": "2026-03-09T15:06:19.880782",
+        "restrictions": []
+      },
+      "REF97270L": {
+        "id": "REF97270L",
+        "title": "Sales Development Intern - Summer 2026",
+        "url": "https://corporate.visa.com/en/jobs/REF97270L",
+        "firstSeen": "2026-03-09T15:06:19.895399",
+        "restrictions": []
+      },
+      "REF079432W": {
+        "id": "REF079432W",
+        "title": "Product Manager, Payment Card Processing",
+        "url": "https://corporate.visa.com/en/jobs/REF079432W",
+        "firstSeen": "2026-03-09T15:06:19.902727",
+        "restrictions": []
       }
     },
     "globalpartners": {
@@ -19196,6 +19308,34 @@
         "url": "https://jobs.fidelity.com/en/jobs/2125257/senior-python-full-stack-engineer/",
         "firstSeen": "2026-03-07T22:56:00.873385",
         "restrictions": []
+      },
+      "2122680": {
+        "id": "2122680",
+        "title": "Principal Systems Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2122680/principal-systems-analyst/",
+        "firstSeen": "2026-03-09T15:06:35.612044",
+        "restrictions": []
+      },
+      "2125134": {
+        "id": "2125134",
+        "title": "Principal Data Engineer",
+        "url": "https://jobs.fidelity.com/en/jobs/2125134/principal-data-engineer/",
+        "firstSeen": "2026-03-09T15:06:35.618071",
+        "restrictions": []
+      },
+      "2120901": {
+        "id": "2120901",
+        "title": "Senior Cybersecurity Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2120901/senior-cybersecurity-analyst/",
+        "firstSeen": "2026-03-09T15:06:35.620273",
+        "restrictions": []
+      },
+      "2124910": {
+        "id": "2124910",
+        "title": "Vice President Business Analysis",
+        "url": "https://jobs.fidelity.com/en/jobs/2124910/vice-president-business-analysis/",
+        "firstSeen": "2026-03-09T15:06:35.622525",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -19378,6 +19518,97 @@
         "title": "Executive Director, Ethics & ComplianceUnited States Off-siteCategory:LegalPosted:03/06/2026Job ID:16036",
         "url": "https://careers.synopsys.com/job/united-states/executive-director-ethics-and-compliance/44408/92511383328",
         "firstSeen": "2026-03-08T14:41:57.344678",
+        "restrictions": []
+      },
+      "92568976736": {
+        "id": "92568976736",
+        "title": "Principal Engineer - Manufacturing Process/Electronic AssembliesRungis, FranceCategory:OperationsPosted:03/08/2026Job ID:15988",
+        "url": "https://careers.synopsys.com/job/rungis/principal-engineer-manufacturing-process-electronic-assemblies/44408/92568976736",
+        "firstSeen": "2026-03-09T15:09:33.103112",
+        "restrictions": []
+      },
+      "92568976704": {
+        "id": "92568976704",
+        "title": "Layout Design, Sr EngineerBengaluru, IndiaCategory:EngineeringPosted:03/08/2026Job ID:15959",
+        "url": "https://careers.synopsys.com/job/bengaluru/layout-design-sr-engineer/44408/92568976704",
+        "firstSeen": "2026-03-09T15:09:33.103141",
+        "restrictions": []
+      },
+      "92568976608": {
+        "id": "92568976608",
+        "title": "ASIC Digital Design EngineerHo Chi Minh City, VietnamCategory:EngineeringPosted:03/08/2026Job ID:16010",
+        "url": "https://careers.synopsys.com/job/ho-chi-minh-city/asic-digital-design-engineer/44408/92568976608",
+        "firstSeen": "2026-03-09T15:09:33.103171",
+        "restrictions": []
+      },
+      "92568976592": {
+        "id": "92568976592",
+        "title": "Senior/Staff ASIC Design Verification EngineerHo Chi Minh City, VietnamCategory:EngineeringPosted:03/08/2026Job ID:15994",
+        "url": "https://careers.synopsys.com/job/ho-chi-minh-city/senior-staff-asic-design-verification-engineer/44408/92568976592",
+        "firstSeen": "2026-03-09T15:09:33.103189",
+        "restrictions": []
+      },
+      "92568976576": {
+        "id": "92568976576",
+        "title": "SOC Engineering, Principal EngineerTokyo, JapanCategory:EngineeringPosted:03/08/2026Job ID:15978",
+        "url": "https://careers.synopsys.com/job/tokyo/soc-engineering-principal-engineer/44408/92568976576",
+        "firstSeen": "2026-03-09T15:09:33.103204",
+        "restrictions": []
+      },
+      "92568976544": {
+        "id": "92568976544",
+        "title": "SOC Engineering, Sr Staff EngineerTokyo, JapanCategory:EngineeringPosted:03/08/2026Job ID:15977",
+        "url": "https://careers.synopsys.com/job/tokyo/soc-engineering-sr-staff-engineer/44408/92568976544",
+        "firstSeen": "2026-03-09T15:09:33.103219",
+        "restrictions": []
+      },
+      "92561062992": {
+        "id": "92561062992",
+        "title": "Sales Account Management, StaffSeoul, South KoreaCategory:SalesPosted:03/08/2026Job ID:15979",
+        "url": "https://careers.synopsys.com/job/seoul/sales-account-management-staff/44408/92561062992",
+        "firstSeen": "2026-03-09T15:09:33.103240",
+        "restrictions": []
+      },
+      "92561062864": {
+        "id": "92561062864",
+        "title": "Applications Engineering, Sr Staff EngineerHsinchu, TaiwanCategory:EngineeringPosted:02/28/2026Job ID:15559",
+        "url": "https://careers.synopsys.com/job/hsinchu/applications-engineering-sr-staff-engineer/44408/92561062864",
+        "firstSeen": "2026-03-09T15:09:33.103256",
+        "restrictions": []
+      },
+      "92561062832": {
+        "id": "92561062832",
+        "title": "Analog Layout ApprenticeshipBengaluru, IndiaCategory:Interns/TempPosted:03/04/2026Job ID:15305",
+        "url": "https://careers.synopsys.com/job/bengaluru/analog-layout-apprenticeship/44408/92561062832",
+        "firstSeen": "2026-03-09T15:09:33.103271",
+        "restrictions": []
+      },
+      "92454718864": {
+        "id": "92454718864",
+        "title": "ASIC Digital Design, Staff Engineer - VerificationHo Chi Minh City, VietnamCategory:EngineeringPosted:03/05/2026Job ID:15983",
+        "url": "https://careers.synopsys.com/job/ho-chi-minh-city/asic-digital-design-staff-engineer-verification/44408/92454718864",
+        "firstSeen": "2026-03-09T15:09:33.103286",
+        "restrictions": []
+      },
+      "92554331200": {
+        "id": "92554331200",
+        "title": "Timing Analog Mixed Signal Design Engineer, HCMCHo Chi Minh City, VietnamCategory:EngineeringPosted:03/08/2026Job ID:15981",
+        "url": "https://careers.synopsys.com/job/ho-chi-minh-city/timing-analog-mixed-signal-design-engineer-hcmc/44408/92554331200",
+        "firstSeen": "2026-03-09T15:09:33.103307",
+        "restrictions": []
+      },
+      "92439874528": {
+        "id": "92439874528",
+        "title": "Country Manager for S&A (former Ansys) at SynopsysSeoul, South KoreaCategory:SalesPosted:03/05/2026Job ID:15255",
+        "url": "https://careers.synopsys.com/job/seoul/country-manager-for-s-and-a-former-ansys-at-synopsys/44408/92439874528",
+        "firstSeen": "2026-03-09T15:09:33.103323",
+        "restrictions": []
+      },
+      "91422197328": {
+        "id": "91422197328",
+        "title": "Sr. Product Security EngineerMorrisville, North CarolinaCategory:EngineeringPosted:03/07/2026Job ID:15151",
+        "url": "https://careers.synopsys.com/job/morrisville/sr-product-security-engineer/44408/91422197328",
+        "firstSeen": "2026-03-09T15:09:33.103339",
         "restrictions": []
       }
     },
@@ -20715,6 +20946,13 @@
         "url": "https://careers.chewy.com/us/en/job/R28996/Associate-Program-Manager-Payments-Operations",
         "firstSeen": "2026-03-08T22:45:20.562931",
         "restrictions": []
+      },
+      "R28054": {
+        "id": "R28054",
+        "title": "Program Manager",
+        "url": "https://careers.chewy.com/us/en/job/R28054/Program-Manager",
+        "firstSeen": "2026-03-09T15:11:26.833459",
+        "restrictions": []
       }
     },
     "meta": {
@@ -20855,8 +21093,71 @@
         "title": "Software Engineer, Product",
         "url": "https://www.metacareers.com/profile/job_details/1079158160340219",
         "firstSeen": "2026-03-07T19:45:47.170209"
+      },
+      "1565034374781820": {
+        "id": "1565034374781820",
+        "title": "SSPO EMEA GBG Lead",
+        "url": "https://www.metacareers.com/profile/job_details/1565034374781820",
+        "firstSeen": "2026-03-09T15:12:05.189904",
+        "restrictions": []
+      },
+      "947975758174480": {
+        "id": "947975758174480",
+        "title": "Solutions Architect - Business AI",
+        "url": "https://www.metacareers.com/profile/job_details/947975758174480",
+        "firstSeen": "2026-03-09T15:12:05.194831",
+        "restrictions": []
+      },
+      "807341018406296": {
+        "id": "807341018406296",
+        "title": "Business Engineer - Business AI",
+        "url": "https://www.metacareers.com/profile/job_details/807341018406296",
+        "firstSeen": "2026-03-09T15:12:05.200508",
+        "restrictions": []
+      },
+      "1477127414071885": {
+        "id": "1477127414071885",
+        "title": "Business Engineer - Business AI",
+        "url": "https://www.metacareers.com/profile/job_details/1477127414071885",
+        "firstSeen": "2026-03-09T15:12:05.205411",
+        "restrictions": []
+      },
+      "25386171467723917": {
+        "id": "25386171467723917",
+        "title": "Account Manager, Mid-Market, Thailand",
+        "url": "https://www.metacareers.com/profile/job_details/25386171467723917",
+        "firstSeen": "2026-03-09T15:12:05.221865",
+        "restrictions": []
+      },
+      "948941717653547": {
+        "id": "948941717653547",
+        "title": "Partner Manager, Government Politics Advocacy & Compliance",
+        "url": "https://www.metacareers.com/profile/job_details/948941717653547",
+        "firstSeen": "2026-03-09T15:12:05.231208",
+        "restrictions": []
+      },
+      "716564564876145": {
+        "id": "716564564876145",
+        "title": "Client Solutions Manager",
+        "url": "https://www.metacareers.com/profile/job_details/716564564876145",
+        "firstSeen": "2026-03-09T15:12:05.237850",
+        "restrictions": []
+      },
+      "300760325782735": {
+        "id": "300760325782735",
+        "title": "Product Manager (Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/300760325782735",
+        "firstSeen": "2026-03-09T15:12:05.242039",
+        "restrictions": []
+      },
+      "1838924999834487": {
+        "id": "1838924999834487",
+        "title": "Software Engineer, Systems ML - SW/HW Co-design",
+        "url": "https://www.metacareers.com/profile/job_details/1838924999834487",
+        "firstSeen": "2026-03-09T15:12:05.246095",
+        "restrictions": []
       }
     }
   },
-  "lastUpdated": "2026-03-08T22:46:07.145407"
+  "lastUpdated": "2026-03-09T15:12:12.934397"
 }
