@@ -95,6 +95,13 @@
       "url": "https://search-careers.gm.com/en/",
       "referrers": ["Arun"],
       "added": "2026-03-10"
+    },
+    {
+      "id": "cocacola",
+      "name": "Coca-Cola",
+      "url": "https://careers.coca-colacompany.com/job-search-results/?keyword=data",
+      "referrers": ["LinkedIn"],
+      "added": "2026-03-10"
     }
   ]
 }
