@@ -1,20 +1,32 @@
-# Job Scan Summary - 2026-03-11
+# Job Scan Summary - 2026-03-12
 
-**New jobs today:** 79
-**Relevant new jobs:** 8
+**New jobs today:** 165
+**Relevant new jobs:** 18
+
+🎯 **Deloitte** - 6 relevant new jobs:
+  • [Senior Manager - AI and Data Science (TS/SCI)](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Manager-AI-and-Data-Science-TS-SCI/326712)
+  • [Senior GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-GenAI-Engineer/326692)
+  • [Legal Support Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Legal-Support-Senior-Analyst/326679)
+  • [Reserve Integration Program Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Reserve-Integration-Program-Analyst/326655)
+  • [Encore Healthcare Quality Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Encore-Healthcare-Quality-Analyst/319300)
+
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Strategy & Planning Analyst](https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst)
 
 🎯 **Visa** - 2 relevant new jobs:
-  • [Senior Analyst, Global Interchange Compliance](https://corporate.visa.com/en/jobs/REF079167W)
-  • [Associate Systems Application Analyst](https://corporate.visa.com/en/jobs/REF078971W)
+  • [Staff Research Scientist- GenAI Foundational](https://corporate.visa.com/en/jobs/REF078750W)
+  • [Senior Pricing Analyst - Commercial and Money Movement Solutions (CMS)](https://corporate.visa.com/en/jobs/REF079486W)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2125643/principal-systems-analyst/)
+🎯 **Fidelity** - 6 relevant new jobs:
+  • [Et Vendor Management Analyst](https://jobs.fidelity.com/en/jobs/2125854/et-vendor-management-analyst/)
+  • [Principal Technology Risk Analyst](https://jobs.fidelity.com/en/jobs/2125619/principal-technology-risk-analyst/)
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2125634/senior-systems-analyst/)
+  • [Senior Manager Data Science](https://jobs.fidelity.com/en/jobs/2125546/senior-manager-data-science/)
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2124809/senior-systems-analyst/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Data Scientist II](https://careers.chewy.com/us/en/job/R28837/Data-Scientist-II)
+🎯 **Chewy** - 2 relevant new jobs:
+  • [Accounts Payable Analyst](https://careers.chewy.com/us/en/job/R29000/Accounts-Payable-Analyst)
+  • [Accounts Payable Analyst](https://careers.chewy.com/us/en/job/R28958/Accounts-Payable-Analyst)
 
-🎯 **Meta** - 4 relevant new jobs:
-  • [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1368969190886166)
-  • [AI Research Scientist, Media - MSL PAR](https://www.metacareers.com/profile/job_details/3212685352239662)
-  • [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/998357492128826)
-  • [Data Scientist](https://www.metacareers.com/profile/job_details/2072777853568945)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Data Scientist, Product Analytics](https://www.metacareers.com/profile/job_details/1396267762276547)
