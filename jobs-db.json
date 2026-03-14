@@ -14493,6 +14493,41 @@
         "url": "https://careers.cisco.com/global/en/job/2004800/Sales-Operations-Analyst-ThousandEyes",
         "firstSeen": "2026-03-13T22:43:51.712478",
         "restrictions": []
+      },
+      "2008851": {
+        "id": "2008851",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008851/Software-Engineer",
+        "firstSeen": "2026-03-14T22:38:14.767987",
+        "restrictions": []
+      },
+      "2009401": {
+        "id": "2009401",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009401/Software-Engineer",
+        "firstSeen": "2026-03-14T22:38:19.587768",
+        "restrictions": []
+      },
+      "2010830": {
+        "id": "2010830",
+        "title": "Cloud Engineer - Infrastructure & Platform Engineering - Terraform or Ansible | AWS, GCP, OpenStack | Kubernetes, Helm / Kustomize | Gitops, ArgoCD / Jenkins | 4 to 8 Years",
+        "url": "https://careers.cisco.com/global/en/job/2010830/Cloud-Engineer-Infrastructure-Platform-Engineering-Terraform-or-Ansible-AWS-GCP-OpenStack-Kubernetes-Helm-Kustomize-Gitops-ArgoCD-Jenkins-4-to-8-Years",
+        "firstSeen": "2026-03-14T22:40:14.287919",
+        "restrictions": []
+      },
+      "2008895": {
+        "id": "2008895",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008895/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-14T22:40:14.314187",
+        "restrictions": []
+      },
+      "2008854": {
+        "id": "2008854",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008854/Software-Engineer",
+        "firstSeen": "2026-03-14T22:42:29.621732",
+        "restrictions": []
       }
     },
     "visa": {
@@ -23899,6 +23934,13 @@
         "url": "https://careers.synopsys.com/job/canonsburg/strategic-account-manager/44408/92746345856",
         "firstSeen": "2026-03-14T14:45:22.381789",
         "restrictions": []
+      },
+      "92774376912": {
+        "id": "92774376912",
+        "title": "Senior Account ManagerIrvine, CaliforniaCategory:SalesPosted:03/12/2026Job ID:16163",
+        "url": "https://careers.synopsys.com/job/irvine/senior-account-manager/44408/92774376912",
+        "firstSeen": "2026-03-14T22:46:06.430060",
+        "restrictions": []
       }
     },
     "chewy": {
@@ -26190,5 +26232,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-14T14:48:06.992196"
+  "lastUpdated": "2026-03-14T22:48:45.857521"
 }
