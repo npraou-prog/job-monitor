@@ -599,6 +599,370 @@ def fetch_chewy_jobs(base_url, db, company_id):
 
 
 # =============================================================================
+# CIGNA FETCHER (Playwright - JS rendered, handles both Cigna brands)
+# =============================================================================
+def fetch_cigna_jobs(base_url, db, company_id):
+    """Fetch Cigna Group jobs using Playwright (works for both Healthcare and Evernorth URLs)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(4000)
+
+        # Get total count
+        total = 500
+        try:
+            count_text = page.locator('text=/\\d+ jobs/i, text=/\\d+ results/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 500", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+
+        while page_num < max_pages:
+            # Cigna uses /en_US/job/ or /us/en/job/ patterns
+            links = page.locator('a[href*="/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/job/([^/?#]+)', href)
+                    if job_id_match and title:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://jobs.thecignagroup.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Try next page button
+            try:
+                next_btn = page.locator('a[aria-label="Next"], button[aria-label="Next"], a:has-text("Next"), li.next a').first
+                if next_btn.count() > 0 and next_btn.is_visible():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# ELEVANCE HEALTH FETCHER (Playwright - JS rendered, paginated)
+# =============================================================================
+def fetch_elevancehealth_jobs(base_url, db, company_id):
+    """Fetch Elevance Health jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(4000)
+
+        # Get total count
+        total = 500
+        try:
+            count_text = page.locator('text=/\\d+ jobs/i, text=/\\d+ results/i, text=/\\d+ open/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 500", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+
+        while page_num < max_pages:
+            # Elevance pattern: /job-title-slug/job/HEX_ID
+            links = page.locator('a[href*="/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    # Elevance pattern: /job-title-slug/job/HEX_ID
+                    job_id_match = re.search(r'/job/([A-Fa-f0-9]{8,})', href)
+                    if job_id_match and title and 'Apply Now' not in title:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://careers.elevancehealth.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Try next page
+            try:
+                next_btn = page.locator('a[aria-label="Next"], button[aria-label="Next"], a:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# GENERAL MOTORS FETCHER (Playwright - JS rendered)
+# =============================================================================
+def fetch_gm_jobs(base_url, db, company_id):
+    """Fetch General Motors jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        # GM job listings live at /en/jobs/ not root
+        gm_jobs_url = "https://search-careers.gm.com/en/jobs/"
+        print(f"Loading {gm_jobs_url}...", flush=True)
+        page.goto(gm_jobs_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(4000)
+
+        # Get total count
+        total = 500
+        try:
+            count_text = page.locator('text=/\\d+ jobs/i, text=/\\d+ results/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 500", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+
+        while page_num < max_pages:
+            # GM pattern: /en/jobs/jr-XXXXXXXXX/job-title/
+            links = page.locator('a[href*="/en/jobs/jr-"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/en/jobs/(jr-\d+)/', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://search-careers.gm.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Try next page
+            try:
+                next_btn = page.locator('a[aria-label="Next"], button[aria-label="Next"], a:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# COCA-COLA FETCHER (Playwright - JS rendered)
+# =============================================================================
+def fetch_cocacola_jobs(base_url, db, company_id):
+    """Fetch Coca-Cola jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(4000)
+
+        # Get total count
+        total = 200
+        try:
+            count_text = page.locator('text=/\\d+ Live Results/i, text=/\\d+ jobs/i, text=/\\d+ results/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 200
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 200", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 50
+
+        while page_num < max_pages:
+            # Coca-Cola pattern: /job/{numeric_id}/{job-title-slug}/
+            links = page.locator('a[href*="/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    # Match: /job/23130156/job-title-slug/
+                    job_id_match = re.search(r'/job/(\d+)/', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://careers.coca-colacompany.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Try next page
+            try:
+                next_btn = page.locator('a[aria-label="Next"], button[aria-label="Next"], a:has-text("Next"), button:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # META FETCHER (Playwright - JS rendered)
 # =============================================================================
 def fetch_meta_jobs(base_url, db, company_id):
@@ -720,6 +1084,11 @@ FETCHERS = {
     "synopsys": fetch_synopsys_jobs,
     "chewy": fetch_chewy_jobs,
     "meta": fetch_meta_jobs,
+    "cigna-healthcare": fetch_cigna_jobs,
+    "cigna-evernorth": fetch_cigna_jobs,
+    "elevancehealth": fetch_elevancehealth_jobs,
+    "gm": fetch_gm_jobs,
+    "cocacola": fetch_cocacola_jobs,
 }
 
 
