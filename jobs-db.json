@@ -6494,6 +6494,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Touche-LLP-Government-Public-Services-Analyst-Business-Accounting-and-Finance/309200",
         "firstSeen": "2026-03-13T22:35:15.208024",
         "restrictions": []
+      },
+      "322019": {
+        "id": "322019",
+        "title": "Guidewire ClaimCenter Developer",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Guidewire-ClaimCenter-Developer/322019",
+        "firstSeen": "2026-03-14T14:32:52.105105",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -22981,6 +22988,76 @@
         "url": "https://jobs.fidelity.com/en/jobs/2125945/planning-and-advice-associate-covington-ky/",
         "firstSeen": "2026-03-13T22:45:26.085392",
         "restrictions": []
+      },
+      "2121677": {
+        "id": "2121677",
+        "title": "Product Designer",
+        "url": "https://jobs.fidelity.com/en/jobs/2121677/product-designer/",
+        "firstSeen": "2026-03-14T14:43:29.845238",
+        "restrictions": []
+      },
+      "2125913": {
+        "id": "2125913",
+        "title": "Planning And Advice Associate Smithfield Ri",
+        "url": "https://jobs.fidelity.com/en/jobs/2125913/planning-and-advice-associate-smithfield-ri/",
+        "firstSeen": "2026-03-14T14:43:29.847154",
+        "restrictions": []
+      },
+      "2124370": {
+        "id": "2124370",
+        "title": "Principal Performance Engineer",
+        "url": "https://jobs.fidelity.com/en/jobs/2124370/principal-performance-engineer/",
+        "firstSeen": "2026-03-14T14:43:29.849158",
+        "restrictions": []
+      },
+      "2124143": {
+        "id": "2124143",
+        "title": "Senior Financial Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2124143/senior-financial-analyst/",
+        "firstSeen": "2026-03-14T14:43:29.851069",
+        "restrictions": []
+      },
+      "2125214": {
+        "id": "2125214",
+        "title": "Quantitative Researcher Portfolio Optimization",
+        "url": "https://jobs.fidelity.com/en/jobs/2125214/quantitative-researcher-portfolio-optimization/",
+        "firstSeen": "2026-03-14T14:43:29.853103",
+        "restrictions": []
+      },
+      "2125968": {
+        "id": "2125968",
+        "title": "Financial Services Representative Boise Id",
+        "url": "https://jobs.fidelity.com/en/jobs/2125968/financial-services-representative-boise-id/",
+        "firstSeen": "2026-03-14T14:43:29.855034",
+        "restrictions": []
+      },
+      "2124763": {
+        "id": "2124763",
+        "title": "Senior System Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2124763/senior-system-analyst/",
+        "firstSeen": "2026-03-14T14:43:29.857046",
+        "restrictions": []
+      },
+      "2123503": {
+        "id": "2123503",
+        "title": "Senior Planning Associate Financial Solutions",
+        "url": "https://jobs.fidelity.com/en/jobs/2123503/senior-planning-associate-financial-solutions/",
+        "firstSeen": "2026-03-14T14:43:29.858945",
+        "restrictions": []
+      },
+      "2124696": {
+        "id": "2124696",
+        "title": "Analyst Fraud Detection And Analytics",
+        "url": "https://jobs.fidelity.com/en/jobs/2124696/analyst-fraud-detection-and-analytics/",
+        "firstSeen": "2026-03-14T14:43:29.860817",
+        "restrictions": []
+      },
+      "2121726": {
+        "id": "2121726",
+        "title": "Compliance Director Cash Management And Payments",
+        "url": "https://jobs.fidelity.com/en/jobs/2121726/compliance-director-cash-management-and-payments/",
+        "firstSeen": "2026-03-14T14:43:29.882523",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -23800,6 +23877,27 @@
         "title": "R&D Engineering, Sr Staff EngineerEindhoven, NetherlandsCategory:EngineeringPosted:03/12/2026Job ID:16181",
         "url": "https://careers.synopsys.com/job/eindhoven/r-and-d-engineering-sr-staff-engineer/44408/92727418144",
         "firstSeen": "2026-03-13T22:47:35.621007",
+        "restrictions": []
+      },
+      "92746346128": {
+        "id": "92746346128",
+        "title": "Product Sales Executive (Optics)United States Off-siteCategory:SalesPosted:03/12/2026Job ID:16199",
+        "url": "https://careers.synopsys.com/job/united-states/product-sales-executive-optics/44408/92746346128",
+        "firstSeen": "2026-03-14T14:45:22.381738",
+        "restrictions": []
+      },
+      "92746346048": {
+        "id": "92746346048",
+        "title": "Applications Engineering, Staff Engineer - Mission Engineering (m/f/d)Germany Off-siteCategory:EngineeringPosted:03/12/2026Job ID:16062",
+        "url": "https://careers.synopsys.com/job/berlin/applications-engineering-staff-engineer-mission-engineering-m-f-d/44408/92746346048",
+        "firstSeen": "2026-03-14T14:45:22.381771",
+        "restrictions": []
+      },
+      "92746345856": {
+        "id": "92746345856",
+        "title": "Strategic Account ManagerCanonsburg, PennsylvaniaCategory:SalesPosted:03/12/2026Job ID:16224",
+        "url": "https://careers.synopsys.com/job/canonsburg/strategic-account-manager/44408/92746345856",
+        "firstSeen": "2026-03-14T14:45:22.381789",
         "restrictions": []
       }
     },
@@ -25417,6 +25515,34 @@
         "url": "https://careers.chewy.com/us/en/job/R28976/Maintenance-Tech-I",
         "firstSeen": "2026-03-13T22:49:29.788358",
         "restrictions": []
+      },
+      "R27479": {
+        "id": "R27479",
+        "title": "Fulfillment Specialist",
+        "url": "https://careers.chewy.com/us/en/job/R27479/Fulfillment-Specialist",
+        "firstSeen": "2026-03-14T14:47:15.469231",
+        "restrictions": []
+      },
+      "R27397": {
+        "id": "R27397",
+        "title": "Fulfillment Specialist",
+        "url": "https://careers.chewy.com/us/en/job/R27397/Fulfillment-Specialist",
+        "firstSeen": "2026-03-14T14:47:15.485053",
+        "restrictions": []
+      },
+      "R27398": {
+        "id": "R27398",
+        "title": "Fulfillment Specialist - (Nights)",
+        "url": "https://careers.chewy.com/us/en/job/R27398/Fulfillment-Specialist-Nights",
+        "firstSeen": "2026-03-14T14:47:15.492598",
+        "restrictions": []
+      },
+      "R27401": {
+        "id": "R27401",
+        "title": "Fulfillment Specialist Nights",
+        "url": "https://careers.chewy.com/us/en/job/R27401/Fulfillment-Specialist-Nights",
+        "firstSeen": "2026-03-14T14:47:15.500202",
+        "restrictions": []
       }
     },
     "meta": {
@@ -26033,8 +26159,36 @@
         "url": "https://www.metacareers.com/profile/job_details/7868993783158276",
         "firstSeen": "2026-03-13T22:50:07.647296",
         "restrictions": []
+      },
+      "1448938426073198": {
+        "id": "1448938426073198",
+        "title": "Director, Strategic Sourcing Business Operations",
+        "url": "https://www.metacareers.com/profile/job_details/1448938426073198",
+        "firstSeen": "2026-03-14T14:47:59.251521",
+        "restrictions": []
+      },
+      "954925830524757": {
+        "id": "954925830524757",
+        "title": "AI Research Scientist, SysML - FAIR",
+        "url": "https://www.metacareers.com/profile/job_details/954925830524757",
+        "firstSeen": "2026-03-14T14:47:59.258450",
+        "restrictions": []
+      },
+      "2155154358632395": {
+        "id": "2155154358632395",
+        "title": "Corporate Development Associate",
+        "url": "https://www.metacareers.com/profile/job_details/2155154358632395",
+        "firstSeen": "2026-03-14T14:47:59.263555",
+        "restrictions": []
+      },
+      "2174882726662324": {
+        "id": "2174882726662324",
+        "title": "Marketing Technology Manager",
+        "url": "https://www.metacareers.com/profile/job_details/2174882726662324",
+        "firstSeen": "2026-03-14T14:47:59.288207",
+        "restrictions": []
       }
     }
   },
-  "lastUpdated": "2026-03-13T22:50:15.339051"
+  "lastUpdated": "2026-03-14T14:48:06.992196"
 }

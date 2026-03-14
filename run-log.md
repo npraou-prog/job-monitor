@@ -143,3 +143,16 @@
 | 2026-03-13 | 22:33 | Elevance Health | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
 | 2026-03-13 | 22:33 | General Motors | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
 | 2026-03-13 | 22:33 | Coca-Cola | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-14 | 14:31 | Deloitte | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-03-14 | 14:31 | Cisco | No change | 0 | 0 | - |
+| 2026-03-14 | 14:31 | Visa | No change | 0 | 0 | - |
+| 2026-03-14 | 14:31 | Global Partners | No change | 0 | 0 | - |
+| 2026-03-14 | 14:31 | Fidelity | 🎯 MATCH | 10 | 3 | 3 relevant found! |
+| 2026-03-14 | 14:31 | Synopsys | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-03-14 | 14:31 | Chewy | NEW | 4 | 0 | 4 new (not matching) |
+| 2026-03-14 | 14:31 | Meta | 🎯 MATCH | 4 | 1 | 1 relevant found! |
+| 2026-03-14 | 14:31 | Cigna Healthcare | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-14 | 14:31 | Cigna Evernorth Health Services | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-14 | 14:31 | Elevance Health | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-14 | 14:31 | General Motors | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-03-14 | 14:31 | Coca-Cola | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
