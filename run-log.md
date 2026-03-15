@@ -161,3 +161,16 @@
 | 2026-03-14 | 18:40 | Elevance Health | BASELINE | 362 | 20 | Initial scan, 362 jobs indexed |
 | 2026-03-14 | 18:42 | General Motors | BASELINE | 788 | 79 | Initial scan, 788 jobs indexed |
 | 2026-03-14 | 18:47 | Coca-Cola | BASELINE | 12 | 1 | Initial scan, 12 jobs indexed |
+| 2026-03-15 | 14:33 | Deloitte | No change | 0 | 0 | - |
+| 2026-03-15 | 14:33 | Cisco | NEW | 5 | 0 | 5 new (not matching) |
+| 2026-03-15 | 14:33 | Visa | No change | 0 | 0 | - |
+| 2026-03-15 | 14:33 | Global Partners | No change | 0 | 0 | - |
+| 2026-03-15 | 14:33 | Fidelity | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-03-15 | 14:33 | Synopsys | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-03-15 | 14:33 | Chewy | No change | 0 | 0 | - |
+| 2026-03-15 | 14:33 | Meta | 🎯 MATCH | 8 | 1 | 1 relevant found! |
+| 2026-03-15 | 14:33 | Cigna Healthcare | NEW | 6 | 0 | 6 new (not matching) |
+| 2026-03-15 | 14:33 | Cigna Evernorth Health Services | NEW | 8 | 0 | 8 new (not matching) |
+| 2026-03-15 | 14:33 | Elevance Health | No change | 0 | 0 | - |
+| 2026-03-15 | 14:33 | General Motors | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-03-15 | 14:33 | Coca-Cola | NEW | 1 | 0 | 1 new (not matching) |

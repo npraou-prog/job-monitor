@@ -14493,6 +14493,41 @@
         "url": "https://careers.cisco.com/global/en/job/2004800/Sales-Operations-Analyst-ThousandEyes",
         "firstSeen": "2026-03-13T22:43:51.712478",
         "restrictions": []
+      },
+      "2008851": {
+        "id": "2008851",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008851/Software-Engineer",
+        "firstSeen": "2026-03-15T14:36:28.824517",
+        "restrictions": []
+      },
+      "2009401": {
+        "id": "2009401",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009401/Software-Engineer",
+        "firstSeen": "2026-03-15T14:36:28.839478",
+        "restrictions": []
+      },
+      "2008895": {
+        "id": "2008895",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2008895/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-15T14:36:33.878700",
+        "restrictions": []
+      },
+      "2008854": {
+        "id": "2008854",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008854/Software-Engineer",
+        "firstSeen": "2026-03-15T14:36:39.139696",
+        "restrictions": []
+      },
+      "2010830": {
+        "id": "2010830",
+        "title": "Cloud Engineer - Infrastructure & Platform Engineering - Terraform or Ansible | AWS, GCP, OpenStack | Kubernetes, Helm / Kustomize | Gitops, ArgoCD / Jenkins | 4 to 8 Years",
+        "url": "https://careers.cisco.com/global/en/job/2010830/Cloud-Engineer-Infrastructure-Platform-Engineering-Terraform-or-Ansible-AWS-GCP-OpenStack-Kubernetes-Helm-Kustomize-Gitops-ArgoCD-Jenkins-4-to-8-Years",
+        "firstSeen": "2026-03-15T14:42:20.012829",
+        "restrictions": []
       }
     },
     "visa": {
@@ -23058,6 +23093,13 @@
         "url": "https://jobs.fidelity.com/en/jobs/2121726/compliance-director-cash-management-and-payments/",
         "firstSeen": "2026-03-14T14:43:29.882523",
         "restrictions": []
+      },
+      "2124972": {
+        "id": "2124972",
+        "title": "Financial Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2124972/financial-analyst/",
+        "firstSeen": "2026-03-15T14:44:41.809216",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -23898,6 +23940,13 @@
         "title": "Strategic Account ManagerCanonsburg, PennsylvaniaCategory:SalesPosted:03/12/2026Job ID:16224",
         "url": "https://careers.synopsys.com/job/canonsburg/strategic-account-manager/44408/92746345856",
         "firstSeen": "2026-03-14T14:45:22.381789",
+        "restrictions": []
+      },
+      "92774376912": {
+        "id": "92774376912",
+        "title": "Senior Account ManagerIrvine, CaliforniaCategory:SalesPosted:03/12/2026Job ID:16163",
+        "url": "https://careers.synopsys.com/job/irvine/senior-account-manager/44408/92774376912",
+        "firstSeen": "2026-03-15T14:48:05.396149",
         "restrictions": []
       }
     },
@@ -26187,6 +26236,62 @@
         "url": "https://www.metacareers.com/profile/job_details/2174882726662324",
         "firstSeen": "2026-03-14T14:47:59.288207",
         "restrictions": []
+      },
+      "1809724276373034": {
+        "id": "1809724276373034",
+        "title": "Product Growth Analyst",
+        "url": "https://www.metacareers.com/profile/job_details/1809724276373034",
+        "firstSeen": "2026-03-15T14:50:43.837823",
+        "restrictions": []
+      },
+      "9657291271065759": {
+        "id": "9657291271065759",
+        "title": "Software Engineer, Product",
+        "url": "https://www.metacareers.com/profile/job_details/9657291271065759",
+        "firstSeen": "2026-03-15T14:50:43.842831",
+        "restrictions": []
+      },
+      "1770681236847041": {
+        "id": "1770681236847041",
+        "title": "Software Engineer, Infrastructure",
+        "url": "https://www.metacareers.com/profile/job_details/1770681236847041",
+        "firstSeen": "2026-03-15T14:50:43.847923",
+        "restrictions": []
+      },
+      "1420853345578936": {
+        "id": "1420853345578936",
+        "title": "Product Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1420853345578936",
+        "firstSeen": "2026-03-15T14:50:43.856666",
+        "restrictions": []
+      },
+      "2159612637708089": {
+        "id": "2159612637708089",
+        "title": "Technical Program Manager, ML",
+        "url": "https://www.metacareers.com/profile/job_details/2159612637708089",
+        "firstSeen": "2026-03-15T14:50:43.867609",
+        "restrictions": []
+      },
+      "1296230207698571": {
+        "id": "1296230207698571",
+        "title": "Technical Program Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1296230207698571",
+        "firstSeen": "2026-03-15T14:50:43.882250",
+        "restrictions": []
+      },
+      "2486789151677735": {
+        "id": "2486789151677735",
+        "title": "Software Engineer, Infrastructure",
+        "url": "https://www.metacareers.com/profile/job_details/2486789151677735",
+        "firstSeen": "2026-03-15T14:50:43.886806",
+        "restrictions": []
+      },
+      "1238249364564427": {
+        "id": "1238249364564427",
+        "title": "Product Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1238249364564427",
+        "firstSeen": "2026-03-15T14:50:43.891185",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -26259,6 +26364,48 @@
         "url": "https://jobs.thecignagroup.com/us/en/job/26002605/Navigation-Step-Up-Service-Advocate-Cigna-Healthcare-Remote",
         "firstSeen": "2026-03-14T18:30:47.563593",
         "restrictions": []
+      },
+      "26002380": {
+        "id": "26002380",
+        "title": "Enrollment/Billing Representative - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002380/Enrollment-Billing-Representative-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.679564",
+        "restrictions": []
+      },
+      "26002216": {
+        "id": "26002216",
+        "title": "Health Claims Examiner Coach - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002216/Health-Claims-Examiner-Coach-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.685439",
+        "restrictions": []
+      },
+      "26002213": {
+        "id": "26002213",
+        "title": "Health Claims Examiner Coach - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002213/Health-Claims-Examiner-Coach-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.691099",
+        "restrictions": []
+      },
+      "26002220": {
+        "id": "26002220",
+        "title": "Customer Service Coach - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002220/Customer-Service-Coach-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.696719",
+        "restrictions": []
+      },
+      "26002381": {
+        "id": "26002381",
+        "title": "Plan Automation Senior Representative - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002381/Plan-Automation-Senior-Representative-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.702141",
+        "restrictions": []
+      },
+      "26002394": {
+        "id": "26002394",
+        "title": "Plan Automation Senior Representative - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002394/Plan-Automation-Senior-Representative-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-03-15T14:51:30.707729",
+        "restrictions": []
       }
     },
     "cigna-evernorth": {
@@ -26330,6 +26477,62 @@
         "title": "Managing Director Express Scripts and EnGuide Pharmacies",
         "url": "https://jobs.thecignagroup.com/us/en/job/26001242/Managing-Director-Express-Scripts-and-EnGuide-Pharmacies",
         "firstSeen": "2026-03-14T18:32:00.743194",
+        "restrictions": []
+      },
+      "26000822": {
+        "id": "26000822",
+        "title": "Staff Pharmacist Manager - Accredo - Englewood, CO",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26000822/Staff-Pharmacist-Manager-Accredo-Englewood-CO",
+        "firstSeen": "2026-03-15T14:52:40.393569",
+        "restrictions": []
+      },
+      "26002060": {
+        "id": "26002060",
+        "title": "Senior Sales Advisor - Freedom Fertility - Remote (AZ, NM,CO, UT)",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002060/Senior-Sales-Advisor-Freedom-Fertility-Remote-AZ-NM-CO-UT",
+        "firstSeen": "2026-03-15T14:52:40.406088",
+        "restrictions": []
+      },
+      "26001396": {
+        "id": "26001396",
+        "title": "Home Infusion Nurse, Per Diem - Accredo - Casper, WY",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26001396/Home-Infusion-Nurse-Per-Diem-Accredo-Casper-WY",
+        "firstSeen": "2026-03-15T14:52:40.412123",
+        "restrictions": []
+      },
+      "25016795": {
+        "id": "25016795",
+        "title": "Home Infusion Nurse, 32 hours - Accredo - Bismarck, ND",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25016795/Home-Infusion-Nurse-32-hours-Accredo-Bismarck-ND",
+        "firstSeen": "2026-03-15T14:52:40.418108",
+        "restrictions": []
+      },
+      "26002296": {
+        "id": "26002296",
+        "title": "Home Infusion Nurse - Accredo - Omaha, NE",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002296/Home-Infusion-Nurse-Accredo-Omaha-NE",
+        "firstSeen": "2026-03-15T14:52:40.424222",
+        "restrictions": []
+      },
+      "26000994": {
+        "id": "26000994",
+        "title": "RN - Clinic RN & Health Coach - Evernorth - Ottawa KS",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26000994/RN-Clinic-RN-Health-Coach-Evernorth-Ottawa-KS",
+        "firstSeen": "2026-03-15T14:52:40.430360",
+        "restrictions": []
+      },
+      "25016959": {
+        "id": "25016959",
+        "title": "Home Infusion Nurse, Per Diem - Accredo - Stillwater, OK",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25016959/Home-Infusion-Nurse-Per-Diem-Accredo-Stillwater-OK",
+        "firstSeen": "2026-03-15T14:52:40.436331",
+        "restrictions": []
+      },
+      "26001348": {
+        "id": "26001348",
+        "title": "Fulfillment Staff Pharmacist - Accredo - Lenexa, KS",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26001348/Fulfillment-Staff-Pharmacist-Accredo-Lenexa-KS",
+        "firstSeen": "2026-03-15T14:52:40.442149",
         "restrictions": []
       }
     },
@@ -34385,6 +34588,20 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202508511/staff-software-engineer-amr-planning-controls/",
         "firstSeen": "2026-03-14T18:47:19.220547",
         "restrictions": []
+      },
+      "jr-202605495": {
+        "id": "jr-202605495",
+        "title": "Security Manager",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605495/security-manager/",
+        "firstSeen": "2026-03-15T14:56:22.024310",
+        "restrictions": []
+      },
+      "jr-202605373": {
+        "id": "jr-202605373",
+        "title": "Senior AI Researcher - AV",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605373/senior-ai-researcher-av/",
+        "firstSeen": "2026-03-15T14:56:22.029181",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -34471,8 +34688,15 @@
         "url": "https://careers.coca-colacompany.com/job/23129967/director-tech-platforms-customers-johannesburg-za/",
         "firstSeen": "2026-03-14T18:48:01.100577",
         "restrictions": []
+      },
+      "23140617": {
+        "id": "23140617",
+        "title": "Senior Manager, Software Engineer, Data Platform Segmentation",
+        "url": "https://careers.coca-colacompany.com/job/23140617/senior-manager-software-engineer-data-platform-segmentation-atlanta-ga/",
+        "firstSeen": "2026-03-15T15:00:45.671490",
+        "restrictions": []
       }
     }
   },
-  "lastUpdated": "2026-03-14T18:48:01.136957"
+  "lastUpdated": "2026-03-15T15:00:45.864276"
 }
