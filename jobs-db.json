@@ -14528,6 +14528,27 @@
         "url": "https://careers.cisco.com/global/en/job/2010830/Cloud-Engineer-Infrastructure-Platform-Engineering-Terraform-or-Ansible-AWS-GCP-OpenStack-Kubernetes-Helm-Kustomize-Gitops-ArgoCD-Jenkins-4-to-8-Years",
         "firstSeen": "2026-03-15T14:42:20.012829",
         "restrictions": []
+      },
+      "2010172": {
+        "id": "2010172",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010172/Software-Engineer",
+        "firstSeen": "2026-03-15T22:41:49.320393",
+        "restrictions": []
+      },
+      "2010171": {
+        "id": "2010171",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010171/Software-Engineer",
+        "firstSeen": "2026-03-15T22:43:21.173781",
+        "restrictions": []
+      },
+      "2008238": {
+        "id": "2008238",
+        "title": "Test and Qual HW Board Design Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008238/Test-and-Qual-HW-Board-Design-Engineer",
+        "firstSeen": "2026-03-15T22:43:21.180563",
+        "restrictions": []
       }
     },
     "visa": {
@@ -23947,6 +23968,13 @@
         "title": "Senior Account ManagerIrvine, CaliforniaCategory:SalesPosted:03/12/2026Job ID:16163",
         "url": "https://careers.synopsys.com/job/irvine/senior-account-manager/44408/92774376912",
         "firstSeen": "2026-03-15T14:48:05.396149",
+        "restrictions": []
+      },
+      "92364366592": {
+        "id": "92364366592",
+        "title": "Senior Director, Technical Product ManagementPlymouth, United KingdomCategory:Product ManagementPosted:03/02/2026Job ID:15529",
+        "url": "https://careers.synopsys.com/job/plymouth/senior-director-technical-product-management/44408/92364366592",
+        "firstSeen": "2026-03-15T22:48:53.171380",
         "restrictions": []
       }
     },
@@ -34602,6 +34630,41 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202605373/senior-ai-researcher-av/",
         "firstSeen": "2026-03-15T14:56:22.029181",
         "restrictions": []
+      },
+      "jr-202524054": {
+        "id": "jr-202524054",
+        "title": "Senior Embedded Software Test Engineer - RTOS",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202524054/senior-embedded-software-test-engineer-rtos/",
+        "firstSeen": "2026-03-15T22:57:06.995325",
+        "restrictions": []
+      },
+      "jr-202601573": {
+        "id": "jr-202601573",
+        "title": "Vehicle Safety Engineer - Indaiatuba/SP",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202601573/vehicle-safety-engineer-indaiatuba-sp/",
+        "firstSeen": "2026-03-15T22:57:07.003972",
+        "restrictions": []
+      },
+      "jr-202603007": {
+        "id": "jr-202603007",
+        "title": "Staff Software Engineer, Vehicle AI",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202603007/staff-software-engineer-vehicle-ai/",
+        "firstSeen": "2026-03-15T22:57:07.009068",
+        "restrictions": []
+      },
+      "jr-202603415": {
+        "id": "jr-202603415",
+        "title": "Senior Software Engineer, Vehicle AI",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202603415/senior-software-engineer-vehicle-ai/",
+        "firstSeen": "2026-03-15T22:57:07.013279",
+        "restrictions": []
+      },
+      "jr-202605668": {
+        "id": "jr-202605668",
+        "title": "AI Researcher (AV) - Summer Internship",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605668/ai-researcher-av-summer-internship/",
+        "firstSeen": "2026-03-15T22:57:07.021624",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -34698,5 +34761,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-15T15:00:45.864276"
+  "lastUpdated": "2026-03-15T23:01:31.633449"
 }

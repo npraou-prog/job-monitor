@@ -1,6 +1,6 @@
 # Job Scan Summary - 2026-03-15
 
-**New jobs today:** 32
+**New jobs today:** 41
 **Relevant new jobs:** 2
 
 🎯 **Fidelity** - 1 relevant new jobs:
