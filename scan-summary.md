@@ -1,29 +1,24 @@
-# Job Scan Summary - 2026-03-16
+# Job Scan Summary - 2026-03-17
 
-**New jobs today:** 205
-**Relevant new jobs:** 11
-
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [Lead Data Engineer Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Engineer-Analyst/327041)
-  • [Cyber Survivability and Integration Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Survivability-and-Integration-Analyst/326337)
+**New jobs today:** 80
+**Relevant new jobs:** 10
 
 🎯 **Visa** - 1 relevant new jobs:
-  • [Director, Machine Learning](https://corporate.visa.com/en/jobs/REF062671W)
+  • [Machine Learning Engineer - Sr. Consultant Level](https://corporate.visa.com/en/jobs/REF079283W)
 
-🎯 **Globalpartners** - 1 relevant new jobs:
-  • [Financial Planning Analysis Analyst](https://careers.globalp.com/financial-planning-analysis-analyst/job/P1-4972120-0)
-
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Macro Research Analyst](https://jobs.fidelity.com/en/jobs/2121132/macro-research-analyst/)
-  • [Data Scientist](https://jobs.fidelity.com/en/jobs/2124705/data-scientist/)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Macro Research Analyst](https://jobs.fidelity.com/en/jobs/2126051/macro-research-analyst/)
+  • [Principal Data Science Engineer Financial Crimes](https://jobs.fidelity.com/en/jobs/2121430/principal-data-science-engineer-financial-crimes/)
+  • [Abandoned Property Analyst](https://jobs.fidelity.com/en/jobs/2125061/abandoned-property-analyst/)
 
 🎯 **Chewy** - 1 relevant new jobs:
-  • [Research Scientist III](https://careers.chewy.com/us/en/job/R28674/Research-Scientist-III)
+  • [Senior Machine Learning Engineer](https://careers.chewy.com/us/en/job/R28942/Senior-Machine-Learning-Engineer)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Financial Operations Analyst Lead](https://careers.elevancehealth.com/financial-operations-analyst-lead/job/91D979190358972C13EBABA26A6C20A2)
-  • [Member Coach Sat Analyst](https://careers.elevancehealth.com/member-coach-sat-analyst/job/D63344107A94E6DC2086D79226768B6A)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist Intern, Language and Agents (PhD)](https://www.metacareers.com/profile/job_details/679961588479426)
 
-🎯 **Gm** - 2 relevant new jobs:
-  • [Tax Analyst – International Tax Analysis Group](https://search-careers.gm.com/en/jobs/jr-202604972/tax-analyst-international-tax-analysis-group/)
-  • [Sr. HR Reporting Analyst](https://search-careers.gm.com/en/jobs/jr-202605676/sr-hr-reporting-analyst/)
+🎯 **Gm** - 4 relevant new jobs:
+  • [Payroll Backoffice Analyst](https://search-careers.gm.com/en/jobs/jr-202604011/payroll-backoffice-analyst/)
+  • [Senior Analyst – Global Warranty - Labor Information System](https://search-careers.gm.com/en/jobs/jr-202605017/senior-analyst-global-warranty-labor-information-system/)
+  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202604993/hr-services-call-handling-analyst/)
+  • [Payroll Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202605006/payroll-financial-analyst/)

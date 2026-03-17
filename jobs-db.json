@@ -6659,6 +6659,76 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Full-Time-Tax-Consultant-JD-Summer-2026-Winter-2027/314930",
         "firstSeen": "2026-03-16T22:41:41.244321",
         "restrictions": []
+      },
+      "327189": {
+        "id": "327189",
+        "title": "Project Delivery Manager - Regulatory Reporting Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Manager-Regulatory-Reporting-Manager/327189",
+        "firstSeen": "2026-03-17T14:59:22.623696",
+        "restrictions": []
+      },
+      "327188": {
+        "id": "327188",
+        "title": "Fund Finance and Intermediary Payments Specialist",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Fund-Finance-and-Intermediary-Payments-Specialist/327188",
+        "firstSeen": "2026-03-17T14:59:22.623719",
+        "restrictions": []
+      },
+      "327179": {
+        "id": "327179",
+        "title": "Strategic Advisor - Government & Public Services",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Strategic-Advisor-Government-Public-Services/327179",
+        "firstSeen": "2026-03-17T14:59:22.623731",
+        "restrictions": []
+      },
+      "327171": {
+        "id": "327171",
+        "title": "Microsoft Dynamics 365 Consulting Senior Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Microsoft-Dynamics-365-Consulting-Senior-Manager/327171",
+        "firstSeen": "2026-03-17T14:59:22.623741",
+        "restrictions": []
+      },
+      "327166": {
+        "id": "327166",
+        "title": "Humans x Machines Strategies Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Humans-x-Machines-Strategies-Manager/327166",
+        "firstSeen": "2026-03-17T14:59:22.623750",
+        "restrictions": []
+      },
+      "327162": {
+        "id": "327162",
+        "title": "Humans x Machines Strategies Senior Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Humans-x-Machines-Strategies-Senior-Consultant/327162",
+        "firstSeen": "2026-03-17T14:59:22.623758",
+        "restrictions": []
+      },
+      "327160": {
+        "id": "327160",
+        "title": "Humans x Machines Strategies Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Humans-x-Machines-Strategies-Consultant/327160",
+        "firstSeen": "2026-03-17T14:59:22.623766",
+        "restrictions": []
+      },
+      "326868": {
+        "id": "326868",
+        "title": "Engineering Foundry -Engineering Management -Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Engineering-Foundry-Engineering-Management-Manager/326868",
+        "firstSeen": "2026-03-17T14:59:28.468463",
+        "restrictions": []
+      },
+      "319955": {
+        "id": "319955",
+        "title": "Insights and Analytics Adobe CJA Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Insights-and-Analytics-Adobe-CJA-Consultant/319955",
+        "firstSeen": "2026-03-17T15:01:06.828207",
+        "restrictions": []
+      },
+      "317945": {
+        "id": "317945",
+        "title": "Channel Sales Manager - AWS Cloud - Government & Public Services",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Channel-Sales-Manager-AWS-Cloud-Government-Public-Services/317945",
+        "firstSeen": "2026-03-17T15:01:15.949292",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -14819,6 +14889,27 @@
         "url": "https://careers.cisco.com/global/en/job/2008256/ASIC-Engineer",
         "firstSeen": "2026-03-16T22:45:27.059778",
         "restrictions": []
+      },
+      "2010847": {
+        "id": "2010847",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010847/Software-Engineer",
+        "firstSeen": "2026-03-17T15:04:37.049202",
+        "restrictions": []
+      },
+      "2010997": {
+        "id": "2010997",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010997/Software-Engineer",
+        "firstSeen": "2026-03-17T15:05:49.271955",
+        "restrictions": []
+      },
+      "2008258": {
+        "id": "2008258",
+        "title": "ASIC Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2008258/ASIC-Engineer",
+        "firstSeen": "2026-03-17T15:05:56.764666",
+        "restrictions": []
       }
     },
     "visa": {
@@ -18127,6 +18218,34 @@
         "title": "Director, Client Consulting",
         "url": "https://corporate.visa.com/en/jobs/REF079547W",
         "firstSeen": "2026-03-16T22:49:50.599428",
+        "restrictions": []
+      },
+      "REF077646W": {
+        "id": "REF077646W",
+        "title": "Product Manager",
+        "url": "https://corporate.visa.com/en/jobs/REF077646W",
+        "firstSeen": "2026-03-17T15:10:52.473958",
+        "restrictions": []
+      },
+      "REF075057W": {
+        "id": "REF075057W",
+        "title": "Senior Manager, VD Strategy",
+        "url": "https://corporate.visa.com/en/jobs/REF075057W",
+        "firstSeen": "2026-03-17T15:10:52.489141",
+        "restrictions": []
+      },
+      "REF079283W": {
+        "id": "REF079283W",
+        "title": "Machine Learning Engineer - Sr. Consultant Level",
+        "url": "https://corporate.visa.com/en/jobs/REF079283W",
+        "firstSeen": "2026-03-17T15:10:52.504306",
+        "restrictions": []
+      },
+      "REF079329W": {
+        "id": "REF079329W",
+        "title": "Sr. SW Engineer",
+        "url": "https://corporate.visa.com/en/jobs/REF079329W",
+        "firstSeen": "2026-03-17T15:10:52.511689",
         "restrictions": []
       }
     },
@@ -23552,6 +23671,69 @@
         "url": "https://jobs.fidelity.com/en/jobs/2125606/financial-consultant-tysons-corner-va/",
         "firstSeen": "2026-03-16T22:50:08.695877",
         "restrictions": []
+      },
+      "2123780": {
+        "id": "2123780",
+        "title": "Senior University Relationship Lead Merrimack Nhsmithfield Ri",
+        "url": "https://jobs.fidelity.com/en/jobs/2123780/senior-university-relationship-lead-merrimack-nhsmithfield-ri/",
+        "firstSeen": "2026-03-17T15:11:10.367056",
+        "restrictions": []
+      },
+      "2125512": {
+        "id": "2125512",
+        "title": "Advisor Asset Management Compliance",
+        "url": "https://jobs.fidelity.com/en/jobs/2125512/advisor-asset-management-compliance/",
+        "firstSeen": "2026-03-17T15:11:10.369315",
+        "restrictions": []
+      },
+      "2123052": {
+        "id": "2123052",
+        "title": "Senior Accountant Alternative Investment Products",
+        "url": "https://jobs.fidelity.com/en/jobs/2123052/senior-accountant-alternative-investment-products/",
+        "firstSeen": "2026-03-17T15:11:10.371570",
+        "restrictions": []
+      },
+      "2125886": {
+        "id": "2125886",
+        "title": "Financial Representative Albany Ny",
+        "url": "https://jobs.fidelity.com/en/jobs/2125886/financial-representative-albany-ny/",
+        "firstSeen": "2026-03-17T15:11:10.373809",
+        "restrictions": []
+      },
+      "2126051": {
+        "id": "2126051",
+        "title": "Macro Research Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2126051/macro-research-analyst/",
+        "firstSeen": "2026-03-17T15:11:10.375912",
+        "restrictions": []
+      },
+      "2121430": {
+        "id": "2121430",
+        "title": "Principal Data Science Engineer Financial Crimes",
+        "url": "https://jobs.fidelity.com/en/jobs/2121430/principal-data-science-engineer-financial-crimes/",
+        "firstSeen": "2026-03-17T15:11:10.378023",
+        "restrictions": []
+      },
+      "2120396": {
+        "id": "2120396",
+        "title": "Vice President Head Of Advisor Sales",
+        "url": "https://jobs.fidelity.com/en/jobs/2120396/vice-president-head-of-advisor-sales/",
+        "firstSeen": "2026-03-17T15:11:10.380130",
+        "restrictions": []
+      },
+      "2125061": {
+        "id": "2125061",
+        "title": "Abandoned Property Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2125061/abandoned-property-analyst/",
+        "firstSeen": "2026-03-17T15:11:10.384240",
+        "restrictions": []
+      },
+      "2125241": {
+        "id": "2125241",
+        "title": "Senior Executive Assistant",
+        "url": "https://jobs.fidelity.com/en/jobs/2125241/senior-executive-assistant/",
+        "firstSeen": "2026-03-17T15:12:14.921258",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -24546,6 +24728,104 @@
         "title": "Mixed Signal Design Verification ApprenticeshipBengaluru, IndiaCategory:Interns/TempPosted:03/15/2026Job ID:13887",
         "url": "https://careers.synopsys.com/job/bengaluru/mixed-signal-design-verification-apprenticeship/44408/92850119152",
         "firstSeen": "2026-03-16T22:53:22.490042",
+        "restrictions": []
+      },
+      "92879619792": {
+        "id": "92879619792",
+        "title": "Territory Sales ManagerNoida, IndiaCategory:SalesPosted:03/16/2026Job ID:16173",
+        "url": "https://careers.synopsys.com/job/noida/territory-sales-manager/44408/92879619792",
+        "firstSeen": "2026-03-17T15:14:22.038475",
+        "restrictions": []
+      },
+      "92092150592": {
+        "id": "92092150592",
+        "title": "HW Release InternYerevan, ArmeniaCategory:Interns/TempPosted:02/23/2026Job ID:15364",
+        "url": "https://careers.synopsys.com/job/yerevan/hw-release-intern/44408/92092150592",
+        "firstSeen": "2026-03-17T15:14:22.038508",
+        "restrictions": []
+      },
+      "92879619712": {
+        "id": "92879619712",
+        "title": "Analog Layout Design, Sr EngineerHo Chi Minh City, VietnamCategory:EngineeringPosted:03/16/2026Job ID:16227",
+        "url": "https://careers.synopsys.com/job/ho-chi-minh-city/analog-layout-design-sr-engineer/44408/92879619712",
+        "firstSeen": "2026-03-17T15:14:22.038528",
+        "restrictions": []
+      },
+      "92879619680": {
+        "id": "92879619680",
+        "title": "R&D Engineering, Sr Engineer ( C++, RTL, Verilog)Noida, IndiaCategory:EngineeringPosted:03/16/2026Job ID:16222",
+        "url": "https://careers.synopsys.com/job/noida/r-and-d-engineering-sr-engineer-c-rtl-verilog/44408/92879619680",
+        "firstSeen": "2026-03-17T15:14:22.038545",
+        "restrictions": []
+      },
+      "92879619648": {
+        "id": "92879619648",
+        "title": "Digital Design & Verification InternshipPorto Salvo, PortugalCategory:Interns/TempPosted:02/08/2026Job ID:13732",
+        "url": "https://careers.synopsys.com/job/porto-salvo/digital-design-and-verification-internship/44408/92879619648",
+        "firstSeen": "2026-03-17T15:14:22.038562",
+        "restrictions": []
+      },
+      "92879619632": {
+        "id": "92879619632",
+        "title": "Account Representative - GSS EnergyShanghai, ChinaCategory:SalesPosted:03/16/2026Job ID:16234",
+        "url": "https://careers.synopsys.com/job/shanghai/account-representative-gss-energy/44408/92879619632",
+        "firstSeen": "2026-03-17T15:14:22.038584",
+        "restrictions": []
+      },
+      "92879619600": {
+        "id": "92879619600",
+        "title": "Account Representative - Local AccountsBeijing, ChinaCategory:SalesPosted:03/16/2026Job ID:16233",
+        "url": "https://careers.synopsys.com/job/beijing/account-representative-local-accounts/44408/92879619600",
+        "firstSeen": "2026-03-17T15:14:22.038600",
+        "restrictions": []
+      },
+      "92879619568": {
+        "id": "92879619568",
+        "title": "Hardware Release EngineerYerevan, ArmeniaCategory:EngineeringPosted:02/15/2026Job ID:15235",
+        "url": "https://careers.synopsys.com/job/yerevan/hardware-release-engineer/44408/92879619568",
+        "firstSeen": "2026-03-17T15:14:22.038622",
+        "restrictions": []
+      },
+      "92879619552": {
+        "id": "92879619552",
+        "title": "Sales Account Management, StaffChina Off-siteCategory:SalesPosted:12/02/2025Job ID:13562",
+        "url": "https://careers.synopsys.com/job/beijing/sales-account-management-staff/44408/92879619552",
+        "firstSeen": "2026-03-17T15:14:22.038639",
+        "restrictions": []
+      },
+      "92871142576": {
+        "id": "92871142576",
+        "title": "Design Verification Intern, HanoiHanoi, VietnamCategory:Interns/TempPosted:03/16/2026Job ID:16160",
+        "url": "https://careers.synopsys.com/job/hanoi/design-verification-intern-hanoi/44408/92871142576",
+        "firstSeen": "2026-03-17T15:14:22.038668",
+        "restrictions": []
+      },
+      "92871142560": {
+        "id": "92871142560",
+        "title": "Solutions Engineering, Sr Staff Engineer (DFT, RTL Design product Engineer)Bengaluru, IndiaCategory:EngineeringPosted:03/16/2026Job ID:16131",
+        "url": "https://careers.synopsys.com/job/bengaluru/solutions-engineering-sr-staff-engineer-dft-rtl-design-product-engineer/44408/92871142560",
+        "firstSeen": "2026-03-17T15:14:22.038685",
+        "restrictions": []
+      },
+      "92871142528": {
+        "id": "92871142528",
+        "title": "Solutions Engineering, Sr Staff Engineer (DFT ,Verification, product Engineer)Bengaluru, IndiaCategory:EngineeringPosted:03/16/2026Job ID:16130",
+        "url": "https://careers.synopsys.com/job/bengaluru/solutions-engineering-sr-staff-engineer-dft-verification-product-engineer/44408/92871142528",
+        "firstSeen": "2026-03-17T15:14:22.038701",
+        "restrictions": []
+      },
+      "92871142496": {
+        "id": "92871142496",
+        "title": "Applications Engineering, Sr EngineerSeoul, South KoreaCategory:EngineeringPosted:03/16/2026Job ID:16051",
+        "url": "https://careers.synopsys.com/job/seoul/applications-engineering-sr-engineer/44408/92871142496",
+        "firstSeen": "2026-03-17T15:14:22.038717",
+        "restrictions": []
+      },
+      "92871142432": {
+        "id": "92871142432",
+        "title": "Sales Account Management, Sr StaffTokyo, JapanCategory:SalesPosted:03/16/2026Job ID:16212",
+        "url": "https://careers.synopsys.com/job/tokyo/sales-account-management-sr-staff/44408/92871142432",
+        "firstSeen": "2026-03-17T15:14:22.038732",
         "restrictions": []
       }
     },
@@ -26226,6 +26506,20 @@
         "url": "https://careers.chewy.com/us/en/job/R28674/Research-Scientist-III",
         "firstSeen": "2026-03-16T22:55:19.988969",
         "restrictions": []
+      },
+      "R29005": {
+        "id": "R29005",
+        "title": "Software Engineer I",
+        "url": "https://careers.chewy.com/us/en/job/R29005/Software-Engineer-I",
+        "firstSeen": "2026-03-17T15:16:10.185675",
+        "restrictions": []
+      },
+      "R28942": {
+        "id": "R28942",
+        "title": "Senior Machine Learning Engineer",
+        "url": "https://careers.chewy.com/us/en/job/R28942/Senior-Machine-Learning-Engineer",
+        "firstSeen": "2026-03-17T15:16:12.500753",
+        "restrictions": []
       }
     },
     "meta": {
@@ -26968,6 +27262,69 @@
         "url": "https://www.metacareers.com/profile/job_details/1448670746914193",
         "firstSeen": "2026-03-16T22:55:58.956657",
         "restrictions": []
+      },
+      "679961588479426": {
+        "id": "679961588479426",
+        "title": "Research Scientist Intern, Language and Agents (PhD)",
+        "url": "https://www.metacareers.com/profile/job_details/679961588479426",
+        "firstSeen": "2026-03-17T15:16:50.882051",
+        "restrictions": []
+      },
+      "2887906508264541": {
+        "id": "2887906508264541",
+        "title": "Software Engineer (Leadership) - Product",
+        "url": "https://www.metacareers.com/profile/job_details/2887906508264541",
+        "firstSeen": "2026-03-17T15:16:50.887506",
+        "restrictions": []
+      },
+      "1636304980705724": {
+        "id": "1636304980705724",
+        "title": "Strategic Partnerships Manager, Southeast Asia - Telco Ecosystem Partnerships",
+        "url": "https://www.metacareers.com/profile/job_details/1636304980705724",
+        "firstSeen": "2026-03-17T15:16:50.893127",
+        "restrictions": []
+      },
+      "3301789376663790": {
+        "id": "3301789376663790",
+        "title": "Marketing Science Partner, South East Asia",
+        "url": "https://www.metacareers.com/profile/job_details/3301789376663790",
+        "firstSeen": "2026-03-17T15:16:50.898230",
+        "restrictions": []
+      },
+      "2176819739360965": {
+        "id": "2176819739360965",
+        "title": "Production Engineering",
+        "url": "https://www.metacareers.com/profile/job_details/2176819739360965",
+        "firstSeen": "2026-03-17T15:16:50.910434",
+        "restrictions": []
+      },
+      "4043567932553615": {
+        "id": "4043567932553615",
+        "title": "Software Engineer - Product (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/4043567932553615",
+        "firstSeen": "2026-03-17T15:16:50.924201",
+        "restrictions": []
+      },
+      "2154143301727752": {
+        "id": "2154143301727752",
+        "title": "Software Engineer, Android",
+        "url": "https://www.metacareers.com/profile/job_details/2154143301727752",
+        "firstSeen": "2026-03-17T15:16:50.933305",
+        "restrictions": []
+      },
+      "1229945984832289": {
+        "id": "1229945984832289",
+        "title": "Product Designer",
+        "url": "https://www.metacareers.com/profile/job_details/1229945984832289",
+        "firstSeen": "2026-03-17T15:16:50.937535",
+        "restrictions": []
+      },
+      "1175371637856077": {
+        "id": "1175371637856077",
+        "title": "Network Site Investments Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1175371637856077",
+        "firstSeen": "2026-03-17T15:16:50.941476",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -27335,6 +27692,13 @@
         "title": "Home Infusion Nurse, 32 hours - Accredo - Columbia, SC",
         "url": "https://jobs.thecignagroup.com/us/en/job/26000482/Home-Infusion-Nurse-32-hours-Accredo-Columbia-SC",
         "firstSeen": "2026-03-16T22:57:54.884941",
+        "restrictions": []
+      },
+      "25016897": {
+        "id": "25016897",
+        "title": "Pharmacy Technician Associate Representative - Accredo",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25016897/Pharmacy-Technician-Associate-Representative-Accredo",
+        "firstSeen": "2026-03-17T15:18:46.001723",
         "restrictions": []
       }
     },
@@ -30158,6 +30522,97 @@
         "title": "Wellness and Recovery Representative",
         "url": "https://careers.elevancehealth.com/wellness-and-recovery-representative/job/D1358B216071720FBF9182B1CA8AD232",
         "firstSeen": "2026-03-16T23:00:54.021316",
+        "restrictions": []
+      },
+      "55539224184C90CDC0A7990FA6D678B1": {
+        "id": "55539224184C90CDC0A7990FA6D678B1",
+        "title": "Authorization Rep I (US)",
+        "url": "https://careers.elevancehealth.com/authorization-rep-i-us/job/55539224184C90CDC0A7990FA6D678B1",
+        "firstSeen": "2026-03-17T15:19:58.073401",
+        "restrictions": []
+      },
+      "A418AEFDD264B0CE56BD84A1DF183766": {
+        "id": "A418AEFDD264B0CE56BD84A1DF183766",
+        "title": "Delegation Oversight Program Auditor - Claims Processing",
+        "url": "https://careers.elevancehealth.com/delegation-oversight-program-auditor-claims-processing/job/A418AEFDD264B0CE56BD84A1DF183766",
+        "firstSeen": "2026-03-17T15:20:17.075927",
+        "restrictions": []
+      },
+      "DFBF59453EF589122C81E2B74C727AA8": {
+        "id": "DFBF59453EF589122C81E2B74C727AA8",
+        "title": "EMR Integration Provider Engagement Specialist - Business Change Manager Sr",
+        "url": "https://careers.elevancehealth.com/emr-integration-provider-engagement-specialist-business-change-manager-sr/job/DFBF59453EF589122C81E2B74C727AA8",
+        "firstSeen": "2026-03-17T15:20:20.246525",
+        "restrictions": []
+      },
+      "A3733DF08FAAD58B1F6EFD61F86215D4": {
+        "id": "A3733DF08FAAD58B1F6EFD61F86215D4",
+        "title": "Manager Process Improvement - Payment Integrity",
+        "url": "https://careers.elevancehealth.com/manager-process-improvement-payment-integrity/job/A3733DF08FAAD58B1F6EFD61F86215D4",
+        "firstSeen": "2026-03-17T15:20:48.599658",
+        "restrictions": []
+      },
+      "E7A9918925831A85D6EBFE43B9D19C12": {
+        "id": "E7A9918925831A85D6EBFE43B9D19C12",
+        "title": "Marketing Project Coordinator",
+        "url": "https://careers.elevancehealth.com/marketing-project-coordinator/job/E7A9918925831A85D6EBFE43B9D19C12",
+        "firstSeen": "2026-03-17T15:20:51.701858",
+        "restrictions": []
+      },
+      "BA31DD29A8FA3AFD7A5E2AD70C41A983": {
+        "id": "BA31DD29A8FA3AFD7A5E2AD70C41A983",
+        "title": "Medical Management Clinician LTSS",
+        "url": "https://careers.elevancehealth.com/medical-management-clinician-ltss/job/BA31DD29A8FA3AFD7A5E2AD70C41A983",
+        "firstSeen": "2026-03-17T15:20:51.740767",
+        "restrictions": []
+      },
+      "5929EBDF48169CD12D4BC264BE55D535": {
+        "id": "5929EBDF48169CD12D4BC264BE55D535",
+        "title": "Outreach Care Specialist - CareBridge",
+        "url": "https://careers.elevancehealth.com/outreach-care-specialist-carebridge/job/5929EBDF48169CD12D4BC264BE55D535",
+        "firstSeen": "2026-03-17T15:21:07.528086",
+        "restrictions": []
+      },
+      "43B30C9DD1417EC5FBF74985B16170AF": {
+        "id": "43B30C9DD1417EC5FBF74985B16170AF",
+        "title": "Patient Transportation Representative",
+        "url": "https://careers.elevancehealth.com/patient-transportation-representative/job/43B30C9DD1417EC5FBF74985B16170AF",
+        "firstSeen": "2026-03-17T15:21:10.613979",
+        "restrictions": []
+      },
+      "5141AD3DDAAAEFD1F6FD189384FB2410": {
+        "id": "5141AD3DDAAAEFD1F6FD189384FB2410",
+        "title": "Pharmacy Intern",
+        "url": "https://careers.elevancehealth.com/pharmacy-intern/job/5141AD3DDAAAEFD1F6FD189384FB2410",
+        "firstSeen": "2026-03-17T15:21:13.794800",
+        "restrictions": []
+      },
+      "51EEB97280D97189D4717B98667C31BA": {
+        "id": "51EEB97280D97189D4717B98667C31BA",
+        "title": "RN Nurse Case Manager I",
+        "url": "https://careers.elevancehealth.com/rn-nurse-case-manager-i/job/51EEB97280D97189D4717B98667C31BA",
+        "firstSeen": "2026-03-17T15:21:26.348101",
+        "restrictions": []
+      },
+      "CEB6B7207895CED45A0B4391D1473CE0": {
+        "id": "CEB6B7207895CED45A0B4391D1473CE0",
+        "title": "Senior Account Executive- Paragon Infusion- Denver, CO",
+        "url": "https://careers.elevancehealth.com/senior-account-executive-paragon-infusion-denver-co/job/CEB6B7207895CED45A0B4391D1473CE0",
+        "firstSeen": "2026-03-17T15:21:29.525985",
+        "restrictions": []
+      },
+      "B1286764E3FD7648BDEF4734529E7D62": {
+        "id": "B1286764E3FD7648BDEF4734529E7D62",
+        "title": "Senior Account Executive- Paragon Infusion- Kansas City, MO",
+        "url": "https://careers.elevancehealth.com/senior-account-executive-paragon-infusion-kansas-city-mo/job/B1286764E3FD7648BDEF4734529E7D62",
+        "firstSeen": "2026-03-17T15:21:29.532482",
+        "restrictions": []
+      },
+      "3D1066C693936C0452C7F053E292A677": {
+        "id": "3D1066C693936C0452C7F053E292A677",
+        "title": "Senior Account Executive- Paragon Infusion- St. Louis, MO",
+        "url": "https://careers.elevancehealth.com/senior-account-executive-paragon-infusion-st-louis-mo/job/3D1066C693936C0452C7F053E292A677",
+        "firstSeen": "2026-03-17T15:21:29.545755",
         "restrictions": []
       }
     },
@@ -36097,6 +36552,97 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202605720/sr-sourcing-recruiter/",
         "firstSeen": "2026-03-16T23:01:42.852218",
         "restrictions": []
+      },
+      "jr-202512371": {
+        "id": "jr-202512371",
+        "title": "2026 Controls/EE Co-Op - LDT",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202512371/2026-controls-ee-co-op-ldt/",
+        "firstSeen": "2026-03-17T15:22:19.693964",
+        "restrictions": []
+      },
+      "jr-202604011": {
+        "id": "jr-202604011",
+        "title": "Payroll Backoffice Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604011/payroll-backoffice-analyst/",
+        "firstSeen": "2026-03-17T15:22:19.698772",
+        "restrictions": []
+      },
+      "jr-202605825": {
+        "id": "jr-202605825",
+        "title": "Engineering Change Coordinator",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605825/engineering-change-coordinator/",
+        "firstSeen": "2026-03-17T15:22:19.702889",
+        "restrictions": []
+      },
+      "jr-202604781": {
+        "id": "jr-202604781",
+        "title": "Shift Leader",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604781/shift-leader/",
+        "firstSeen": "2026-03-17T15:22:19.707409",
+        "restrictions": []
+      },
+      "jr-202605984": {
+        "id": "jr-202605984",
+        "title": "2026 Kettering Co-Op: Manufacturing Mechanical Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605984/2026-kettering-co-op-manufacturing-mechanical-engineer/",
+        "firstSeen": "2026-03-17T15:22:19.712015",
+        "restrictions": []
+      },
+      "jr-202605273": {
+        "id": "jr-202605273",
+        "title": "US Payroll Manager",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605273/us-payroll-manager/",
+        "firstSeen": "2026-03-17T15:22:19.720332",
+        "restrictions": []
+      },
+      "jr-202603260": {
+        "id": "jr-202603260",
+        "title": "Staff Infrastructure System Quality Assurance Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202603260/staff-infrastructure-system-quality-assurance-engineer/",
+        "firstSeen": "2026-03-17T15:22:19.724776",
+        "restrictions": []
+      },
+      "jr-202604257": {
+        "id": "jr-202604257",
+        "title": "Buyer Specialist - S\u00e3o Caetano do Sul/SP",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604257/buyer-specialist-sao-caetano-do-sul-sp/",
+        "firstSeen": "2026-03-17T15:22:19.729455",
+        "restrictions": []
+      },
+      "jr-202601540": {
+        "id": "jr-202601540",
+        "title": "Production Shift Leader",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202601540/production-shift-leader/",
+        "firstSeen": "2026-03-17T15:22:19.733542",
+        "restrictions": []
+      },
+      "jr-202605017": {
+        "id": "jr-202605017",
+        "title": "Senior Analyst \u2013 Global Warranty - Labor Information System",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605017/senior-analyst-global-warranty-labor-information-system/",
+        "firstSeen": "2026-03-17T15:22:19.738029",
+        "restrictions": []
+      },
+      "jr-202604993": {
+        "id": "jr-202604993",
+        "title": "HR Services Call Handling Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604993/hr-services-call-handling-analyst/",
+        "firstSeen": "2026-03-17T15:22:19.747747",
+        "restrictions": []
+      },
+      "jr-202604481": {
+        "id": "jr-202604481",
+        "title": "Process Controls Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604481/process-controls-engineer/",
+        "firstSeen": "2026-03-17T15:22:19.751407",
+        "restrictions": []
+      },
+      "jr-202605006": {
+        "id": "jr-202605006",
+        "title": "Payroll Financial Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605006/payroll-financial-analyst/",
+        "firstSeen": "2026-03-17T15:22:31.303832",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -36197,8 +36743,22 @@
         "url": "https://careers.coca-colacompany.com/job/23142432/director-e2e-commerce-latam-ou-rio-de-janeiro-br/",
         "firstSeen": "2026-03-16T15:32:28.448439",
         "restrictions": []
+      },
+      "23147365": {
+        "id": "23147365",
+        "title": "Senior Manager, Marketing Orchestration, Caucasus and Central Asia Region",
+        "url": "https://careers.coca-colacompany.com/job/23147365/senior-manager-marketing-orchestration-caucasus-and-central-asia-region-almaty-kz/",
+        "firstSeen": "2026-03-17T15:26:39.104038",
+        "restrictions": []
+      },
+      "23145214": {
+        "id": "23145214",
+        "title": "Senior Director, Connections & Media - Coca-Cola TM Category Lead",
+        "url": "https://careers.coca-colacompany.com/job/23145214/senior-director-connections-media-coca-cola-tm-category-lead-atlanta-ga/",
+        "firstSeen": "2026-03-17T15:26:39.150946",
+        "restrictions": []
       }
     }
   },
-  "lastUpdated": "2026-03-16T23:05:57.574490"
+  "lastUpdated": "2026-03-17T15:26:39.230232"
 }
