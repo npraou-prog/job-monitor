@@ -1,35 +1,29 @@
-# Job Scan Summary - 2026-03-17
+# Job Scan Summary - 2026-03-18
 
-**New jobs today:** 191
-**Relevant new jobs:** 19
+**New jobs today:** 204
+**Relevant new jobs:** 11
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Data Engineer - Project Delivery Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Engineer-Project-Delivery-Analyst/327271)
-  • [Data Scientist - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Government-Public-Services/327236)
-  • [Junior Data Scientist - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Junior-Data-Scientist-Government-Public-Services/327230)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Finance Analyst](https://careers.cisco.com/global/en/job/2003545/Finance-Analyst)
 
-🎯 **Visa** - 3 relevant new jobs:
-  • [Machine Learning Engineer - Sr. Consultant Level](https://corporate.visa.com/en/jobs/REF079283W)
-  • [Senior ML Engineer- Cloud AI Platform](https://corporate.visa.com/en/jobs/REF079475W)
-  • [Associate Business Analyst Intern - Summer 2026](https://corporate.visa.com/en/jobs/REF97296Q)
+🎯 **Visa** - 1 relevant new jobs:
+  • [Marketing Analyst- Commercialization, Visa Commercial Solutions](https://corporate.visa.com/en/jobs/REF077380W)
 
 🎯 **Fidelity** - 3 relevant new jobs:
-  • [Macro Research Analyst](https://jobs.fidelity.com/en/jobs/2126051/macro-research-analyst/)
-  • [Principal Data Science Engineer Financial Crimes](https://jobs.fidelity.com/en/jobs/2121430/principal-data-science-engineer-financial-crimes/)
-  • [Abandoned Property Analyst](https://jobs.fidelity.com/en/jobs/2125061/abandoned-property-analyst/)
+  • [Director Data Science](https://jobs.fidelity.com/en/jobs/2123430/director-data-science/)
+  • [Systems Analyst](https://jobs.fidelity.com/en/jobs/2125779/systems-analyst/)
+  • [Strategy Communications And Engagement Analyst](https://jobs.fidelity.com/en/jobs/2124625/strategy-communications-and-engagement-analyst/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Senior Machine Learning Engineer](https://careers.chewy.com/us/en/job/R28942/Senior-Machine-Learning-Engineer)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Foundational AI Research Scientist - FAIR](https://www.metacareers.com/profile/job_details/1601762550830951)
 
-🎯 **Meta** - 4 relevant new jobs:
-  • [Research Scientist Intern, Language and Agents (PhD)](https://www.metacareers.com/profile/job_details/679961588479426)
-  • [AI Research Scientist - FAIR Social Intelligence](https://www.metacareers.com/profile/job_details/1252374446400654)
-  • [AI Research Scientist, FAIR Chemistry](https://www.metacareers.com/profile/job_details/1216896097191762)
-  • [Research Scientist Manager, MetaAI Assistant Measurement](https://www.metacareers.com/profile/job_details/816343714639198)
+🎯 **Elevancehealth** - 3 relevant new jobs:
+  • [Financial Operations Analyst Lead](https://careers.elevancehealth.com/financial-operations-analyst-lead/job/F5098DE104D25BAF2F3808EC420EA7F5)
+  • [Financial Operations Business Analyst / Vendor Management](https://careers.elevancehealth.com/financial-operations-business-analyst-vendor-management/job/A330468FC4970CD037222C3576FA8C81)
+  • [Gen AI Engineer](https://careers.elevancehealth.com/gen-ai-engineer/job/4059862737887A24C9F9063795AF6F93)
 
-🎯 **Gm** - 5 relevant new jobs:
-  • [Payroll Backoffice Analyst](https://search-careers.gm.com/en/jobs/jr-202604011/payroll-backoffice-analyst/)
-  • [Senior Analyst – Global Warranty - Labor Information System](https://search-careers.gm.com/en/jobs/jr-202605017/senior-analyst-global-warranty-labor-information-system/)
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202604993/hr-services-call-handling-analyst/)
-  • [Payroll Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202605006/payroll-financial-analyst/)
-  • [Specifications Analyst (Level 6)](https://search-careers.gm.com/en/jobs/jr-202604933/specifications-analyst-level-6/)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Senior Financial Analyst - Envolve OnStar](https://search-careers.gm.com/en/jobs/jr-202605632/senior-financial-analyst-envolve-onstar/)
+
+🎯 **Cocacola** - 1 relevant new jobs:
+  • [Reimbursement Budget Analyst](https://careers.coca-colacompany.com/job/23153968/reimbursement-budget-analyst-atlanta-ga/)
