@@ -7538,6 +7538,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Vice-President-Sales-Executive-Financial-Services-Industry/325701",
         "firstSeen": "2026-03-20T22:34:56.264743",
         "restrictions": []
+      },
+      "319112": {
+        "id": "319112",
+        "title": "AI&Data Consultant- Data Engineer",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-Data-Consultant-Data-Engineer/319112",
+        "firstSeen": "2026-03-21T14:31:31.843359",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -16237,6 +16244,13 @@
         "url": "https://careers.cisco.com/global/en/job/2010971/ASIC-Design-Verification-Engineer",
         "firstSeen": "2026-03-20T22:43:53.643312",
         "restrictions": []
+      },
+      "2010876": {
+        "id": "2010876",
+        "title": "G6-Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2010876/G6-Software-Engineer",
+        "firstSeen": "2026-03-21T14:39:28.938670",
+        "restrictions": []
       }
     },
     "visa": {
@@ -19762,6 +19776,48 @@
         "title": "Senior Manager, Learning Designer",
         "url": "https://corporate.visa.com/en/jobs/REF079880W",
         "firstSeen": "2026-03-20T22:44:03.300948",
+        "restrictions": []
+      },
+      "REF080008W": {
+        "id": "REF080008W",
+        "title": "Consultant, Implementation",
+        "url": "https://corporate.visa.com/en/jobs/REF080008W",
+        "firstSeen": "2026-03-21T14:39:35.745181",
+        "restrictions": []
+      },
+      "REF079561W": {
+        "id": "REF079561W",
+        "title": "Sr Director, Stablecoin Labs",
+        "url": "https://corporate.visa.com/en/jobs/REF079561W",
+        "firstSeen": "2026-03-21T14:39:35.753057",
+        "restrictions": []
+      },
+      "REF079883W": {
+        "id": "REF079883W",
+        "title": "Licensing Consultant - North America Client Licensing team",
+        "url": "https://corporate.visa.com/en/jobs/REF079883W",
+        "firstSeen": "2026-03-21T14:39:35.775973",
+        "restrictions": []
+      },
+      "REF078975W": {
+        "id": "REF078975W",
+        "title": "Director, Software Engineering",
+        "url": "https://corporate.visa.com/en/jobs/REF078975W",
+        "firstSeen": "2026-03-21T14:39:35.790999",
+        "restrictions": []
+      },
+      "REF079875W": {
+        "id": "REF079875W",
+        "title": "Senior Manager, Learning Experience Designer",
+        "url": "https://corporate.visa.com/en/jobs/REF079875W",
+        "firstSeen": "2026-03-21T14:39:35.798235",
+        "restrictions": []
+      },
+      "REF080018W": {
+        "id": "REF080018W",
+        "title": "Lead Architect",
+        "url": "https://corporate.visa.com/en/jobs/REF080018W",
+        "firstSeen": "2026-03-21T14:39:35.805496",
         "restrictions": []
       }
     },
@@ -25712,6 +25768,13 @@
         "url": "https://jobs.fidelity.com/en/jobs/2125104/director-technology-risk-controls-coe/",
         "firstSeen": "2026-03-20T22:46:11.362972",
         "restrictions": []
+      },
+      "2125633": {
+        "id": "2125633",
+        "title": "Vice President Threat Management",
+        "url": "https://jobs.fidelity.com/en/jobs/2125633/vice-president-threat-management/",
+        "firstSeen": "2026-03-21T14:39:53.546990",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -27189,6 +27252,48 @@
         "title": "Cyber Security Engineer, Staff Engineer - 15964Morrisville, North CarolinaCategory:EngineeringPosted:03/19/2026Job ID:15964",
         "url": "https://careers.synopsys.com/job/morrisville/cyber-security-engineer-staff-engineer-15964/44408/93005893632",
         "firstSeen": "2026-03-20T22:47:29.574282",
+        "restrictions": []
+      },
+      "93022304064": {
+        "id": "93022304064",
+        "title": "R&D Engineering, Staff EngineerHsinchu, TaiwanCategory:EngineeringPosted:03/19/2026Job ID:16511",
+        "url": "https://careers.synopsys.com/job/hsinchu/r-and-d-engineering-staff-engineer/44408/93022304064",
+        "firstSeen": "2026-03-21T14:42:54.689964",
+        "restrictions": []
+      },
+      "93015824912": {
+        "id": "93015824912",
+        "title": "R&D Engineering, Sr Staff Engineer- 16038Sunnyvale, CaliforniaCategory:EngineeringPosted:03/19/2026Job ID:16038",
+        "url": "https://careers.synopsys.com/job/sunnyvale/r-and-d-engineering-sr-staff-engineer-16038/44408/93015824912",
+        "firstSeen": "2026-03-21T14:42:54.689999",
+        "restrictions": []
+      },
+      "93015824864": {
+        "id": "93015824864",
+        "title": "Staff ASIC Digital Design Engineer - 15996Kanata, CanadaCategory:EngineeringPosted:03/19/2026Job ID:15996",
+        "url": "https://careers.synopsys.com/job/kanata/staff-asic-digital-design-engineer-15996/44408/93015824864",
+        "firstSeen": "2026-03-21T14:42:54.690022",
+        "restrictions": []
+      },
+      "93015824800": {
+        "id": "93015824800",
+        "title": "Cyber Security Engineering - Architect (16496)Morrisville, North CarolinaCategory:EngineeringPosted:03/19/2026Job ID:16496",
+        "url": "https://careers.synopsys.com/job/morrisville/cyber-security-engineering-architect-16496/44408/93015824800",
+        "firstSeen": "2026-03-21T14:42:54.690043",
+        "restrictions": []
+      },
+      "90581151904": {
+        "id": "90581151904",
+        "title": "Senior Staff Field Application EngineerZapopan, MexicoCategory:EngineeringPosted:01/07/2026Job ID:13911",
+        "url": "https://careers.synopsys.com/job/zapopan/senior-staff-field-application-engineer/44408/90581151904",
+        "firstSeen": "2026-03-21T14:42:54.690063",
+        "restrictions": []
+      },
+      "90398128160": {
+        "id": "90398128160",
+        "title": "Principal Analog Design EngineerHillsboro, OregonCategory:EngineeringPosted:01/07/2026Job ID:13892",
+        "url": "https://careers.synopsys.com/job/hillsboro/principal-analog-design-engineer/44408/90398128160",
+        "firstSeen": "2026-03-21T14:42:54.690084",
         "restrictions": []
       }
     },
@@ -30101,6 +30206,13 @@
         "url": "https://www.metacareers.com/profile/job_details/744914351191839",
         "firstSeen": "2026-03-20T22:50:00.066960",
         "restrictions": []
+      },
+      "1391039676129108": {
+        "id": "1391039676129108",
+        "title": "Research Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/1391039676129108",
+        "firstSeen": "2026-03-21T14:45:29.418564",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -30298,6 +30410,13 @@
         "title": "Provider Contracting Senior Manager, AVP Network Management \u2013 Cigna Healthcare \u2013 Houston, TX",
         "url": "https://jobs.thecignagroup.com/us/en/job/26002542/Provider-Contracting-Senior-Manager-AVP-Network-Management-Cigna-Healthcare-Houston-TX",
         "firstSeen": "2026-03-19T22:50:55.227988",
+        "restrictions": []
+      },
+      "26003176": {
+        "id": "26003176",
+        "title": "Executive Assistant \u2013 Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003176/Executive-Assistant-Cigna-Healthcare",
+        "firstSeen": "2026-03-21T14:46:15.392318",
         "restrictions": []
       }
     },
@@ -30671,6 +30790,62 @@
         "title": "Pharmacy Packaging and Shipping Associate- Accredo",
         "url": "https://jobs.thecignagroup.com/us/en/job/26002899/Pharmacy-Packaging-and-Shipping-Associate-Accredo",
         "firstSeen": "2026-03-20T22:51:56.058999",
+        "restrictions": []
+      },
+      "25017329": {
+        "id": "25017329",
+        "title": "Healthcare Sales Territory Representative, Chicago Based- Evernorth",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25017329/Healthcare-Sales-Territory-Representative-Chicago-Based-Evernorth",
+        "firstSeen": "2026-03-21T14:47:24.637596",
+        "restrictions": []
+      },
+      "26000500": {
+        "id": "26000500",
+        "title": "Home Infusion Nurse - Accredo - Milwaukee, WI",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26000500/Home-Infusion-Nurse-Accredo-Milwaukee-WI",
+        "firstSeen": "2026-03-21T14:47:24.644215",
+        "restrictions": []
+      },
+      "26002106": {
+        "id": "26002106",
+        "title": "Home Infusion Nurse, 32 hours - Accredo - Fort Wayne, IN",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002106/Home-Infusion-Nurse-32-hours-Accredo-Fort-Wayne-IN",
+        "firstSeen": "2026-03-21T14:47:24.650437",
+        "restrictions": []
+      },
+      "25016483": {
+        "id": "25016483",
+        "title": "Production Clerk- Accredo",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25016483/Production-Clerk-Accredo",
+        "firstSeen": "2026-03-21T14:47:24.656422",
+        "restrictions": []
+      },
+      "26002101": {
+        "id": "26002101",
+        "title": "Pharmacy Technician Lead Representative - Express Scripts Pharmacy - Whitestown, IN",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002101/Pharmacy-Technician-Lead-Representative-Express-Scripts-Pharmacy-Whitestown-IN",
+        "firstSeen": "2026-03-21T14:47:24.662427",
+        "restrictions": []
+      },
+      "26001646": {
+        "id": "26001646",
+        "title": "Pharmacy Technician Associate Representative - Accredo Specialty Pharmacy - Whitestown, IN",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26001646/Pharmacy-Technician-Associate-Representative-Accredo-Specialty-Pharmacy-Whitestown-IN",
+        "firstSeen": "2026-03-21T14:47:24.668355",
+        "restrictions": []
+      },
+      "26002241": {
+        "id": "26002241",
+        "title": "Procure-to-Pay Lead Analyst - Express Scripts - Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002241/Procure-to-Pay-Lead-Analyst-Express-Scripts-Hybrid",
+        "firstSeen": "2026-03-21T14:47:24.675356",
+        "restrictions": []
+      },
+      "26002844": {
+        "id": "26002844",
+        "title": "Home Infusion Nurse, 32 hours - Accredo - Indianapolis, IN",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002844/Home-Infusion-Nurse-32-hours-Accredo-Indianapolis-IN",
+        "firstSeen": "2026-03-21T14:47:24.693342",
         "restrictions": []
       }
     },
@@ -34355,6 +34530,83 @@
         "title": "Utilization Management Medical Director \u2013 Indiana Medicaid",
         "url": "https://careers.elevancehealth.com/utilization-management-medical-director-indiana-medicaid/job/264F50A0BB5BE4F4351DA7E8DD6E64FC",
         "firstSeen": "2026-03-20T22:54:49.022348",
+        "restrictions": []
+      },
+      "1526F998F423B9974345360974E4BC12": {
+        "id": "1526F998F423B9974345360974E4BC12",
+        "title": "Authorization Representative I",
+        "url": "https://careers.elevancehealth.com/authorization-representative-i/job/1526F998F423B9974345360974E4BC12",
+        "firstSeen": "2026-03-21T14:48:40.335254",
+        "restrictions": []
+      },
+      "C228068FA9C3546CE6B700080384DEBD": {
+        "id": "C228068FA9C3546CE6B700080384DEBD",
+        "title": "LTSS Service Coordinator - Case Manager (Region A: Bay/Escambia/Santa Rosa)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-a-bay-escambia-santa-rosa/job/C228068FA9C3546CE6B700080384DEBD",
+        "firstSeen": "2026-03-21T14:49:18.221672",
+        "restrictions": []
+      },
+      "055CC2778D03A6B7DAB570374C573BFD": {
+        "id": "055CC2778D03A6B7DAB570374C573BFD",
+        "title": "LTSS Service Coordinator - Case Manager (Region B: Citrus/Duval/Hernando/Lake)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-b-citrus-duval-hernando-lake/job/055CC2778D03A6B7DAB570374C573BFD",
+        "firstSeen": "2026-03-21T14:49:18.228123",
+        "restrictions": []
+      },
+      "D90C1520C1EAFBD993D8EA5BA1A3F757": {
+        "id": "D90C1520C1EAFBD993D8EA5BA1A3F757",
+        "title": "LTSS Service Coordinator - Case Manager (Region C: Pasco/Pinellas)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-c-pasco-pinellas/job/D90C1520C1EAFBD993D8EA5BA1A3F757",
+        "firstSeen": "2026-03-21T14:49:18.235486",
+        "restrictions": []
+      },
+      "5D191E1C2F7C8F5693396F9CF12C35F0": {
+        "id": "5D191E1C2F7C8F5693396F9CF12C35F0",
+        "title": "LTSS Service Coordinator - Case Manager (Region D: Hillsborough/Mantee/Polk)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-d-hillsborough-mantee-polk/job/5D191E1C2F7C8F5693396F9CF12C35F0",
+        "firstSeen": "2026-03-21T14:49:18.242285",
+        "restrictions": []
+      },
+      "7A9CFE527B204C9169A2ADD22360D1EF": {
+        "id": "7A9CFE527B204C9169A2ADD22360D1EF",
+        "title": "LTSS Service Coordinator - Case Manager (Region E: Brevard/Orange/Osceola/Seminole County)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-e-brevard-orange-osceola-seminole-county/job/7A9CFE527B204C9169A2ADD22360D1EF",
+        "firstSeen": "2026-03-21T14:49:18.249031",
+        "restrictions": []
+      },
+      "E4DD4D55A4F6E2A8361A0E02E1AD3196": {
+        "id": "E4DD4D55A4F6E2A8361A0E02E1AD3196",
+        "title": "LTSS Service Coordinator - Case Manager (Region F: Lee/Sarasota County)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-f-lee-sarasota-county/job/E4DD4D55A4F6E2A8361A0E02E1AD3196",
+        "firstSeen": "2026-03-21T14:49:21.369142",
+        "restrictions": []
+      },
+      "5427976CDDBB3F33797E6F3EBDFA8042": {
+        "id": "5427976CDDBB3F33797E6F3EBDFA8042",
+        "title": "LTSS Service Coordinator - Case Manager (Region G: Palm Beach County)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-g-palm-beach-county/job/5427976CDDBB3F33797E6F3EBDFA8042",
+        "firstSeen": "2026-03-21T14:49:21.375740",
+        "restrictions": []
+      },
+      "F36AD5C5A752066480F282B58A18649D": {
+        "id": "F36AD5C5A752066480F282B58A18649D",
+        "title": "LTSS Service Coordinator - Case Manager (Region H: Broward County)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-h-broward-county/job/F36AD5C5A752066480F282B58A18649D",
+        "firstSeen": "2026-03-21T14:49:21.382419",
+        "restrictions": []
+      },
+      "B8B68E39F9F1D69573C574D9E12272BE": {
+        "id": "B8B68E39F9F1D69573C574D9E12272BE",
+        "title": "LTSS Service Coordinator - Case Manager (Region I: Miami-Dade/Monroe County)",
+        "url": "https://careers.elevancehealth.com/ltss-service-coordinator-case-manager-region-i-miami-dade-monroe-county/job/B8B68E39F9F1D69573C574D9E12272BE",
+        "firstSeen": "2026-03-21T14:49:21.388736",
+        "restrictions": []
+      },
+      "7B18C0F98E1405DF445D5B6533CE5314": {
+        "id": "7B18C0F98E1405DF445D5B6533CE5314",
+        "title": "Nurse Case Manager Lead",
+        "url": "https://careers.elevancehealth.com/nurse-case-manager-lead/job/7B18C0F98E1405DF445D5B6533CE5314",
+        "firstSeen": "2026-03-21T14:49:40.319776",
         "restrictions": []
       }
     },
@@ -41449,6 +41701,27 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202603717/senior-tax-analyst/",
         "firstSeen": "2026-03-20T22:55:41.053308",
         "restrictions": []
+      },
+      "jr-202605174": {
+        "id": "jr-202605174",
+        "title": "Becario de Automatizaci\u00f3n y An\u00e1lisis de Datos - Finanzas",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605174/becario-de-automatizacion-y-analisis-de-datos-finanzas/",
+        "firstSeen": "2026-03-21T14:51:08.040799",
+        "restrictions": []
+      },
+      "jr-202604065": {
+        "id": "jr-202604065",
+        "title": "SW Engineering Development Manager - Quality Risk Management",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604065/sw-engineering-development-manager-quality-risk-management/",
+        "firstSeen": "2026-03-21T14:51:13.771633",
+        "restrictions": []
+      },
+      "jr-202605713": {
+        "id": "jr-202605713",
+        "title": "Becario de Mantenimiento",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605713/becario-de-mantenimiento/",
+        "firstSeen": "2026-03-21T14:51:13.809619",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -41608,5 +41881,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-20T22:59:57.697571"
+  "lastUpdated": "2026-03-21T14:55:22.735674"
 }
