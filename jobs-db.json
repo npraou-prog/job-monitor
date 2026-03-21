@@ -30213,6 +30213,34 @@
         "url": "https://www.metacareers.com/profile/job_details/1391039676129108",
         "firstSeen": "2026-03-21T14:45:29.418564",
         "restrictions": []
+      },
+      "1375187143985210": {
+        "id": "1375187143985210",
+        "title": "Research Scientist, AI/ML (PhD)",
+        "url": "https://www.metacareers.com/profile/job_details/1375187143985210",
+        "firstSeen": "2026-03-21T22:46:44.968532",
+        "restrictions": []
+      },
+      "939282615434416": {
+        "id": "939282615434416",
+        "title": "AI Research Scientist, Audio-Visual Understanding, FAIR",
+        "url": "https://www.metacareers.com/profile/job_details/939282615434416",
+        "firstSeen": "2026-03-21T22:46:44.973604",
+        "restrictions": []
+      },
+      "613354727793690": {
+        "id": "613354727793690",
+        "title": "Data Scientist, Analytics (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/613354727793690",
+        "firstSeen": "2026-03-21T22:46:44.988277",
+        "restrictions": []
+      },
+      "1435494154152569": {
+        "id": "1435494154152569",
+        "title": "Critical Facility Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1435494154152569",
+        "firstSeen": "2026-03-21T22:46:45.013450",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -41722,6 +41750,13 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202605713/becario-de-mantenimiento/",
         "firstSeen": "2026-03-21T14:51:13.809619",
         "restrictions": []
+      },
+      "jr-202606066": {
+        "id": "jr-202606066",
+        "title": "Group Product Manager - AV Capabilities",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606066/group-product-manager-av-capabilities/",
+        "firstSeen": "2026-03-21T22:52:16.518718",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -41881,5 +41916,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-21T14:55:22.735674"
+  "lastUpdated": "2026-03-21T22:56:38.027797"
 }
