@@ -25775,6 +25775,20 @@
         "url": "https://jobs.fidelity.com/en/jobs/2125633/vice-president-threat-management/",
         "firstSeen": "2026-03-21T14:39:53.546990",
         "restrictions": []
+      },
+      "2125658": {
+        "id": "2125658",
+        "title": "Senior Email Developer",
+        "url": "https://jobs.fidelity.com/en/jobs/2125658/senior-email-developer/",
+        "firstSeen": "2026-03-22T22:42:37.730045",
+        "restrictions": []
+      },
+      "2126345": {
+        "id": "2126345",
+        "title": "Director Implementation Project Manager Wealth Client Experience",
+        "url": "https://jobs.fidelity.com/en/jobs/2126345/director-implementation-project-manager-wealth-client-experience/",
+        "firstSeen": "2026-03-22T22:42:37.732112",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -41958,5 +41972,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-22T14:56:50.316117"
+  "lastUpdated": "2026-03-22T22:56:58.837713"
 }
