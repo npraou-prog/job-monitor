@@ -30241,6 +30241,27 @@
         "url": "https://www.metacareers.com/profile/job_details/1435494154152569",
         "firstSeen": "2026-03-21T22:46:45.013450",
         "restrictions": []
+      },
+      "1649035269427908": {
+        "id": "1649035269427908",
+        "title": "Software Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1649035269427908",
+        "firstSeen": "2026-03-22T14:47:02.158611",
+        "restrictions": []
+      },
+      "770464258616077": {
+        "id": "770464258616077",
+        "title": "Software Engineer, Machine Learning",
+        "url": "https://www.metacareers.com/profile/job_details/770464258616077",
+        "firstSeen": "2026-03-22T14:47:02.172919",
+        "restrictions": []
+      },
+      "1463457068087777": {
+        "id": "1463457068087777",
+        "title": "Data Center Electrical Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1463457068087777",
+        "firstSeen": "2026-03-22T14:47:02.183446",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -30874,6 +30895,27 @@
         "title": "Home Infusion Nurse, 32 hours - Accredo - Indianapolis, IN",
         "url": "https://jobs.thecignagroup.com/us/en/job/26002844/Home-Infusion-Nurse-32-hours-Accredo-Indianapolis-IN",
         "firstSeen": "2026-03-21T14:47:24.693342",
+        "restrictions": []
+      },
+      "26003335": {
+        "id": "26003335",
+        "title": "Customer Service Senior Representative, Patient Scheduling - Accredo - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003335/Customer-Service-Senior-Representative-Patient-Scheduling-Accredo-Remote",
+        "firstSeen": "2026-03-22T14:48:58.127044",
+        "restrictions": []
+      },
+      "25016151": {
+        "id": "25016151",
+        "title": "Business Product Owner Advisor - Express Scripts - Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/25016151/Business-Product-Owner-Advisor-Express-Scripts-Hybrid",
+        "firstSeen": "2026-03-22T14:48:58.145070",
+        "restrictions": []
+      },
+      "26003306": {
+        "id": "26003306",
+        "title": "Business Product Owner Advisor, PBM Operations - Express Scripts - Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003306/Business-Product-Owner-Advisor-PBM-Operations-Express-Scripts-Hybrid",
+        "firstSeen": "2026-03-22T14:48:58.150617",
         "restrictions": []
       }
     },
@@ -41916,5 +41958,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-21T22:56:38.027797"
+  "lastUpdated": "2026-03-22T14:56:50.316117"
 }
