@@ -14,7 +14,8 @@ permissions:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 90
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,7 +32,7 @@ jobs:
       
       - name: Run scanner
         run: python scanner.py
-        timeout-minutes: 30
+        timeout-minutes: 80
       
       - name: Generate summary
         id: summary
