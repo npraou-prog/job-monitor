@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 playwright
-          playwright install chromium
+          playwright install chromium --with-deps
       
       - name: Run scanner
         run: python scanner.py

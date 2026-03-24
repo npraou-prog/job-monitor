@@ -1098,7 +1098,11 @@ def fetch_jobs(company, db):
     fetcher = FETCHERS.get(company_id)
     
     if fetcher:
-        return fetcher(company["url"], db, company_id)
+        try:
+            return fetcher(company["url"], db, company_id)
+        except Exception as e:
+            print(f"  ❌ {company_id} fetcher crashed: {e}", flush=True)
+            return db["companies"].get(company_id, {}), 0
     else:
         print(f"  ⚠️ No fetcher for {company_id}, skipping.", flush=True)
         return {}, 0
