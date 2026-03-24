@@ -7764,6 +7764,69 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consumer-Public-Relations-Senior-Manager/315434",
         "firstSeen": "2026-03-24T19:16:26.851649",
         "restrictions": []
+      },
+      "327863": {
+        "id": "327863",
+        "title": "Consultant, Industry Solutions, Investment Management - SimCorp",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Industry-Solutions-Investment-Management-SimCorp/327863",
+        "firstSeen": "2026-03-24T22:37:55.671815",
+        "restrictions": []
+      },
+      "327861": {
+        "id": "327861",
+        "title": "Cloud IAM Architect",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-IAM-Architect/327861",
+        "firstSeen": "2026-03-24T22:37:55.671837",
+        "restrictions": []
+      },
+      "327854": {
+        "id": "327854",
+        "title": "US E-EA Client Relationship Executive (CRE), Life Sciences NE",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/US-E-EA-Client-Relationship-Executive-CRE-Life-Sciences-NE/327854",
+        "firstSeen": "2026-03-24T22:37:55.671850",
+        "restrictions": []
+      },
+      "327844": {
+        "id": "327844",
+        "title": "AI&Data Consultant (HoH Fellowship req'd)",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-Data-Consultant-HoH-Fellowship-req-d/327844",
+        "firstSeen": "2026-03-24T22:37:55.671860",
+        "restrictions": []
+      },
+      "327836": {
+        "id": "327836",
+        "title": "AWS Cloud Engineer - TS Clearance",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AWS-Cloud-Engineer-TS-Clearance/327836",
+        "firstSeen": "2026-03-24T22:37:55.671870",
+        "restrictions": []
+      },
+      "327835": {
+        "id": "327835",
+        "title": "Project Delivery Specialist",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Specialist/327835",
+        "firstSeen": "2026-03-24T22:37:55.671878",
+        "restrictions": []
+      },
+      "327825": {
+        "id": "327825",
+        "title": "Project Delivery Specialist - Database Team Lead",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Specialist-Database-Team-Lead/327825",
+        "firstSeen": "2026-03-24T22:37:55.671897",
+        "restrictions": []
+      },
+      "327792": {
+        "id": "327792",
+        "title": "Cloud Data Engineer",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Data-Engineer/327792",
+        "firstSeen": "2026-03-24T22:37:57.494032",
+        "restrictions": []
+      },
+      "327575": {
+        "id": "327575",
+        "title": "Kinaxis Senior Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Kinaxis-Senior-Consultant/327575",
+        "firstSeen": "2026-03-24T22:38:01.394004",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -16778,6 +16841,27 @@
         "url": "https://careers.cisco.com/global/en/job/2004768/Software-Engineering-Technical-Leader",
         "firstSeen": "2026-03-24T19:25:32.492860",
         "restrictions": []
+      },
+      "2007824": {
+        "id": "2007824",
+        "title": "Project Specialist I (Full-Time) - United States",
+        "url": "https://careers.cisco.com/global/en/job/2007824/Project-Specialist-I-Full-Time-United-States",
+        "firstSeen": "2026-03-24T22:40:32.011329",
+        "restrictions": []
+      },
+      "2011318": {
+        "id": "2011318",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2011318/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-24T22:45:52.800439",
+        "restrictions": []
+      },
+      "2007958": {
+        "id": "2007958",
+        "title": "ASIC Design Verification Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2007958/ASIC-Design-Verification-Engineering-Technical-Leader",
+        "firstSeen": "2026-03-24T22:46:35.307485",
+        "restrictions": []
       }
     },
     "visa": {
@@ -20492,6 +20576,13 @@
         "title": "Analyst, Technical Solutions - Elite Care \u2013 Escalated Team",
         "url": "https://corporate.visa.com/en/jobs/REF080012W",
         "firstSeen": "2026-03-24T19:25:48.156755",
+        "restrictions": []
+      },
+      "REF079903W": {
+        "id": "REF079903W",
+        "title": "Sr. Consultant, Client Success",
+        "url": "https://corporate.visa.com/en/jobs/REF079903W",
+        "firstSeen": "2026-03-24T22:48:02.675627",
         "restrictions": []
       }
     },
@@ -26687,6 +26778,27 @@
         "url": "https://jobs.fidelity.com/en/jobs/2124494/associate-investigator/",
         "firstSeen": "2026-03-24T19:27:10.565251",
         "restrictions": []
+      },
+      "2125991": {
+        "id": "2125991",
+        "title": "Director Asset Management Leadership Communications",
+        "url": "https://jobs.fidelity.com/en/jobs/2125991/director-asset-management-leadership-communications/",
+        "firstSeen": "2026-03-24T22:48:19.921960",
+        "restrictions": []
+      },
+      "2125627": {
+        "id": "2125627",
+        "title": "It Data Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2125627/it-data-analyst/",
+        "firstSeen": "2026-03-24T22:48:19.935197",
+        "restrictions": []
+      },
+      "2125608": {
+        "id": "2125608",
+        "title": "Director Of Web Experience",
+        "url": "https://jobs.fidelity.com/en/jobs/2125608/director-of-web-experience/",
+        "firstSeen": "2026-03-24T22:48:19.941222",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -31531,6 +31643,55 @@
         "url": "https://www.metacareers.com/profile/job_details/1239317191457074",
         "firstSeen": "2026-03-24T19:31:43.660473",
         "restrictions": []
+      },
+      "4236113156603927": {
+        "id": "4236113156603927",
+        "title": "Product Designer",
+        "url": "https://www.metacareers.com/profile/job_details/4236113156603927",
+        "firstSeen": "2026-03-24T22:53:52.106999",
+        "restrictions": []
+      },
+      "1187958502273564": {
+        "id": "1187958502273564",
+        "title": "Software Engineer (Technical Leadership)",
+        "url": "https://www.metacareers.com/profile/job_details/1187958502273564",
+        "firstSeen": "2026-03-24T22:53:52.119238",
+        "restrictions": []
+      },
+      "769709699353828": {
+        "id": "769709699353828",
+        "title": "Network Engineer, Deployment & Support",
+        "url": "https://www.metacareers.com/profile/job_details/769709699353828",
+        "firstSeen": "2026-03-24T22:53:52.123929",
+        "restrictions": []
+      },
+      "1530931168179168": {
+        "id": "1530931168179168",
+        "title": "Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/1530931168179168",
+        "firstSeen": "2026-03-24T22:53:52.146424",
+        "restrictions": []
+      },
+      "26330364016595429": {
+        "id": "26330364016595429",
+        "title": "Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/26330364016595429",
+        "firstSeen": "2026-03-24T22:53:52.151814",
+        "restrictions": []
+      },
+      "1214258273805665": {
+        "id": "1214258273805665",
+        "title": "Technical Program Manager, Displays and Optics",
+        "url": "https://www.metacareers.com/profile/job_details/1214258273805665",
+        "firstSeen": "2026-03-24T22:53:52.156279",
+        "restrictions": []
+      },
+      "1378323667233413": {
+        "id": "1378323667233413",
+        "title": "Data Scientist, Product",
+        "url": "https://www.metacareers.com/profile/job_details/1378323667233413",
+        "firstSeen": "2026-03-24T22:53:52.160356",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -36219,6 +36380,27 @@
         "title": "eDiscovery Legal Specialist II",
         "url": "https://careers.elevancehealth.com/ediscovery-legal-specialist-ii/job/FA2C4AB8C5CA19514C533AEAA5B56232",
         "firstSeen": "2026-03-24T19:36:31.140092",
+        "restrictions": []
+      },
+      "666AE58B1D14F5E7CE8373F9A77FEFD6": {
+        "id": "666AE58B1D14F5E7CE8373F9A77FEFD6",
+        "title": "Director Government Business Division (GBD) Special Programs Services",
+        "url": "https://careers.elevancehealth.com/director-government-business-division-gbd-special-programs-services/job/666AE58B1D14F5E7CE8373F9A77FEFD6",
+        "firstSeen": "2026-03-24T22:57:22.560888",
+        "restrictions": []
+      },
+      "2F5E4E38055EDE3CBF7544D5DDF99DBE": {
+        "id": "2F5E4E38055EDE3CBF7544D5DDF99DBE",
+        "title": "Internal Audit Manager",
+        "url": "https://careers.elevancehealth.com/internal-audit-manager/job/2F5E4E38055EDE3CBF7544D5DDF99DBE",
+        "firstSeen": "2026-03-24T22:57:35.218136",
+        "restrictions": []
+      },
+      "29968744A5BF4EB1EE01B0BA4EA0374F": {
+        "id": "29968744A5BF4EB1EE01B0BA4EA0374F",
+        "title": "Psychologist Reviewer - ABA",
+        "url": "https://careers.elevancehealth.com/psychologist-reviewer-aba/job/29968744A5BF4EB1EE01B0BA4EA0374F",
+        "firstSeen": "2026-03-24T22:58:25.514697",
         "restrictions": []
       }
     },
@@ -43873,6 +44055,167 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202521351/engineering-group-manager-cellular-technology/",
         "firstSeen": "2026-03-24T19:37:37.040172",
         "restrictions": []
+      },
+      "jr-202605538": {
+        "id": "jr-202605538",
+        "title": "CAE Material - Technical Specialist",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605538/cae-material-technical-specialist/",
+        "firstSeen": "2026-03-24T22:59:22.006199",
+        "restrictions": []
+      },
+      "jr-202606388": {
+        "id": "jr-202606388",
+        "title": "Cross Program Process Lead",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606388/cross-program-process-lead/",
+        "firstSeen": "2026-03-24T22:59:22.011081",
+        "restrictions": []
+      },
+      "jr-202600933": {
+        "id": "jr-202600933",
+        "title": "AV Vehicle Motion Internship Software Engineering",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202600933/av-vehicle-motion-internship-software-engineering/",
+        "firstSeen": "2026-03-24T22:59:22.015791",
+        "restrictions": []
+      },
+      "jr-202602117": {
+        "id": "jr-202602117",
+        "title": "Maintenance Group Leader",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202602117/maintenance-group-leader/",
+        "firstSeen": "2026-03-24T22:59:22.028625",
+        "restrictions": []
+      },
+      "jr-202605675": {
+        "id": "jr-202605675",
+        "title": "Vehicle Performance Engineer - Mass Certification and Compliance",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605675/vehicle-performance-engineer-mass-certification-and-compliance/",
+        "firstSeen": "2026-03-24T22:59:22.042435",
+        "restrictions": []
+      },
+      "jr-202606488": {
+        "id": "jr-202606488",
+        "title": "Launch Quality Engineer - GM Defense",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606488/launch-quality-engineer-gm-defense/",
+        "firstSeen": "2026-03-24T22:59:22.047129",
+        "restrictions": []
+      },
+      "jr-202606095": {
+        "id": "jr-202606095",
+        "title": "Group Manager - Semiconductor Resiliency",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606095/group-manager-semiconductor-resiliency/",
+        "firstSeen": "2026-03-24T22:59:22.068949",
+        "restrictions": []
+      },
+      "jr-202603088": {
+        "id": "jr-202603088",
+        "title": "Manufacturing Engineer - 2nd Shift",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202603088/manufacturing-engineer-2nd-shift/",
+        "firstSeen": "2026-03-24T22:59:27.816223",
+        "restrictions": []
+      },
+      "jr-202604862": {
+        "id": "jr-202604862",
+        "title": "Software Engineer, Data Platform (Autonomous Vehicles)",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604862/software-engineer-data-platform-autonomous-vehicles/",
+        "firstSeen": "2026-03-24T22:59:27.820166",
+        "restrictions": []
+      },
+      "jr-202606393": {
+        "id": "jr-202606393",
+        "title": "Cross Program Data Lead",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606393/cross-program-data-lead/",
+        "firstSeen": "2026-03-24T22:59:27.835191",
+        "restrictions": []
+      },
+      "jr-202602556": {
+        "id": "jr-202602556",
+        "title": "GSC Business Planner",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202602556/gsc-business-planner/",
+        "firstSeen": "2026-03-24T22:59:27.850433",
+        "restrictions": []
+      },
+      "jr-202606363": {
+        "id": "jr-202606363",
+        "title": "Sr. Environmental Leader",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606363/sr-environmental-leader/",
+        "firstSeen": "2026-03-24T22:59:27.854135",
+        "restrictions": []
+      },
+      "jr-202604964": {
+        "id": "jr-202604964",
+        "title": "Manufacturing Engineering Execution Lead",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202604964/manufacturing-engineering-execution-lead/",
+        "firstSeen": "2026-03-24T22:59:27.857673",
+        "restrictions": []
+      },
+      "jr-202606174": {
+        "id": "jr-202606174",
+        "title": "Safety Integration Engineer \u2013 Vulnerable Road User",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606174/safety-integration-engineer-vulnerable-road-user/",
+        "firstSeen": "2026-03-24T22:59:27.861273",
+        "restrictions": []
+      },
+      "jr-202602752": {
+        "id": "jr-202602752",
+        "title": "Brand Strategy Manager",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202602752/brand-strategy-manager/",
+        "firstSeen": "2026-03-24T22:59:33.559967",
+        "restrictions": []
+      },
+      "jr-202605959": {
+        "id": "jr-202605959",
+        "title": "Vehicle Dynamics Simulation Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202605959/vehicle-dynamics-simulation-engineer/",
+        "firstSeen": "2026-03-24T22:59:33.563707",
+        "restrictions": []
+      },
+      "jr-202606106": {
+        "id": "jr-202606106",
+        "title": "Design Manager, Vehicle Shopping and Service Experience",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606106/design-manager-vehicle-shopping-and-service-experience/",
+        "firstSeen": "2026-03-24T22:59:33.586101",
+        "restrictions": []
+      },
+      "jr-202606477": {
+        "id": "jr-202606477",
+        "title": "Launch Electrical Coordinator - GM Defense",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606477/launch-electrical-coordinator-gm-defense/",
+        "firstSeen": "2026-03-24T22:59:33.595873",
+        "restrictions": []
+      },
+      "jr-202606147": {
+        "id": "jr-202606147",
+        "title": "Staff Designer, E-commerce, Human Interface Design Studio",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606147/staff-designer-e-commerce-human-interface-design-studio/",
+        "firstSeen": "2026-03-24T22:59:33.600019",
+        "restrictions": []
+      },
+      "jr-202606733": {
+        "id": "jr-202606733",
+        "title": "Senior Global Sourcing Manager - Semiconductors",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606733/senior-global-sourcing-manager-semiconductors/",
+        "firstSeen": "2026-03-24T22:59:33.616232",
+        "restrictions": []
+      },
+      "jr-202606172": {
+        "id": "jr-202606172",
+        "title": "Sr. Data Scientist, CRM",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606172/sr-data-scientist-crm/",
+        "firstSeen": "2026-03-24T22:59:39.324559",
+        "restrictions": []
+      },
+      "jr-202600393": {
+        "id": "jr-202600393",
+        "title": "Mechanical Journeyperson (Pipefitter) - Fort Wayne",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202600393/mechanical-journeyperson-pipefitter-fort-wayne/",
+        "firstSeen": "2026-03-24T22:59:39.332378",
+        "restrictions": []
+      },
+      "jr-202606763": {
+        "id": "jr-202606763",
+        "title": "GMC Regional Sales Operations Manager, North Central Region",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606763/gmc-regional-sales-operations-manager-north-central-region/",
+        "firstSeen": "2026-03-24T22:59:39.336445",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -44053,5 +44396,5 @@
       }
     }
   },
-  "lastUpdated": "2026-03-24T19:41:23.917071"
+  "lastUpdated": "2026-03-24T23:03:42.521680"
 }
