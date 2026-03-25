@@ -1072,6 +1072,97 @@ def fetch_meta_jobs(base_url, db, company_id):
     return jobs, new_found
 
 
+
+# =============================================================================
+# INTEL FETCHER (Playwright - Workday JS rendered, paginated)
+# =============================================================================
+def fetch_intel_jobs(base_url, db, company_id):
+    """Fetch Intel jobs from Workday using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(5000)
+
+        # Get total count
+        total = 500
+        try:
+            count_text = page.locator('text=/\\d+ jobs/i, text=/\\d+ results/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 500", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+
+        while page_num < max_pages:
+            # Intel Workday pattern: /en-US/External/job/{location}/{title}_JR{id}
+            links = page.locator('a[href*="/External/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    # Extract JR job ID
+                    job_id_match = re.search(r'_(JR\d+)', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://intel.wd1.myworkdayjobs.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Try next page button
+            try:
+                next_btn = page.locator('button[aria-label="next"]').first
+                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1089,6 +1180,7 @@ FETCHERS = {
     "elevancehealth": fetch_elevancehealth_jobs,
     "gm": fetch_gm_jobs,
     "cocacola": fetch_cocacola_jobs,
+    "intel": fetch_intel_jobs,
 }
 
 

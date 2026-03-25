@@ -102,6 +102,16 @@
       "url": "https://careers.coca-colacompany.com/job-search-results/?keyword=data",
       "referrers": ["LinkedIn"],
       "added": "2026-03-10"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/External",
+      "referrers": [
+        "[Shweta](https://www.linkedin.com/in/shweta-m-4a812423/)",
+        "[Rodrigo](https://www.linkedin.com/in/rodrigovivi/)"
+      ],
+      "added": "2026-03-25"
     }
   ]
 }
