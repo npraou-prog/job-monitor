@@ -1118,9 +1118,10 @@ def fetch_intel_jobs(base_url, db, company_id):
                     href = link.get_attribute('href') or ''
                     title = link.inner_text().strip()
 
-                    # Extract JR job ID
+                    # Extract JR job ID — only US locations
                     job_id_match = re.search(r'_(JR\d+)', href)
-                    if job_id_match and title and len(title) > 3:
+                    is_us = '/US-' in href
+                    if job_id_match and title and len(title) > 3 and is_us:
                         job_id = job_id_match.group(1)
 
                         if job_id not in jobs:
