@@ -121,6 +121,13 @@
         "[TJ Cain](https://www.linkedin.com/in/tjcain/)"
       ],
       "added": "2026-03-26"
+    },
+    {
+      "id": "morganstanley",
+      "name": "Morgan Stanley",
+      "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549796799991&sort_by=timestamp",
+      "referrers": ["Venkat"],
+      "added": "2026-03-26"
     }
   ]
 }

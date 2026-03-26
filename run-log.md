@@ -371,3 +371,4 @@
 | 2026-03-23 | 22:38 | Coca-Cola | No change | 0 | 0 | - |
 | 2026-03-25 | 19:18 | Intel | BASELINE | 608 | 26 | Initial scan, 608 jobs indexed |
 | 2026-03-26 | 11:46 | IBM | BASELINE | 8 | 4 | Initial scan, 8 jobs indexed |
+| 2026-03-26 | 15:54 | Morgan Stanley | BASELINE | 632 | 81 | Initial scan, 632 jobs indexed |

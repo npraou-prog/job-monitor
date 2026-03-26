@@ -1268,6 +1268,121 @@ def fetch_ibm_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# MORGAN STANLEY FETCHER (Playwright - Eightfold AI, paginated)
+# =============================================================================
+def fetch_morganstanley_jobs(base_url, db, company_id):
+    """Fetch Morgan Stanley jobs from Eightfold AI using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(6000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        no_change_rounds = 0
+        last_count = 0
+
+        while page_num < max_pages:
+            # Morgan Stanley Eightfold pattern: /careers/job/{id}
+            links = page.locator('a[href*="/careers/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    text = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/careers/job/(\d+)', href)
+                    if not job_id_match or len(text) < 3:
+                        continue
+
+                    job_id = job_id_match.group(1)
+
+                    # US-only filter
+                    if 'United States' not in text and 'United States' not in href:
+                        # Check location from text
+                        if not any(state in text for state in [
+                            ', New York,', ', Texas,', ', California,', ', Florida,',
+                            ', Georgia,', ', Maryland,', ', Virginia,', ', Illinois,',
+                            ', Massachusetts,', ', New Jersey,', ', Arizona,', ', Colorado,',
+                            ', Utah,', ', Washington,', ', North Carolina,'
+                        ]):
+                            continue
+
+                    # Clean title (first line of text)
+                    clean_title = text.split('\n')[0].strip()
+
+                    if job_id not in jobs and len(clean_title) > 3:
+                        full_url = f"https://morganstanley.eightfold.ai/careers/job/{job_id}?source=mscom"
+                        restrictions = detect_restrictions(clean_title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": clean_title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Check if stuck
+            if len(jobs) == last_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    print("  No new jobs after 3 pages, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+                last_count = len(jobs)
+
+            # Next page
+            try:
+                next_btn = page.locator('button[aria-label*="Next"], a[aria-label*="Next"], button:has-text("Next"), [data-ph-at-id*="next"]').first
+                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(4000)
+                else:
+                    # Try URL-based pagination
+                    current_start = int(re.search(r'start=(\d+)', page.url).group(1)) if 'start=' in page.url else 0
+                    next_url = re.sub(r'start=\d+', f'start={current_start + 20}', page.url)
+                    if next_url != page.url:
+                        page.goto(next_url, wait_until='domcontentloaded', timeout=30000)
+                        page.wait_for_timeout(4000)
+                    else:
+                        break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1287,6 +1402,7 @@ FETCHERS = {
     "cocacola": fetch_cocacola_jobs,
     "intel": fetch_intel_jobs,
     "ibm": fetch_ibm_jobs,
+    "morganstanley": fetch_morganstanley_jobs,
 }
 
 
