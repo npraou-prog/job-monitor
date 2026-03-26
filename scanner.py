@@ -1164,6 +1164,110 @@ def fetch_intel_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# IBM FETCHER (Playwright - JS rendered, paginated)
+# =============================================================================
+def fetch_ibm_jobs(base_url, db, company_id):
+    """Fetch IBM jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(8000)
+
+        # Get total count
+        total = 500
+        try:
+            count_text = page.locator('text=/\\d+ job/i').first.inner_text()
+            match = re.search(r'(\d+)', count_text)
+            total = int(match.group(1)) if match else 500
+            print(f"Total: {total} jobs", flush=True)
+        except:
+            print("Could not determine job count, estimating 500", flush=True)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        last_job_count = 0
+        no_change_rounds = 0
+
+        while page_num < max_pages:
+            # IBM pattern: careers.ibm.com/careers/JobDetail?jobId={id}
+            links = page.locator('a[href*="JobDetail"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'jobId=(\d+)', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+                        # Clean title (IBM puts category/level/location in same element)
+                        clean_title = title.split('\n')[1].strip() if '\n' in title else title
+
+                        if job_id not in jobs:
+                            full_url = f"https://careers.ibm.com/careers/JobDetail?jobId={job_id}"
+                            restrictions = detect_restrictions(clean_title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": clean_title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            # Check if stuck
+            if len(jobs) == last_job_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    print("  No new jobs after 3 pages, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+                last_job_count = len(jobs)
+
+            # Try next page
+            try:
+                next_btn = page.locator('button[aria-label*="Next"], a[aria-label*="Next"], button:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(4000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1182,6 +1286,7 @@ FETCHERS = {
     "gm": fetch_gm_jobs,
     "cocacola": fetch_cocacola_jobs,
     "intel": fetch_intel_jobs,
+    "ibm": fetch_ibm_jobs,
 }
 
 
