@@ -50,10 +50,40 @@ def is_relevant_role(title, target_roles):
 
 # Keywords that indicate citizenship/clearance requirements
 RESTRICTION_KEYWORDS = {
-    'citizen': ['us citizen', 'u.s. citizen', 'american citizen', 'citizenship required'],
-    'clearance': ['security clearance', 'secret clearance', 'top secret', 'ts/sci', 'clearance required', 'public trust'],
-    'gc': ['green card', 'permanent resident', 'gc holder'],
+    'citizen': [
+        'us citizen', 'u.s. citizen', 'american citizen', 'citizenship required',
+        'must be a citizen', 'citizens only', 'us citizenship', 'u.s. citizenship',
+        'requires citizenship', 'citizen only'
+    ],
+    'clearance': [
+        'security clearance', 'secret clearance', 'top secret', 'ts/sci',
+        'clearance required', 'public trust', 'dod clearance', 'active clearance',
+        'requires clearance', 'must have clearance', 'clearance eligible',
+        'interim clearance', 'sci clearance', 'polygraph'
+    ],
+    'gc': [
+        'green card', 'permanent resident', 'gc holder', 'gc required',
+        'must be a permanent resident', 'lawful permanent'
+    ],
 }
+
+
+def has_restrictions(job):
+    return bool(job.get('restrictions'))
+
+
+def restriction_label(job):
+    r = job.get('restrictions', [])
+    if not r:
+        return ''
+    labels = []
+    if 'citizen' in r:
+        labels.append('US Citizen Only')
+    if 'clearance' in r:
+        labels.append('Clearance Required')
+    if 'gc' in r:
+        labels.append('GC/PR Only')
+    return ' | '.join(labels)
 
 
 def detect_restrictions(text):
@@ -1469,20 +1499,23 @@ def main(target_company=None):
                    and j.get("firstSeen", "").startswith(now.strftime("%Y-%m-%d"))]
         
         # Log
+        clean_count = len([j for j in relevant if not has_restrictions(j)])
+        restr_count = len([j for j in relevant if has_restrictions(j)])
+
         if is_baseline:
             status = "BASELINE"
             notes = f"Initial scan, {len(jobs)} jobs indexed"
-        elif relevant:
+        elif clean_count:
             status = "🎯 MATCH"
-            notes = f"{len(relevant)} relevant found!"
+            notes = f"{clean_count} relevant found! ({restr_count} restricted skipped)"
         elif new_count > 0:
             status = "NEW"
             notes = f"{new_count} new (not matching)"
         else:
             status = "No change"
             notes = "-"
-        
-        append_log(date_str, time_str, company["name"], status, new_count, len(relevant), notes)
+
+        append_log(date_str, time_str, company["name"], status, new_count, clean_count, notes)
         
         # Summary
         print(f"\n{'='*50}", flush=True)
@@ -1491,12 +1524,25 @@ def main(target_company=None):
         print(f"\n{company['name']}:", flush=True)
         print(f"  Total jobs: {len(jobs)}", flush=True)
         print(f"  New jobs: {new_count}", flush=True)
-        print(f"  Relevant: {len(relevant)}", flush=True)
+        _clean = len([j for j in relevant if not has_restrictions(j)])
+        _restr = len([j for j in relevant if has_restrictions(j)])
+        print(f"  Relevant (clean): {_clean}", flush=True)
+        if _restr:
+            print(f"  Restricted (skipped): {_restr}", flush=True)
         
-        if relevant:
+        clean_relevant = [j for j in relevant if not has_restrictions(j)]
+        restricted_relevant = [j for j in relevant if has_restrictions(j)]
+
+        if clean_relevant:
             print(f"\n  🎯 RELEVANT JOBS (contact {', '.join(company['referrers'])}):", flush=True)
-            for job in relevant:
+            for job in clean_relevant:
                 print(f"    • {job['title']}", flush=True)
+                print(f"      {job['url']}", flush=True)
+
+        if restricted_relevant:
+            print(f"\n  ⚠️  RESTRICTED (citizenship/clearance — skipped):", flush=True)
+            for job in restricted_relevant:
+                print(f"    • {job['title']} [{restriction_label(job)}]", flush=True)
                 print(f"      {job['url']}", flush=True)
 
 
