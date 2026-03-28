@@ -373,3 +373,4 @@
 | 2026-03-26 | 11:46 | IBM | BASELINE | 8 | 4 | Initial scan, 8 jobs indexed |
 | 2026-03-26 | 15:54 | Morgan Stanley | BASELINE | 632 | 81 | Initial scan, 632 jobs indexed |
 | 2026-03-28 | 10:47 | Deloitte | No change | 0 | 0 | - |
+| 2026-03-28 | 18:32 | Children's Healthcare of Atlanta (CHOA) | BASELINE | 10 | 0 | Initial scan, 10 jobs indexed |

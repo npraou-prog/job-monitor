@@ -1413,6 +1413,96 @@ def fetch_morganstanley_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# CHILDREN'S HEALTHCARE OF ATLANTA (CHOA) FETCHER (Playwright - Phenom People)
+# =============================================================================
+def fetch_choa_jobs(base_url, db, company_id):
+    """Fetch CHOA jobs using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(5000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        no_change_rounds = 0
+        last_count = 0
+
+        while page_num < max_pages:
+            # CHOA pattern: /us/en/job/R-{id}/{title}
+            links = page.locator('a[href*="/us/en/job/R-"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/job/(R-\d+)/', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://careers.choa.org{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if len(jobs) == last_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    print("  No new jobs after 3 pages, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+                last_count = len(jobs)
+
+            try:
+                next_btn = page.locator('button[aria-label*="Next"], a[aria-label*="Next"], button:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1433,6 +1523,7 @@ FETCHERS = {
     "intel": fetch_intel_jobs,
     "ibm": fetch_ibm_jobs,
     "morganstanley": fetch_morganstanley_jobs,
+    "choa": fetch_choa_jobs,
 }
 
 
