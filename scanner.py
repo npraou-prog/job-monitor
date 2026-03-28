@@ -1505,9 +1505,10 @@ def main(target_company=None):
         if is_baseline:
             status = "BASELINE"
             notes = f"Initial scan, {len(jobs)} jobs indexed"
-        elif clean_count:
+        elif relevant:
             status = "🎯 MATCH"
-            notes = f"{clean_count} relevant found! ({restr_count} restricted skipped)"
+            restr_note = f" ({restr_count} restricted)" if restr_count else ""
+            notes = f"{len(relevant)} relevant found!{restr_note}"
         elif new_count > 0:
             status = "NEW"
             notes = f"{new_count} new (not matching)"
@@ -1515,7 +1516,7 @@ def main(target_company=None):
             status = "No change"
             notes = "-"
 
-        append_log(date_str, time_str, company["name"], status, new_count, clean_count, notes)
+        append_log(date_str, time_str, company["name"], status, new_count, len(relevant), notes)
         
         # Summary
         print(f"\n{'='*50}", flush=True)
@@ -1524,25 +1525,16 @@ def main(target_company=None):
         print(f"\n{company['name']}:", flush=True)
         print(f"  Total jobs: {len(jobs)}", flush=True)
         print(f"  New jobs: {new_count}", flush=True)
-        _clean = len([j for j in relevant if not has_restrictions(j)])
         _restr = len([j for j in relevant if has_restrictions(j)])
-        print(f"  Relevant (clean): {_clean}", flush=True)
+        print(f"  Relevant: {len(relevant)}", flush=True)
         if _restr:
-            print(f"  Restricted (skipped): {_restr}", flush=True)
+            print(f"  Restricted (tagged): {_restr}", flush=True)
         
-        clean_relevant = [j for j in relevant if not has_restrictions(j)]
-        restricted_relevant = [j for j in relevant if has_restrictions(j)]
-
-        if clean_relevant:
+        if relevant:
             print(f"\n  🎯 RELEVANT JOBS (contact {', '.join(company['referrers'])}):", flush=True)
-            for job in clean_relevant:
-                print(f"    • {job['title']}", flush=True)
-                print(f"      {job['url']}", flush=True)
-
-        if restricted_relevant:
-            print(f"\n  ⚠️  RESTRICTED (citizenship/clearance — skipped):", flush=True)
-            for job in restricted_relevant:
-                print(f"    • {job['title']} [{restriction_label(job)}]", flush=True)
+            for job in relevant:
+                tag = f"  ⚠️ [{restriction_label(job)}]" if has_restrictions(job) else ""
+                print(f"    • {job['title']}{tag}", flush=True)
                 print(f"      {job['url']}", flush=True)
 
 
