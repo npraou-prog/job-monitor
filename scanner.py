@@ -1442,10 +1442,24 @@ def fetch_choa_jobs(base_url, db, company_id):
         no_change_rounds = 0
         last_count = 0
 
+        per_page = 10
+        offset = 0
+
         while page_num < max_pages:
+            # Navigate via URL pagination: ?from=offset&s=1
+            if offset == 0:
+                page_url = base_url
+            else:
+                page_url = f"{base_url}&from={offset}&s=1"
+
+            if page_num > 0:
+                page.goto(page_url, wait_until='domcontentloaded', timeout=30000)
+                page.wait_for_timeout(3000)
+
             # CHOA pattern: /us/en/job/R-{id}/{title}
             links = page.locator('a[href*="/us/en/job/R-"]').all()
 
+            found_this_page = 0
             for link in links:
                 try:
                     href = link.get_attribute('href') or ''
@@ -1466,34 +1480,26 @@ def fetch_choa_jobs(base_url, db, company_id):
                                 "restrictions": restrictions
                             }
                             new_found += 1
+                            found_this_page += 1
                 except:
                     continue
 
             page_num += 1
+            offset += per_page
 
-            if page_num % 5 == 0:
+            if page_num % 10 == 0:
                 print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
                 db["companies"][company_id] = jobs
                 save_db(db)
 
-            if len(jobs) == last_count:
+            # Stop if no new jobs found on this page
+            if found_this_page == 0:
                 no_change_rounds += 1
-                if no_change_rounds >= 3:
-                    print("  No new jobs after 3 pages, stopping", flush=True)
+                if no_change_rounds >= 2:
+                    print(f"  No new jobs on page {page_num}, stopping", flush=True)
                     break
             else:
                 no_change_rounds = 0
-                last_count = len(jobs)
-
-            try:
-                next_btn = page.locator('button[aria-label*="Next"], a[aria-label*="Next"], button:has-text("Next")').first
-                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
-                    next_btn.click()
-                    page.wait_for_timeout(3000)
-                else:
-                    break
-            except:
-                break
 
         browser.close()
 
