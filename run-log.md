@@ -376,3 +376,4 @@
 | 2026-03-28 | 18:32 | Children's Healthcare of Atlanta (CHOA) | BASELINE | 10 | 0 | Initial scan, 10 jobs indexed |
 | 2026-03-28 | 18:35 | Children's Healthcare of Atlanta (CHOA) | 🎯 MATCH | 507 | 16 | 16 relevant found! |
 | 2026-03-29 | 11:44 | Qualcomm | BASELINE | 328 | 44 | Initial scan, 328 jobs indexed |
+| 2026-03-29 | 11:53 | Amazon (Jobs for Grads) | BASELINE | 5 | 1 | Initial scan, 5 jobs indexed |

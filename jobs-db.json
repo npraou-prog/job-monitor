@@ -60376,7 +60376,44 @@
         "firstSeen": "2026-03-29T11:46:14.523635",
         "restrictions": []
       }
+    },
+    "amazon-grads": {
+      "3179205": {
+        "id": "3179205",
+        "title": "Software Development Engineer - Military Veterans",
+        "url": "https://www.amazon.jobs/jobs/3179205",
+        "firstSeen": "2026-03-29T11:53:26.870248",
+        "restrictions": []
+      },
+      "3188438": {
+        "id": "3188438",
+        "title": "Software Development Engineer Apprentice - Military Veterans",
+        "url": "https://www.amazon.jobs/jobs/3188438",
+        "firstSeen": "2026-03-29T11:53:26.873393",
+        "restrictions": []
+      },
+      "3177934": {
+        "id": "3177934",
+        "title": "Software Development Engineer - 2026 (US)",
+        "url": "https://www.amazon.jobs/jobs/3177934",
+        "firstSeen": "2026-03-29T11:53:26.876159",
+        "restrictions": []
+      },
+      "3175965": {
+        "id": "3175965",
+        "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
+        "url": "https://www.amazon.jobs/jobs/3175965",
+        "firstSeen": "2026-03-29T11:53:26.878681",
+        "restrictions": []
+      },
+      "3144341": {
+        "id": "3144341",
+        "title": "Software Development Engineer \u2013 Amazon Leo (US)",
+        "url": "https://www.amazon.jobs/jobs/3144341",
+        "firstSeen": "2026-03-29T11:53:26.880993",
+        "restrictions": []
+      }
     }
   },
-  "lastUpdated": "2026-03-29T11:46:25.401192"
+  "lastUpdated": "2026-03-29T11:53:26.913163"
 }

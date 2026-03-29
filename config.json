@@ -142,6 +142,13 @@
       "url": "https://careers.qualcomm.com/careers?hl=en-US&domain=qualcomm.com&query=Data&start=0&location=United+states&sort_by=relevance&filter_include_remote=0",
       "referrers": ["Naga"],
       "added": "2026-03-29"
+    },
+    {
+      "id": "amazon-grads",
+      "name": "Amazon (Jobs for Grads)",
+      "url": "https://www.amazon.jobs/content/en/career-programs/university/jobs-for-grads?country%5B%5D=US&category%5B%5D=Software+Development&category%5B%5D=Data+Science#search",
+      "referrers": [],
+      "added": "2026-03-29"
     }
   ]
 }

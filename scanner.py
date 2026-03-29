@@ -1616,6 +1616,100 @@ def fetch_qualcomm_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# AMAZON (JOBS FOR GRADS) FETCHER (Playwright - US only)
+# =============================================================================
+def fetch_amazon_jobs(base_url, db, company_id):
+    """Fetch Amazon Jobs for Grads using Playwright."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(6000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 50
+        no_change_rounds = 0
+        last_count = 0
+
+        while page_num < max_pages:
+            # Amazon pattern: /jobs/{numeric_id}
+            links = page.locator('a[href*="/jobs/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/jobs/(\d+)', href)
+                    if not job_id_match or len(title) < 3:
+                        continue
+
+                    job_id = job_id_match.group(1)
+                    clean_title = title.split('\n')[0].strip()
+
+                    if job_id not in jobs and len(clean_title) > 3:
+                        full_url = f"https://www.amazon.jobs{href}" if not href.startswith('http') else href
+                        restrictions = detect_restrictions(clean_title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": clean_title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if len(jobs) == last_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    print("  No new jobs after 3 pages, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+                last_count = len(jobs)
+
+            # Try next page button
+            try:
+                next_btn = page.locator('a[aria-label*="Next"], button[aria-label*="Next"], a:has-text("Next"), button:has-text("Next")').first
+                if next_btn.count() > 0 and next_btn.is_visible() and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1638,6 +1732,7 @@ FETCHERS = {
     "morganstanley": fetch_morganstanley_jobs,
     "choa": fetch_choa_jobs,
     "qualcomm": fetch_qualcomm_jobs,
+    "amazon-grads": fetch_amazon_jobs,
 }
 
 
