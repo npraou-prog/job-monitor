@@ -375,3 +375,20 @@
 | 2026-03-28 | 10:47 | Deloitte | No change | 0 | 0 | - |
 | 2026-03-28 | 18:32 | Children's Healthcare of Atlanta (CHOA) | BASELINE | 10 | 0 | Initial scan, 10 jobs indexed |
 | 2026-03-28 | 18:35 | Children's Healthcare of Atlanta (CHOA) | 🎯 MATCH | 507 | 16 | 16 relevant found! |
+| 2026-03-29 | 14:35 | Deloitte | No change | 0 | 0 | - |
+| 2026-03-29 | 14:35 | Cisco | 🎯 MATCH | 6 | 1 | 1 relevant found! |
+| 2026-03-29 | 14:35 | Visa | No change | 0 | 0 | - |
+| 2026-03-29 | 14:35 | Global Partners | No change | 0 | 0 | - |
+| 2026-03-29 | 14:35 | Fidelity | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-03-29 | 14:35 | Synopsys | NEW | 14 | 0 | 14 new (not matching) |
+| 2026-03-29 | 14:35 | Chewy | 🎯 MATCH | 3 | 1 | 1 relevant found! |
+| 2026-03-29 | 14:35 | Meta | 🎯 MATCH | 4 | 2 | 2 relevant found! |
+| 2026-03-29 | 14:35 | Cigna Healthcare | No change | 0 | 0 | - |
+| 2026-03-29 | 14:35 | Cigna Evernorth Health Services | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-03-29 | 14:35 | Elevance Health | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-03-29 | 14:35 | General Motors | NEW | 6 | 0 | 6 new (not matching) |
+| 2026-03-29 | 14:35 | Coca-Cola | No change | 0 | 0 | - |
+| 2026-03-29 | 14:35 | Intel | NEW | 7 | 0 | 7 new (not matching) |
+| 2026-03-29 | 14:35 | IBM | NEW | 5 | 0 | 5 new (not matching) |
+| 2026-03-29 | 14:35 | Morgan Stanley | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-03-29 | 14:35 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
