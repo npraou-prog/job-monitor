@@ -135,6 +135,13 @@
       "url": "https://careers.choa.org/us/en/search-results?keywords=",
       "referrers": [],
       "added": "2026-03-28"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "url": "https://careers.qualcomm.com/careers?hl=en-US&domain=qualcomm.com&query=Data&start=0&location=United+states&sort_by=relevance&filter_include_remote=0",
+      "referrers": ["Naga"],
+      "added": "2026-03-29"
     }
   ]
 }
