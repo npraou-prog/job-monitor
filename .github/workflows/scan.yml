@@ -89,7 +89,8 @@ jobs:
           git config user.email "bot@jobmonitor.local"
           git add jobs-db.json run-log.md scan-summary.md
           git diff --staged --quiet || git commit -m "📊 Daily scan: $(date +%Y-%m-%d)"
-          git push
+          git pull --rebase origin master || git pull --rebase origin main
+          git push origin HEAD
       
       - name: Upload summary artifact
         uses: actions/upload-artifact@v4
