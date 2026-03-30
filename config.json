@@ -165,7 +165,10 @@
       "id": "gehealthcare",
       "name": "GE Healthcare",
       "url": "https://careers.gehealthcare.com/global/en/search-results?keywords=data%20scientist",
-      "referrers": [],
+      "referrers": [
+        "[Tyler Martinez](https://www.linkedin.com/in/tyler-martinez-4b448057/)",
+        "[Antonio Alaniz](https://www.linkedin.com/in/alanizantonio/)"
+      ],
       "added": "2026-03-30"
     }
   ]
