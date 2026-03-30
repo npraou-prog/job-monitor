@@ -1710,6 +1710,118 @@ def fetch_amazon_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# EY FETCHER (Playwright - US only, paginated)
+# =============================================================================
+def fetch_ey_jobs(base_url, db, company_id):
+    """Fetch EY jobs using Playwright - US only."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    US_CITIES = [
+        'Dallas', 'New York', 'Chicago', 'Houston', 'Atlanta', 'Boston',
+        'Los Angeles', 'San Francisco', 'Seattle', 'Denver', 'Austin',
+        'Philadelphia', 'Washington', 'Charlotte', 'Minneapolis', 'Detroit',
+        'Phoenix', 'San Jose', 'Indianapolis', 'Columbus', 'Miami',
+        'Nashville', 'Portland', 'Las Vegas', 'Sacramento', 'Tampa',
+        'Pittsburgh', 'Cincinnati', 'Cleveland', 'Kansas City', 'McLean',
+        'Hartford', 'Baltimore', 'Richmond', 'Memphis', 'Raleigh',
+        'Jersey City', 'Hoboken', 'Iselin', 'Stamford', 'Remote-US'
+    ]
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(6000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        no_change_rounds = 0
+        last_count = 0
+
+        startrow = 0
+        per_page = 25
+
+        while page_num < max_pages:
+            if startrow > 0:
+                page_url = f"{base_url}&startrow={startrow}"
+                page.goto(page_url, wait_until='domcontentloaded', timeout=30000)
+                page.wait_for_timeout(3000)
+
+            # EY pattern: /ey/job/{location}-{title}/{id}/
+            links = page.locator('a[href*="/ey/job/"]').all()
+
+            found_this_page = 0
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/ey/job/[^/]+/(\d+)/', href)
+                    if not job_id_match or len(title) < 3:
+                        continue
+
+                    job_id = job_id_match.group(1)
+
+                    # US-only filter — check city in URL
+                    is_us = any(city.lower() in href.lower() for city in US_CITIES)
+                    if not is_us:
+                        continue
+
+                    if job_id not in jobs:
+                        full_url = f"https://careers.ey.com{href}" if not href.startswith('http') else href
+                        restrictions = detect_restrictions(title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                        found_this_page += 1
+                except:
+                    continue
+
+            page_num += 1
+            startrow += per_page
+
+            if page_num % 10 == 0:
+                print(f"  Page {page_num} (row {startrow}): {len(jobs)} US jobs, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if found_this_page == 0:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    print(f"  No US jobs found on 3 consecutive pages, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+
+            # Stop at 6500 (EY max)
+            if startrow > 6500:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1733,6 +1845,7 @@ FETCHERS = {
     "choa": fetch_choa_jobs,
     "qualcomm": fetch_qualcomm_jobs,
     "amazon-grads": fetch_amazon_jobs,
+    "ey": fetch_ey_jobs,
 }
 
 

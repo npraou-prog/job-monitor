@@ -150,6 +150,13 @@
       "url": "https://www.amazon.jobs/content/en/career-programs/university/jobs-for-grads?country%5B%5D=US&category%5B%5D=Software+Development&category%5B%5D=Data+Science#search",
       "referrers": ["Nikhil (Direct)"],
       "added": "2026-03-29"
+    },
+    {
+      "id": "ey",
+      "name": "EY (Ernst & Young)",
+      "url": "https://careers.ey.com/ey/search/?createNewAlert=false&q=data&optionsFacetsDD_customfield1=&optionsFacetsDD_country=&optionsFacetsDD_city=",
+      "referrers": ["[Karthik](https://www.linkedin.com/in/karthik-boppunpura-vishwanath-13a92b15b/)"],
+      "added": "2026-03-30"
     }
   ]
 }
