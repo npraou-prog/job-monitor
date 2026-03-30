@@ -1924,6 +1924,212 @@ def fetch_gehealthcare_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# DELL FETCHER (Playwright - US only, paginated)
+# =============================================================================
+def fetch_dell_jobs(base_url, db, company_id):
+    """Fetch Dell Technologies jobs using Playwright - US only."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    # US cities that appear in Dell job URLs
+    US_CITIES = [
+        'hopkinton', 'austin', 'dallas', 'nashville', 'new-york', 'chicago',
+        'atlanta', 'boston', 'seattle', 'san-jose', 'santa-clara','round-rock',
+        'denver', 'phoenix', 'washington', 'raleigh', 'durham', 'charlotte',
+        'minneapolis', 'detroit', 'houston', 'los-angeles', 'san-francisco',
+        'portland', 'salt-lake-city', 'remote', 'plano', 'richardson',
+        'miami', 'orlando', 'tampa', 'indianapolis', 'columbus', 'cleveland'
+    ]
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(6000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        no_change_rounds = 0
+        last_count = 0
+
+        # Dell uses infinite scroll — scroll down to load all jobs
+        max_scrolls = 50
+        prev_count = 0
+        no_change_rounds = 0
+
+        for scroll_num in range(max_scrolls):
+            # Scroll down to trigger load
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(2000)
+
+            # Dell pattern: /en/job/{city}/{title}/{company}/{job_id}
+            links = page.locator('a[href*="/en/job/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/en/job/([^/]+)/[^/]+/\d+/(\d+)', href)
+                    if not job_id_match or len(title) < 3:
+                        continue
+
+                    city_slug = job_id_match.group(1).lower()
+                    job_id = job_id_match.group(2)
+
+                    # US-only filter
+                    if not any(us_city in city_slug for us_city in US_CITIES):
+                        continue
+
+                    clean_title = title.split('\n')[0].strip()
+
+                    if job_id not in jobs and len(clean_title) > 3:
+                        full_url = f"https://jobs.dell.com{href}" if not href.startswith('http') else href
+                        restrictions = detect_restrictions(clean_title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": clean_title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                except:
+                    continue
+
+            if (scroll_num + 1) % 10 == 0:
+                print(f"  Scroll {scroll_num+1}: {len(jobs)} US jobs, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if len(jobs) == prev_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 5:
+                    print("  No new jobs after 5 scrolls, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+                prev_count = len(jobs)
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# WALMART FETCHER (Playwright - intercepts AI search API)
+# =============================================================================
+def fetch_walmart_jobs(base_url, db, company_id):
+    """Fetch Walmart jobs by intercepting their internal AI search API."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        captured_jobs = {}
+
+        def handle_response(response):
+            if 'careers-ai' in response.url and 'chatBasedSearch' in response.url and response.status == 200:
+                try:
+                    import json as _json
+                    body = response.body().decode()
+                    # Parse job_results from nested JSON string
+                    # The response has "job_results" containing a JSON string with "jobs" array
+                    idx = body.find('"jobs":')
+                    if idx > 0:
+                        # Extract jobs array
+                        jobs_str = body[idx+7:]  # after "jobs":
+                        # Find matching bracket
+                        depth = 0
+                        end = 0
+                        for i, c in enumerate(jobs_str):
+                            if c == '[': depth += 1
+                            elif c == ']':
+                                depth -= 1
+                                if depth == 0:
+                                    end = i + 1
+                                    break
+                        if end > 0:
+                            jobs_arr = _json.loads(jobs_str[:end])
+                            for job in jobs_arr:
+                                jid = job.get('job_id', '')
+                                title = job.get('title', job.get('jobPostingTitle', ''))
+                                country = job.get('country', '')
+                                if jid and title and country == 'US':
+                                    captured_jobs[jid] = {'title': title, 'city': job.get('city',''), 'state': job.get('state','')}
+                except:
+                    pass
+
+        page.on('response', handle_response)
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(8000)
+
+        print(f"  Captured {len(captured_jobs)} jobs from initial load", flush=True)
+
+        # Try to load more by scrolling / clicking load more
+        for scroll in range(20):
+            page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+            page.wait_for_timeout(2000)
+            # Try Load More button
+            try:
+                load_more = page.locator('button:has-text("Load More"), button:has-text("Show More"), a:has-text("Load More")').first
+                if load_more.count() > 0 and load_more.is_visible():
+                    load_more.click()
+                    page.wait_for_timeout(3000)
+            except:
+                pass
+
+        print(f"  Total captured after scroll: {len(captured_jobs)}", flush=True)
+
+        # Store all captured jobs
+        new_found = 0
+        for job_id, info in captured_jobs.items():
+            if job_id not in jobs:
+                title = info['title'] if isinstance(info, dict) else info
+                url_job = f"https://careers.walmart.com/us/en/job/{job_id}"
+                restrictions = detect_restrictions(title)
+                jobs[job_id] = {
+                    "id": job_id,
+                    "title": title,
+                    "url": url_job,
+                    "firstSeen": datetime.now().isoformat(),
+                    "restrictions": restrictions
+                }
+                new_found += 1
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1949,6 +2155,7 @@ FETCHERS = {
     "amazon-grads": fetch_amazon_jobs,
     "ey": fetch_ey_jobs,
     "gehealthcare": fetch_gehealthcare_jobs,
+    "walmart": fetch_walmart_jobs,
 }
 
 

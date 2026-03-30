@@ -16,91 +16,119 @@
       "id": "deloitte",
       "name": "Deloitte",
       "url": "https://apply.deloitte.com/careers/SearchJobs",
-      "referrers": ["Markies", "Ashish"],
+      "referrers": [
+        "Markies",
+        "Ashish"
+      ],
       "added": "2026-02-27"
     },
     {
       "id": "cisco",
       "name": "Cisco",
       "url": "https://careers.cisco.com/global/en/search-results",
-      "referrers": ["Raja"],
+      "referrers": [
+        "Raja"
+      ],
       "added": "2026-02-28"
     },
     {
       "id": "visa",
       "name": "Visa",
       "url": "https://corporate.visa.com/en/jobs/?cities=Ashburn&cities=Atlanta&cities=Austin&cities=Bellevue&cities=Columbus&cities=Foster&cities=Foster%20City&cities=Highlands%20Ranch&cities=Lehi&cities=Mentor&cities=Miami&cities=New%20York&cities=Oakland&cities=San%20Francisco&cities=San%20Juan&cities=Wilmington",
-      "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
+      "referrers": [
+        "Suresh Sir (Dad's friend - Arizona)"
+      ],
       "added": "2026-02-28"
     },
     {
       "id": "globalpartners",
       "name": "Global Partners",
       "url": "https://careers.globalp.com/?keyword=data",
-      "referrers": ["Deepak (NEU, Boston) +1 857-230-2532"],
+      "referrers": [
+        "Deepak (NEU, Boston) +1 857-230-2532"
+      ],
       "added": "2026-03-02"
     },
     {
       "id": "fidelity",
       "name": "Fidelity",
       "url": "https://jobs.fidelity.com/en/jobs/",
-      "referrers": ["Nagendra Babu"],
+      "referrers": [
+        "Nagendra Babu"
+      ],
       "added": "2026-03-02"
     },
     {
       "id": "synopsys",
       "name": "Synopsys",
       "url": "https://careers.synopsys.com/search-jobs",
-      "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
+      "referrers": [
+        "Suresh Sir (Dad's friend - Arizona)"
+      ],
       "added": "2026-03-02"
     },
     {
       "id": "chewy",
       "name": "Chewy",
       "url": "https://careers.chewy.com/us/en/search-results",
-      "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
+      "referrers": [
+        "Suresh Sir (Dad's friend - Arizona)"
+      ],
       "added": "2026-03-02"
     },
     {
       "id": "meta",
       "name": "Meta",
       "url": "https://www.metacareers.com/jobs",
-      "referrers": ["Suresh Sir (Dad's friend - Arizona)"],
+      "referrers": [
+        "Suresh Sir (Dad's friend - Arizona)"
+      ],
       "added": "2026-03-02"
     },
     {
       "id": "cigna-healthcare",
       "name": "Cigna Healthcare",
       "url": "https://jobs.thecignagroup.com/us/en/cigna-healthcare-search-results",
-      "referrers": ["Asha"],
+      "referrers": [
+        "Asha"
+      ],
       "added": "2026-03-10"
     },
     {
       "id": "cigna-evernorth",
       "name": "Cigna Evernorth Health Services",
       "url": "https://jobs.thecignagroup.com/us/en/evernorth-health-services-jobs",
-      "referrers": ["Asha"],
+      "referrers": [
+        "Asha"
+      ],
       "added": "2026-03-10"
     },
     {
       "id": "elevancehealth",
       "name": "Elevance Health",
       "url": "https://careers.elevancehealth.com/jobs",
-      "referrers": ["Gokul", "Vibin"],
+      "referrers": [
+        "Gokul",
+        "Vibin"
+      ],
       "added": "2026-03-10"
     },
     {
       "id": "gm",
       "name": "General Motors",
       "url": "https://search-careers.gm.com/en/",
-      "referrers": ["Arun"],
+      "referrers": [
+        "Arun"
+      ],
       "added": "2026-03-10"
     },
     {
       "id": "cocacola",
       "name": "Coca-Cola",
       "url": "https://careers.coca-colacompany.com/job-search-results/?keyword=data",
-      "referrers": ["LinkedIn"],
+      "referrers": [
+        "LinkedIn"
+      ],
       "added": "2026-03-10"
     },
     {
@@ -127,7 +155,9 @@
       "id": "morganstanley",
       "name": "Morgan Stanley",
       "url": "https://morganstanley.eightfold.ai/careers?source=mscom&start=0&pid=549796799991&sort_by=timestamp",
-      "referrers": ["Venkat"],
+      "referrers": [
+        "Venkat"
+      ],
       "added": "2026-03-26"
     },
     {
@@ -141,14 +171,18 @@
       "id": "qualcomm",
       "name": "Qualcomm",
       "url": "https://careers.qualcomm.com/careers?hl=en-US&domain=qualcomm.com&query=Data&start=0&location=United+states&sort_by=relevance&filter_include_remote=0",
-      "referrers": ["Naga"],
+      "referrers": [
+        "Naga"
+      ],
       "added": "2026-03-29"
     },
     {
       "id": "amazon-grads",
       "name": "Amazon (Jobs for Grads)",
       "url": "https://www.amazon.jobs/content/en/career-programs/university/jobs-for-grads?country%5B%5D=US&category%5B%5D=Software+Development&category%5B%5D=Data+Science#search",
-      "referrers": ["Nikhil (Direct)"],
+      "referrers": [
+        "Nikhil (Direct)"
+      ],
       "added": "2026-03-29"
     },
     {
@@ -169,6 +203,13 @@
         "[Tyler Martinez](https://www.linkedin.com/in/tyler-martinez-4b448057/)",
         "[Antonio Alaniz](https://www.linkedin.com/in/alanizantonio/)"
       ],
+      "added": "2026-03-30"
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "url": "https://careers.walmart.com/us/en/results?searchQuery=Data%20Science%20and%20Analytics&careerareas=Technology",
+      "referrers": ["Teju"],
       "added": "2026-03-30"
     }
   ]
