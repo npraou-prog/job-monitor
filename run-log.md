@@ -379,3 +379,5 @@
 | 2026-03-29 | 11:53 | Amazon (Jobs for Grads) | BASELINE | 5 | 1 | Initial scan, 5 jobs indexed |
 | 2026-03-30 | 14:55 | EY (Ernst & Young) | BASELINE | 2 | 0 | Initial scan, 2 jobs indexed |
 | 2026-03-30 | 14:56 | EY (Ernst & Young) | 🎯 MATCH | 65 | 15 | 15 relevant found! |
+| 2026-03-30 | 15:02 | GE Healthcare | BASELINE | 10 | 7 | Initial scan, 10 jobs indexed |
+| 2026-03-30 | 15:03 | GE Healthcare | 🎯 MATCH | 395 | 27 | 27 relevant found! |

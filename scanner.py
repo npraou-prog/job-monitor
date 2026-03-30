@@ -1822,6 +1822,98 @@ def fetch_ey_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# GE HEALTHCARE FETCHER (Playwright - Phenom People, US only)
+# =============================================================================
+def fetch_gehealthcare_jobs(base_url, db, company_id):
+    """Fetch GE Healthcare jobs using Playwright - US only."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url[:80]}...", flush=True)
+        page.goto(base_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(5000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 100
+        no_change_rounds = 0
+        last_count = 0
+
+        per_page = 10
+        offset = 0
+
+        while page_num < max_pages:
+            if offset > 0:
+                page_url = f"{base_url}&from={offset}&s=1"
+                page.goto(page_url, wait_until='domcontentloaded', timeout=30000)
+                page.wait_for_timeout(3000)
+
+            # GEHC pattern: /global/en/job/R{id}/{title}
+            links = page.locator('a[href*="/global/en/job/R"]').all()
+
+            found_this_page = 0
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'/job/(R\d+)/', href)
+                    if not job_id_match or len(title) < 3:
+                        continue
+
+                    job_id = job_id_match.group(1)
+
+                    if job_id not in jobs:
+                        full_url = href if href.startswith('http') else f"https://careers.gehealthcare.com{href}"
+                        restrictions = detect_restrictions(title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                        found_this_page += 1
+                except:
+                    continue
+
+            page_num += 1
+            offset += per_page
+
+            if page_num % 10 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if found_this_page == 0:
+                no_change_rounds += 1
+                if no_change_rounds >= 2:
+                    print(f"  No new jobs, stopping", flush=True)
+                    break
+            else:
+                no_change_rounds = 0
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -1846,6 +1938,7 @@ FETCHERS = {
     "qualcomm": fetch_qualcomm_jobs,
     "amazon-grads": fetch_amazon_jobs,
     "ey": fetch_ey_jobs,
+    "gehealthcare": fetch_gehealthcare_jobs,
 }
 
 
