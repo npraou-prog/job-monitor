@@ -1875,6 +1875,16 @@ def fetch_gehealthcare_jobs(base_url, db, company_id):
 
                     job_id = job_id_match.group(1)
 
+                    # US-only filter — skip non-English/non-US titles
+                    non_us_indicators = [
+                        'H/F', 'F/H', 'M/F', 'F/M', 'LATAM', 'Probes)',
+                        'Ingénieur', 'Analyste', 'Analista', 'Ingenieur',
+                        'Brasil', 'México', 'Canada', 'India', 'China',
+                        'Germany', 'France', 'Japan', 'Korea', 'Poland'
+                    ]
+                    if any(ind in title for ind in non_us_indicators):
+                        continue
+
                     if job_id not in jobs:
                         full_url = href if href.startswith('http') else f"https://careers.gehealthcare.com{href}"
                         restrictions = detect_restrictions(title)
