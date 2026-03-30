@@ -155,7 +155,10 @@
       "id": "ey",
       "name": "EY (Ernst & Young)",
       "url": "https://careers.ey.com/ey/search/?createNewAlert=false&q=data&optionsFacetsDD_customfield1=&optionsFacetsDD_country=&optionsFacetsDD_city=",
-      "referrers": ["[Karthik](https://www.linkedin.com/in/karthik-boppunpura-vishwanath-13a92b15b/)"],
+      "referrers": [
+        "[Karthik](https://www.linkedin.com/in/karthik-boppunpura-vishwanath-13a92b15b/)",
+        "[Shane Jacobeen](https://www.linkedin.com/in/shane-jacobeen/)"
+      ],
       "added": "2026-03-30"
     }
   ]
