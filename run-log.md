@@ -381,3 +381,24 @@
 | 2026-03-30 | 14:56 | EY (Ernst & Young) | 🎯 MATCH | 65 | 15 | 15 relevant found! |
 | 2026-03-30 | 15:02 | GE Healthcare | BASELINE | 10 | 7 | Initial scan, 10 jobs indexed |
 | 2026-03-30 | 15:03 | GE Healthcare | 🎯 MATCH | 395 | 27 | 27 relevant found! |
+| 2026-03-30 | 22:11 | Deloitte | 🎯 MATCH | 21 | 5 | 5 relevant found! |
+| 2026-03-30 | 22:11 | Cisco | 🎯 MATCH | 25 | 3 | 3 relevant found! |
+| 2026-03-30 | 22:11 | Visa | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Global Partners | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Fidelity | NEW | 12 | 0 | 12 new (not matching) |
+| 2026-03-30 | 22:11 | Synopsys | NEW | 13 | 0 | 13 new (not matching) |
+| 2026-03-30 | 22:11 | Chewy | 🎯 MATCH | 7 | 1 | 1 relevant found! |
+| 2026-03-30 | 22:11 | Meta | 🎯 MATCH | 5 | 1 | 1 relevant found! |
+| 2026-03-30 | 22:11 | Cigna Healthcare | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Elevance Health | NEW | 20 | 0 | 20 new (not matching) |
+| 2026-03-30 | 22:11 | General Motors | 🎯 MATCH | 38 | 2 | 2 relevant found! |
+| 2026-03-30 | 22:11 | Coca-Cola | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Intel | NEW | 20 | 0 | 20 new (not matching) |
+| 2026-03-30 | 22:11 | IBM | NEW | 5 | 0 | 5 new (not matching) |
+| 2026-03-30 | 22:11 | Morgan Stanley | NEW | 32 | 0 | 32 new (not matching) |
+| 2026-03-30 | 22:11 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | Qualcomm | 🎯 MATCH | 5 | 2 | 2 relevant found! |
+| 2026-03-30 | 22:11 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-03-30 | 22:11 | EY (Ernst & Young) | 🎯 MATCH | 0 | 15 | 15 relevant found! |
+| 2026-03-30 | 22:11 | GE Healthcare | 🎯 MATCH | 0 | 24 | 24 relevant found! |
