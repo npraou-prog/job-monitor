@@ -63681,7 +63681,534 @@
         "firstSeen": "2026-03-30T19:57:58.271734",
         "restrictions": []
       }
+    },
+    "delta": {
+      "32045": {
+        "id": "32045",
+        "title": "Aircraft Support Mechanic",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Aircraft-Support-Mechanic/32045?jobId=32045",
+        "firstSeen": "2026-03-30T21:39:26.838632",
+        "restrictions": []
+      },
+      "31880": {
+        "id": "31880",
+        "title": "Calibration Technician",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Calibration-Technician/31880?jobId=31880",
+        "firstSeen": "2026-03-30T21:39:26.847028",
+        "restrictions": []
+      },
+      "31853": {
+        "id": "31853",
+        "title": "CNC Industrial Machine Operator",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/CNC-Industrial-Machine-Operator-ATL-Parent/31853?jobId=31853",
+        "firstSeen": "2026-03-30T21:39:26.853609",
+        "restrictions": []
+      },
+      "31879": {
+        "id": "31879",
+        "title": "CNC Robot Programmer",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/CNC-Robot-Programmer/31879?jobId=31879",
+        "firstSeen": "2026-03-30T21:39:26.857244",
+        "restrictions": []
+      },
+      "31711": {
+        "id": "31711",
+        "title": "Co-op - Flight Operations - Pilot Learning Experience and Strategy (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Flight-Operations-Pilot-Learning-Experience-and-Strategy-Fall-2026/31711?jobId=31711",
+        "firstSeen": "2026-03-30T21:39:26.860556",
+        "restrictions": []
+      },
+      "31508": {
+        "id": "31508",
+        "title": "Co-op, Airport Customer Service and Cargo Project Management (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Airport-Customer-Service-and-Cargo-Project-Management-Fall-2026/31508?jobId=31508",
+        "firstSeen": "2026-03-30T21:39:26.863712",
+        "restrictions": []
+      },
+      "31741": {
+        "id": "31741",
+        "title": "Co-Op, Airport Customer Service PMO (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-Op-Airport-Customer-Service-PMO-Summer-2026/31741?jobId=31741",
+        "firstSeen": "2026-03-30T21:39:26.866615",
+        "restrictions": []
+      },
+      "31847": {
+        "id": "31847",
+        "title": "Co-op, Crew Technology \u2013 Project Tech Support (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Crew-Technology-Project-Tech-Support-Fall-2026/31847?jobId=31847",
+        "firstSeen": "2026-03-30T21:39:26.869529",
+        "restrictions": []
+      },
+      "31843": {
+        "id": "31843",
+        "title": "Co-op, Customer Experience and Design Service Recovery (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Customer-Experience-and-Design-Service-Recovery-Summer-2026/31843?jobId=31843",
+        "firstSeen": "2026-03-30T21:39:26.872359",
+        "restrictions": []
+      },
+      "30791": {
+        "id": "30791",
+        "title": "Co-op, Domestic Network Analysis (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Domestic-Network-Analysis-Summer-2026/30791?jobId=30791",
+        "firstSeen": "2026-03-30T21:39:26.875008",
+        "restrictions": []
+      },
+      "31660": {
+        "id": "31660",
+        "title": "Co-op, Flight Safety Programs (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Flight-Safety-Programs-Fall-2026/31660?jobId=31660",
+        "firstSeen": "2026-03-30T21:39:30.665828",
+        "restrictions": []
+      },
+      "31661": {
+        "id": "31661",
+        "title": "Co-op, Flight Safety Programs and Analysis (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Flight-Safety-Programs-and-Analysis-Fall-2026/31661?jobId=31661",
+        "firstSeen": "2026-03-30T21:39:30.671579",
+        "restrictions": []
+      },
+      "31870": {
+        "id": "31870",
+        "title": "Co-op, Insights Delivery and Market Development (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Insights-Delivery-and-Market-Development-Summer-2026/31870?jobId=31870",
+        "firstSeen": "2026-03-30T21:39:30.676420",
+        "restrictions": []
+      },
+      "31233": {
+        "id": "31233",
+        "title": "Co-Op, Operations Analytics - Engineering (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-Op-Operations-Analytics-Engineering-Fall-2026/31233?jobId=31233",
+        "firstSeen": "2026-03-30T21:39:30.680387",
+        "restrictions": []
+      },
+      "31666": {
+        "id": "31666",
+        "title": "Co-op, Operations Analytics \u2013 Data Strategy and Enablement (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Operations-Analytics-Data-Strategy-and-Enablement-Fall-2026/31666?jobId=31666",
+        "firstSeen": "2026-03-30T21:39:30.684076",
+        "restrictions": []
+      },
+      "31667": {
+        "id": "31667",
+        "title": "Co-op, Operations Analytics (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Operations-Analytics-Fall-2026/31667?jobId=31667",
+        "firstSeen": "2026-03-30T21:39:30.687489",
+        "restrictions": []
+      },
+      "31686": {
+        "id": "31686",
+        "title": "Co-op, Passenger Facilitation (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Passenger-Facilitation-Fall-2026/31686?jobId=31686",
+        "firstSeen": "2026-03-30T21:39:30.691405",
+        "restrictions": []
+      },
+      "31047": {
+        "id": "31047",
+        "title": "Co-op, Product and Strategy - Cargo Commercial (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Product-and-Strategy-Cargo-Commercial-Summer-2026/31047?jobId=31047",
+        "firstSeen": "2026-03-30T21:39:30.694485",
+        "restrictions": []
+      },
+      "31319": {
+        "id": "31319",
+        "title": "Co-op, Reservations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Reservations-Fall-2026/31319?jobId=31319",
+        "firstSeen": "2026-03-30T21:39:30.697392",
+        "restrictions": []
+      },
+      "31293": {
+        "id": "31293",
+        "title": "Co-op, Technical Operations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Technical-Operations-Fall-2026/31293?jobId=31293",
+        "firstSeen": "2026-03-30T21:39:30.700164",
+        "restrictions": []
+      },
+      "29330": {
+        "id": "29330",
+        "title": "Co-op, Technical Operations (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-Technical-Operations-Summer-2026/29330?jobId=29330",
+        "firstSeen": "2026-03-30T21:39:34.506089",
+        "restrictions": []
+      },
+      "31846": {
+        "id": "31846",
+        "title": "Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Co-op-UX-Research-and-Experience-Design-Flight-Training-Automation-Fall-2026/31846?jobId=31846",
+        "firstSeen": "2026-03-30T21:39:34.510605",
+        "restrictions": []
+      },
+      "31926": {
+        "id": "31926",
+        "title": "Content Enablement Program Manager",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Content-Enablement-Program-Manager/31926?jobId=31926",
+        "firstSeen": "2026-03-30T21:39:34.514222",
+        "restrictions": []
+      },
+      "30948": {
+        "id": "30948",
+        "title": "Data and Business Solution Lead",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Data-and-Business-Solution-Lead/30948?jobId=30948",
+        "firstSeen": "2026-03-30T21:39:34.517537",
+        "restrictions": []
+      },
+      "31986": {
+        "id": "31986",
+        "title": "Distinguished Engineer AI",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Distinguished-Engineer/31986?jobId=31986",
+        "firstSeen": "2026-03-30T21:39:34.520575",
+        "restrictions": []
+      },
+      "22393": {
+        "id": "22393",
+        "title": "Delta Professional Services Non-Seniority List Instructor",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/DPS-Non-Seniority-List-Instructor/22393?jobId=22393",
+        "firstSeen": "2026-03-30T21:39:34.523693",
+        "restrictions": []
+      },
+      "31793": {
+        "id": "31793",
+        "title": "Electronics Technician",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Electronics-Technician/31793?jobId=31793",
+        "firstSeen": "2026-03-30T21:39:34.526504",
+        "restrictions": []
+      },
+      "30640": {
+        "id": "30640",
+        "title": "FOS - PT Flight Ops Support - Digital Content Producer, DPS",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/FOS-PT-Flight-Ops-Support-Digital-Content-Producer-DPS/30640?jobId=30640",
+        "firstSeen": "2026-03-30T21:39:34.529378",
+        "restrictions": []
+      },
+      "31770": {
+        "id": "31770",
+        "title": "ATP-CTP Administrative Support, DPS",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/FOS-ATP-CTP-Administrative-Support-DPS/31770?jobId=31770",
+        "firstSeen": "2026-03-30T21:39:34.532092",
+        "restrictions": []
+      },
+      "31532": {
+        "id": "31532",
+        "title": "FOS - Copywriter Support, DPS",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/FOS-Copywriter-Support-DPS/31532?jobId=31532",
+        "firstSeen": "2026-03-30T21:39:34.534606",
+        "restrictions": []
+      },
+      "31531": {
+        "id": "31531",
+        "title": "FOS - Graphic/Multimedia Support, DPS",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/FOS-Graphic-Multimedia-Support-DPS/31531?jobId=31531",
+        "firstSeen": "2026-03-30T21:39:38.401613",
+        "restrictions": []
+      },
+      "31777": {
+        "id": "31777",
+        "title": "FOS \u2013 Training Liaison \u2013 Propel, DPS",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/FOS-Training-Liaison-Propel-DPS/31777?jobId=31777",
+        "firstSeen": "2026-03-30T21:39:38.407667",
+        "restrictions": []
+      },
+      "31837": {
+        "id": "31837",
+        "title": "Global Account Manager, Cargo Sales",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Global-Account-Manager-Cargo-Sales/31837?jobId=31837",
+        "firstSeen": "2026-03-30T21:39:38.412317",
+        "restrictions": []
+      },
+      "29396": {
+        "id": "29396",
+        "title": "Graduate Intern, Corporate Safety (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Corporate-Safety-Fall-2026/29396?jobId=29396",
+        "firstSeen": "2026-03-30T21:39:38.416181",
+        "restrictions": []
+      },
+      "31664": {
+        "id": "31664",
+        "title": "Graduate Intern, Flight Safety Investigations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Flight-Safety-Investigations-Fall-2026/31664?jobId=31664",
+        "firstSeen": "2026-03-30T21:39:38.420776",
+        "restrictions": []
+      },
+      "31311": {
+        "id": "31311",
+        "title": "Ground Maintenance Mechanic (Motorized) - ATL",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Ground-Maintenance-Mechanic-Motorized-ATL/31311?jobId=31311",
+        "firstSeen": "2026-03-30T21:39:38.424119",
+        "restrictions": []
+      },
+      "31349": {
+        "id": "31349",
+        "title": "Ground Maintenance Mechanic (Stationary) - ATL",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Ground-Maintenance-Mechanic-Stationary-ATL/31349?jobId=31349",
+        "firstSeen": "2026-03-30T21:39:38.427585",
+        "restrictions": []
+      },
+      "31034": {
+        "id": "31034",
+        "title": "Ground Maintenance Technician (Stationary) - ATL",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Ground-Maintenance-Technician-Stationary-ATL/31034?jobId=31034",
+        "firstSeen": "2026-03-30T21:39:38.430718",
+        "restrictions": []
+      },
+      "31792": {
+        "id": "31792",
+        "title": "Industrial Equipment Technician",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Industrial-Equipment-Technician/31792?jobId=31792",
+        "firstSeen": "2026-03-30T21:39:38.433628",
+        "restrictions": []
+      },
+      "31236": {
+        "id": "31236",
+        "title": "Intern, Aviation Management - Flight Operations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Aviation-Management-Flight-Operations-Fall-2026/31236?jobId=31236",
+        "firstSeen": "2026-03-30T21:39:38.436514",
+        "restrictions": []
+      },
+      "30603": {
+        "id": "30603",
+        "title": "Intern, Loyalty Products \u2013 Product Owner (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Loyalty-Products-Product-Owner-Summer-2026/30603?jobId=30603",
+        "firstSeen": "2026-03-30T21:39:42.189615",
+        "restrictions": []
+      },
+      "31517": {
+        "id": "31517",
+        "title": "Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Operations-Customer-Center-OCC-CORE-Technology-Summer-2026/31517?jobId=31517",
+        "firstSeen": "2026-03-30T21:39:42.194335",
+        "restrictions": []
+      },
+      "31234": {
+        "id": "31234",
+        "title": "Intern, Professional Flight - Flight Operations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Professional-Flight-Flight-Operations-Fall-2026/31234?jobId=31234",
+        "firstSeen": "2026-03-30T21:39:42.198310",
+        "restrictions": []
+      },
+      "31320": {
+        "id": "31320",
+        "title": "Intern, Reservations (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Reservations-Fall-2026/31320?jobId=31320",
+        "firstSeen": "2026-03-30T21:39:42.201784",
+        "restrictions": []
+      },
+      "31811": {
+        "id": "31811",
+        "title": "Junior Technician, Flight Simulator",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Junior-Technician-Flight-Simulator/31811?jobId=31811",
+        "firstSeen": "2026-03-30T21:39:42.205105",
+        "restrictions": []
+      },
+      "31866": {
+        "id": "31866",
+        "title": "Machinist",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Machinist-ATL-Parent/31866?jobId=31866",
+        "firstSeen": "2026-03-30T21:39:42.208321",
+        "restrictions": []
+      },
+      "30643": {
+        "id": "30643",
+        "title": "Manager, Conversational Design",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Manager-Conversational-Design/30643?jobId=30643",
+        "firstSeen": "2026-03-30T21:39:42.211313",
+        "restrictions": []
+      },
+      "31330": {
+        "id": "31330",
+        "title": "Operations Research Scientist",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Operations-Research-Scientist/31330?jobId=31330",
+        "firstSeen": "2026-03-30T21:39:42.215256",
+        "restrictions": []
+      },
+      "30751": {
+        "id": "30751",
+        "title": "Optimization Leader, ACS Ops Process and Automation",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Optimization-Leader-ACS-Ops-Process-and-Automation/30751?jobId=30751",
+        "firstSeen": "2026-03-30T21:39:42.218671",
+        "restrictions": []
+      },
+      "31700": {
+        "id": "31700",
+        "title": "Ph.D Intern - Optimization (Fall 2026)",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Ph-D-Intern-Optimization-Fall-2026/31700?jobId=31700",
+        "firstSeen": "2026-03-30T21:39:42.221226",
+        "restrictions": []
+      },
+      "31012": {
+        "id": "31012",
+        "title": "Product Manager, Customer Data",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Product-Manager-Customer-Data/31012?jobId=31012",
+        "firstSeen": "2026-03-30T21:39:46.079797",
+        "restrictions": []
+      },
+      "31592": {
+        "id": "31592",
+        "title": "Product Manager, Flight Offers",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Product-Manager-Flight-Offers/31592?jobId=31592",
+        "firstSeen": "2026-03-30T21:39:46.085673",
+        "restrictions": []
+      },
+      "30626": {
+        "id": "30626",
+        "title": "Product Owner, ACS Tools and Tech",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Product-Owner-ACS-Tools-and-Technology/30626?jobId=30626",
+        "firstSeen": "2026-03-30T21:39:46.089963",
+        "restrictions": []
+      },
+      "29578": {
+        "id": "29578",
+        "title": "Product Owner, Reservations Technology",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Product-Owner-Reservations-Technology/29578?jobId=29578",
+        "firstSeen": "2026-03-30T21:39:46.093800",
+        "restrictions": []
+      },
+      "31127": {
+        "id": "31127",
+        "title": "Production Control Auditor",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Production-Control-Auditor/31127?jobId=31127",
+        "firstSeen": "2026-03-30T21:39:46.097421",
+        "restrictions": []
+      },
+      "31844": {
+        "id": "31844",
+        "title": "Program Manager Secondment",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Program-Manager-Secondment/31844?jobId=31844",
+        "firstSeen": "2026-03-30T21:39:46.101184",
+        "restrictions": []
+      },
+      "26927": {
+        "id": "26927",
+        "title": "Senior Specialist, Process Engineering",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Program-Manager-Continuous-Improvement-Team/26927?jobId=26927",
+        "firstSeen": "2026-03-30T21:39:46.104353",
+        "restrictions": []
+      },
+      "31912": {
+        "id": "31912",
+        "title": "Program Manager, Existing Ad Inventory",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Program-Manager-Existing-Ad-Inventory/31912?jobId=31912",
+        "firstSeen": "2026-03-30T21:39:46.107465",
+        "restrictions": []
+      },
+      "29164": {
+        "id": "29164",
+        "title": "Program Manager, Trade Compliance",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Program-Manager-Trade-Compliance/29164?jobId=29164",
+        "firstSeen": "2026-03-30T21:39:46.110533",
+        "restrictions": []
+      },
+      "31344": {
+        "id": "31344",
+        "title": "Project Engineer, Cabin Interiors",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Project-Engineer-Cabin-Interiors/31344?jobId=31344",
+        "firstSeen": "2026-03-30T21:39:46.113445",
+        "restrictions": []
+      },
+      "31031": {
+        "id": "31031",
+        "title": "Ramp Agent (Customer Service Agent) - ATL",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Ramp-Agent-Customer-Service-Agent-ATL/31031?jobId=31031",
+        "firstSeen": "2026-03-30T21:39:49.870085",
+        "restrictions": []
+      },
+      "31928": {
+        "id": "31928",
+        "title": "Senior Analyst, Pricing Distribution Tools, PRM Solutions",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-Analyst-Pricing-Distribution-Tools-PRM-Solutions/31928?jobId=31928",
+        "firstSeen": "2026-03-30T21:39:49.876467",
+        "restrictions": []
+      },
+      "31652": {
+        "id": "31652",
+        "title": "Senior Analyst, Pricing, TATL",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-Analyst-Pricing-TATL/31652?jobId=31652",
+        "firstSeen": "2026-03-30T21:39:49.880930",
+        "restrictions": []
+      },
+      "31927": {
+        "id": "31927",
+        "title": "Senior Manager, Executive, Employee &amp; Event Security",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-Manager-Executive-Employee-Event-Security/31927?jobId=31927",
+        "firstSeen": "2026-03-30T21:39:49.885252",
+        "restrictions": []
+      },
+      "31329": {
+        "id": "31329",
+        "title": "Senior Operations Research Scientist",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-Operations-Research-Scientist/31329?jobId=31329",
+        "firstSeen": "2026-03-30T21:39:49.889283",
+        "restrictions": []
+      },
+      "31785": {
+        "id": "31785",
+        "title": "IT Sr Software Dev Engineer",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-Software-Development-Engineer/31785?jobId=31785",
+        "firstSeen": "2026-03-30T21:39:49.892831",
+        "restrictions": []
+      },
+      "31854": {
+        "id": "31854",
+        "title": "Senior User Experience (UX) Designer",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Senior-User-Experience-UX-Designer/31854?jobId=31854",
+        "firstSeen": "2026-03-30T21:39:49.896066",
+        "restrictions": []
+      },
+      "31885": {
+        "id": "31885",
+        "title": "Shop Support Mechanic",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Shop-Support-Mechanic/31885?jobId=31885",
+        "firstSeen": "2026-03-30T21:39:49.899067",
+        "restrictions": []
+      },
+      "32071": {
+        "id": "32071",
+        "title": "Software Development Engineer",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Software-Development-Engineer/32071?jobId=32071",
+        "firstSeen": "2026-03-30T21:39:49.901976",
+        "restrictions": []
+      },
+      "31654": {
+        "id": "31654",
+        "title": "Sourcing Manager \u2013 IT Supply Chain",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Sourcing-Manager-IT-Supply-Chain/31654?jobId=31654",
+        "firstSeen": "2026-03-30T21:39:49.904700",
+        "restrictions": []
+      },
+      "32002": {
+        "id": "32002",
+        "title": "Specialist Metrics and Reporting",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Specialist-Metric-Reporting/32002?jobId=32002",
+        "firstSeen": "2026-03-30T21:39:53.655040",
+        "restrictions": []
+      },
+      "30559": {
+        "id": "30559",
+        "title": "Specialist, Income Tax",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Specialist-Income-Tax/30559?jobId=30559",
+        "firstSeen": "2026-03-30T21:39:53.659427",
+        "restrictions": []
+      },
+      "30729": {
+        "id": "30729",
+        "title": "Specialist, Instructional Design Systems",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Specialist-Instructional-Design-Systems/30729?jobId=30729",
+        "firstSeen": "2026-03-30T21:39:53.662976",
+        "restrictions": []
+      },
+      "31424": {
+        "id": "31424",
+        "title": "Specialist, TATL System Strategy, Revenue Management",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/Specialist-TATL-System-Strategy-Revenue-Management/31424?jobId=31424",
+        "firstSeen": "2026-03-30T21:39:53.666329",
+        "restrictions": []
+      },
+      "31867": {
+        "id": "31867",
+        "title": "User Experience (UX) Designer",
+        "url": "https://delta.avature.net/en_US/careers/JobDetail/User-Experience-UX-Designer/31867?jobId=31867",
+        "firstSeen": "2026-03-30T21:39:53.669520",
+        "restrictions": []
+      }
     }
   },
-  "lastUpdated": "2026-03-30T19:57:58.321653"
+  "lastUpdated": "2026-03-30T21:40:01.501099"
 }

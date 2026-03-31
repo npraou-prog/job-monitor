@@ -211,6 +211,13 @@
       "url": "https://careers.walmart.com/us/en/results?searchQuery=Data%20Science%20and%20Analytics&careerareas=Technology",
       "referrers": ["Teju"],
       "added": "2026-03-30"
+    },
+    {
+      "id": "delta",
+      "name": "Delta Air Lines",
+      "url": "https://delta.avature.net/en_US/careers/SearchJobs/?756=93924&756_format=3726&listFilterMode=1",
+      "referrers": [],
+      "added": "2026-03-30"
     }
   ]
 }

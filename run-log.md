@@ -385,3 +385,4 @@
 | 2026-03-30 | 19:30 | Dell Technologies | No change | 0 | 0 | - |
 | 2026-03-30 | 19:55 | Walmart | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
 | 2026-03-30 | 19:57 | Walmart | BASELINE | 10 | 5 | Initial scan, 10 jobs indexed |
+| 2026-03-30 | 21:39 | Delta Air Lines | BASELINE | 75 | 4 | Initial scan, 75 jobs indexed |
