@@ -387,3 +387,27 @@
 | 2026-03-30 | 19:57 | Walmart | BASELINE | 10 | 5 | Initial scan, 10 jobs indexed |
 | 2026-03-30 | 21:39 | Delta Air Lines | BASELINE | 75 | 4 | Initial scan, 75 jobs indexed |
 | 2026-03-31 | 21:22 | Datadog | BASELINE | 200 | 11 | Initial scan, 200 jobs indexed |
+| 2026-04-01 | 15:07 | Deloitte | 🎯 MATCH | 69 | 7 | 7 relevant found! |
+| 2026-04-01 | 15:07 | Cisco | 🎯 MATCH | 47 | 4 | 4 relevant found! |
+| 2026-04-01 | 15:07 | Visa | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Global Partners | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Fidelity | 🎯 MATCH | 55 | 6 | 6 relevant found! |
+| 2026-04-01 | 15:07 | Synopsys | NEW | 15 | 0 | 15 new (not matching) |
+| 2026-04-01 | 15:07 | Chewy | 🎯 MATCH | 16 | 2 | 2 relevant found! |
+| 2026-04-01 | 15:07 | Meta | NEW | 9 | 0 | 9 new (not matching) |
+| 2026-04-01 | 15:07 | Cigna Healthcare | 🎯 MATCH | 3 | 1 | 1 relevant found! |
+| 2026-04-01 | 15:07 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Elevance Health | 🎯 MATCH | 38 | 4 | 4 relevant found! |
+| 2026-04-01 | 15:07 | General Motors | 🎯 MATCH | 115 | 13 | 13 relevant found! |
+| 2026-04-01 | 15:07 | Coca-Cola | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-04-01 | 15:07 | Intel | NEW | 35 | 0 | 35 new (not matching) |
+| 2026-04-01 | 15:07 | IBM | NEW | 11 | 0 | 11 new (not matching) |
+| 2026-04-01 | 15:07 | Morgan Stanley | 🎯 MATCH | 57 | 2 | 2 relevant found! |
+| 2026-04-01 | 15:07 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Qualcomm | 🎯 MATCH | 9 | 4 | 4 relevant found! |
+| 2026-04-01 | 15:07 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | GE Healthcare | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Walmart | No change | 0 | 0 | - |
+| 2026-04-01 | 15:07 | Delta Air Lines | NEW | 8 | 0 | 8 new (not matching) |
+| 2026-04-01 | 15:07 | Datadog | NEW | 2 | 0 | 2 new (not matching) |
