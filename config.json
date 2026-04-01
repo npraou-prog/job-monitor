@@ -218,6 +218,13 @@
       "url": "https://delta.avature.net/en_US/careers/SearchJobs/?756=93924&756_format=3726&listFilterMode=1",
       "referrers": [],
       "added": "2026-03-30"
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "url": "https://careers.datadoghq.com/all-jobs/",
+      "referrers": ["Boston Guy"],
+      "added": "2026-03-31"
     }
   ]
 }

@@ -2224,6 +2224,66 @@ def fetch_delta_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# DATADOG FETCHER (Greenhouse API - no browser needed)
+# =============================================================================
+def fetch_datadog_jobs(base_url, db, company_id):
+    """Fetch Datadog jobs via Greenhouse public API - US only."""
+    jobs = db["companies"].get(company_id, {})
+
+    print("Fetching from Greenhouse API...", flush=True)
+
+    try:
+        resp = SESSION.get(
+            "https://boards-api.greenhouse.io/v1/boards/datadog/jobs?content=true",
+            timeout=30
+        )
+        data = resp.json()
+        all_jobs = data.get("jobs", [])
+        print(f"Total jobs from API: {len(all_jobs)}", flush=True)
+
+        new_found = 0
+        for job in all_jobs:
+            try:
+                job_id = str(job.get("id", ""))
+                title = job.get("title", "")
+                location = job.get("location", {}).get("name", "")
+
+                if not job_id or not title:
+                    continue
+
+                # US-only filter
+                us_indicators = ["USA", "United States", "New York", "San Francisco",
+                                 "Boston", "Austin", "Seattle", "Chicago", "Denver",
+                                 "Los Angeles", "Atlanta", "Remote, USA", "US Remote"]
+                if not any(loc in location for loc in us_indicators):
+                    continue
+
+                if job_id not in jobs:
+                    url_job = f"https://boards.greenhouse.io/datadog/jobs/{job_id}"
+                    restrictions = detect_restrictions(title)
+                    jobs[job_id] = {
+                        "id": job_id,
+                        "title": title,
+                        "url": url_job,
+                        "firstSeen": datetime.now().isoformat(),
+                        "restrictions": restrictions,
+                        "location": location
+                    }
+                    new_found += 1
+            except:
+                continue
+
+    except Exception as e:
+        print(f"  API error: {e}", flush=True)
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total US jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -2251,6 +2311,7 @@ FETCHERS = {
     "gehealthcare": fetch_gehealthcare_jobs,
     "walmart": fetch_walmart_jobs,
     "delta": fetch_delta_jobs,
+    "datadog": fetch_datadog_jobs,
 }
 
 
