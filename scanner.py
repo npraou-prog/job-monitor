@@ -2284,6 +2284,109 @@ def fetch_datadog_jobs(base_url, db, company_id):
     print(f"Done: {len(jobs)} total US jobs, {new_found} new", flush=True)
     return jobs, new_found
 
+
+# =============================================================================
+# COMMERCE.COM / BIGCOMMERCE FETCHER (Workday, US only)
+# =============================================================================
+def fetch_commerce_jobs(base_url, db, company_id):
+    """Fetch Commerce.com (BigCommerce) jobs via Workday - US only."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        workday_url = "https://bigcommerce.wd12.myworkdayjobs.com/Commerce"
+        print(f"Loading {workday_url}...", flush=True)
+        page.goto(workday_url, wait_until='domcontentloaded', timeout=90000)
+        page.wait_for_timeout(5000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 50
+        no_change_rounds = 0
+        last_count = 0
+
+        US_INDICATORS = [
+            '/Austin-TX/', '/United-States', '/US-', '/Atlanta', '/San-Francisco',
+            '/New-York', '/Chicago', '/Seattle', '/Boston', '/Denver',
+            '/Remote/', '/GA-', '/TX-', '/CA-', '/NY-', '/WA-'
+        ]
+
+        while page_num < max_pages:
+            # Workday pattern: /en-US/Commerce/job/{location}/{title}_{JR_id}
+            links = page.locator('a[href*="/en-US/Commerce/job/"]').all()
+
+            found_this_page = 0
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    job_id_match = re.search(r'_(JR\d+)', href)
+                    if not job_id_match or len(title) < 3:
+                        continue
+
+                    job_id = job_id_match.group(1)
+
+                    # US-only filter
+                    if not any(us in href for us in US_INDICATORS):
+                        continue
+
+                    if job_id not in jobs:
+                        full_url = f"https://bigcommerce.wd12.myworkdayjobs.com{href}"
+                        restrictions = detect_restrictions(title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+                        found_this_page += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if found_this_page == 0:
+                no_change_rounds += 1
+                if no_change_rounds >= 2:
+                    break
+            else:
+                no_change_rounds = 0
+
+            try:
+                next_btn = page.locator('button[aria-label="next"]').first
+                if next_btn.count() > 0 and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
 # =============================================================================
 # COMPANY ROUTER
 # =============================================================================
@@ -2312,6 +2415,7 @@ FETCHERS = {
     "walmart": fetch_walmart_jobs,
     "delta": fetch_delta_jobs,
     "datadog": fetch_datadog_jobs,
+    "commerce": fetch_commerce_jobs,
 }
 
 
