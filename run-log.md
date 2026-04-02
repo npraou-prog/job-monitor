@@ -388,3 +388,28 @@
 | 2026-03-30 | 21:39 | Delta Air Lines | BASELINE | 75 | 4 | Initial scan, 75 jobs indexed |
 | 2026-03-31 | 21:22 | Datadog | BASELINE | 200 | 11 | Initial scan, 200 jobs indexed |
 | 2026-04-01 | 17:09 | Commerce.com (BigCommerce) | BASELINE | 35 | 4 | Initial scan, 35 jobs indexed |
+| 2026-04-02 | 14:58 | Deloitte | 🎯 MATCH | 90 | 12 | 12 relevant found! |
+| 2026-04-02 | 14:58 | Cisco | 🎯 MATCH | 63 | 5 | 5 relevant found! |
+| 2026-04-02 | 14:58 | Visa | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | Global Partners | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-02 | 14:58 | Fidelity | 🎯 MATCH | 60 | 6 | 6 relevant found! |
+| 2026-04-02 | 14:58 | Synopsys | NEW | 14 | 0 | 14 new (not matching) |
+| 2026-04-02 | 14:58 | Chewy | 🎯 MATCH | 18 | 2 | 2 relevant found! |
+| 2026-04-02 | 14:58 | Meta | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-02 | 14:58 | Cigna Healthcare | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-04-02 | 14:58 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | Elevance Health | 🎯 MATCH | 50 | 5 | 5 relevant found! |
+| 2026-04-02 | 14:58 | General Motors | 🎯 MATCH | 149 | 14 | 14 relevant found! |
+| 2026-04-02 | 14:58 | Coca-Cola | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-02 | 14:58 | Intel | 🎯 MATCH | 49 | 1 | 1 relevant found! |
+| 2026-04-02 | 14:58 | IBM | NEW | 11 | 0 | 11 new (not matching) |
+| 2026-04-02 | 14:58 | Morgan Stanley | 🎯 MATCH | 84 | 4 | 4 relevant found! |
+| 2026-04-02 | 14:58 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | Qualcomm | 🎯 MATCH | 10 | 4 | 4 relevant found! |
+| 2026-04-02 | 14:58 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | GE Healthcare | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-04-02 | 14:58 | Walmart | No change | 0 | 0 | - |
+| 2026-04-02 | 14:58 | Delta Air Lines | NEW | 8 | 0 | 8 new (not matching) |
+| 2026-04-02 | 14:58 | Datadog | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-02 | 14:58 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
