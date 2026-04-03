@@ -1,61 +1,56 @@
-# Job Scan Summary - 2026-04-02
+# Job Scan Summary - 2026-04-03
 
-**New jobs today:** 619
-**Relevant new jobs:** 54
+**New jobs today:** 186
+**Relevant new jobs:** 33
 
-🎯 **Deloitte** - 12 relevant new jobs:
-  • [DMHA Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/DMHA-Analyst/328497)
-  • [OCM, Training and Testing Senior Analyst in Los Angeles, CA](https://apply.deloitte.com/en_US/careers/JobDetail/OCM-Training-and-Testing-Senior-Analyst-in-Los-Angeles-CA/328489)
-  • [Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Senior-Analyst-API-Azure-DevOps-Developer-Remote/328400)
-  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/328399)
-  • [Business Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst/328294)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Oracle Cloud HCM Time and Absence Module Support Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-Cloud-HCM-Time-and-Absence-Module-Support-Senior-Analyst/328612)
+  • [Oracle Cloud HCM Recruiting Module Support Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-Cloud-HCM-Recruiting-Module-Support-Senior-Analyst/328608)
+  • [Tester/QA Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Tester-QA-Analyst/328507)
+  • [Senior Financial Analyst, Global Rates Management](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Financial-Analyst-Global-Rates-Management/328499)
+  • [Audit & Assurance Analyst – Technology Controls Advisory – Summer/Fall 2026, Winter 2027](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Summer-Fall-2026-Winter-2027/308095)
 
-🎯 **Cisco** - 5 relevant new jobs:
-  • [Business Analyst I (Intern) United States](https://careers.cisco.com/global/en/job/2000139/Business-Analyst-I-Intern-United-States)
-  • [Sr. AI Engineering Technical Program Manager - Hybrid](https://careers.cisco.com/global/en/job/2010670/Sr-AI-Engineering-Technical-Program-Manager-Hybrid)
-  • [Finance Analyst- FP&A Power BI -CA -3+yrs exp](https://careers.cisco.com/global/en/job/1450638/Finance-Analyst-FP-A-Power-BI-CA-3-yrs-exp)
-  • [Machine Learning Engineering Technical Leader (hybrid) - 2009800](https://careers.cisco.com/global/en/job/2009800/Machine-Learning-Engineering-Technical-Leader-hybrid-2009800)
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2011282/Business-Operations-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Business Systems Analyst](https://careers.cisco.com/global/en/job/2011109/Business-Systems-Analyst)
 
-🎯 **Fidelity** - 6 relevant new jobs:
-  • [Product Analyst](https://jobs.fidelity.com/en/jobs/2119243/product-analyst/)
-  • [Data Scientist Applied Ai Research](https://jobs.fidelity.com/en/jobs/2123396/data-scientist-applied-ai-research/)
-  • [Senior Analyst Custom Sma Investment Services](https://jobs.fidelity.com/en/jobs/2126437/senior-analyst-custom-sma-investment-services/)
-  • [Principal Product Analyst](https://jobs.fidelity.com/en/jobs/2122313/principal-product-analyst/)
-  • [It Audit Senior Analyst](https://jobs.fidelity.com/en/jobs/2126924/it-audit-senior-analyst/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Brokerage Tax Analyst](https://jobs.fidelity.com/en/jobs/2126461/brokerage-tax-analyst/)
 
-🎯 **Chewy** - 2 relevant new jobs:
-  • [Data Scientist III](https://careers.chewy.com/us/en/job/R29093/Data-Scientist-III)
-  • [Manager, Data Science III](https://careers.chewy.com/us/en/job/R28003/Manager-Data-Science-III)
+🎯 **Meta** - 3 relevant new jobs:
+  • [AI Research Scientist, Computer Vision (PhD)](https://www.metacareers.com/profile/job_details/1777891520263428)
+  • [AI Research Scientist, Robotics](https://www.metacareers.com/profile/job_details/4173593806295761)
+  • [Data Scientist, Analytics](https://www.metacareers.com/profile/job_details/1255029792640539)
 
-🎯 **Elevancehealth** - 5 relevant new jobs:
-  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/DB8ACD61D37FD61BD01A75BA461A2C7C)
-  • [Business Change Advisor - PBM (Test Analyst)](https://careers.elevancehealth.com/business-change-advisor-pbm-test-analyst/job/ECDF2C2CEC502469C374F37B14B92E28)
-  • [Credentialing Analyst](https://careers.elevancehealth.com/credentialing-analyst/job/5889E93A4FFF5D77E5C69F1B3D5BAF41)
-  • [Product Analyst](https://careers.elevancehealth.com/product-analyst/job/D4F7B90FDDA33F34E350724634D3C5AD)
-  • [Workday HR Technology Analyst, Senior](https://careers.elevancehealth.com/workday-hr-technology-analyst-senior/job/47E29F240D0589E11D5EF8EDB29B61EE)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [AI Machine Learning Scientist Associate](https://careers.elevancehealth.com/ai-machine-learning-scientist-associate/job/EC8D0FE8B6F69C4BDA452AD653013C93)
+  • [Business Analyst III](https://careers.elevancehealth.com/business-analyst-iii/job/5A0CDA09A0B45B6C67F60B2673C7E3DE)
+  • [IT Quality Control Analyst Senior](https://careers.elevancehealth.com/it-quality-control-analyst-senior/job/0C7E1D8F6BC9076BB648A81072306166)
+  • [IT Quality Control Analyst Senior](https://careers.elevancehealth.com/it-quality-control-analyst-senior/job/E29BD68EBB5AEBD84CE9A34027F7992E)
 
-🎯 **Gm** - 14 relevant new jobs:
-  • [Fixed Assets Analyst](https://search-careers.gm.com/en/jobs/jr-202606320/fixed-assets-analyst/)
-  • [Senior Machine Learning Engineer](https://search-careers.gm.com/en/jobs/jr-202524522/senior-machine-learning-engineer/)
-  • [Treasury Operations Analyst](https://search-careers.gm.com/en/jobs/jr-202607085/treasury-operations-analyst/)
-  • [Vehicle Safety Data Analyst](https://search-careers.gm.com/en/jobs/jr-202606171/vehicle-safety-data-analyst/)
-  • [Communications Analyst - OnStar](https://search-careers.gm.com/en/jobs/jr-202607437/communications-analyst-onstar/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Data Scientist Statistician Lead - Product Safety Data Analytics](https://search-careers.gm.com/en/jobs/jr-202604982/data-scientist-statistician-lead-product-safety-data-analytics/)
+  • [Financial Analyst - Controllership](https://search-careers.gm.com/en/jobs/jr-202607348/financial-analyst-controllership/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Foundry New Product Data Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358)
+🎯 **Cocacola** - 2 relevant new jobs:
+  • [Demand Planning Analyst](https://careers.coca-colacompany.com/job/23221685/demand-planning-analyst-ballina-ie/)
+  • [Analyst, Strategic Insights & Tools](https://careers.coca-colacompany.com/job/23219711/analyst-strategic-insights-tools-atlanta-ga/)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549796855758?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549796985950?source=mscom)
-  • [Wealth Strategies Sales Support Analyst](https://morganstanley.eightfold.ai/careers/job/549796962456?source=mscom)
-  • [Asset Liability Management (Risk Management) : Job Level - Analyst](https://morganstanley.eightfold.ai/careers/job/549796876363?source=mscom)
+🎯 **Intel** - 2 relevant new jobs:
+  • [Advanced Packaging Capital Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Capital-Analyst_JR0282593)
+  • [Division Supply Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Division-Supply-Planning-Analyst_JR0282609)
 
-🎯 **Qualcomm** - 4 relevant new jobs:
-  • [Sr Engineer, Machine Learning Engineering (ML Apps)](https://careers.qualcomm.com/careers/job/446716946988?domain=qualcomm.com)
-  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717752386?domain=qualcomm.com)
-  • [Senior Technology Business & Finance Analyst](https://careers.qualcomm.com/careers/job/446717705357?domain=qualcomm.com)
-  • [Systems Analyst](https://careers.qualcomm.com/careers/job/446717734810?domain=qualcomm.com)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549796947228?source=mscom)
+  • [Liquidity Risk (Risk Management) : Job Level - Analyst](https://morganstanley.eightfold.ai/careers/job/549796876340?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549796999431?source=mscom)
 
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Sr. Data Scientist](https://careers.gehealthcare.com/global/en/job/R4038845/Sr-Data-Scientist)
+🎯 **Gehealthcare** - 2 relevant new jobs:
+  • [Staff Data Scientist](https://careers.gehealthcare.com/global/en/job/R4038883/Staff-Data-Scientist)
+  • [Staff Data Scientist](https://careers.gehealthcare.com/global/en/job/R4038882/Staff-Data-Scientist)
+
+🎯 **Walmart** - 8 relevant new jobs:
+  • [Director, Data Science- Forecasting](https://careers.walmart.com/us/en/job/R-2452890)
+  • [Director, Data Science (Operation Research)](https://careers.walmart.com/us/en/job/R-2452891)
+  • [(USA) Senior Manager, Data Science](https://careers.walmart.com/us/en/job/R-2409583)
+  • [(USA) Director, Data Science- Testing and Measurements](https://careers.walmart.com/us/en/job/R-2400578)
+  • [(USA) Senior Manager, Data Science](https://careers.walmart.com/us/en/job/R-2316071)
