@@ -1,21 +1,14 @@
-# Job Scan Summary - 2026-04-04
+# Job Scan Summary - 2026-04-05
 
-**New jobs today:** 100
-**Relevant new jobs:** 7
+**New jobs today:** 20
+**Relevant new jobs:** 6
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Associate Technology Support Analyst - Dallas](https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Technology-Support-Analyst-Dallas/328698)
-  • [Scrum Master - Project Delivery Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Scrum-Master-Project-Delivery-Analyst/328691)
-  • [Real Estate Strategy Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Real-Estate-Strategy-Analyst/328565)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Data Scientist Hybrid](https://careers.cisco.com/global/en/job/2010815/Data-Scientist-Hybrid)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Applied Research Scientist, Computational Mathematics, Physics, & Controls](https://www.metacareers.com/profile/job_details/972883978494112)
-
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Senior AI Engineer](https://careers.elevancehealth.com/senior-ai-engineer/job/7BC2D9C4CF6729761E0E0BDBB3FC737E)
-
-🎯 **Intel** - 1 relevant new jobs:
-  • [Supply Chain Technical Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Supply-Chain-Technical-Planning-Analyst_JR0282425)
-
-🎯 **Walmart** - 1 relevant new jobs:
-  • [(USA) Senior, Data Scientist](https://careers.walmart.com/us/en/job/R-2416336)
+🎯 **Meta** - 5 relevant new jobs:
+  • [Data Scientist](https://www.metacareers.com/profile/job_details/1482966793455106)
+  • [Data Scientist](https://www.metacareers.com/profile/job_details/1225183738960156)
+  • [Data Scientist](https://www.metacareers.com/profile/job_details/762350719998028)
+  • [Sr. Data Scientist](https://www.metacareers.com/profile/job_details/4405884146318295)
+  • [Data Scientist, Small Business Group](https://www.metacareers.com/profile/job_details/755038210806811)

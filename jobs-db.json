@@ -9355,6 +9355,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Adobe-Workfront-Specialist-Senior/318135",
         "firstSeen": "2026-04-04T14:37:17.242457",
         "restrictions": []
+      },
+      "328756": {
+        "id": "328756",
+        "title": "Emergency Response and Preparedness Senior Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Emergency-Response-and-Preparedness-Senior-Manager/328756",
+        "firstSeen": "2026-04-05T14:37:07.846208",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -19355,6 +19362,48 @@
         "title": "Test Engineer",
         "url": "https://careers.cisco.com/global/en/job/2006412/Test-Engineer",
         "firstSeen": "2026-04-04T14:39:36.376240",
+        "restrictions": []
+      },
+      "2010815": {
+        "id": "2010815",
+        "title": "Data Scientist Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2010815/Data-Scientist-Hybrid",
+        "firstSeen": "2026-04-05T14:39:52.904239",
+        "restrictions": []
+      },
+      "2006514": {
+        "id": "2006514",
+        "title": "Data Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2006514/Data-Engineer-Hybrid",
+        "firstSeen": "2026-04-05T14:40:02.991393",
+        "restrictions": []
+      },
+      "2011349": {
+        "id": "2011349",
+        "title": "Engineering Product Manager - Observability AI",
+        "url": "https://careers.cisco.com/global/en/job/2011349/Engineering-Product-Manager-Observability-AI",
+        "firstSeen": "2026-04-05T14:40:16.971278",
+        "restrictions": []
+      },
+      "2011502": {
+        "id": "2011502",
+        "title": "Software Engineering Technical Leader | C, C++, Python, Device Driver, Linux, Kernel | 12 + years",
+        "url": "https://careers.cisco.com/global/en/job/2011502/Software-Engineering-Technical-Leader-C-C-Python-Device-Driver-Linux-Kernel-12-years",
+        "firstSeen": "2026-04-05T14:42:41.436308",
+        "restrictions": []
+      },
+      "2011566": {
+        "id": "2011566",
+        "title": "Software Post Silicon Validation Lead",
+        "url": "https://careers.cisco.com/global/en/job/2011566/Software-Post-Silicon-Validation-Lead",
+        "firstSeen": "2026-04-05T14:46:00.994098",
+        "restrictions": []
+      },
+      "2011506": {
+        "id": "2011506",
+        "title": "Leader, Software Engineering | C, C++, Python, Device Driver, Linux, Kernel, People Leader | 12+ years",
+        "url": "https://careers.cisco.com/global/en/job/2011506/Leader-Software-Engineering-C-C-Python-Device-Driver-Linux-Kernel-People-Leader-12-years",
+        "firstSeen": "2026-04-05T14:46:01.001552",
         "restrictions": []
       }
     },
@@ -32906,6 +32955,13 @@
         "url": "https://careers.synopsys.com/job/bengaluru/r-and-d-engineer-sr/44408/93537149120",
         "firstSeen": "2026-04-04T14:47:56.734069",
         "restrictions": []
+      },
+      "93574082272": {
+        "id": "93574082272",
+        "title": "Staff R&D Compilation Engineer \u2013 ZeBu Emulation PlatformMarlborough, MassachusettsCategory:EngineeringPosted:04/03/2026Job ID:16559",
+        "url": "https://careers.synopsys.com/job/marlborough/staff-r-and-d-compilation-engineer-zebu-emulation-platform/44408/93574082272",
+        "firstSeen": "2026-04-05T14:49:36.538471",
+        "restrictions": []
       }
     },
     "chewy": {
@@ -36650,6 +36706,76 @@
         "url": "https://www.metacareers.com/profile/job_details/972883978494112",
         "firstSeen": "2026-04-04T14:50:32.818084",
         "restrictions": []
+      },
+      "1482966793455106": {
+        "id": "1482966793455106",
+        "title": "Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/1482966793455106",
+        "firstSeen": "2026-04-05T14:52:12.940312",
+        "restrictions": []
+      },
+      "1285822290071354": {
+        "id": "1285822290071354",
+        "title": "Data Engineer, Analytics",
+        "url": "https://www.metacareers.com/profile/job_details/1285822290071354",
+        "firstSeen": "2026-04-05T14:52:12.945674",
+        "restrictions": []
+      },
+      "1225183738960156": {
+        "id": "1225183738960156",
+        "title": "Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/1225183738960156",
+        "firstSeen": "2026-04-05T14:52:12.950860",
+        "restrictions": []
+      },
+      "1263840115694316": {
+        "id": "1263840115694316",
+        "title": "Video Infrastructure Operations Regional Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1263840115694316",
+        "firstSeen": "2026-04-05T14:52:12.956521",
+        "restrictions": []
+      },
+      "762350719998028": {
+        "id": "762350719998028",
+        "title": "Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/762350719998028",
+        "firstSeen": "2026-04-05T14:52:12.964913",
+        "restrictions": []
+      },
+      "903861105594420": {
+        "id": "903861105594420",
+        "title": "Client Solutions Manager, Disruptors",
+        "url": "https://www.metacareers.com/profile/job_details/903861105594420",
+        "firstSeen": "2026-04-05T14:52:12.984018",
+        "restrictions": []
+      },
+      "1422630902703286": {
+        "id": "1422630902703286",
+        "title": "IDC Security Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1422630902703286",
+        "firstSeen": "2026-04-05T14:52:12.990325",
+        "restrictions": []
+      },
+      "4405884146318295": {
+        "id": "4405884146318295",
+        "title": "Sr. Data Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/4405884146318295",
+        "firstSeen": "2026-04-05T14:52:12.994716",
+        "restrictions": []
+      },
+      "1976185873099223": {
+        "id": "1976185873099223",
+        "title": "Data Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1976185873099223",
+        "firstSeen": "2026-04-05T14:52:12.998941",
+        "restrictions": []
+      },
+      "755038210806811": {
+        "id": "755038210806811",
+        "title": "Data Scientist, Small Business Group",
+        "url": "https://www.metacareers.com/profile/job_details/755038210806811",
+        "firstSeen": "2026-04-05T14:52:13.003243",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -37465,6 +37591,13 @@
         "title": "Home Infusion Nurse - Accredo - Springfield, IL",
         "url": "https://jobs.thecignagroup.com/us/en/job/26002579/Home-Infusion-Nurse-Accredo-Springfield-IL",
         "firstSeen": "2026-04-04T14:52:27.028823",
+        "restrictions": []
+      },
+      "26003525": {
+        "id": "26003525",
+        "title": "Home Infusion Nurse - Accredo - Fredericksburg, VA",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003525/Home-Infusion-Nurse-Accredo-Fredericksburg-VA",
+        "firstSeen": "2026-04-05T14:54:08.799237",
         "restrictions": []
       }
     },
@@ -52703,6 +52836,13 @@
         "title": "Director, Consumer and Shopper Insights and Portfolio Management, Pakistan",
         "url": "https://careers.coca-colacompany.com/job/23210723/director-consumer-and-shopper-insights-and-portfolio-management-pakistan-lahore-pk/",
         "firstSeen": "2026-04-03T15:09:48.137665",
+        "restrictions": []
+      },
+      "23209893": {
+        "id": "23209893",
+        "title": "Senior Manager, Integrated Marketing Experience (IMX) - Social, Owned Digital (Indonesia)",
+        "url": "https://careers.coca-colacompany.com/job/23209893/senior-manager-integrated-marketing-experience-imx-social-owned-digital-indonesia-jakarta-id/",
+        "firstSeen": "2026-04-05T15:01:54.398439",
         "restrictions": []
       }
     },
@@ -72411,5 +72551,5 @@
       }
     }
   },
-  "lastUpdated": "2026-04-04T15:05:52.956292"
+  "lastUpdated": "2026-04-05T15:07:30.263510"
 }
