@@ -9362,6 +9362,27 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Emergency-Response-and-Preparedness-Senior-Manager/328756",
         "firstSeen": "2026-04-05T14:37:07.846208",
         "restrictions": []
+      },
+      "328773": {
+        "id": "328773",
+        "title": "Future Operational Planner (FOPS)",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Future-Operational-Planner-FOPS/328773",
+        "firstSeen": "2026-04-06T14:51:09.328115",
+        "restrictions": []
+      },
+      "328759": {
+        "id": "328759",
+        "title": "Pipeline Engineering Senior Analyst (TS Clearance)",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Pipeline-Engineering-Senior-Analyst-TS-Clearance/328759",
+        "firstSeen": "2026-04-06T14:51:09.328139",
+        "restrictions": []
+      },
+      "328741": {
+        "id": "328741",
+        "title": "Salesforce\u00a0Technical Senior Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Salesforce-Technical-Senior-Consultant/328741",
+        "firstSeen": "2026-04-06T14:51:09.328160",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -19405,6 +19426,118 @@
         "url": "https://careers.cisco.com/global/en/job/2011506/Leader-Software-Engineering-C-C-Python-Device-Driver-Linux-Kernel-People-Leader-12-years",
         "firstSeen": "2026-04-05T14:46:01.001552",
         "restrictions": []
+      },
+      "2003465": {
+        "id": "2003465",
+        "title": "Compliance Information Security Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2003465/Compliance-Information-Security-Analyst",
+        "firstSeen": "2026-04-06T14:54:36.739849",
+        "restrictions": []
+      },
+      "2010019": {
+        "id": "2010019",
+        "title": "Threat Intelligence Investigator - Global Security & Executive Protection (Remote) 20010019",
+        "url": "https://careers.cisco.com/global/en/job/2010019/Threat-Intelligence-Investigator-Global-Security-Executive-Protection-Remote-20010019",
+        "firstSeen": "2026-04-06T14:54:42.068327",
+        "restrictions": []
+      },
+      "2010018": {
+        "id": "2010018",
+        "title": "Global Executive Protection Agent 2010018 (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2010018/Global-Executive-Protection-Agent-2010018-Remote",
+        "firstSeen": "2026-04-06T14:54:47.330197",
+        "restrictions": []
+      },
+      "2010408": {
+        "id": "2010408",
+        "title": "Senior Software Engineer- Networking Technologies",
+        "url": "https://careers.cisco.com/global/en/job/2010408/Senior-Software-Engineer-Networking-Technologies",
+        "firstSeen": "2026-04-06T14:55:08.520630",
+        "restrictions": []
+      },
+      "2011027": {
+        "id": "2011027",
+        "title": "Account Executive - Splunk (NYC Metro)",
+        "url": "https://careers.cisco.com/global/en/job/2011027/Account-Executive-Splunk-NYC-Metro",
+        "firstSeen": "2026-04-06T14:56:49.278768",
+        "restrictions": []
+      },
+      "2011631": {
+        "id": "2011631",
+        "title": "Software Engineer (AI/Data Engineering)",
+        "url": "https://careers.cisco.com/global/en/job/2011631/Software-Engineer-AI-Data-Engineering",
+        "firstSeen": "2026-04-06T14:56:55.126037",
+        "restrictions": []
+      },
+      "2010375": {
+        "id": "2010375",
+        "title": "Director, Sales Splunk, Country Manager Israel",
+        "url": "https://careers.cisco.com/global/en/job/2010375/Director-Sales-Splunk-Country-Manager-Israel",
+        "firstSeen": "2026-04-06T14:57:36.927967",
+        "restrictions": []
+      },
+      "2009733": {
+        "id": "2009733",
+        "title": "Reliability Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2009733/Reliability-Engineer",
+        "firstSeen": "2026-04-06T14:58:43.940540",
+        "restrictions": []
+      },
+      "2010299": {
+        "id": "2010299",
+        "title": "Engineering Technical Leader - Platform Escalation & Product Support",
+        "url": "https://careers.cisco.com/global/en/job/2010299/Engineering-Technical-Leader-Platform-Escalation-Product-Support",
+        "firstSeen": "2026-04-06T14:58:50.035186",
+        "restrictions": []
+      },
+      "2012105": {
+        "id": "2012105",
+        "title": "Signal and Power Integrity Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2012105/Signal-and-Power-Integrity-Engineer",
+        "firstSeen": "2026-04-06T14:58:55.171410",
+        "restrictions": []
+      },
+      "2011078": {
+        "id": "2011078",
+        "title": "ASIC DFT Engineer | 8+ years | DFT/ATPG/MBIST/SCAN/JTAG",
+        "url": "https://careers.cisco.com/global/en/job/2011078/ASIC-DFT-Engineer-8-years-DFT-ATPG-MBIST-SCAN-JTAG",
+        "firstSeen": "2026-04-06T14:59:00.741200",
+        "restrictions": []
+      },
+      "2005223": {
+        "id": "2005223",
+        "title": "Leader, Solutions Engineer - KSA",
+        "url": "https://careers.cisco.com/global/en/job/2005223/Leader-Solutions-Engineer-KSA",
+        "firstSeen": "2026-04-06T14:59:26.961166",
+        "restrictions": []
+      },
+      "2011486": {
+        "id": "2011486",
+        "title": "Account Executive - Global",
+        "url": "https://careers.cisco.com/global/en/job/2011486/Account-Executive-Global",
+        "firstSeen": "2026-04-06T15:01:52.687015",
+        "restrictions": []
+      },
+      "2011632": {
+        "id": "2011632",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2011632/Software-Engineer",
+        "firstSeen": "2026-04-06T15:01:52.694017",
+        "restrictions": []
+      },
+      "2010698": {
+        "id": "2010698",
+        "title": "Software Engineering Manager (Java/ Golang and AWS| 12-18 years| Bangalore)",
+        "url": "https://careers.cisco.com/global/en/job/2010698/Software-Engineering-Manager-Java-Golang-and-AWS-12-18-years-Bangalore",
+        "firstSeen": "2026-04-06T15:02:20.427243",
+        "restrictions": []
+      },
+      "2012235": {
+        "id": "2012235",
+        "title": "\u3010\u7b2c\u4e8c\u65b0\u5352\u67a0\u3011Technical Consulting Engineer/Technical Support",
+        "url": "https://careers.cisco.com/global/en/job/2012235/\u3010\u7b2c\u4e8c\u65b0\u5352\u67a0\u3011Technical-Consulting-Engineer-Technical-Support",
+        "firstSeen": "2026-04-06T15:02:20.433370",
+        "restrictions": []
       }
     },
     "visa": {
@@ -23390,6 +23523,13 @@
         "title": "Credit Accounting Administrator",
         "url": "https://careers.globalp.com/credit-accounting-administrator/job/P1-5101928-0",
         "firstSeen": "2026-04-04T14:44:38.262121",
+        "restrictions": []
+      },
+      "P1-4265198-0": {
+        "id": "P1-4265198-0",
+        "title": "Oracle Integration Cloud Oic Specialist",
+        "url": "https://careers.globalp.com/oracle-integration-cloud-oic-specialist/job/P1-4265198-0",
+        "firstSeen": "2026-04-06T15:02:37.480472",
         "restrictions": []
       }
     },
@@ -30868,6 +31008,41 @@
         "url": "https://jobs.fidelity.com/en/jobs/2122972/security-receptionist/",
         "firstSeen": "2026-04-04T14:45:50.361009",
         "restrictions": []
+      },
+      "2125627": {
+        "id": "2125627",
+        "title": "It Data Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2125627/it-data-analyst/",
+        "firstSeen": "2026-04-06T15:04:04.584726",
+        "restrictions": []
+      },
+      "2126800": {
+        "id": "2126800",
+        "title": "Vp Complex Assets",
+        "url": "https://jobs.fidelity.com/en/jobs/2126800/vp-complex-assets/",
+        "firstSeen": "2026-04-06T15:04:04.587067",
+        "restrictions": []
+      },
+      "2126630": {
+        "id": "2126630",
+        "title": "Senior Systems Analyst",
+        "url": "https://jobs.fidelity.com/en/jobs/2126630/senior-systems-analyst/",
+        "firstSeen": "2026-04-06T15:04:04.589329",
+        "restrictions": []
+      },
+      "2127323": {
+        "id": "2127323",
+        "title": "Director Software Engineering Contact Center Platform",
+        "url": "https://jobs.fidelity.com/en/jobs/2127323/director-software-engineering-contact-center-platform/",
+        "firstSeen": "2026-04-06T15:05:09.920313",
+        "restrictions": []
+      },
+      "2126684": {
+        "id": "2126684",
+        "title": "Director Anti Money Laundering",
+        "url": "https://jobs.fidelity.com/en/jobs/2126684/director-anti-money-laundering/",
+        "firstSeen": "2026-04-06T15:05:09.922432",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -32961,6 +33136,55 @@
         "title": "Staff R&D Compilation Engineer \u2013 ZeBu Emulation PlatformMarlborough, MassachusettsCategory:EngineeringPosted:04/03/2026Job ID:16559",
         "url": "https://careers.synopsys.com/job/marlborough/staff-r-and-d-compilation-engineer-zebu-emulation-platform/44408/93574082272",
         "firstSeen": "2026-04-05T14:49:36.538471",
+        "restrictions": []
+      },
+      "93635748416": {
+        "id": "93635748416",
+        "title": "Lead RTL Verification EngineerBengaluru, IndiaCategory:EngineeringPosted:04/05/2026Job ID:16709",
+        "url": "https://careers.synopsys.com/job/bengaluru/lead-rtl-verification-engineer/44408/93635748416",
+        "firstSeen": "2026-04-06T15:07:22.845365",
+        "restrictions": []
+      },
+      "93635748368": {
+        "id": "93635748368",
+        "title": "Application Engineer - Fluid (CFD)Tokyo, JapanCategory:EngineeringPosted:04/05/2026Job ID:16673",
+        "url": "https://careers.synopsys.com/job/tokyo/application-engineer-fluid-cfd/44408/93635748368",
+        "firstSeen": "2026-04-06T15:07:22.845400",
+        "restrictions": []
+      },
+      "93635748336": {
+        "id": "93635748336",
+        "title": "Principal GPU simulation Software EngineerBengaluru, IndiaCategory:EngineeringPosted:04/05/2026Job ID:16486",
+        "url": "https://careers.synopsys.com/job/bengaluru/principal-gpu-simulation-software-engineer/44408/93635748336",
+        "firstSeen": "2026-04-06T15:07:22.845421",
+        "restrictions": []
+      },
+      "93635748272": {
+        "id": "93635748272",
+        "title": "ASIC Digital Design, Sr Staff EngineerBengaluru, IndiaCategory:EngineeringPosted:04/05/2026Job ID:16708",
+        "url": "https://careers.synopsys.com/job/bengaluru/asic-digital-design-sr-staff-engineer/44408/93635748272",
+        "firstSeen": "2026-04-06T15:07:22.845455",
+        "restrictions": []
+      },
+      "93635748240": {
+        "id": "93635748240",
+        "title": "ASIC Digital Design, Staff EngineerBengaluru, IndiaCategory:EngineeringPosted:04/05/2026Job ID:16636",
+        "url": "https://careers.synopsys.com/job/bengaluru/asic-digital-design-staff-engineer/44408/93635748240",
+        "firstSeen": "2026-04-06T15:07:22.845475",
+        "restrictions": []
+      },
+      "93365523248": {
+        "id": "93365523248",
+        "title": "Senior Manager Formal Verification Applications EngineeringBengaluru, IndiaCategory:EngineeringPosted:03/02/2026Job ID:15548",
+        "url": "https://careers.synopsys.com/job/bengaluru/senior-manager-formal-verification-applications-engineering/44408/93365523248",
+        "firstSeen": "2026-04-06T15:07:22.845495",
+        "restrictions": []
+      },
+      "93610866480": {
+        "id": "93610866480",
+        "title": "Software Engineering InternHyderabad, IndiaCategory:Interns/TempPosted:04/03/2026Job ID:16457",
+        "url": "https://careers.synopsys.com/job/hyderabad/software-engineering-intern/44408/93610866480",
+        "firstSeen": "2026-04-06T15:07:22.845534",
         "restrictions": []
       }
     },
@@ -36775,6 +36999,55 @@
         "title": "Data Scientist, Small Business Group",
         "url": "https://www.metacareers.com/profile/job_details/755038210806811",
         "firstSeen": "2026-04-05T14:52:13.003243",
+        "restrictions": []
+      },
+      "1081929713616144": {
+        "id": "1081929713616144",
+        "title": "Controls Subject Matter Expert",
+        "url": "https://www.metacareers.com/profile/job_details/1081929713616144",
+        "firstSeen": "2026-04-06T15:09:37.487571",
+        "restrictions": []
+      },
+      "724521854032368": {
+        "id": "724521854032368",
+        "title": "Product Designer",
+        "url": "https://www.metacareers.com/profile/job_details/724521854032368",
+        "firstSeen": "2026-04-06T15:09:37.494721",
+        "restrictions": []
+      },
+      "839983648821877": {
+        "id": "839983648821877",
+        "title": "Data Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/839983648821877",
+        "firstSeen": "2026-04-06T15:09:37.499475",
+        "restrictions": []
+      },
+      "1948565766017612": {
+        "id": "1948565766017612",
+        "title": "Product Growth Analyst",
+        "url": "https://www.metacareers.com/profile/job_details/1948565766017612",
+        "firstSeen": "2026-04-06T15:09:37.504254",
+        "restrictions": []
+      },
+      "1249603423493385": {
+        "id": "1249603423493385",
+        "title": "Data Engineer, Analytics",
+        "url": "https://www.metacareers.com/profile/job_details/1249603423493385",
+        "firstSeen": "2026-04-06T15:09:37.527913",
+        "restrictions": []
+      },
+      "872527451573973": {
+        "id": "872527451573973",
+        "title": "AI/HPC Systems Performance Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/872527451573973",
+        "firstSeen": "2026-04-06T15:09:37.536113",
+        "restrictions": []
+      },
+      "873327785607518": {
+        "id": "873327785607518",
+        "title": "Product Designer, Meta Superintelligence Labs Media",
+        "url": "https://www.metacareers.com/profile/job_details/873327785607518",
+        "firstSeen": "2026-04-06T15:09:37.541972",
         "restrictions": []
       }
     },
@@ -42703,6 +42976,34 @@
         "title": "Utilization Management Representative II",
         "url": "https://careers.elevancehealth.com/utilization-management-representative-ii/job/4D218CB8A59DECED093BAFA26F671E6E",
         "firstSeen": "2026-04-04T14:55:10.055548",
+        "restrictions": []
+      },
+      "233A2F01B5925713044A258591D5A9F9": {
+        "id": "233A2F01B5925713044A258591D5A9F9",
+        "title": "Manager Behavioral Health Services (Chester Co.)",
+        "url": "https://careers.elevancehealth.com/manager-behavioral-health-services-chester-co/job/233A2F01B5925713044A258591D5A9F9",
+        "firstSeen": "2026-04-06T15:14:10.008915",
+        "restrictions": []
+      },
+      "ABF0A767505C819751A9CF7459F7C4CF": {
+        "id": "ABF0A767505C819751A9CF7459F7C4CF",
+        "title": "Med Mgmt Nurse (US)",
+        "url": "https://careers.elevancehealth.com/med-mgmt-nurse-us/job/ABF0A767505C819751A9CF7459F7C4CF",
+        "firstSeen": "2026-04-06T15:14:13.138698",
+        "restrictions": []
+      },
+      "A080EC03CFD09A1CFE281731E340DB78": {
+        "id": "A080EC03CFD09A1CFE281731E340DB78",
+        "title": "Referral Specialist I (Axium PR)",
+        "url": "https://careers.elevancehealth.com/referral-specialist-i-axium-pr/job/A080EC03CFD09A1CFE281731E340DB78",
+        "firstSeen": "2026-04-06T15:14:32.039138",
+        "restrictions": []
+      },
+      "990B3E8C38603A379AAEE4C8B29C6E85": {
+        "id": "990B3E8C38603A379AAEE4C8B29C6E85",
+        "title": "Utilization Management / Medical Management Nurse - CA HMO",
+        "url": "https://careers.elevancehealth.com/utilization-management-medical-management-nurse-ca-hmo/job/990B3E8C38603A379AAEE4C8B29C6E85",
+        "firstSeen": "2026-04-06T15:14:41.534496",
         "restrictions": []
       }
     },
@@ -52590,6 +52891,41 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202603134/software-engineer-autonomy-behavior-validation/",
         "firstSeen": "2026-04-04T14:55:48.010558",
         "restrictions": []
+      },
+      "jr-202607421": {
+        "id": "jr-202607421",
+        "title": "Finance & Accounting Intern",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202607421/finance-accounting-intern/",
+        "firstSeen": "2026-04-06T15:15:22.916300",
+        "restrictions": []
+      },
+      "jr-202607318": {
+        "id": "jr-202607318",
+        "title": "Tax Compliance Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202607318/tax-compliance-analyst/",
+        "firstSeen": "2026-04-06T15:15:22.929035",
+        "restrictions": []
+      },
+      "jr-202606502": {
+        "id": "jr-202606502",
+        "title": "Statutory Reporting and Compliance Senior Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202606502/statutory-reporting-and-compliance-senior-analyst/",
+        "firstSeen": "2026-04-06T15:15:22.942118",
+        "restrictions": []
+      },
+      "jr-202607802": {
+        "id": "jr-202607802",
+        "title": "[\ud55c\uad6dGM]\ucc3d\uc6d0\uacf5\uc7a5 \uc0b0\uc5c5\ubcf4\uac74\uc13c\ud130 \ud300\uc7a5",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202607802/\ud55c\uad6dgm-\ucc3d\uc6d0\uacf5\uc7a5-\uc0b0\uc5c5\ubcf4\uac74\uc13c\ud130-\ud300\uc7a5/",
+        "firstSeen": "2026-04-06T15:15:22.949920",
+        "restrictions": []
+      },
+      "jr-202607251": {
+        "id": "jr-202607251",
+        "title": "GBST Test Management CoE Supervisor",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202607251/gbst-test-management-coe-supervisor/",
+        "firstSeen": "2026-04-06T15:15:22.953707",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -52843,6 +53179,27 @@
         "title": "Senior Manager, Integrated Marketing Experience (IMX) - Social, Owned Digital (Indonesia)",
         "url": "https://careers.coca-colacompany.com/job/23209893/senior-manager-integrated-marketing-experience-imx-social-owned-digital-indonesia-jakarta-id/",
         "firstSeen": "2026-04-05T15:01:54.398439",
+        "restrictions": []
+      },
+      "23225833": {
+        "id": "23225833",
+        "title": "Senior Director - Marketing and C&C Data, Tech and Capabilities",
+        "url": "https://careers.coca-colacompany.com/job/23225833/senior-director-marketing-and-c-c-data-tech-and-capabilities-gurugram-in/",
+        "firstSeen": "2026-04-06T15:19:39.813036",
+        "restrictions": []
+      },
+      "23226051": {
+        "id": "23226051",
+        "title": "Director, Engineering Infrastructure & Asset Strategy",
+        "url": "https://careers.coca-colacompany.com/job/23226051/director-engineering-infrastructure-asset-strategy-atlanta-ga/",
+        "firstSeen": "2026-04-06T15:19:39.859961",
+        "restrictions": []
+      },
+      "23226093": {
+        "id": "23226093",
+        "title": "Senior Manager, Global Performance Management",
+        "url": "https://careers.coca-colacompany.com/job/23226093/senior-manager-global-performance-management-atlanta-ga/",
+        "firstSeen": "2026-04-06T15:19:39.875065",
         "restrictions": []
       }
     },
@@ -55281,6 +55638,13 @@
         "title": "Senior Manufacturing Mask Design Engineer",
         "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Senior-Manufacturing-Mask-Design-Engineer_JR0282697",
         "firstSeen": "2026-04-04T15:00:52.988747",
+        "restrictions": []
+      },
+      "JR0281395": {
+        "id": "JR0281395",
+        "title": "Circuit Design Engineer Intern",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Circuit-Design-Engineer-Intern_JR0281395",
+        "firstSeen": "2026-04-06T15:20:25.364398",
         "restrictions": []
       }
     },
@@ -60663,6 +61027,34 @@
         "title": "Global Financial Crimes Testing, Vice President (Digital Assets)",
         "url": "https://morganstanley.eightfold.ai/careers/job/549796965310?source=mscom",
         "firstSeen": "2026-04-04T15:03:25.879708",
+        "restrictions": []
+      },
+      "549796871327": {
+        "id": "549796871327",
+        "title": "Dir, Team Specialist, P3, Product Support & Services IM : Job Level - Director",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549796871327?source=mscom",
+        "firstSeen": "2026-04-06T15:22:47.370962",
+        "restrictions": []
+      },
+      "549796998096": {
+        "id": "549796998096",
+        "title": "Registered Client Relationship Analyst",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549796998096?source=mscom",
+        "firstSeen": "2026-04-06T15:22:51.503352",
+        "restrictions": []
+      },
+      "549794960554": {
+        "id": "549794960554",
+        "title": "IED - Equity Derivatives Strat \u2013 Structured Derivative Platform - Associate/Vice President",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549794960554?source=mscom",
+        "firstSeen": "2026-04-06T15:22:51.511423",
+        "restrictions": []
+      },
+      "549797039045": {
+        "id": "549797039045",
+        "title": "Wealth Management Analyst",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549797039045?source=mscom",
+        "firstSeen": "2026-04-06T15:22:55.607923",
         "restrictions": []
       }
     },
@@ -72551,5 +72943,5 @@
       }
     }
   },
-  "lastUpdated": "2026-04-05T15:07:30.263510"
+  "lastUpdated": "2026-04-06T15:25:28.235442"
 }
