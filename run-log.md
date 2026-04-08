@@ -538,3 +538,28 @@
 | 2026-04-07 | 15:25 | Delta Air Lines | NEW | 4 | 0 | 4 new (not matching) |
 | 2026-04-07 | 15:25 | Datadog | NEW | 4 | 0 | 4 new (not matching) |
 | 2026-04-07 | 15:25 | Commerce.com (BigCommerce) | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-08 | 15:27 | Deloitte | 🎯 MATCH | 21 | 2 | 2 relevant found! |
+| 2026-04-08 | 15:27 | Cisco | 🎯 MATCH | 27 | 1 | 1 relevant found! |
+| 2026-04-08 | 15:27 | Visa | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Global Partners | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Fidelity | 🎯 MATCH | 33 | 9 | 9 relevant found! |
+| 2026-04-08 | 15:27 | Synopsys | 🎯 MATCH | 13 | 1 | 1 relevant found! |
+| 2026-04-08 | 15:27 | Chewy | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-08 | 15:27 | Meta | 🎯 MATCH | 6 | 2 | 2 relevant found! |
+| 2026-04-08 | 15:27 | Cigna Healthcare | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Elevance Health | 🎯 MATCH | 19 | 2 | 2 relevant found! |
+| 2026-04-08 | 15:27 | General Motors | 🎯 MATCH | 35 | 2 | 2 relevant found! |
+| 2026-04-08 | 15:27 | Coca-Cola | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Intel | NEW | 13 | 0 | 13 new (not matching) |
+| 2026-04-08 | 15:27 | IBM | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-08 | 15:27 | Morgan Stanley | 🎯 MATCH | 32 | 8 | 8 relevant found! |
+| 2026-04-08 | 15:27 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Qualcomm | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | EY (Ernst & Young) | 🎯 MATCH | 8 | 4 | 4 relevant found! |
+| 2026-04-08 | 15:27 | GE Healthcare | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-08 | 15:27 | Walmart | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-08 | 15:27 | Delta Air Lines | No change | 0 | 0 | - |
+| 2026-04-08 | 15:27 | Datadog | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-08 | 15:27 | Commerce.com (BigCommerce) | NEW | 2 | 0 | 2 new (not matching) |
