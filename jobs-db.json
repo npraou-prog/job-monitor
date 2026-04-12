@@ -21087,6 +21087,90 @@
         "url": "https://careers.cisco.com/global/en/job/2009018/Software-Engineer",
         "firstSeen": "2026-04-11T14:45:25.602949",
         "restrictions": []
+      },
+      "2012217": {
+        "id": "2012217",
+        "title": "ASIC High Speed AMS Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2012217/ASIC-High-Speed-AMS-Technical-Leader",
+        "firstSeen": "2026-04-12T14:44:29.702817",
+        "restrictions": []
+      },
+      "2012214": {
+        "id": "2012214",
+        "title": "ASIC Design Verification Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2012214/ASIC-Design-Verification-Technical-Leader",
+        "firstSeen": "2026-04-12T14:44:29.710931",
+        "restrictions": []
+      },
+      "2010525": {
+        "id": "2010525",
+        "title": "Supplier commodity manager - Memory (Hyrbid)",
+        "url": "https://careers.cisco.com/global/en/job/2010525/Supplier-commodity-manager-Memory-Hyrbid",
+        "firstSeen": "2026-04-12T14:45:19.428267",
+        "restrictions": []
+      },
+      "2010381": {
+        "id": "2010381",
+        "title": "E2E Business Architect (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2010381/E2E-Business-Architect-Remote",
+        "firstSeen": "2026-04-12T14:45:47.045162",
+        "restrictions": []
+      },
+      "2005284": {
+        "id": "2005284",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2005284/Hardware-Engineer",
+        "firstSeen": "2026-04-12T14:45:52.295155",
+        "restrictions": []
+      },
+      "2009457": {
+        "id": "2009457",
+        "title": "Account Executive - Splunk, West",
+        "url": "https://careers.cisco.com/global/en/job/2009457/Account-Executive-Splunk-West",
+        "firstSeen": "2026-04-12T14:46:13.107631",
+        "restrictions": []
+      },
+      "2011460": {
+        "id": "2011460",
+        "title": "Senior Director, Associate General Counsel: Patent",
+        "url": "https://careers.cisco.com/global/en/job/2011460/Senior-Director-Associate-General-Counsel-Patent",
+        "firstSeen": "2026-04-12T14:46:33.268278",
+        "restrictions": []
+      },
+      "2011992": {
+        "id": "2011992",
+        "title": "Software Development Engineer in Test (SDET)",
+        "url": "https://careers.cisco.com/global/en/job/2011992/Software-Development-Engineer-in-Test-SDET",
+        "firstSeen": "2026-04-12T14:46:43.365137",
+        "restrictions": []
+      },
+      "2011733": {
+        "id": "2011733",
+        "title": "Leader, Sales -Splunk Federal - INTEL/NATSEC",
+        "url": "https://careers.cisco.com/global/en/job/2011733/Leader-Sales-Splunk-Federal-INTEL-NATSEC",
+        "firstSeen": "2026-04-12T14:46:43.391452",
+        "restrictions": []
+      },
+      "2011124": {
+        "id": "2011124",
+        "title": "Director, Sales - Splunk Federal INTEL/Defense",
+        "url": "https://careers.cisco.com/global/en/job/2011124/Director-Sales-Splunk-Federal-INTEL-Defense",
+        "firstSeen": "2026-04-12T14:46:48.064011",
+        "restrictions": []
+      },
+      "2011201": {
+        "id": "2011201",
+        "title": "Account Executive - Services",
+        "url": "https://careers.cisco.com/global/en/job/2011201/Account-Executive-Services",
+        "firstSeen": "2026-04-12T14:51:18.423585",
+        "restrictions": []
+      },
+      "2006509": {
+        "id": "2006509",
+        "title": "MBIST/DFT Design and Verification engineer",
+        "url": "https://careers.cisco.com/global/en/job/2006509/MBIST-DFT-Design-and-Verification-engineer",
+        "firstSeen": "2026-04-12T14:51:23.237602",
+        "restrictions": []
       }
     },
     "visa": {
@@ -40012,6 +40096,13 @@
         "url": "https://www.metacareers.com/profile/job_details/1435963384723269",
         "firstSeen": "2026-04-11T14:53:14.317557",
         "restrictions": []
+      },
+      "1873618870056311": {
+        "id": "1873618870056311",
+        "title": "Data Engineer, Product Analytics",
+        "url": "https://www.metacareers.com/profile/job_details/1873618870056311",
+        "firstSeen": "2026-04-12T14:58:09.557639",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -40314,6 +40405,34 @@
         "title": "Clinical Communications Senior Advisor - Cigna Healthcare Chief Medical Officer",
         "url": "https://jobs.thecignagroup.com/us/en/job/26004281/Clinical-Communications-Senior-Advisor-Cigna-Healthcare-Chief-Medical-Officer",
         "firstSeen": "2026-04-10T15:07:27.377133",
+        "restrictions": []
+      },
+      "26003574": {
+        "id": "26003574",
+        "title": "Executive Assistant - Cigna Healthcare (Walnut Creek, CA or Denver, CO) - Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003574/Executive-Assistant-Cigna-Healthcare-Walnut-Creek-CA-or-Denver-CO-Hybrid",
+        "firstSeen": "2026-04-12T14:58:49.183120",
+        "restrictions": []
+      },
+      "26003963": {
+        "id": "26003963",
+        "title": "Provider Network Contracting Manager \u2013 Cigna Healthcare \u2013 Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003963/Provider-Network-Contracting-Manager-Cigna-Healthcare-Hybrid",
+        "firstSeen": "2026-04-12T14:58:49.199293",
+        "restrictions": []
+      },
+      "26002217": {
+        "id": "26002217",
+        "title": "Customer Service Representative - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002217/Customer-Service-Representative-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-04-12T14:58:49.221427",
+        "restrictions": []
+      },
+      "26003457": {
+        "id": "26003457",
+        "title": "Customer Service Associate Representative - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003457/Customer-Service-Associate-Representative-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-04-12T14:58:49.226740",
         "restrictions": []
       }
     },
@@ -40967,6 +41086,48 @@
         "title": "Medical Assistant - Evernorth - Towson MD",
         "url": "https://jobs.thecignagroup.com/us/en/job/26004417/Medical-Assistant-Evernorth-Towson-MD",
         "firstSeen": "2026-04-11T14:55:09.736517",
+        "restrictions": []
+      },
+      "26004135": {
+        "id": "26004135",
+        "title": "Pharmacy Technician - Express Scripts - Tempe, AZ",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26004135/Pharmacy-Technician-Express-Scripts-Tempe-AZ",
+        "firstSeen": "2026-04-12T14:59:57.790084",
+        "restrictions": []
+      },
+      "26003964": {
+        "id": "26003964",
+        "title": "Pharmacy Technician Representative- Accredo",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003964/Pharmacy-Technician-Representative-Accredo",
+        "firstSeen": "2026-04-12T14:59:57.812461",
+        "restrictions": []
+      },
+      "26003489": {
+        "id": "26003489",
+        "title": "Senior Pharmacy Production Clerk - Express Scripts - Onsite",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003489/Senior-Pharmacy-Production-Clerk-Express-Scripts-Onsite",
+        "firstSeen": "2026-04-12T14:59:57.826292",
+        "restrictions": []
+      },
+      "26003899": {
+        "id": "26003899",
+        "title": "Business Analytics Senior Manager- CuraScript SD- Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003899/Business-Analytics-Senior-Manager-CuraScript-SD-Hybrid",
+        "firstSeen": "2026-04-12T14:59:57.832569",
+        "restrictions": []
+      },
+      "26003608": {
+        "id": "26003608",
+        "title": "Business Intelligence Developer- CuraScript - Hybrid",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003608/Business-Intelligence-Developer-CuraScript-Hybrid",
+        "firstSeen": "2026-04-12T14:59:57.838892",
+        "restrictions": []
+      },
+      "26003474": {
+        "id": "26003474",
+        "title": "Electro-Mechanical Maintenance and Controls Engineer - Express Scripts",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26003474/Electro-Mechanical-Maintenance-and-Controls-Engineer-Express-Scripts",
+        "firstSeen": "2026-04-12T14:59:57.845589",
         "restrictions": []
       }
     },
@@ -57618,6 +57779,13 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202607972/manager-us-dealer-audit-sales/",
         "firstSeen": "2026-04-11T14:58:43.140973",
         "restrictions": []
+      },
+      "jr-202603923": {
+        "id": "jr-202603923",
+        "title": "Staff Applied Scientist - AI & Robotics",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202603923/staff-applied-scientist-ai-robotics/",
+        "firstSeen": "2026-04-12T15:03:20.436155",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -60806,6 +60974,13 @@
         "title": "Quality Manager",
         "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Quality-Manager_JR0282722",
         "firstSeen": "2026-04-11T15:03:33.676265",
+        "restrictions": []
+      },
+      "JR0282865": {
+        "id": "JR0282865",
+        "title": "CPU Verification Undergraduate Intern",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Verification-Undergraudate-Intern_JR0282865",
+        "firstSeen": "2026-04-12T15:08:17.446701",
         "restrictions": []
       }
     },
@@ -79788,5 +79963,5 @@
       }
     }
   },
-  "lastUpdated": "2026-04-11T15:09:01.062745"
+  "lastUpdated": "2026-04-12T15:13:21.755130"
 }
