@@ -1,46 +1,47 @@
-# Job Scan Summary - 2026-04-14
+# Job Scan Summary - 2026-04-15
 
-**New jobs today:** 166
+**New jobs today:** 231
 **Relevant new jobs:** 23
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Senior Financial Analyst, Global Finance Services](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Financial-Analyst-Global-Finance-Services/329310)
+🎯 **Deloitte** - 3 relevant new jobs:
+  • [Senior Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist/329493)
+  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/329482)
+  • [Epic Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Analyst/329379)
 
-🎯 **Fidelity** - 5 relevant new jobs:
-  • [Senior It Data Analyst](https://jobs.fidelity.com/en/jobs/2125707/senior-it-data-analyst/)
-  • [Audit Senior Analyst](https://jobs.fidelity.com/en/jobs/2127326/audit-senior-analyst/)
-  • [Data Science Practice Lead](https://jobs.fidelity.com/en/jobs/2125885/data-science-practice-lead/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2126922/senior-systems-analyst/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2126629/senior-systems-analyst/)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Finance Analyst GVSE EMEA (Hybrid)](https://careers.cisco.com/global/en/job/1448099/Finance-Analyst-GVSE-EMEA-Hybrid)
+  • [Finance Analyst](https://careers.cisco.com/global/en/job/2012462/Finance-Analyst)
 
-🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Select Presale – Sales Support Analyst – Cigna Healthcare – Remote](https://jobs.thecignagroup.com/us/en/job/26004420/Select-Presale-Sales-Support-Analyst-Cigna-Healthcare-Remote)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Business Intelligence Analyst II](https://careers.chewy.com/us/en/job/R28675/Business-Intelligence-Analyst-II)
 
-🎯 **Cigna-Evernorth** - 1 relevant new jobs:
-  • [Contract Senior Analyst - CuraScript - Remote](https://jobs.thecignagroup.com/us/en/job/26003473/Contract-Senior-Analyst-CuraScript-Remote)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist Intern, Computer Vision for Media Research (PhD)](https://www.metacareers.com/profile/job_details/1652088078837457)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Behavioral Health Clinical Quality Audit Analyst Sr.](https://careers.elevancehealth.com/behavioral-health-clinical-quality-audit-analyst-sr/job/E544D25E846DB7C5249839AEE7728986)
+🎯 **Gm** - 4 relevant new jobs:
+  • [Fixed Assets Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202608549/fixed-assets-accounting-analyst/)
+  • [Pricing and Order Management Analyst](https://search-careers.gm.com/en/jobs/jr-202607842/pricing-and-order-management-analyst/)
+  • [Statutory Reporting Analysts](https://search-careers.gm.com/en/jobs/jr-202608550/statutory-reporting-analysts/)
+  • [Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202607932/finance-analyst/)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [Pricing Analyst](https://search-careers.gm.com/en/jobs/jr-202607835/pricing-analyst/)
-  • [Tax Compliance Analyst](https://search-careers.gm.com/en/jobs/jr-202607824/tax-compliance-analyst/)
-  • [GMNA Warranty COE – Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202607769/gmna-warranty-coe-accounting-analyst/)
+🎯 **Cocacola** - 1 relevant new jobs:
+  • [Data Analyst](https://careers.coca-colacompany.com/job/23265253/data-analyst-singapore-sg/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Foundry Automation ML Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1)
+🎯 **Morganstanley** - 5 relevant new jobs:
+  • [Deal and Investor Operations Analyst](https://morganstanley.eightfold.ai/careers/job/549797300356?source=mscom)
+  • [Quantitative AI and Data Analyst - Executive Director](https://morganstanley.eightfold.ai/careers/job/549796856133?source=mscom)
+  • [Central Risk Team Analyst - Institutional Securities Group Management](https://morganstanley.eightfold.ai/careers/job/549797269650?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797247111?source=mscom)
+  • [Natural Gas Scheduling - Commodities - Fixed Income - Analyst](https://morganstanley.eightfold.ai/careers/job/549797270348?source=mscom)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797267123?source=mscom)
-  • [Systems Analyst - Director](https://morganstanley.eightfold.ai/careers/job/549797043613?source=mscom)
-  • [Global Capital Markets - Strategic Lending Group Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549796979797?source=mscom)
+🎯 **Qualcomm** - 3 relevant new jobs:
+  • [Sr Engineer, Machine Learning (On-device Learning SW)](https://careers.qualcomm.com/careers/job/446718069657?domain=qualcomm.com)
+  • [AI Performance Engineer (Cloud AI Engineering), Sr | Staff | Sr. Staff](https://careers.qualcomm.com/careers/job/446714907262?domain=qualcomm.com)
+  • [Program Analyst, Senior](https://careers.qualcomm.com/careers/job/446718086283?domain=qualcomm.com)
 
-🎯 **Qualcomm** - 6 relevant new jobs:
-  • [#Sr Software Integration Engineer for Machine Learning Accelerator](https://careers.qualcomm.com/careers/job/446717134109?domain=qualcomm.com)
-  • [Staff Machine Learning Engineer – On-Device AI/ML](https://careers.qualcomm.com/careers/job/446718038805?domain=qualcomm.com)
-  • [Principal Engineer, Machine Learning Engineering (On-device SW)](https://careers.qualcomm.com/careers/job/446718040515?domain=qualcomm.com)
-  • [Senior Financial Analyst (MBA Preferred)](https://careers.qualcomm.com/careers/job/446715562984?domain=qualcomm.com)
-  • [Senior Financial Analyst (MBA Preferred)](https://careers.qualcomm.com/careers/job/446717956227?domain=qualcomm.com)
+🎯 **Walmart** - 2 relevant new jobs:
+  • [(USA) Senior Manager, Data Science, DSD Centralization](https://careers.walmart.com/us/en/job/R-2426065)
+  • [Principal, Data Scientist - Digital Twin Systems Architect](https://careers.walmart.com/us/en/job/R-2442437)
 
 🎯 **Delta** - 1 relevant new jobs:
-  • [Analyst, Revenue Management, Latin America &amp; Caribbean Pricing](https://delta.avature.net/en_US/careers/JobDetail/Analyst-Revenue-Management-Latin-America-Caribbean-Pricing/32118?jobId=32118)
+  • [Senior Analyst, Revenue Management, Latin America &amp; Caribbean Pricing](https://delta.avature.net/en_US/careers/JobDetail/Senior-Analyst-Revenue-Management-Latin-America-Caribbean-Pricing/32117?jobId=32117)

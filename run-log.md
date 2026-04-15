@@ -713,3 +713,28 @@
 | 2026-04-14 | 15:15 | Delta Air Lines | 🎯 MATCH | 1 | 1 | 1 relevant found! |
 | 2026-04-14 | 15:15 | Datadog | No change | 0 | 0 | - |
 | 2026-04-14 | 15:15 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | Deloitte | 🎯 MATCH | 22 | 3 | 3 relevant found! |
+| 2026-04-15 | 15:06 | Cisco | 🎯 MATCH | 58 | 2 | 2 relevant found! |
+| 2026-04-15 | 15:06 | Visa | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | Global Partners | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-15 | 15:06 | Fidelity | NEW | 15 | 0 | 15 new (not matching) |
+| 2026-04-15 | 15:06 | Synopsys | NEW | 12 | 0 | 12 new (not matching) |
+| 2026-04-15 | 15:06 | Chewy | 🎯 MATCH | 11 | 1 | 1 relevant found! |
+| 2026-04-15 | 15:06 | Meta | 🎯 MATCH | 7 | 1 | 1 relevant found! |
+| 2026-04-15 | 15:06 | Cigna Healthcare | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-15 | 15:06 | Cigna Evernorth Health Services | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-15 | 15:06 | Elevance Health | NEW | 13 | 0 | 13 new (not matching) |
+| 2026-04-15 | 15:06 | General Motors | 🎯 MATCH | 28 | 4 | 4 relevant found! |
+| 2026-04-15 | 15:06 | Coca-Cola | 🎯 MATCH | 2 | 1 | 1 relevant found! |
+| 2026-04-15 | 15:06 | Intel | NEW | 11 | 0 | 11 new (not matching) |
+| 2026-04-15 | 15:06 | IBM | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | Morgan Stanley | 🎯 MATCH | 23 | 5 | 5 relevant found! |
+| 2026-04-15 | 15:06 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | Qualcomm | 🎯 MATCH | 11 | 3 | 3 relevant found! |
+| 2026-04-15 | 15:06 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | GE Healthcare | No change | 0 | 0 | - |
+| 2026-04-15 | 15:06 | Walmart | 🎯 MATCH | 2 | 2 | 2 relevant found! |
+| 2026-04-15 | 15:06 | Delta Air Lines | 🎯 MATCH | 9 | 1 | 1 relevant found! |
+| 2026-04-15 | 15:06 | Datadog | NEW | 4 | 0 | 4 new (not matching) |
+| 2026-04-15 | 15:06 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
