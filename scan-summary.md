@@ -1,47 +1,29 @@
-# Job Scan Summary - 2026-04-15
+# Job Scan Summary - 2026-04-16
 
-**New jobs today:** 231
-**Relevant new jobs:** 23
+**New jobs today:** 235
+**Relevant new jobs:** 18
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Senior Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist/329493)
-  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/329482)
-  • [Epic Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Analyst/329379)
+🎯 **Deloitte** - 10 relevant new jobs:
+  • [Sanctions Research & Analysis Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Sanctions-Research-Analysis-Analyst/329694)
+  • [Senior Sanctions Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Sanctions-Analyst/329691)
+  • [Project Delivery Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Senior-Analyst/329654)
+  • [Workday Financial Accounting Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Workday-Financial-Accounting-Analyst/329645)
+  • [Workday Financial Accounting Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Workday-Financial-Accounting-Analyst/329642)
 
 🎯 **Cisco** - 2 relevant new jobs:
-  • [Finance Analyst GVSE EMEA (Hybrid)](https://careers.cisco.com/global/en/job/1448099/Finance-Analyst-GVSE-EMEA-Hybrid)
-  • [Finance Analyst](https://careers.cisco.com/global/en/job/2012462/Finance-Analyst)
+  • [Finance Analyst (junior-mid)](https://careers.cisco.com/global/en/job/2012737/Finance-Analyst-junior-mid)
+  • [Finance Analyst (senior)](https://careers.cisco.com/global/en/job/2012738/Finance-Analyst-senior)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Business Intelligence Analyst II](https://careers.chewy.com/us/en/job/R28675/Business-Intelligence-Analyst-II)
+🎯 **Meta** - 2 relevant new jobs:
+  • [Software Engineer, Machine Learning](https://www.metacareers.com/profile/job_details/1486118469577496)
+  • [Research Scientist, AI & Systems Co-design (PhD)](https://www.metacareers.com/profile/job_details/1815415389242149)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Research Scientist Intern, Computer Vision for Media Research (PhD)](https://www.metacareers.com/profile/job_details/1652088078837457)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Population Health Data Analyst](https://careers.elevancehealth.com/population-health-data-analyst/job/5D585F75A4B554F61487865D78A5D816)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Fixed Assets Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202608549/fixed-assets-accounting-analyst/)
-  • [Pricing and Order Management Analyst](https://search-careers.gm.com/en/jobs/jr-202607842/pricing-and-order-management-analyst/)
-  • [Statutory Reporting Analysts](https://search-careers.gm.com/en/jobs/jr-202608550/statutory-reporting-analysts/)
-  • [Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202607932/finance-analyst/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Staff AI/ML Engineer, Developer Productivity](https://search-careers.gm.com/en/jobs/jr-202608454/staff-ai-ml-engineer-developer-productivity/)
+  • [Strategic Business Resiliency Analyst - Critical Minerals Materials](https://search-careers.gm.com/en/jobs/jr-202607868/strategic-business-resiliency-analyst-critical-minerals-materials/)
 
-🎯 **Cocacola** - 1 relevant new jobs:
-  • [Data Analyst](https://careers.coca-colacompany.com/job/23265253/data-analyst-singapore-sg/)
-
-🎯 **Morganstanley** - 5 relevant new jobs:
-  • [Deal and Investor Operations Analyst](https://morganstanley.eightfold.ai/careers/job/549797300356?source=mscom)
-  • [Quantitative AI and Data Analyst - Executive Director](https://morganstanley.eightfold.ai/careers/job/549796856133?source=mscom)
-  • [Central Risk Team Analyst - Institutional Securities Group Management](https://morganstanley.eightfold.ai/careers/job/549797269650?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797247111?source=mscom)
-  • [Natural Gas Scheduling - Commodities - Fixed Income - Analyst](https://morganstanley.eightfold.ai/careers/job/549797270348?source=mscom)
-
-🎯 **Qualcomm** - 3 relevant new jobs:
-  • [Sr Engineer, Machine Learning (On-device Learning SW)](https://careers.qualcomm.com/careers/job/446718069657?domain=qualcomm.com)
-  • [AI Performance Engineer (Cloud AI Engineering), Sr | Staff | Sr. Staff](https://careers.qualcomm.com/careers/job/446714907262?domain=qualcomm.com)
-  • [Program Analyst, Senior](https://careers.qualcomm.com/careers/job/446718086283?domain=qualcomm.com)
-
-🎯 **Walmart** - 2 relevant new jobs:
-  • [(USA) Senior Manager, Data Science, DSD Centralization](https://careers.walmart.com/us/en/job/R-2426065)
-  • [Principal, Data Scientist - Digital Twin Systems Architect](https://careers.walmart.com/us/en/job/R-2442437)
-
-🎯 **Delta** - 1 relevant new jobs:
-  • [Senior Analyst, Revenue Management, Latin America &amp; Caribbean Pricing](https://delta.avature.net/en_US/careers/JobDetail/Senior-Analyst-Revenue-Management-Latin-America-Caribbean-Pricing/32117?jobId=32117)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Applied Machine Learning Engineer (LLMs & RL)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Applied-Machine-Learning-Engineer--LLMs---RL-_JR0282825)
