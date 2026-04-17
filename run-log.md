@@ -763,3 +763,28 @@
 | 2026-04-16 | 15:27 | Delta Air Lines | NEW | 1 | 0 | 1 new (not matching) |
 | 2026-04-16 | 15:27 | Datadog | NEW | 3 | 0 | 3 new (not matching) |
 | 2026-04-16 | 15:27 | Commerce.com (BigCommerce) | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-17 | 14:57 | Deloitte | 🎯 MATCH | 21 | 6 | 6 relevant found! |
+| 2026-04-17 | 14:57 | Cisco | 🎯 MATCH | 25 | 1 | 1 relevant found! |
+| 2026-04-17 | 14:57 | Visa | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Global Partners | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Fidelity | 🎯 MATCH | 18 | 3 | 3 relevant found! |
+| 2026-04-17 | 14:57 | Synopsys | 🎯 MATCH | 10 | 1 | 1 relevant found! |
+| 2026-04-17 | 14:57 | Chewy | NEW | 4 | 0 | 4 new (not matching) |
+| 2026-04-17 | 14:57 | Meta | NEW | 5 | 0 | 5 new (not matching) |
+| 2026-04-17 | 14:57 | Cigna Healthcare | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-17 | 14:57 | Cigna Evernorth Health Services | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-04-17 | 14:57 | Elevance Health | 🎯 MATCH | 16 | 2 | 2 relevant found! |
+| 2026-04-17 | 14:57 | General Motors | 🎯 MATCH | 42 | 3 | 3 relevant found! |
+| 2026-04-17 | 14:57 | Coca-Cola | 🎯 MATCH | 2 | 1 | 1 relevant found! |
+| 2026-04-17 | 14:57 | Intel | NEW | 22 | 0 | 22 new (not matching) |
+| 2026-04-17 | 14:57 | IBM | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-04-17 | 14:57 | Morgan Stanley | 🎯 MATCH | 30 | 1 | 1 relevant found! |
+| 2026-04-17 | 14:57 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Qualcomm | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | GE Healthcare | 🎯 MATCH | 129 | 4 | 4 relevant found! |
+| 2026-04-17 | 14:57 | Walmart | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Delta Air Lines | No change | 0 | 0 | - |
+| 2026-04-17 | 14:57 | Datadog | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-17 | 14:57 | Commerce.com (BigCommerce) | NEW | 1 | 0 | 1 new (not matching) |
