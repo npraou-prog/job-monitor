@@ -1,46 +1,40 @@
-# Job Scan Summary - 2026-04-17
+# Job Scan Summary - 2026-04-18
 
-**New jobs today:** 330
-**Relevant new jobs:** 23
+**New jobs today:** 183
+**Relevant new jobs:** 22
 
-🎯 **Deloitte** - 6 relevant new jobs:
-  • [Business Process Improvement Analyst- Dahlgren, VA](https://apply.deloitte.com/en_US/careers/JobDetail/Business-Process-Improvement-Analyst-Dahlgren-VA/329812)
-  • [Financial Operations Support Analyst- Huntsville, AL](https://apply.deloitte.com/en_US/careers/JobDetail/Financial-Operations-Support-Analyst-Huntsville-AL/329811)
-  • [Functional Business Operations Analyst- Huntsville, AL](https://apply.deloitte.com/en_US/careers/JobDetail/Functional-Business-Operations-Analyst-Huntsville-AL/329810)
-  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/329806)
-  • [Epic Cupid Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Cupid-Analyst/329792)
+🎯 **Deloitte** - 7 relevant new jobs:
+  • [Project Delivery Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Senior-Analyst/329925)
+  • [Cyber Threat Intel Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Threat-Intel-Analyst/329923)
+  • [Project Delivery  Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Analyst/329915)
+  • [Supply Policy Analyst- Secret Clearance Required](https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Policy-Analyst-Secret-Clearance-Required/329889)
+  • [Project Delivery Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Analyst/329876)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Data Scientist- Hardware Quality (Hybrid)](https://careers.cisco.com/global/en/job/2005431/Data-Scientist-Hardware-Quality-Hybrid)
-
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Principal Business Analyst Liquid Alts](https://jobs.fidelity.com/en/jobs/2127261/principal-business-analyst-liquid-alts/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2125131/senior-systems-analyst/)
-  • [Derivatives Analyst](https://jobs.fidelity.com/en/jobs/2126929/derivatives-analyst/)
+🎯 **Fidelity** - 5 relevant new jobs:
+  • [Senior Systems Services And Support Analyst](https://jobs.fidelity.com/en/jobs/2126439/senior-systems-services-and-support-analyst/)
+  • [Fixed Income Private Credit Research Analyst](https://jobs.fidelity.com/en/jobs/2127827/fixed-income-private-credit-research-analyst/)
+  • [Senior Representativeassociate Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2127537/senior-representativeassociate-analyst-brokerage-operations/)
+  • [Principal Business Analyst Private Markets](https://jobs.fidelity.com/en/jobs/2127258/principal-business-analyst-private-markets/)
+  • [Quantitative Analyst](https://jobs.fidelity.com/en/jobs/2126953/quantitative-analyst/)
 
 🎯 **Synopsys** - 1 relevant new jobs:
-  • [Senior Business AnalystPorto Salvo, PortugalCategory:OperationsPosted:04/15/2026Job ID:17005](https://careers.synopsys.com/job/porto-salvo/senior-business-analyst/44408/94030515952)
+  • [Agentic AI EngineerCanonsburg, PennsylvaniaCategory:EngineeringPosted:04/16/2026Job ID:16850](https://careers.synopsys.com/job/canonsburg/agentic-ai-engineer/44408/94068174512)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Actuarial Analyst III (US)](https://careers.elevancehealth.com/actuarial-analyst-iii-us/job/CB823B1054F5DB0520267473EFA2D51C)
-  • [Population Health Data Analyst](https://careers.elevancehealth.com/population-health-data-analyst/job/8242756139C2F5AF60FD25DB649CD261)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Data Scientist, Products & Applied Research](https://www.metacareers.com/profile/job_details/2278790245981983)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [Materials Analyst - GM Defense](https://search-careers.gm.com/en/jobs/jr-202608090/materials-analyst-gm-defense/)
-  • [Payroll Analyst](https://search-careers.gm.com/en/jobs/jr-202608425/payroll-analyst/)
-  • [Supply Chain Business Analyst](https://search-careers.gm.com/en/jobs/jr-202607133/supply-chain-business-analyst/)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Senior ML Engineer - Embodied AI Onboard Autonomy](https://search-careers.gm.com/en/jobs/jr-202520125/senior-ml-engineer-embodied-ai-onboard-autonomy/)
 
-🎯 **Cocacola** - 1 relevant new jobs:
-  • [Data Scientist](https://careers.coca-colacompany.com/job/23272139/data-scientist-atlanta-ga/)
+🎯 **Intel** - 2 relevant new jobs:
+  • [Division Supply Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Division-Supply-Planning-Analyst_JR0282938)
+  • [Supply Business Intelligence Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Supply-Business-Intelligence-Analyst_JR0282937)
 
-🎯 **Ibm** - 1 relevant new jobs:
-  • [Associate Data Scientist 2026 - Advanced Analytics](https://careers.ibm.com/careers/JobDetail?jobId=100288)
+🎯 **Morganstanley** - 4 relevant new jobs:
+  • [GIMA Operational Due Diligence (OpDD) Analyst – Vice President](https://morganstanley.eightfold.ai/careers/job/549797321073?source=mscom)
+  • [Fraud Rules Senior Analyst - Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549797334549?source=mscom)
+  • [Fraud Rules Data Science and Testing Specialist - Vice President](https://morganstanley.eightfold.ai/careers/job/549797334575?source=mscom)
+  • [Quantitative Analyst (macroeconomic scenario design)](https://morganstanley.eightfold.ai/careers/job/549797060373?source=mscom)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Morgan Stanley Private Credit- Portfolio Management - Analyst](https://morganstanley.eightfold.ai/careers/job/549795946926?source=mscom)
-
-🎯 **Gehealthcare** - 4 relevant new jobs:
-  • [Lead Marketing Analyst](https://careers.gehealthcare.com/global/en/job/R4039047/Lead-Marketing-Analyst)
-  • [ISC-FP&A-Finance Analyst](https://careers.gehealthcare.com/global/en/job/R4039377/ISC-FP-A-Finance-Analyst)
-  • [Technology Analyst, Care Alliance Customer Success](https://careers.gehealthcare.com/global/en/job/R4036511/Technology-Analyst-Care-Alliance-Customer-Success)
-  • [Senior Oracle Financial Systems Analyst](https://careers.gehealthcare.com/global/en/job/R4039359/Senior-Oracle-Financial-Systems-Analyst)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Intern, Innovation - AI Engineering (Summer 2026)](https://delta.avature.net/en_US/careers/JobDetail/Intern-Innovation-AI-Engineering-Summer-2026/30248?jobId=30248)
