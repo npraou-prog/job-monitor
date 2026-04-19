@@ -38929,6 +38929,20 @@
         "url": "https://careers.synopsys.com/job/bengaluru/solutions-engineering-sr-staff-engineer-dft-rtl-design-product-engineer/44408/94068174416",
         "firstSeen": "2026-04-18T14:56:20.491770",
         "restrictions": []
+      },
+      "92296851904": {
+        "id": "92296851904",
+        "title": "Director, Talent ManagementBengaluru, IndiaCategory:PeoplePosted:04/17/2026Job ID:15363",
+        "url": "https://careers.synopsys.com/job/bengaluru/director-talent-management/44408/92296851904",
+        "firstSeen": "2026-04-19T14:55:49.657520",
+        "restrictions": []
+      },
+      "94105413024": {
+        "id": "94105413024",
+        "title": "Staff Engineer, Technical WritingBengaluru, IndiaCategory:EngineeringPosted:04/17/2026Job ID:16997",
+        "url": "https://careers.synopsys.com/job/bengaluru/staff-engineer-technical-writing/44408/94105413024",
+        "firstSeen": "2026-04-19T14:55:49.657558",
+        "restrictions": []
       }
     },
     "chewy": {
@@ -43597,6 +43611,62 @@
         "url": "https://www.metacareers.com/profile/job_details/2447379849027934",
         "firstSeen": "2026-04-18T14:59:16.631757",
         "restrictions": []
+      },
+      "556388847084173": {
+        "id": "556388847084173",
+        "title": "Research Engineer, Monetization AI",
+        "url": "https://www.metacareers.com/profile/job_details/556388847084173",
+        "firstSeen": "2026-04-19T14:58:26.065702",
+        "restrictions": []
+      },
+      "950098077597575": {
+        "id": "950098077597575",
+        "title": "Research Scientist",
+        "url": "https://www.metacareers.com/profile/job_details/950098077597575",
+        "firstSeen": "2026-04-19T14:58:26.079201",
+        "restrictions": []
+      },
+      "1310393294316730": {
+        "id": "1310393294316730",
+        "title": "Product Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1310393294316730",
+        "firstSeen": "2026-04-19T14:58:26.100998",
+        "restrictions": []
+      },
+      "4261656707312766": {
+        "id": "4261656707312766",
+        "title": "Application Manager, Salesforce",
+        "url": "https://www.metacareers.com/profile/job_details/4261656707312766",
+        "firstSeen": "2026-04-19T14:58:26.106139",
+        "restrictions": []
+      },
+      "1648976066135378": {
+        "id": "1648976066135378",
+        "title": "Machine Learning Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1648976066135378",
+        "firstSeen": "2026-04-19T14:58:26.112625",
+        "restrictions": []
+      },
+      "1698310731341673": {
+        "id": "1698310731341673",
+        "title": "Software Engineer (Systems)",
+        "url": "https://www.metacareers.com/profile/job_details/1698310731341673",
+        "firstSeen": "2026-04-19T14:58:26.117043",
+        "restrictions": []
+      },
+      "1276458173871516": {
+        "id": "1276458173871516",
+        "title": "Offensive Security Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1276458173871516",
+        "firstSeen": "2026-04-19T14:58:26.121482",
+        "restrictions": []
+      },
+      "1476489063996610": {
+        "id": "1476489063996610",
+        "title": "Data Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1476489063996610",
+        "firstSeen": "2026-04-19T14:58:26.126946",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -44755,6 +44825,13 @@
         "title": "Sr Advisor - NCPDP Standards Implementation - Hybrid - Express Scripts",
         "url": "https://jobs.thecignagroup.com/us/en/job/26003209/Sr-Advisor-NCPDP-Standards-Implementation-Hybrid-Express-Scripts",
         "firstSeen": "2026-04-18T15:01:13.003154",
+        "restrictions": []
+      },
+      "26002610": {
+        "id": "26002610",
+        "title": "Workplace Care Sales Advisor - Evernorth Health Services - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26002610/Workplace-Care-Sales-Advisor-Evernorth-Health-Services-Remote",
+        "firstSeen": "2026-04-19T15:00:20.955830",
         "restrictions": []
       }
     },
@@ -85444,6 +85521,13 @@
         "url": "https://careers.walmart.com/us/en/job/R-2452257",
         "firstSeen": "2026-04-18T15:17:12.062398",
         "restrictions": []
+      },
+      "R-2456589": {
+        "id": "R-2456589",
+        "title": "Principal, Data Scientist",
+        "url": "https://careers.walmart.com/us/en/job/R-2456589",
+        "firstSeen": "2026-04-19T15:13:14.351314",
+        "restrictions": []
       }
     },
     "delta": {
@@ -88440,5 +88524,5 @@
       }
     }
   },
-  "lastUpdated": "2026-04-18T15:17:59.225302"
+  "lastUpdated": "2026-04-19T15:13:34.167347"
 }
