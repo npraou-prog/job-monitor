@@ -838,3 +838,28 @@
 | 2026-04-19 | 14:42 | Delta Air Lines | No change | 0 | 0 | - |
 | 2026-04-19 | 14:42 | Datadog | No change | 0 | 0 | - |
 | 2026-04-19 | 14:42 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Deloitte | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-20 | 15:17 | Cisco | 🎯 MATCH | 19 | 1 | 1 relevant found! |
+| 2026-04-20 | 15:17 | Visa | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Global Partners | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Fidelity | NEW | 10 | 0 | 10 new (not matching) |
+| 2026-04-20 | 15:17 | Synopsys | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-20 | 15:17 | Chewy | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-20 | 15:17 | Meta | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-20 | 15:17 | Cigna Healthcare | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Cigna Evernorth Health Services | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-20 | 15:17 | Elevance Health | 🎯 MATCH | 8 | 1 | 1 relevant found! |
+| 2026-04-20 | 15:17 | General Motors | 🎯 MATCH | 4 | 1 | 1 relevant found! |
+| 2026-04-20 | 15:17 | Coca-Cola | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-04-20 | 15:17 | Intel | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-20 | 15:17 | IBM | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Morgan Stanley | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-04-20 | 15:17 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Qualcomm | NEW | 4 | 0 | 4 new (not matching) |
+| 2026-04-20 | 15:17 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | GE Healthcare | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-04-20 | 15:17 | Walmart | No change | 0 | 0 | - |
+| 2026-04-20 | 15:17 | Delta Air Lines | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-20 | 15:17 | Datadog | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-04-20 | 15:17 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
