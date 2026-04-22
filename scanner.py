@@ -43,9 +43,20 @@ def append_log(date, time_str, company, status, new_jobs, relevant, notes):
         f.write(f"| {date} | {time_str} | {company} | {status} | {new_jobs} | {relevant} | {notes} |\n")
 
 
+BROAD_ROLE_QUALIFIERS = {'data', 'machine learning', 'ml', 'ai', 'applied', 'research', 'business', 'financial', 'quantitative', 'statistical', 'marketing', 'product', 'pricing', 'risk', 'supply chain', 'operations', 'clinical', 'hr', 'people', 'workforce', 'credit', 'fraud', 'customer'}
+
 def is_relevant_role(title, target_roles):
     title_lower = title.lower()
-    return any(role.lower() in title_lower for role in target_roles)
+    for role in target_roles:
+        role_lower = role.lower()
+        if role_lower not in title_lower:
+            continue
+        if role_lower == 'analyst':
+            if any(q in title_lower for q in BROAD_ROLE_QUALIFIERS):
+                return True
+        else:
+            return True
+    return False
 
 
 # Keywords that indicate citizenship/clearance requirements
@@ -1010,10 +1021,8 @@ def fetch_meta_jobs(base_url, db, company_id):
         )
         page = context.new_page()
         
-        # Load job search page
-        search_url = "https://www.metacareers.com/jobs"
-        print(f"Loading {search_url}...", flush=True)
-        page.goto(search_url, wait_until='networkidle', timeout=90000)
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
         page.wait_for_timeout(5000)
         
         # Get total count
@@ -2388,6 +2397,407 @@ def fetch_commerce_jobs(base_url, db, company_id):
     return jobs, new_found
 
 # =============================================================================
+# WORKDAY API HELPER (shared by Toyota, Amadeus, etc.)
+# =============================================================================
+def _fetch_workday_api(api_url, job_base_url, db, company_id):
+    """Generic Workday internal JSON API fetcher — no browser needed."""
+    jobs = db["companies"].get(company_id, {})
+    limit = 20
+    new_found = 0
+
+    headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+    }
+
+    try:
+        resp = SESSION.post(api_url, json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}, headers=headers, timeout=30)
+        total = resp.json().get("total", 0)
+    except Exception as e:
+        print(f"  Could not get total: {e}", flush=True)
+        total = 500
+    print(f"Total: {total} jobs", flush=True)
+
+    offset = 0
+    while offset < total:
+        try:
+            payload = {"appliedFacets": {}, "limit": limit, "offset": offset, "searchText": ""}
+            resp = SESSION.post(api_url, json=payload, headers=headers, timeout=30)
+            data = resp.json()
+
+            for posting in data.get("jobPostings", []):
+                ext_path = posting.get("externalPath", "")
+                title = posting.get("title", "")
+                if not ext_path or not title:
+                    continue
+
+                job_id_match = re.search(r'/([A-Za-z0-9_-]+)$', ext_path)
+                job_id = job_id_match.group(1) if job_id_match else ext_path.strip("/")
+
+                if job_id not in jobs:
+                    full_url = f"{job_base_url}{ext_path}"
+                    restrictions = detect_restrictions(title)
+                    jobs[job_id] = {
+                        "id": job_id,
+                        "title": title,
+                        "url": full_url,
+                        "firstSeen": datetime.now().isoformat(),
+                        "restrictions": restrictions,
+                    }
+                    new_found += 1
+
+            if offset % 200 == 0 and offset > 0:
+                print(f"  Fetched {offset}/{total}: {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if not data.get("jobPostings"):
+                break
+
+            offset += limit
+            time.sleep(0.3)
+
+        except Exception as e:
+            print(f"  Error at offset {offset}: {e}", flush=True)
+            offset += limit
+            continue
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# TOYOTA FETCHER (Workday JSON API)
+# =============================================================================
+def fetch_toyota_jobs(base_url, db, company_id):
+    """Fetch Toyota jobs via Workday's internal JSON API."""
+    api_url = "https://toyota.wd503.myworkdayjobs.com/wday/cxs/toyota/TMNA/jobs"
+    job_base_url = "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA"
+    return _fetch_workday_api(api_url, job_base_url, db, company_id)
+
+
+# =============================================================================
+# AMADEUS FETCHER (Workday JSON API)
+# =============================================================================
+def fetch_amadeus_jobs(base_url, db, company_id):
+    """Fetch Amadeus jobs via Workday's internal JSON API."""
+    api_url = "https://amadeus.wd3.myworkdayjobs.com/wday/cxs/amadeus/jobs/jobs"
+    job_base_url = "https://amadeus.wd3.myworkdayjobs.com/en-US/jobs"
+    return _fetch_workday_api(api_url, job_base_url, db, company_id)
+
+
+# =============================================================================
+# BARCLAYS FETCHER (Static HTML, numbered pagination)
+# =============================================================================
+def fetch_barclays_jobs(base_url, db, company_id):
+    """Fetch Barclays jobs — server-rendered HTML with ?p=N pagination."""
+    jobs = db["companies"].get(company_id, {})
+    per_page = 10
+
+    print("Getting job count...", flush=True)
+    resp = SESSION.get(base_url, timeout=30)
+    match = re.search(r'(\d[\d,]*)\s*(?:jobs?|results?)', resp.text, re.IGNORECASE)
+    total = int(match.group(1).replace(",", "")) if match else 300
+    pages = (total // per_page) + 1
+    print(f"Total: {total} jobs, {pages} pages", flush=True)
+
+    new_found = 0
+    for i in range(1, pages + 1):
+        url = f"{base_url}?p={i}" if i > 1 else base_url
+
+        try:
+            resp = SESSION.get(url, timeout=15)
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            for link in soup.select('a[href*="/job/"]'):
+                href = link.get("href", "")
+                title = link.get_text(strip=True)
+
+                # Barclays pattern: /job/{city}/{slug}/13015/{ID}
+                job_id_match = re.search(r"/job/[^/]+/[^/]+/\d+/(\d+)", href)
+                if job_id_match and title and len(title) > 5:
+                    job_id = job_id_match.group(1)
+                    if job_id not in jobs:
+                        full_url = f"https://search.jobs.barclays{href}" if not href.startswith("http") else href
+                        restrictions = detect_restrictions(title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions,
+                        }
+                        new_found += 1
+
+            if i % 10 == 0:
+                print(f"  Page {i}/{pages}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            time.sleep(0.3)
+
+        except Exception as e:
+            print(f"  Error page {i}: {e}", flush=True)
+            continue
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# J.P. MORGAN CHASE FETCHER (Playwright - Oracle Cloud HCM)
+# =============================================================================
+def fetch_jpmorgan_jobs(base_url, db, company_id):
+    """Fetch J.P. Morgan Chase jobs using Playwright (Oracle Cloud HCM)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until="networkidle", timeout=90000)
+        page.wait_for_timeout(5000)
+
+        try:
+            count_text = page.locator("text=/\\d+\\s*(?:jobs?|results?)/i").first.inner_text()
+            match = re.search(r"(\d[\d,]*)", count_text)
+            total = int(match.group(1).replace(",", "")) if match else 500
+        except:
+            total = 500
+        print(f"Total: ~{total} jobs", flush=True)
+
+        new_found = 0
+        page_num = 1
+        max_pages = (total // 25) + 5
+
+        while page_num <= max_pages:
+            links = page.locator("a[href*='/job/']").all()
+            found_on_page = 0
+
+            for link in links:
+                try:
+                    href = link.get_attribute("href") or ""
+                    title = link.inner_text().strip()
+
+                    job_match = re.search(r"/job/(\d+)", href)
+                    if job_match and title and len(title) > 5:
+                        job_id = job_match.group(1)
+                        if job_id not in jobs:
+                            full_url = href if href.startswith("http") else f"https://jpmc.fa.oraclecloud.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions,
+                            }
+                            new_found += 1
+                            found_on_page += 1
+                except:
+                    continue
+
+            try:
+                next_btn = page.locator("button:has-text('Next'), a:has-text('Next'), [aria-label*='Next']").first
+                if next_btn.count() > 0 and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                    page_num += 1
+                else:
+                    break
+            except:
+                break
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# PAYCOM FETCHER (Playwright - Paycom ATS portal)
+# =============================================================================
+def fetch_paycom_jobs(base_url, db, company_id):
+    """Fetch Paycom jobs using Playwright (Paycom ATS)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until="networkidle", timeout=90000)
+        page.wait_for_timeout(5000)
+
+        new_found = 0
+        page_num = 1
+        max_pages = 100
+
+        while page_num <= max_pages:
+            links = page.locator("a[href*='ViewJobDetails'], a[href*='/job/']").all()
+            found_on_page = 0
+
+            for link in links:
+                try:
+                    href = link.get_attribute("href") or ""
+                    title = link.inner_text().strip()
+
+                    job_match = re.search(r"job=(\d+)", href) or re.search(r"/job/([^/?#]+)", href)
+                    if job_match and title and len(title) > 5:
+                        job_id = job_match.group(1)
+                        if job_id not in jobs:
+                            full_url = href if href.startswith("http") else f"https://www.paycomonline.net{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions,
+                            }
+                            new_found += 1
+                            found_on_page += 1
+                except:
+                    continue
+
+            try:
+                next_btn = page.locator("button:has-text('Next'), a:has-text('Next'), [aria-label='Next page']").first
+                if next_btn.count() > 0 and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(2000)
+                    page_num += 1
+                else:
+                    break
+            except:
+                break
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# FUJITSU FETCHER (Playwright - SAP SuccessFactors, North America)
+# =============================================================================
+def fetch_fujitsu_jobs(base_url, db, company_id):
+    """Fetch Fujitsu North America jobs using Playwright (SAP SuccessFactors)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until="networkidle", timeout=90000)
+        page.wait_for_timeout(5000)
+
+        try:
+            count_text = page.locator("text=/\\d+\\s*(?:jobs?|results?|positions?)/i").first.inner_text()
+            match = re.search(r"(\d[\d,]*)", count_text)
+            total = int(match.group(1).replace(",", "")) if match else 200
+        except:
+            total = 200
+        print(f"Total: ~{total} jobs", flush=True)
+
+        new_found = 0
+        page_num = 1
+        max_pages = (total // 10) + 5
+
+        while page_num <= max_pages:
+            links = page.locator("a[href*='/job/'], a[href*='jobId='], a[href*='/careers/job']").all()
+            found_on_page = 0
+
+            for link in links:
+                try:
+                    href = link.get_attribute("href") or ""
+                    title = link.inner_text().strip()
+
+                    job_match = (
+                        re.search(r"jobId=(\d+)", href)
+                        or re.search(r"/job/([^/?#]+)", href)
+                        or re.search(r"/(\d{5,})(?:/|$)", href)
+                    )
+                    if job_match and title and len(title) > 5:
+                        job_id = job_match.group(1)
+                        if job_id not in jobs:
+                            full_url = href if href.startswith("http") else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions,
+                            }
+                            new_found += 1
+                            found_on_page += 1
+                except:
+                    continue
+
+            try:
+                next_btn = page.locator("button:has-text('Next'), a:has-text('Next'), [aria-label*='Next']").first
+                if next_btn.count() > 0 and next_btn.is_enabled():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                    page_num += 1
+                else:
+                    break
+            except:
+                break
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # COMPANY ROUTER
 # =============================================================================
 FETCHERS = {
@@ -2416,6 +2826,12 @@ FETCHERS = {
     "delta": fetch_delta_jobs,
     "datadog": fetch_datadog_jobs,
     "commerce": fetch_commerce_jobs,
+    "paycom": fetch_paycom_jobs,
+    "fujitsu": fetch_fujitsu_jobs,
+    "jpmorgan": fetch_jpmorgan_jobs,
+    "toyota": fetch_toyota_jobs,
+    "barclays": fetch_barclays_jobs,
+    "amadeus": fetch_amadeus_jobs,
 }
 
 

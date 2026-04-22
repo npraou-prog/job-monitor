@@ -232,6 +232,48 @@
       "url": "https://www.commerce.com/careers/",
       "referrers": [],
       "added": "2026-04-01"
+    },
+    {
+      "id": "paycom",
+      "name": "Paycom",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=6C538303E0A1E070E6E85E1ADA608AD7",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
+    },
+    {
+      "id": "fujitsu",
+      "name": "Fujitsu",
+      "url": "https://jobs.fnc.fujitsu.com/",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
+    },
+    {
+      "id": "jpmorgan",
+      "name": "J.P. Morgan Chase",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "url": "https://toyota.wd503.myworkdayjobs.com/TMNA",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "url": "https://search.jobs.barclays/search-jobs",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
+    },
+    {
+      "id": "amadeus",
+      "name": "Amadeus",
+      "url": "https://amadeus.wd3.myworkdayjobs.com/jobs",
+      "referrers": ["Kushal"],
+      "added": "2026-04-21"
     }
   ]
 }

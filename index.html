@@ -403,9 +403,11 @@
                 totalNew += newToday.length;
                 totalRelevant += relevant.length;
                 
+                const configEntry = CONFIG.companies.find(c => c.id === companyId);
+                const displayName = configEntry ? configEntry.name : companyId.charAt(0).toUpperCase() + companyId.slice(1);
                 companies.push({
                     id: companyId,
-                    name: companyId.charAt(0).toUpperCase() + companyId.slice(1),
+                    name: displayName,
                     jobs: jobsArray,
                     relevant,
                     newToday
@@ -500,7 +502,7 @@
                 return (b.firstSeen || '').localeCompare(a.firstSeen || '');
             });
             
-            return jobs.slice(0, 50).map(job => {
+            return jobs.slice(0, 200).map(job => {
                 const relevant = isRelevant(job.title);
                 const isNew = isNewToday(job.firstSeen);
                 const restrictionBadges = getRestrictionBadges(job.restrictions);
