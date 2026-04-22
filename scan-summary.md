@@ -1,44 +1,48 @@
-# Job Scan Summary - 2026-04-21
+# Job Scan Summary - 2026-04-22
 
-**New jobs today:** 375
-**Relevant new jobs:** 50
+**New jobs today:** 346
+**Relevant new jobs:** 40
 
-🎯 **Deloitte** - 11 relevant new jobs:
-  • [Epic Tapestry Sr Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Tapestry-Sr-Analyst/330113)
-  • [Senior Cyber Threat Intelligence Analyst (TS Cleared, Onsite)](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Cyber-Threat-Intelligence-Analyst-TS-Cleared-Onsite/330097)
-  • [Procure to Pay Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Procure-to-Pay-Analyst/330043)
-  • [Financial Reporting Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Financial-Reporting-Senior-Analyst/330041)
-  • [Senior Financial Analyst: GPS Accounting & Initiatives](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Financial-Analyst-GPS-Accounting-Initiatives/330040)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Project Delivery Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Senior-Analyst/330118)
 
-🎯 **Visa** - 19 relevant new jobs:
-  • [Product Analyst](https://corporate.visa.com/en/jobs/REF081020W)
-  • [Cybersecurity Analyst](https://corporate.visa.com/en/jobs/REF97313A)
-  • [GenAI Applications Program Analyst - Senior SWE](https://corporate.visa.com/en/jobs/REF080834W)
-  • [Employee Card Program - Sr. Finance Analyst](https://corporate.visa.com/en/jobs/REF080971W)
-  • [AI COE Analyst](https://corporate.visa.com/en/jobs/REF075497W)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Finance Analyst I (Intern) - United States](https://careers.cisco.com/global/en/job/2004114/Finance-Analyst-I-Intern-United-States)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Sr Business Test Analyst Alternative Investments Investor Relations](https://jobs.fidelity.com/en/jobs/2118192/sr-business-test-analyst-alternative-investments-investor-relations/)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Data Analyst, Global Partnerships & Content](https://www.metacareers.com/profile/job_details/1679944389988939)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Gen AI Engineer](https://careers.elevancehealth.com/gen-ai-engineer/job/FD1F01DC4E4323DDCFE96BA84A52A384)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/4624F8EA259425E20C1AF7EA2E61A646)
+  • [Epic Reporting Analyst/ Systems Analyst Senior Advisor](https://careers.elevancehealth.com/epic-reporting-analyst-systems-analyst-senior-advisor/job/C8FF98F9C6ABBCF999A811E107F2C3D8)
 
-🎯 **Gm** - 7 relevant new jobs:
-  • [Senior RTP Transformation Analyst](https://search-careers.gm.com/en/jobs/jr-202608710/senior-rtp-transformation-analyst/)
-  • [People Services Senior Analyst - VPP](https://search-careers.gm.com/en/jobs/jr-202606982/people-services-senior-analyst-vpp/)
-  • [Korean Bilingual Analyst](https://search-careers.gm.com/en/jobs/jr-202605928/korean-bilingual-analyst/)
-  • [People Services Senior Analyst - VPP](https://search-careers.gm.com/en/jobs/jr-202606985/people-services-senior-analyst-vpp/)
-  • [Senior Global Product Cost Analyst - RTR Transformation](https://search-careers.gm.com/en/jobs/jr-202607930/senior-global-product-cost-analyst-rtr-transformation/)
+🎯 **Gm** - 3 relevant new jobs:
+  • [Customer Research Analyst](https://search-careers.gm.com/en/jobs/jr-202607677/customer-research-analyst/)
+  • [GPSC Material Performance Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202608066/gpsc-material-performance-finance-analyst/)
+  • [Sales & Operations Planning Analyst](https://search-careers.gm.com/en/jobs/jr-202608745/sales-operations-planning-analyst/)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Corporate FP&A - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549797323517?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797269902?source=mscom)
-  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549797324717?source=mscom)
-  • [Investment Due Diligence Analyst](https://morganstanley.eightfold.ai/careers/job/549797337941?source=mscom)
+🎯 **Intel** - 2 relevant new jobs:
+  • [Senior Executive Compensation Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Senior-Executive-Compensation-Analyst_JR0280382)
+  • [Factory 25 Close Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Factory-25-Close-Analyst_JR0283151)
 
-🎯 **Qualcomm** - 7 relevant new jobs:
-  • [Data Scientist – Finance & Accounting Automation](https://careers.qualcomm.com/careers/job/446717994091?domain=qualcomm.com)
-  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717808671?domain=qualcomm.com)
-  • [Compensation Analyst, Senior](https://careers.qualcomm.com/careers/job/446718155643?domain=qualcomm.com)
-  • [Market Intelligence Analyst, Staff](https://careers.qualcomm.com/careers/job/446718152195?domain=qualcomm.com)
-  • [Immigration Analyst, Senior](https://careers.qualcomm.com/careers/job/446718155641?domain=qualcomm.com)
+🎯 **Qualcomm** - 1 relevant new jobs:
+  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717476864?domain=qualcomm.com)
+
+🎯 **Ey** - 3 relevant new jobs:
+  • [Cons - TC - AI and Data - Enterprise Data - Data Science - Manager - Multiple Positions - 1703364](https://careers.ey.com/ey/job/Chicago-Cons-TC-AI-and-Data-Enterprise-Data-Data-Science-Manager-Multiple-Positions-1703364-IL-60607/1386530733/)
+  • [Data Analyst - TC- Data and Analytics - DAE - FSO - Manager - Multiple Positions - 1700933](https://careers.ey.com/ey/job/Hoboken-Data-Analyst-TC-Data-and-Analytics-DAE-FSO-Manager-Multiple-Positions-1700933-NJ-07030/1384246933/)
+  • [Data Analyst - TC - Data and Analytics - DAE - FSO - Manager - Multiple Positions - 1700919](https://careers.ey.com/ey/job/Chicago-Data-Analyst-TC-Data-and-Analytics-DAE-FSO-Manager-Multiple-Positions-1700919-IL-60606/1383831233/)
+
+🎯 **Toyota** - 19 relevant new jobs:
+  • [Treasury Accounting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Treasury-Accounting-Analyst_10321266)
+  • [Sr. Analyst Construction Budget/Systems](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst-Construction-Budget-Systems_10321638)
+  • [Treasury Operations Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Treasury-Operations-Senior-Analyst_10325282)
+  • [Logistics Planning Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Logistics-Planning-Analyst_10323566)
+  • [Analyst, IT Indirect Procurement Strategic Sourcing](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst--IT-Indirect-Procurement-Strategic-Sourcing_10322060)
+
+🎯 **Barclays** - 7 relevant new jobs:
+  • [KYC Analyst](https://search.jobs.barclays/job/noida/kyc-analyst/13015/93764360240)
+  • [Financial Controller - Analyst](https://search.jobs.barclays/job/chennai/financial-controller-analyst/13015/94246223008)
+  • [Analyst - Group FP&A](https://search.jobs.barclays/job/chennai/analyst-group-fp-and-a/13015/94246222960)
+  • [Analyst Financial Control](https://search.jobs.barclays/job/chennai/analyst-financial-control/13015/94246222944)
+  • [Analyst](https://search.jobs.barclays/job/gurugram/analyst/13015/94246222928)
