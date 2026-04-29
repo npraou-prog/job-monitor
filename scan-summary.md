@@ -1,59 +1,58 @@
-# Job Scan Summary - 2026-04-28
+# Job Scan Summary - 2026-04-29
 
-**New jobs today:** 294
-**Relevant new jobs:** 33
+**New jobs today:** 195
+**Relevant new jobs:** 31
 
-🎯 **Deloitte** - 4 relevant new jobs:
-  • [Senior GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-GenAI-Engineer/340396)
-  • [GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Engineer/340395)
-  • [Healthcare Quality Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Healthcare-Quality-Analyst/340358)
-  • [HR Project Delivery Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/HR-Project-Delivery-Analyst/340351)
+🎯 **Deloitte** - 3 relevant new jobs:
+  • [Mission and Program Strategy Analyst (TS/SCI with Poly)](https://apply.deloitte.com/en_US/careers/JobDetail/Mission-and-Program-Strategy-Analyst-TS-SCI-with-Poly/340512)
+  • [Mission Intelligence and Research Analyst (TS/SCI with Poly)](https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Intelligence-and-Research-Analyst-TS-SCI-with-Poly/340511)
+  • [Epic ADT / Grand Central Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-ADT-Grand-Central-Analyst/340486)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2127528/senior-systems-analyst/)
-  • [Quantitative Investment Analyst](https://jobs.fidelity.com/en/jobs/2128252/quantitative-investment-analyst/)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Data Analyst I (Intern) United States](https://careers.cisco.com/global/en/job/2000155/Data-Analyst-I-Intern-United-States)
+  • [AI Research Scientist I (Intern) United States](https://careers.cisco.com/global/en/job/2002885/AI-Research-Scientist-I-Intern-United-States)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Telehealth Operations Analyst II](https://careers.chewy.com/us/en/job/R29307/Telehealth-Operations-Analyst-II)
+🎯 **Globalpartners** - 1 relevant new jobs:
+  • [Blending Accounting Analyst](https://careers.globalp.com/blending-accounting-analyst/job/P1-5299453-0)
 
-🎯 **Meta** - 2 relevant new jobs:
-  • [Research Scientist – World Models, Robotics & Embodied AI](https://www.metacareers.com/profile/job_details/4047129245422755)
-  • [AI Research Scientist, Reinforcement Learning](https://www.metacareers.com/profile/job_details/1485957726592535)
+🎯 **Elevancehealth** - 6 relevant new jobs:
+  • [Analyst-Data Products](https://careers.elevancehealth.com/analyst-data-products/job/D01851A82A86C24E3B2D695EC64F957C)
+  • [Business Analyst II – 837 Encounters](https://careers.elevancehealth.com/business-analyst-ii-837-encounters/job/DCCBCF776016959225A38E96FAC13342)
+  • [Business Analyst III – 837 Implementations](https://careers.elevancehealth.com/business-analyst-iii-837-implementations/job/886FA786B406CBBE6EEB5D719DB541CC)
+  • [Financial Reporting Analyst](https://careers.elevancehealth.com/financial-reporting-analyst/job/F9AA8CD6221BE112B46B114FBD24E536)
+  • [Med Coding Appeals Analyst](https://careers.elevancehealth.com/med-coding-appeals-analyst/job/22B558A031BDADF5B7C92EF07ADF846D)
 
-🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Business Analyst III/Senior Tester](https://careers.elevancehealth.com/business-analyst-iii-senior-tester/job/C3A8D704D1D88A60D5CADA330E265A14)
-  • [Financial Accounting Analyst](https://careers.elevancehealth.com/financial-accounting-analyst/job/592B712D869B43696FAADF778D377DBE)
-  • [PBM Pricing Strategy Analyst Manager](https://careers.elevancehealth.com/pbm-pricing-strategy-analyst-manager/job/D561F5F76B60D4E4AA37C6411F4D9ECB)
+🎯 **Gm** - 3 relevant new jobs:
+  • [AI/ML Data Scientist (GPSSC)](https://search-careers.gm.com/en/jobs/jr-202608411/ai-ml-data-scientist-gpssc/)
+  • [Financial Analyst - Capital Management Controllership](https://search-careers.gm.com/en/jobs/jr-202608539/financial-analyst-capital-management-controllership/)
+  • [Strategy & Ops Analyst](https://search-careers.gm.com/en/jobs/jr-202608632/strategy-ops-analyst/)
 
-🎯 **Gm** - 1 relevant new jobs:
-  • [Lead Research Analyst, Executive Intelligence](https://search-careers.gm.com/en/jobs/jr-202607916/lead-research-analyst-executive-intelligence/)
+🎯 **Cocacola** - 2 relevant new jobs:
+  • [Senior Product Data Analyst - Supply Chain](https://careers.coca-colacompany.com/job/23321898/senior-product-data-analyst-supply-chain-atlanta-ga/)
+  • [Product Data Analyst - Supply Chain Planning Platforms](https://careers.coca-colacompany.com/job/23323350/product-data-analyst-supply-chain-planning-platforms-atlanta-ga/)
 
 🎯 **Intel** - 2 relevant new jobs:
-  • [Finance Settlement and Supply Chain Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/OR-Finance-settlement-and-supply-chain-analyst_JR0283386)
-  • [Front End Long Range Capacity Planning Sr. Analyst (Intel Foundry)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Front-End-Long-Range-Capacity-Planning-Sr-Analyst--Intel-Foundry-_JR0280664)
+  • [Division Supply Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Division-Supply-Planning-Analyst_JR0281766)
+  • [Finance Settlement and Supply Chain Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Finance-Settlement-and-Supply-Chain-Analyst_JR0283387)
 
-🎯 **Ibm** - 2 relevant new jobs:
-  • [Research Scientist - TS/SCI (FSP)](https://careers.ibm.com/careers/JobDetail?jobId=111944)
-  • [Senior Research Scientist - TS/SCI (FSP)](https://careers.ibm.com/careers/JobDetail?jobId=111951)
+🎯 **Morganstanley** - 4 relevant new jobs:
+  • [xVA Trading - Fixed Income Division - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549797565675?source=mscom)
+  • [Quantitative Analyst](https://morganstanley.eightfold.ai/careers/job/549795514678?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549795913298?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549795877047?source=mscom)
 
-🎯 **Gehealthcare** - 5 relevant new jobs:
-  • [Analyst](https://careers.gehealthcare.com/global/en/job/R4031271/Analyst)
-  • [Sr. Staff AI Engineer](https://careers.gehealthcare.com/global/en/job/R4039182/Sr-Staff-AI-Engineer)
-  • [AI Enablement and Security Analyst](https://careers.gehealthcare.com/global/en/job/R4039472/AI-Enablement-and-Security-Analyst)
-  • [Lead Internal Controls Analyst-SOX](https://careers.gehealthcare.com/global/en/job/R4036045/Lead-Internal-Controls-Analyst-SOX)
-  • [Full Stack AI Engineer - eCommerce](https://careers.gehealthcare.com/global/en/job/R4040354/Full-Stack-AI-Engineer-eCommerce)
+🎯 **Walmart** - 2 relevant new jobs:
+  • [(USA) Senior Manager, Data Science - Mobius Digital Twin, Delivery Speed Optimization](https://careers.walmart.com/us/en/job/R-2456801)
+  • [Staff, Data Scientist](https://careers.walmart.com/us/en/job/R-2467283)
 
-🎯 **Commerce** - 1 relevant new jobs:
-  • [Financial Analyst II](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Financial-Analyst-II_JR102606)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Analyst, Domestic Revenue Management](https://delta.avature.net/en_US/careers/JobDetail/Analyst-Domestic-Revenue-Management/31773?jobId=31773)
 
-🎯 **Toyota** - 3 relevant new jobs:
-  • [Supply Chain - Part Number Control Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Supply-Chain---Part-Number-Control-Analyst_10323937)
-  • [Analyst - Production Control](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Buffalo-West-Virginia/Analyst---Production-Control_10325866)
-  • [Sr. Financial Systems Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Financial-Systems-Analyst_10322421)
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Collision Operations Sr. Analyst.](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Collision-Operations-Sr-Analyst_10286682-1)
+  • [Senior Tax Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Tax-Analyst_10325635)
 
-🎯 **Barclays** - 7 relevant new jobs:
-  • [Transaction Monitoring Analyst](https://search.jobs.barclays/job/noida/transaction-monitoring-analyst/13015/94475018704)
-  • [Loan IQ Live Support Analyst](https://search.jobs.barclays/job/greater-manchester/loan-iq-live-support-analyst/13015/93764360432)
-  • [Analyst – Valuations Control](https://search.jobs.barclays/job/chennai/analyst-valuations-control/13015/94475014832)
-  • [KYC Onboarding Analyst](https://search.jobs.barclays/job/gurugram/kyc-onboarding-analyst/13015/94475014800)
-  • [TM Analyst - CB](https://search.jobs.barclays/job/chennai/tm-analyst-cb/13015/94475014640)
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Senior Data Scientist](https://search.jobs.barclays/job/glasgow/senior-data-scientist/13015/91165857520)
+  • [Quality Assurance Analyst](https://search.jobs.barclays/job/noida/quality-assurance-analyst/13015/94512857472)
+  • [FCS Senior Analyst](https://search.jobs.barclays/job/noida/fcs-senior-analyst/13015/94512856592)
