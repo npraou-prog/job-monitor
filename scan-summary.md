@@ -1,59 +1,53 @@
-# Job Scan Summary - 2026-04-30
+# Job Scan Summary - 2026-05-01
 
-**New jobs today:** 247
-**Relevant new jobs:** 35
+**New jobs today:** 242
+**Relevant new jobs:** 25
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Senior AI/ML Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AI-ML-Engineer/340575)
-  • [Deloitte Technology - US Associate GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-US-Associate-GenAI-Engineer/340568)
-  • [Supply Chain Risk Management (SCRM) Data Analyst- Secret Clearance Required](https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Chain-Risk-Management-SCRM-Data-Analyst-Secret-Clearance-Required/340441)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [AI & Data Science Consultant - LSHC](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Data-Science-Consultant-LSHC/340624)
+  • [Lead Product Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Product-Analyst/314078)
 
-🎯 **Cisco** - 3 relevant new jobs:
-  • [Protective Intelligence Analyst (Remote) 2002807](https://careers.cisco.com/global/en/job/2002807/Protective-Intelligence-Analyst-Remote-2002807)
-  • [Finance Analyst](https://careers.cisco.com/global/en/job/2012276/Finance-Analyst)
-  • [Business Analyst Trainee_Technical Graduate Apprentice - India UHR](https://careers.cisco.com/global/en/job/2013741/Business-Analyst-Trainee-Technical-Graduate-Apprentice-India-UHR)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Global Communications Business Operations Analyst](https://careers.cisco.com/global/en/job/2013466/Global-Communications-Business-Operations-Analyst)
+  • [Sales Operations Analyst Trainee- Non Technical Graduate Apprentice- India UHR](https://careers.cisco.com/global/en/job/2013622/Sales-Operations-Analyst-Trainee-Non-Technical-Graduate-Apprentice-India-UHR)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Senior Analyst Liquid Alts Trading Operations](https://jobs.fidelity.com/en/jobs/2127668/senior-analyst-liquid-alts-trading-operations/)
-  • [Senior Systems Services And Support Analyst](https://jobs.fidelity.com/en/jobs/2127358/senior-systems-services-and-support-analyst/)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Credit Risk Analyst](https://jobs.fidelity.com/en/jobs/2127971/credit-risk-analyst/)
+  • [Senior Technology Risk Analyst Controls Coe](https://jobs.fidelity.com/en/jobs/2126444/senior-technology-risk-analyst-controls-coe/)
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2118097/senior-systems-analyst/)
+  • [Technology Risk Analyst Controls Testing Coe](https://jobs.fidelity.com/en/jobs/2128084/technology-risk-analyst-controls-testing-coe/)
 
-🎯 **Elevancehealth** - 6 relevant new jobs:
-  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/7EC15C2C826F8E78591D588376775FF0)
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/1E3DBC6C5C31854A8205F1F9E962CD8E)
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/8FA59FD8E7F10A8BEB918A8C61031A71)
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/419E657B4082AC62C90A9A5841C9D867)
-  • [Population Health Data Analyst](https://careers.elevancehealth.com/population-health-data-analyst/job/396B0386011E281C86E6FBD6C552BCA4)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Pricing Data Analyst](https://careers.chewy.com/us/en/job/R29497/Pricing-Data-Analyst)
+
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160)
+
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Data Science Director](https://careers.elevancehealth.com/data-science-director/job/CDAE31BE84A7FD4FB41563226D8E056F)
+  • [Data Science Solutions Consultant Senior](https://careers.elevancehealth.com/data-science-solutions-consultant-senior/job/6FB5830E6C5E06FD6856B508D6641665)
+  • [Data Science Solutions Lead](https://careers.elevancehealth.com/data-science-solutions-lead/job/98D4DB20DC0B1379EA10F2283304C913)
+  • [Infra Services Analyst Senior Advisor](https://careers.elevancehealth.com/infra-services-analyst-senior-advisor/job/8A5F9F2B483B24162A6B0B13EFDCDE2B)
 
 🎯 **Gm** - 3 relevant new jobs:
-  • [Senior Financial Analyst - Labor Strategy](https://search-careers.gm.com/en/jobs/jr-202608473/senior-financial-analyst-labor-strategy/)
-  • [Senior Analyst, U.S. Retirement Benefits](https://search-careers.gm.com/en/jobs/jr-202608709/senior-analyst-u-s-retirement-benefits/)
-  • [Consumer Insights Analyst](https://search-careers.gm.com/en/jobs/jr-202609142/consumer-insights-analyst/)
+  • [Business Operations Analyst - GM Defense](https://search-careers.gm.com/en/jobs/jr-202609374/business-operations-analyst-gm-defense/)
+  • [General Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202609544/general-accounting-analyst/)
+  • [Senior Financial Analyst – GM Canada – Corporate Accounting](https://search-careers.gm.com/en/jobs/jr-202609376/senior-financial-analyst-gm-canada-corporate-accounting/)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Private Wealth Management Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797398334?source=mscom)
-  • [Sr AI / ML Engineer - Executive Director](https://morganstanley.eightfold.ai/careers/job/549797213990?source=mscom)
-  • [Commercial Real Estate Lending Support Analyst – Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549797540735?source=mscom)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797595708?source=mscom)
 
-🎯 **Gehealthcare** - 2 relevant new jobs:
-  • [Senior AI Engineer, Enterprise AI](https://careers.gehealthcare.com/global/en/job/R4040316/Senior-AI-Engineer-Enterprise-AI)
-  • [Senior AI Engineer, Enterprise AI](https://careers.gehealthcare.com/global/en/job/R4040315/Senior-AI-Engineer-Enterprise-AI)
+🎯 **Ey** - 2 relevant new jobs:
+  • [IT Advisor - Technology Cons - AI and Data - Data Science - Manager - Multiple Positions - 1703399](https://careers.ey.com/ey/job/Chicago-IT-Advisor-Technology-Cons-AI-and-Data-Data-Science-Manager-Multiple-Positions-1703399-IL-60606/1387149333/)
+  • [Consulting - TC - AI and Quant Mod - AI Data Scientist - Manager - Multiple Positions - 1701537](https://careers.ey.com/ey/job/Seattle-Consulting-TC-AI-and-Quant-Mod-AI-Data-Scientist-Manager-Multiple-Positions-1701537-WA-98104/1384636333/)
 
-🎯 **Walmart** - 3 relevant new jobs:
-  • [Senior, Data Analyst – Market Research & Survey Analytics](https://careers.walmart.com/us/en/job/R-2408748)
-  • [Senior, Data Scientist](https://careers.walmart.com/us/en/job/R-2450293)
-  • [(USA) Senior Manager, Data Science - Strategic Execution](https://careers.walmart.com/us/en/job/R-2456792)
-
-🎯 **Datadog** - 2 relevant new jobs:
-  • [Information Security Analyst II](https://boards.greenhouse.io/datadog/jobs/7867762)
-  • [Senior Procurement Analyst](https://boards.greenhouse.io/datadog/jobs/7867749)
+🎯 **Commerce** - 1 relevant new jobs:
+  • [Senior Strategy & Operations Analyst](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Senior-Strategy---Operations-Analyst_JR102621)
 
 🎯 **Toyota** - 2 relevant new jobs:
-  • [Engineer - Quality Data Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Engineer---Quality-Data-Analyst_10325103)
-  • [Credit Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Credit-Analyst_10326157)
+  • [Sr. Analyst Construction Budget/Systems](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst-Construction-Budget-Systems_10326234)
+  • [Engineer - Quality Data Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Engineer---Quality-Data-Analyst_10326261-1)
 
-🎯 **Barclays** - 6 relevant new jobs:
-  • [Specialist Support Analyst](https://search.jobs.barclays/job/knutsford/specialist-support-analyst/13015/92717903664)
-  • [ALM Transformation Analyst](https://search.jobs.barclays/job/chennai/alm-transformation-analyst/13015/94550504688)
-  • [Analyst - Financial Control](https://search.jobs.barclays/job/noida/analyst-financial-control/13015/94550504240)
-  • [Analyst-Financial Controller](https://search.jobs.barclays/job/noida/analyst-financial-controller/13015/94550504080)
-  • [Analyst Models COE](https://search.jobs.barclays/job/gurugram/analyst-models-coe/13015/94550503968)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Assistant VP, Quantitative Risk Analyst](https://search.jobs.barclays/job/new-york/assistant-vp-quantitative-risk-analyst/13015/94574368768)
+  • [Senior Business Analyst](https://search.jobs.barclays/job/new-york/senior-business-analyst/13015/94232447120)
