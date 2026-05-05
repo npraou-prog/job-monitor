@@ -1291,3 +1291,34 @@
 | 2026-05-04 | 16:03 | Toyota | NEW | 3 | 0 | 3 new (not matching) |
 | 2026-05-04 | 16:03 | Barclays | NEW | 14 | 0 | 14 new (not matching) |
 | 2026-05-04 | 16:03 | Amadeus | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-05-05 | 15:58 | Deloitte | 🎯 MATCH | 39 | 2 | 2 relevant found! |
+| 2026-05-05 | 15:58 | Cisco | 🎯 MATCH | 24 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Visa | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Global Partners | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Fidelity | 🎯 MATCH | 16 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Synopsys | 🎯 MATCH | 12 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Chewy | NEW | 12 | 0 | 12 new (not matching) |
+| 2026-05-05 | 15:58 | Meta | 🎯 MATCH | 4 | 2 | 2 relevant found! |
+| 2026-05-05 | 15:58 | Cigna Healthcare | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-05-05 | 15:58 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Elevance Health | NEW | 18 | 0 | 18 new (not matching) |
+| 2026-05-05 | 15:58 | General Motors | 🎯 MATCH | 39 | 3 | 3 relevant found! |
+| 2026-05-05 | 15:58 | Coca-Cola | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Intel | 🎯 MATCH | 15 | 2 | 2 relevant found! |
+| 2026-05-05 | 15:58 | IBM | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Morgan Stanley | NEW | 20 | 0 | 20 new (not matching) |
+| 2026-05-05 | 15:58 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Qualcomm | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | GE Healthcare | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-05-05 | 15:58 | Walmart | No change | 0 | 0 | - |
+| 2026-05-05 | 15:58 | Delta Air Lines | NEW | 2 | 0 | 2 new (not matching) |
+| 2026-05-05 | 15:58 | Datadog | 🎯 MATCH | 1 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Commerce.com (BigCommerce) | 🎯 MATCH | 2 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Paycom | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-05-05 | 15:58 | Fujitsu | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-05-05 | 15:58 | J.P. Morgan Chase | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-05-05 | 15:58 | Toyota | NEW | 11 | 0 | 11 new (not matching) |
+| 2026-05-05 | 15:58 | Barclays | 🎯 MATCH | 14 | 1 | 1 relevant found! |
+| 2026-05-05 | 15:58 | Amadeus | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
