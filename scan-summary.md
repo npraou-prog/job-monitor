@@ -1,60 +1,63 @@
-# Job Scan Summary - 2026-05-05
+# Job Scan Summary - 2026-05-06
 
-**New jobs today:** 234
-**Relevant new jobs:** 26
+**New jobs today:** 313
+**Relevant new jobs:** 29
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Engineer/340934)
-  • [Mission Critical Asset Financial Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Critical-Asset-Financial-Analyst/340902)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Technical Product Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Technical-Product-Analyst/341129)
+  • [SAP Functional Sales and Distribution Analyst Solution Specialist](https://apply.deloitte.com/en_US/careers/JobDetail/SAP-Functional-Sales-and-Distribution-Analyst-Solution-Specialist/341127)
+  • [Momentum ERP Functional O2C Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Momentum-ERP-Functional-O2C-Analyst/341076)
+  • [Strategic Business Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Strategic-Business-Analyst/341060)
+  • [AI Change Management Senior Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Change-Management-Senior-Analyst/340998)
 
 🎯 **Cisco** - 1 relevant new jobs:
-  • [Business Process Analyst, Account Management](https://careers.cisco.com/global/en/job/2013735/Business-Process-Analyst-Account-Management)
+  • [Leader, Machine Learning Engineering](https://careers.cisco.com/global/en/job/2013904/Leader-Machine-Learning-Engineering)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Vice President Data Science](https://jobs.fidelity.com/en/jobs/2126137/vice-president-data-science/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2126128/senior-systems-analyst/)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Portfolio Analyst](https://jobs.fidelity.com/en/jobs/2128925/portfolio-analyst/)
+  • [Director Aiml And Data Architecture](https://jobs.fidelity.com/en/jobs/2127738/director-aiml-and-data-architecture/)
+  • [Associate Analyst Brokerage Treasury Operations](https://jobs.fidelity.com/en/jobs/2128603/associate-analyst-brokerage-treasury-operations/)
 
-🎯 **Synopsys** - 1 relevant new jobs:
-  • [Insider Threat AnalystAustin, TexasCategory:EngineeringPosted:05/03/2026Job ID:17218](https://careers.synopsys.com/job/austin/insider-threat-analyst/44408/94719427488)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Payroll Tax Analyst](https://careers.chewy.com/us/en/job/R29532/Payroll-Tax-Analyst)
 
-🎯 **Meta** - 2 relevant new jobs:
-  • [AI Research Scientist - MSL FAIR Foundations](https://www.metacareers.com/profile/job_details/2341443469702506)
-  • [AI Research Scientist (Technical Leadership), Data Research - MSL FAIR](https://www.metacareers.com/profile/job_details/2065281677624998)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Display Research Scientist](https://www.metacareers.com/profile/job_details/1648277679627990)
 
 🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Systems Analyst Advisor – Encounters Implementation Support](https://careers.elevancehealth.com/systems-analyst-advisor-encounters-implementation-support/job/D2056CAF7919B7407B1405EB2EA4BD07)
+  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/5D953890E6E85E7EF4426CC86B1F52A1)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Business Insights Analyst - GM Fleet](https://search-careers.gm.com/en/jobs/jr-202609817/business-insights-analyst-gm-fleet/)
-  • [Global Security Finance & Contract Governance Analyst](https://search-careers.gm.com/en/jobs/jr-202609644/global-security-finance-contract-governance-analyst/)
-  • [Process Transformation Business Intelligence Data Analyst](https://search-careers.gm.com/en/jobs/jr-202609096/process-transformation-business-intelligence-data-analyst/)
-  • [Machine Learning Engineer, AI Inference Solutions (University Grad)](https://search-careers.gm.com/en/jobs/jr-202610103/machine-learning-engineer-ai-inference-solutions-university-grad/)
+🎯 **Gm** - 5 relevant new jobs:
+  • [Strategic Risk Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202609180/strategic-risk-senior-analyst/)
+  • [ASRS Inventory Analyst](https://search-careers.gm.com/en/jobs/jr-202609515/asrs-inventory-analyst/)
+  • [HR Operations Analyst](https://search-careers.gm.com/en/jobs/jr-202609525/hr-operations-analyst/)
+  • [Senior ML Engineer - Model Compression](https://search-careers.gm.com/en/jobs/jr-202604911/senior-ml-engineer-model-compression/)
+  • [Sr. Analyst, Strategy & Operations](https://search-careers.gm.com/en/jobs/jr-202608622/sr-analyst-strategy-operations/)
 
-🎯 **Intel** - 3 relevant new jobs:
-  • [Supply Chain Planning Analyst - Intel Contract Employee](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Supply-Chain-Planning-Analyst---Intel-Contract-Employee_JR0283561)
-  • [Yield Platform Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Yield-Platform-Analyst_JR0283263)
-  • [Revenue Operations Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Revenue-Operations-Analyst_JR0283638)
-
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549793610039?source=mscom)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797642601?source=mscom)
+  • [MSIM - Passport Equity Investment Analyst, VP](https://morganstanley.eightfold.ai/careers/job/549797638787?source=mscom)
 
 🎯 **Qualcomm** - 1 relevant new jobs:
-  • [Sr. Business Operations Analyst – Datacenter Business Unit](https://careers.qualcomm.com/careers/job/446718415459?domain=qualcomm.com)
+  • [Staff IT Business Operations Data and AI Analyst](https://careers.qualcomm.com/careers/job/446718428526?domain=qualcomm.com)
+
+🎯 **Ey** - 1 relevant new jobs:
+  • [Data Analyst-Tech Con-Data and Analytics-Data Arch and Eng-FSO-Manager-Multiple Positions-1707627](https://careers.ey.com/ey/job/Philadelphia-Data-Analyst-Tech-Con-Data-and-Analytics-Data-Arch-and-Eng-FSO-Manager-Multiple-Positions-1707627-PA-19103/1390595033/)
+
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Data Analyst & Master Data Coordinator](https://careers.gehealthcare.com/global/en/job/R4040463/Data-Analyst-Master-Data-Coordinator)
+
+🎯 **Walmart** - 1 relevant new jobs:
+  • [(USA) Distinguished, Data Scientist](https://careers.walmart.com/us/en/job/R-2479156)
 
 🎯 **Delta** - 1 relevant new jobs:
-  • [Delta Vacations, Revenue Analyst](https://delta.avature.net/en_US/careers/JobDetail/Delta-Vacations-Revenue-Analyst/30865?jobId=30865)
-
-🎯 **Datadog** - 1 relevant new jobs:
-  • [Staff Applied Scientist - Applied AI (NorAm)](https://boards.greenhouse.io/datadog/jobs/7513658)
-
-🎯 **Commerce** - 1 relevant new jobs:
-  • [Senior Financial Analyst](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Senior-Financial-Analyst_JR102632)
+  • [Analyst, Crew Operations](https://delta.avature.net/en_US/careers/JobDetail/Analyst-Crew-Operations/31639?jobId=31639)
 
 🎯 **Toyota** - 2 relevant new jobs:
-  • [VPP Accounting Projects, Initiatives, & Systems Sr. Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/VPP-Accounting-Projects--Initiatives----Systems-Sr-Analyst_10324254)
-  • [Sr. Analyst - BU Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---BU-Finance_10326161)
+  • [Threat and Exposure Management Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Threat-and-Exposure-Management-Analyst_10325058)
+  • [Senior Analyst - Analytics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Analytics_10302887-1)
 
 🎯 **Barclays** - 3 relevant new jobs:
-  • [Cost Finance Analyst](https://search.jobs.barclays/job/gurugram/cost-finance-analyst/13015/94700302576)
-  • [Finance Cost Analyst](https://search.jobs.barclays/job/noida/finance-cost-analyst/13015/94700302512)
-  • [Data Modeler & Business Analyst - Transaction Monitoring  - AVP](https://search.jobs.barclays/job/gurugram/data-modeler-and-business-analyst-transaction-monitoring-avp/13015/94727753008)
+  • [Financial Controller - Analyst](https://search.jobs.barclays/job/noida/financial-controller-analyst/13015/94739725952)
+  • [Stress Testing Analyst](https://search.jobs.barclays/job/chennai/stress-testing-analyst/13015/94766715776)
+  • [Analyst - Financial Control](https://search.jobs.barclays/job/gurugram/analyst-financial-control/13015/94766715568)
