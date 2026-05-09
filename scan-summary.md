@@ -1,7 +1,7 @@
 # Job Scan Summary - 2026-05-09
 
-**New jobs today:** 140
-**Relevant new jobs:** 20
+**New jobs today:** 1151
+**Relevant new jobs:** 141
 
 🎯 **Fidelity** - 1 relevant new jobs:
   • [Senior Analyst Fraud Response And Recovery](https://jobs.fidelity.com/en/jobs/2127679/senior-analyst-fraud-response-and-recovery/)
@@ -40,3 +40,10 @@
   • [Transaction Monitoring Business Analyst](https://search.jobs.barclays/job/whippany/transaction-monitoring-business-analyst/13015/90621177696)
   • [GCFS Credit Analyst Mumbai](https://search.jobs.barclays/job/mumbai/gcfs-credit-analyst-mumbai/13015/94778653104)
   • [Senior Analyst](https://search.jobs.barclays/job/gurugram/senior-analyst/13015/94856931008)
+
+🎯 **Apple** - 121 relevant new jobs:
+  • [Sr. / Staff ML Engineer, FM Training Integration - ML Compute](https://jobs.apple.com/en-us/details/200661658-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI)
+  • [Sr. Financial Analyst - AMR Geo Finance](https://jobs.apple.com/en-us/details/200658581-0836/sr-financial-analyst-amr-geo-finance?team=CORSV)
+  • [WW Sales Finance - Financial Analyst](https://jobs.apple.com/en-us/details/200661395-0670/ww-sales-finance-financial-analyst?team=CORSV)
+  • [WW Sales Finance - Financial Analyst](https://jobs.apple.com/en-us/details/200661395-0836/ww-sales-finance-financial-analyst?team=CORSV)
+  • [Machine Learning Engineer - Agentic AI](https://jobs.apple.com/en-us/details/200662397-3956/machine-learning-engineer-agentic-ai?team=MLAI)
