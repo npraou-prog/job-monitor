@@ -2798,6 +2798,372 @@ def fetch_fujitsu_jobs(base_url, db, company_id):
 
 
 # =============================================================================
+# RIVIAN FETCHER (JSON API - no Playwright needed)
+# =============================================================================
+def fetch_rivian_jobs(base_url, db, company_id):
+    """Fetch Rivian jobs via their public JSON API."""
+    jobs = db["companies"].get(company_id, {})
+    api_url = "https://careers.rivian.com/api/jobs"
+    limit = 100
+    offset = 0
+    new_found = 0
+
+    print("Fetching from Rivian JSON API...", flush=True)
+
+    while True:
+        try:
+            resp = SESSION.get(
+                api_url,
+                params={"limit": limit, "offset": offset, "tags1": "Full Time"},
+                timeout=30
+            )
+            data = resp.json()
+            job_list = data.get("jobs", [])
+            total = data.get("totalCount", 0)
+
+            if not job_list:
+                break
+
+            print(f"  Offset {offset}: {len(job_list)} jobs (total: {total})", flush=True)
+
+            for job in job_list:
+                req_id = str(job.get("req_id", ""))
+                title = job.get("title", "")
+                job_url = job.get("apply_url") or f"https://us-careers-rivian.icims.com/jobs/{req_id}/login"
+
+                if req_id and req_id not in jobs:
+                    restrictions = detect_restrictions(title)
+                    jobs[req_id] = {
+                        "id": req_id,
+                        "title": title,
+                        "url": job_url,
+                        "firstSeen": datetime.now().isoformat(),
+                        "restrictions": restrictions
+                    }
+                    new_found += 1
+
+            offset += limit
+            if offset >= total:
+                break
+
+            time.sleep(0.3)
+
+        except Exception as e:
+            print(f"  Error at offset {offset}: {e}", flush=True)
+            break
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# APPLE FETCHER (Playwright - JS rendered, paginated)
+# =============================================================================
+def fetch_apple_jobs(base_url, db, company_id):
+    """Fetch Apple jobs using Playwright with page-based pagination."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        new_found = 0
+        page_num = 1
+        max_pages = 50
+        no_change_rounds = 0
+        last_job_count = 0
+
+        while page_num <= max_pages:
+            sep = "&" if "?" in base_url else "?"
+            url = f"{base_url}{sep}page={page_num}" if page_num > 1 else base_url
+            print(f"  Page {page_num}...", flush=True)
+
+            try:
+                page.goto(url, wait_until='networkidle', timeout=60000)
+                page.wait_for_timeout(2000)
+
+                # Apple job detail links: /en-us/details/{ID}-{SUFFIX}/{slug}
+                links = page.locator('a[href*="/en-us/details/"]').all()
+
+                for link in links:
+                    try:
+                        href = link.get_attribute('href') or ''
+                        title = link.inner_text().strip()
+
+                        job_id_match = re.search(r'/en-us/details/([\w-]+)/', href)
+                        if job_id_match and title and len(title) > 3:
+                            job_id = job_id_match.group(1)
+
+                            if job_id not in jobs:
+                                full_url = f"https://jobs.apple.com{href}" if not href.startswith('http') else href
+                                restrictions = detect_restrictions(title)
+                                jobs[job_id] = {
+                                    "id": job_id,
+                                    "title": title,
+                                    "url": full_url,
+                                    "firstSeen": datetime.now().isoformat(),
+                                    "restrictions": restrictions
+                                }
+                                new_found += 1
+                    except:
+                        continue
+
+                if len(jobs) == last_job_count:
+                    no_change_rounds += 1
+                    if no_change_rounds >= 3:
+                        print("  No new jobs for 3 pages, stopping", flush=True)
+                        break
+                else:
+                    no_change_rounds = 0
+                    last_job_count = len(jobs)
+
+                if page_num % 5 == 0:
+                    print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                    db["companies"][company_id] = jobs
+                    save_db(db)
+
+                page_num += 1
+
+            except Exception as e:
+                print(f"  Error page {page_num}: {e}", flush=True)
+                page_num += 1
+                continue
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# RHODA FETCHER (Ashby public posting API)
+# =============================================================================
+def fetch_rhoda_jobs(base_url, db, company_id):
+    """Fetch Rhoda AI jobs via Ashby public posting API."""
+    jobs = db["companies"].get(company_id, {})
+    new_found = 0
+    ashby_slug = "rhoda-ai"
+
+    print(f"Fetching from Ashby API (slug: {ashby_slug})...", flush=True)
+
+    cursor = None
+    while True:
+        try:
+            payload = {"boardIdentifier": ashby_slug}
+            if cursor:
+                payload["cursor"] = cursor
+
+            resp = SESSION.post(
+                "https://api.ashbyhq.com/posting-api/job-board.list",
+                json=payload,
+                timeout=30
+            )
+            data = resp.json()
+
+            if not data.get("success"):
+                print(f"  Ashby API error: {data}", flush=True)
+                break
+
+            job_list = data.get("results", [])
+            print(f"  Got {len(job_list)} jobs", flush=True)
+
+            for job in job_list:
+                job_id = job.get("id", "")
+                title = job.get("title", "")
+                job_url = job.get("jobPostingUrl", base_url)
+
+                if job_id and job_id not in jobs:
+                    restrictions = detect_restrictions(title)
+                    jobs[job_id] = {
+                        "id": job_id,
+                        "title": title,
+                        "url": job_url,
+                        "firstSeen": datetime.now().isoformat(),
+                        "restrictions": restrictions
+                    }
+                    new_found += 1
+
+            if data.get("moreDataAvailable"):
+                cursor = data.get("nextCursor")
+            else:
+                break
+
+        except Exception as e:
+            print(f"  Error: {e}", flush=True)
+            break
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# DYNA FETCHER (Playwright - Ashby-powered embed)
+# =============================================================================
+def fetch_dyna_jobs(base_url, db, company_id):
+    """Fetch Dyna jobs using Playwright (Ashby-powered career page)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=60000)
+        page.wait_for_timeout(6000)  # Extra wait for Ashby embed to fully render
+
+        new_found = 0
+
+        # Ashby embed produces links: jobs.ashbyhq.com/{slug}/{uuid}
+        links = page.locator('a[href*="ashbyhq.com"], a[href*="/job/"], a[href*="/jobs/"]').all()
+
+        for link in links:
+            try:
+                href = link.get_attribute('href') or ''
+                title = link.inner_text().strip()
+
+                # Ashby URL: jobs.ashbyhq.com/{slug}/{uuid}
+                job_id_match = re.search(r'ashbyhq\.com/[^/]+/([a-f0-9-]{36})', href)
+                if not job_id_match:
+                    job_id_match = re.search(r'/jobs?/([a-f0-9-]{8,})', href)
+
+                if job_id_match and title and len(title) > 3:
+                    job_id = job_id_match.group(1)
+
+                    if job_id not in jobs:
+                        full_url = href if href.startswith('http') else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
+                        restrictions = detect_restrictions(title)
+                        jobs[job_id] = {
+                            "id": job_id,
+                            "title": title,
+                            "url": full_url,
+                            "firstSeen": datetime.now().isoformat(),
+                            "restrictions": restrictions
+                        }
+                        new_found += 1
+            except:
+                continue
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
+# APTIV FETCHER (Playwright - Hawk Search JS rendered)
+# =============================================================================
+def fetch_aptiv_jobs(base_url, db, company_id):
+    """Fetch Aptiv jobs using Playwright (Hawk Search powered career page)."""
+    from playwright.sync_api import sync_playwright
+
+    jobs = db["companies"].get(company_id, {})
+
+    print("Launching browser...", flush=True)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        )
+        page = context.new_page()
+
+        print(f"Loading {base_url}...", flush=True)
+        page.goto(base_url, wait_until='networkidle', timeout=90000)
+        page.wait_for_timeout(5000)
+
+        new_found = 0
+        page_num = 0
+        max_pages = 50
+        last_job_count = 0
+        no_change_rounds = 0
+
+        while page_num < max_pages:
+            links = page.locator('a[href*="/jobs/"], a[href*="/open-positions/"]').all()
+
+            for link in links:
+                try:
+                    href = link.get_attribute('href') or ''
+                    title = link.inner_text().strip()
+
+                    # Aptiv job detail: /en/jobs/open-positions/{id} or /en/jobs/{id}
+                    job_id_match = re.search(r'/(?:open-positions|jobs)/([^/?#]{4,})', href)
+                    if job_id_match and title and len(title) > 3:
+                        job_id = job_id_match.group(1)
+
+                        # Skip generic nav segments
+                        if job_id in ('search', 'results', 'open-positions', 'all'):
+                            continue
+
+                        if job_id not in jobs:
+                            full_url = href if href.startswith('http') else f"https://www.aptiv.com{href}"
+                            restrictions = detect_restrictions(title)
+                            jobs[job_id] = {
+                                "id": job_id,
+                                "title": title,
+                                "url": full_url,
+                                "firstSeen": datetime.now().isoformat(),
+                                "restrictions": restrictions
+                            }
+                            new_found += 1
+                except:
+                    continue
+
+            page_num += 1
+
+            if page_num % 5 == 0:
+                print(f"  Page {page_num}: {len(jobs)} total, {new_found} new", flush=True)
+                db["companies"][company_id] = jobs
+                save_db(db)
+
+            if len(jobs) == last_job_count:
+                no_change_rounds += 1
+                if no_change_rounds >= 3:
+                    break
+            else:
+                no_change_rounds = 0
+                last_job_count = len(jobs)
+
+            try:
+                next_btn = page.locator('a[aria-label="Next"], button[aria-label="Next"], a:has-text("Next"), button:has-text("Next"), button:has-text("Load More")').first
+                if next_btn.count() > 0 and next_btn.is_visible():
+                    next_btn.click()
+                    page.wait_for_timeout(3000)
+                else:
+                    break
+            except:
+                break
+
+        browser.close()
+
+    db["companies"][company_id] = jobs
+    save_db(db)
+    print(f"Done: {len(jobs)} total jobs, {new_found} new", flush=True)
+    return jobs, new_found
+
+
+# =============================================================================
 # COMPANY ROUTER
 # =============================================================================
 FETCHERS = {
@@ -2832,6 +3198,11 @@ FETCHERS = {
     "toyota": fetch_toyota_jobs,
     "barclays": fetch_barclays_jobs,
     "amadeus": fetch_amadeus_jobs,
+    "rivian": fetch_rivian_jobs,
+    "apple": fetch_apple_jobs,
+    "rhoda": fetch_rhoda_jobs,
+    "dyna": fetch_dyna_jobs,
+    "aptiv": fetch_aptiv_jobs,
 }
 
 

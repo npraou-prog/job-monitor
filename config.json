@@ -274,6 +274,41 @@
       "url": "https://amadeus.wd3.myworkdayjobs.com/jobs",
       "referrers": ["Kushal"],
       "added": "2026-04-21"
+    },
+    {
+      "id": "rivian",
+      "name": "Rivian",
+      "url": "https://careers.rivian.com/careers-home/jobs?page=1&sortBy=relevance&tags1=Full%20Time",
+      "referrers": [],
+      "added": "2026-05-09"
+    },
+    {
+      "id": "dyna",
+      "name": "Dyna",
+      "url": "https://www.dyna.co/careers",
+      "referrers": [],
+      "added": "2026-05-09"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+      "referrers": [],
+      "added": "2026-05-09"
+    },
+    {
+      "id": "rhoda",
+      "name": "Rhoda",
+      "url": "https://www.rhoda.ai/careers",
+      "referrers": [],
+      "added": "2026-05-09"
+    },
+    {
+      "id": "aptiv",
+      "name": "Aptiv",
+      "url": "https://www.aptiv.com/en/jobs/search",
+      "referrers": [],
+      "added": "2026-05-09"
     }
   ]
 }
