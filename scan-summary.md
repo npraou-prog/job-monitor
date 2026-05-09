@@ -1,27 +1,42 @@
-# Job Scan Summary - 2026-05-08
+# Job Scan Summary - 2026-05-09
 
-**New jobs today:** 192
-**Relevant new jobs:** 9
+**New jobs today:** 140
+**Relevant new jobs:** 20
 
 🎯 **Fidelity** - 1 relevant new jobs:
-  • [Technical Research Analyst](https://jobs.fidelity.com/en/jobs/2128801/technical-research-analyst/)
+  • [Senior Analyst Fraud Response And Recovery](https://jobs.fidelity.com/en/jobs/2127679/senior-analyst-fraud-response-and-recovery/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Indirect Tax Analyst](https://careers.chewy.com/us/en/job/R29562/Indirect-Tax-Analyst)
+🎯 **Chewy** - 3 relevant new jobs:
+  • [Data Scientist III](https://careers.chewy.com/us/en/job/R29607/Data-Scientist-III)
+  • [Data Scientist II](https://careers.chewy.com/us/en/job/R29594/Data-Scientist-II)
+  • [Data Scientist III](https://careers.chewy.com/us/en/job/R29609/Data-Scientist-III)
 
 🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/E8AB3E174D4B1A8D99D41F9061426F72)
+  • [Financial Analyst Senior](https://careers.elevancehealth.com/financial-analyst-senior/job/27BF189298C032AE16DD84BAD79B6241)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Portfolio Management Analyst - Parametric](https://morganstanley.eightfold.ai/careers/job/549797638236?source=mscom)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Senior AI/ML Engineer](https://search-careers.gm.com/en/jobs/jr-202609267/senior-ai-ml-engineer/)
 
-🎯 **Delta** - 2 relevant new jobs:
-  • [Analyst, Domestic Revenue Management](https://delta.avature.net/en_US/careers/JobDetail/Analyst-Domestic-Revenue-Management/32490?jobId=32490)
-  • [Delta Vacations Technical Analyst Finance](https://delta.avature.net/en_US/careers/JobDetail/Delta-Vacations-Technical-Analyst-Finance/32500?jobId=32500)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797674576?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797639411?source=mscom)
+  • [MSIM- Next Level Fund- Investment - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549797665872?source=mscom)
 
-🎯 **Datadog** - 1 relevant new jobs:
-  • [Principal Analyst Relations Manager](https://boards.greenhouse.io/datadog/jobs/7905494)
+🎯 **Qualcomm** - 3 relevant new jobs:
+  • [Associate Data Scientist – Finance & Accounting Automation](https://careers.qualcomm.com/careers/job/446718437808?domain=qualcomm.com)
+  • [Engineering Ops Analyst](https://careers.qualcomm.com/careers/job/446718461093?domain=qualcomm.com)
+  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717808677?domain=qualcomm.com)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Senior Dealer Lending Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Dealer-Lending-Analyst_10312103)
-  • [Workforce Management Forecasting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Chandler-Arizona/Workforce-Management-Forecasting-Analyst_10303611)
+🎯 **Ey** - 1 relevant new jobs:
+  • [Data Analyst-Tech Con-Data & Analytics-Data Arch & Eng-FSO-Manager-Multiple Positions-1707768](https://careers.ey.com/ey/job/Hartford-Data-Analyst-Tech-Con-Data-&-Analytics-Data-Arch-&-Eng-FSO-Manager-Multiple-Positions-1707768-CT-06103/1391427833/)
+
+🎯 **Toyota** - 3 relevant new jobs:
+  • [Analyst - Corporate Accounting](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst---Corporate-Accounting_10327252)
+  • [Principal Data Scientist](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Principal-Data-Scientist_10326914)
+  • [Application Security Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Application-Security-Analyst_10325056)
+
+🎯 **Barclays** - 4 relevant new jobs:
+  • [Investment Banking Analyst, Technology](https://search.jobs.barclays/job/new-york/investment-banking-analyst-technology/13015/94869559840)
+  • [Transaction Monitoring Business Analyst](https://search.jobs.barclays/job/whippany/transaction-monitoring-business-analyst/13015/90621177696)
+  • [GCFS Credit Analyst Mumbai](https://search.jobs.barclays/job/mumbai/gcfs-credit-analyst-mumbai/13015/94778653104)
+  • [Senior Analyst](https://search.jobs.barclays/job/gurugram/senior-analyst/13015/94856931008)
