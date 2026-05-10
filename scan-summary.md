@@ -1,6 +1,6 @@
 # Job Scan Summary - 2026-05-10
 
-**New jobs today:** 1013
+**New jobs today:** 1025
 **Relevant new jobs:** 121
 
 🎯 **Apple** - 121 relevant new jobs:
