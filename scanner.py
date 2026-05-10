@@ -2412,6 +2412,12 @@ def _fetch_workday_api(api_url, job_base_url, db, company_id):
 
     try:
         resp = SESSION.post(api_url, json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""}, headers=headers, timeout=30)
+        if not resp.ok:
+            print(f"  API returned {resp.status_code} — site may be down or blocking requests", flush=True)
+            db["companies"][company_id] = jobs
+            save_db(db)
+            print(f"Done: {len(jobs)} total jobs, 0 new (site error)", flush=True)
+            return jobs, 0
         total = resp.json().get("total", 0)
     except Exception as e:
         print(f"  Could not get total: {e}", flush=True)
@@ -2827,6 +2833,7 @@ def fetch_rivian_jobs(base_url, db, company_id):
             print(f"  Offset {offset}: {len(job_list)} jobs (total: {total})", flush=True)
 
             for job in job_list:
+                job = job.get("data", job)  # API wraps each job under a "data" key
                 req_id = str(job.get("req_id", ""))
                 title = job.get("title", "")
                 job_url = job.get("apply_url") or f"https://us-careers-rivian.icims.com/jobs/{req_id}/login"
@@ -3010,60 +3017,51 @@ def fetch_rhoda_jobs(base_url, db, company_id):
 
 
 # =============================================================================
-# DYNA FETCHER (Playwright - Ashby-powered embed)
+# DYNA FETCHER (Supabase → Ashby API, no browser needed)
 # =============================================================================
 def fetch_dyna_jobs(base_url, db, company_id):
-    """Fetch Dyna jobs using Playwright (Ashby-powered career page)."""
-    from playwright.sync_api import sync_playwright
-
+    """Fetch Dyna jobs via their Supabase edge function that proxies Ashby."""
     jobs = db["companies"].get(company_id, {})
+    new_found = 0
 
-    print("Launching browser...", flush=True)
+    # Public anon key embedded in Dyna's frontend JS
+    anon_key = (
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+        ".eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjcnJsbGNuamxqZHV2dWZicWpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcwMjAyNzEsImV4cCI6MjA3MjU5NjI3MX0"
+        ".RCCtQRrWdBvZk30Izkvi_n33yD3L6m8ICCKZEZXAwPQ"
+    )
+    api_url = "https://dcrrllcnjljduvufbqjj.supabase.co/functions/v1/fetch-ashby-jobs"
+    headers = {
+        "Authorization": f"Bearer {anon_key}",
+        "apikey": anon_key,
+        "Content-Type": "application/json",
+    }
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        )
-        page = context.new_page()
+    print("Fetching from Dyna Supabase/Ashby API...", flush=True)
+    try:
+        resp = SESSION.post(api_url, json={}, headers=headers, timeout=30)
+        data = resp.json()
+        job_list = data.get("results", [])
+        print(f"  Got {len(job_list)} jobs", flush=True)
 
-        print(f"Loading {base_url}...", flush=True)
-        page.goto(base_url, wait_until='networkidle', timeout=60000)
-        page.wait_for_timeout(6000)  # Extra wait for Ashby embed to fully render
+        for job in job_list:
+            job_id = job.get("id", "")
+            title = job.get("title", "")
+            job_url = job.get("externalLink") or job.get("applyLink") or base_url
 
-        new_found = 0
+            if job_id and job_id not in jobs:
+                restrictions = detect_restrictions(title)
+                jobs[job_id] = {
+                    "id": job_id,
+                    "title": title,
+                    "url": job_url,
+                    "firstSeen": datetime.now().isoformat(),
+                    "restrictions": restrictions,
+                }
+                new_found += 1
 
-        # Ashby embed produces links: jobs.ashbyhq.com/{slug}/{uuid}
-        links = page.locator('a[href*="ashbyhq.com"], a[href*="/job/"], a[href*="/jobs/"]').all()
-
-        for link in links:
-            try:
-                href = link.get_attribute('href') or ''
-                title = link.inner_text().strip()
-
-                # Ashby URL: jobs.ashbyhq.com/{slug}/{uuid}
-                job_id_match = re.search(r'ashbyhq\.com/[^/]+/([a-f0-9-]{36})', href)
-                if not job_id_match:
-                    job_id_match = re.search(r'/jobs?/([a-f0-9-]{8,})', href)
-
-                if job_id_match and title and len(title) > 3:
-                    job_id = job_id_match.group(1)
-
-                    if job_id not in jobs:
-                        full_url = href if href.startswith('http') else f"{base_url.rstrip('/')}/{href.lstrip('/')}"
-                        restrictions = detect_restrictions(title)
-                        jobs[job_id] = {
-                            "id": job_id,
-                            "title": title,
-                            "url": full_url,
-                            "firstSeen": datetime.now().isoformat(),
-                            "restrictions": restrictions
-                        }
-                        new_found += 1
-            except:
-                continue
-
-        browser.close()
+    except Exception as e:
+        print(f"  Error: {e}", flush=True)
 
     db["companies"][company_id] = jobs
     save_db(db)
