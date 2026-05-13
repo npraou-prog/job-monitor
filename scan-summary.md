@@ -1,59 +1,39 @@
-# Job Scan Summary - 2026-05-12
+# Job Scan Summary - 2026-05-13
 
-**New jobs today:** 384
-**Relevant new jobs:** 31
+**New jobs today:** 270
+**Relevant new jobs:** 19
 
-🎯 **Cisco** - 3 relevant new jobs:
-  • [Sales Compensation Analyst (SPM Systems & Scrum Master)](https://careers.cisco.com/global/en/job/2013920/Sales-Compensation-Analyst-SPM-Systems-Scrum-Master)
-  • [AI/ML Engineer (Hybrid)](https://careers.cisco.com/global/en/job/2012654/AI-ML-Engineer-Hybrid)
-  • [Data Analyst](https://careers.cisco.com/global/en/job/2013255/Data-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Change Management Analyst](https://careers.cisco.com/global/en/job/2013118/Change-Management-Analyst)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Director Systems Analyst Security Master Pricing Engineering](https://jobs.fidelity.com/en/jobs/2128292/director-systems-analyst-security-master-pricing-engineering/)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2124471/senior-systems-analyst/)
+  • [Customer Protection Risk And Controls Analyst](https://jobs.fidelity.com/en/jobs/2128147/customer-protection-risk-and-controls-analyst/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Data Scientist II](https://careers.chewy.com/us/en/job/R29626/Data-Scientist-II)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/profile/job_details/1710381673750348)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/9F038D679E737313B98FDD9F132147A1)
-
-🎯 **Gm** - 4 relevant new jobs:
-  • [FP&A Consolidation – GPSC Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202610679/fp-a-consolidation-gpsc-finance-analyst/)
-  • [Senior Program Intelligence Analyst](https://search-careers.gm.com/en/jobs/jr-202610313/senior-program-intelligence-analyst/)
-  • [Data Analyst](https://search-careers.gm.com/en/jobs/jr-202610671/data-analyst/)
-  • [Senior Analyst, U.S. Retirement Benefits](https://search-careers.gm.com/en/jobs/jr-202610115/senior-analyst-u-s-retirement-benefits/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Data Scientist](https://search-careers.gm.com/en/jobs/jr-202610267/data-scientist/)
+  • [Principal AI/ML Engineer, AV ML Infra](https://search-careers.gm.com/en/jobs/jr-202610759/principal-ai-ml-engineer-av-ml-infra/)
 
 🎯 **Intel** - 1 relevant new jobs:
-  • [Data Scientist/Statistician](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist-Statistician_JR0283881)
+  • [Finance Data and Reporting Analyst (DARC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Finance-Data-and-Reporting-Analyst--DARC-_JR0283710)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797701053?source=mscom)
-  • [Real Estate Finance and Operations - Investment Management - Analyst](https://morganstanley.eightfold.ai/careers/job/549797704410?source=mscom)
-  • [AI Transformation & Change Management - Fund Services - Analyst](https://morganstanley.eightfold.ai/careers/job/549797702778?source=mscom)
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Senior Data Scientist - AI - Healthcare & Lifesciences](https://careers.ibm.com/careers/JobDetail?jobId=114614)
 
-🎯 **Qualcomm** - 4 relevant new jobs:
-  • [Staff, Business Operations Analyst](https://careers.qualcomm.com/careers/job/446718444772?domain=qualcomm.com)
-  • [Chipset Program Analyst, Sr.](https://careers.qualcomm.com/careers/job/446718423909?domain=qualcomm.com)
-  • [Financial Analyst Associate](https://careers.qualcomm.com/careers/job/446718444681?domain=qualcomm.com)
-  • [Machine Learning Compiler Engineer](https://careers.qualcomm.com/careers/job/446717346550?domain=qualcomm.com)
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Data Analyst - Product](https://careers.gehealthcare.com/global/en/job/R4041093/Data-Analyst-Product)
 
-🎯 **Gehealthcare** - 5 relevant new jobs:
-  • [Data Analyst & GenAI Specialist, Enterprise AI](https://careers.gehealthcare.com/global/en/job/R4040317/Data-Analyst-GenAI-Specialist-Enterprise-AI)
-  • [AI Engineer](https://careers.gehealthcare.com/global/en/job/R4040595/AI-Engineer)
-  • [SAP IT Business Analyst](https://careers.gehealthcare.com/global/en/job/R4040234/SAP-IT-Business-Analyst)
-  • [Lead Finance & Procurement Analyst](https://careers.gehealthcare.com/global/en/job/R4040685/Lead-Finance-Procurement-Analyst)
-  • [Software Subscription Business Analyst](https://careers.gehealthcare.com/global/en/job/R4040565/Software-Subscription-Business-Analyst)
+🎯 **Toyota** - 3 relevant new jobs:
+  • [Sr. Analyst, Business Unit Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Sr-Analyst--Business-Unit-Finance_10327315)
+  • [Employee Relations Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Employee-Relations-Analyst_10326538)
+  • [Employee Relations Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Employee-Relations-Analyst_10326151-1)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Senior Analyst, Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Finance_10324386)
-
-🎯 **Barclays** - 2 relevant new jobs:
-  • [Investment Operations Analyst 6 Month Secondment/Fixed Term Contract](https://search.jobs.barclays/job/glasgow/investment-operations-analyst-6-month-secondment-fixed-term-contract/13015/93944363856)
-  • [Vice President - Rates Options & Hybrids Desk Quantitative Analyst](https://search.jobs.barclays/job/singapore/vice-president-rates-options-and-hybrids-desk-quantitative-analyst/13015/94959202512)
-
-🎯 **Apple** - 5 relevant new jobs:
-  • [Senior Operations Financial Analyst](https://jobs.apple.com/en-us/details/200661944-0836/senior-operations-financial-analyst?team=OPMFG)
-  • [Asset Data Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR)
-  • [Asset Data Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200656698-2228/asset-data-analyst-infrastructure-services?team=SFTWR)
-  • [Camera Machine Learning Engineer - Camera Hardware](https://jobs.apple.com/en-us/details/200662281-3401/camera-machine-learning-engineer-camera-hardware?team=HRDWR)
-  • [Finance Data Scientist - Enablement](https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=MLAI)
+🎯 **Apple** - 7 relevant new jobs:
+  • [AIML - Sr Machine Learning Engineer, Data and ML Innovation](https://jobs.apple.com/en-us/details/200656802-3956/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI)
+  • [AIML - Staff ML Infrastructure Engineer, ML Platform & Technology - Pre-training Infrastructure](https://jobs.apple.com/en-us/details/200662426-3401/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure?team=MLAI)
+  • [Machine Learning Engineer - Health AIML](https://jobs.apple.com/en-us/details/200662966-0836/machine-learning-engineer-health-aiml?team=MLAI)
+  • [Generative AI Engineer - Camera Algorithms](https://jobs.apple.com/en-us/details/200662672-0836/generative-ai-engineer-camera-algorithms?team=HRDWR)
+  • [Applied AI Engineer](https://jobs.apple.com/en-us/details/200662171-0836/applied-ai-engineer?team=SLDEV)
