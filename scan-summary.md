@@ -1,39 +1,40 @@
-# Job Scan Summary - 2026-05-13
+# Job Scan Summary - 2026-05-14
 
-**New jobs today:** 270
-**Relevant new jobs:** 19
+**New jobs today:** 218
+**Relevant new jobs:** 20
 
 🎯 **Cisco** - 1 relevant new jobs:
-  • [Change Management Analyst](https://careers.cisco.com/global/en/job/2013118/Change-Management-Analyst)
+  • [Sr. AI Engineering Technical Program Manager - Hybrid](https://careers.cisco.com/global/en/job/2012673/Sr-AI-Engineering-Technical-Program-Manager-Hybrid)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2124471/senior-systems-analyst/)
-  • [Customer Protection Risk And Controls Analyst](https://jobs.fidelity.com/en/jobs/2128147/customer-protection-risk-and-controls-analyst/)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Senior High Yield Research Analyst](https://jobs.fidelity.com/en/jobs/2128987/senior-high-yield-research-analyst/)
+  • [Consultant Business Analyst Tax Exempt Market Tem](https://jobs.fidelity.com/en/jobs/2128836/consultant-business-analyst-tax-exempt-market-tem/)
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2127888/senior-systems-analyst/)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/profile/job_details/1710381673750348)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Senior Offensive Security & Exposure Management Analyst](https://careers.elevancehealth.com/senior-offensive-security-exposure-management-analyst/job/4F1B517CAA04C0E1E65DCC015764B5E4)
 
-🎯 **Gm** - 2 relevant new jobs:
-  • [Data Scientist](https://search-careers.gm.com/en/jobs/jr-202610267/data-scientist/)
-  • [Principal AI/ML Engineer, AV ML Infra](https://search-careers.gm.com/en/jobs/jr-202610759/principal-ai-ml-engineer-av-ml-infra/)
+🎯 **Gm** - 3 relevant new jobs:
+  • [FP&A Finance Systems Analyst](https://search-careers.gm.com/en/jobs/jr-202610225/fp-a-finance-systems-analyst/)
+  • [Travel and Expense CVO Spanish Bilingual Analyst](https://search-careers.gm.com/en/jobs/jr-202607643/travel-and-expense-cvo-spanish-bilingual-analyst/)
+  • [Sr. Systems Configurator, SAP Functional Analyst](https://search-careers.gm.com/en/jobs/jr-202609613/sr-systems-configurator-sap-functional-analyst/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Finance Data and Reporting Analyst (DARC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Finance-Data-and-Reporting-Analyst--DARC-_JR0283710)
+🎯 **Cocacola** - 1 relevant new jobs:
+  • [Process and Data Analyst](https://careers.coca-colacompany.com/job/23387748/process-and-data-analyst-atlanta-ga/)
 
-🎯 **Ibm** - 1 relevant new jobs:
-  • [Senior Data Scientist - AI - Healthcare & Lifesciences](https://careers.ibm.com/careers/JobDetail?jobId=114614)
+🎯 **Intel** - 3 relevant new jobs:
+  • [DCG Engineering Finance Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/DCG-Engineering-Finance-Analyst_JR0283746)
+  • [Data Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787)
+  • [Planning Capabilities Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Planning-Capabilities-Analyst_JR0283853)
 
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Data Analyst - Product](https://careers.gehealthcare.com/global/en/job/R4041093/Data-Analyst-Product)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Recruiting Systems Analyst](https://morganstanley.eightfold.ai/careers/job/549797699666?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797713192?source=mscom)
+  • [Corporate FP&A Forecasting & Strategic Transformation - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549797736318?source=mscom)
 
-🎯 **Toyota** - 3 relevant new jobs:
-  • [Sr. Analyst, Business Unit Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Sr-Analyst--Business-Unit-Finance_10327315)
-  • [Employee Relations Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Employee-Relations-Analyst_10326538)
-  • [Employee Relations Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Employee-Relations-Analyst_10326151-1)
-
-🎯 **Apple** - 7 relevant new jobs:
-  • [AIML - Sr Machine Learning Engineer, Data and ML Innovation](https://jobs.apple.com/en-us/details/200656802-3956/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI)
-  • [AIML - Staff ML Infrastructure Engineer, ML Platform & Technology - Pre-training Infrastructure](https://jobs.apple.com/en-us/details/200662426-3401/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure?team=MLAI)
-  • [Machine Learning Engineer - Health AIML](https://jobs.apple.com/en-us/details/200662966-0836/machine-learning-engineer-health-aiml?team=MLAI)
-  • [Generative AI Engineer - Camera Algorithms](https://jobs.apple.com/en-us/details/200662672-0836/generative-ai-engineer-camera-algorithms?team=HRDWR)
-  • [Applied AI Engineer](https://jobs.apple.com/en-us/details/200662171-0836/applied-ai-engineer?team=SLDEV)
+🎯 **Apple** - 5 relevant new jobs:
+  • [Senior Data Scientist, Marketing Analytics](https://jobs.apple.com/en-us/details/200661963-0836/senior-data-scientist-marketing-analytics?team=OPMFG)
+  • [Machine Learning Architect - Conversational Speech](https://jobs.apple.com/en-us/details/200653966-0836/machine-learning-architect-conversational-speech?team=MLAI)
+  • [Machine Learning Data Engineer](https://jobs.apple.com/en-us/details/200662925-0836/machine-learning-data-engineer?team=HRDWR)
+  • [Senior Search Machine Learning Engineer](https://jobs.apple.com/en-us/details/200661664-0836/senior-search-machine-learning-engineer?team=MLAI)
+  • [Sr. / Staff ML Engineer, FM Training Integration - ML Compute](https://jobs.apple.com/en-us/details/200663109-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI)
