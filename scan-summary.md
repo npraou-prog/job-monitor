@@ -1,40 +1,51 @@
-# Job Scan Summary - 2026-05-14
+# Job Scan Summary - 2026-05-15
 
-**New jobs today:** 218
-**Relevant new jobs:** 20
+**New jobs today:** 260
+**Relevant new jobs:** 41
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Sr. AI Engineering Technical Program Manager - Hybrid](https://careers.cisco.com/global/en/job/2012673/Sr-AI-Engineering-Technical-Program-Manager-Hybrid)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Associate Data Scientist](https://jobs.fidelity.com/en/jobs/2128581/associate-data-scientist/)
+  • [Analyst Market Risk](https://jobs.fidelity.com/en/jobs/2128375/analyst-market-risk/)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Senior High Yield Research Analyst](https://jobs.fidelity.com/en/jobs/2128987/senior-high-yield-research-analyst/)
-  • [Consultant Business Analyst Tax Exempt Market Tem](https://jobs.fidelity.com/en/jobs/2128836/consultant-business-analyst-tax-exempt-market-tem/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2127888/senior-systems-analyst/)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Incident Response Team Analyst (Law Enforcement-Physical Security), EMEA](https://www.metacareers.com/profile/job_details/1588959265536164)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Senior Offensive Security & Exposure Management Analyst](https://careers.elevancehealth.com/senior-offensive-security-exposure-management-analyst/job/4F1B517CAA04C0E1E65DCC015764B5E4)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/B70BAF8CF7D52C63F405824E26FAE394)
+  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/1CA780757DC2481C8CF8B879DFD14F50)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [FP&A Finance Systems Analyst](https://search-careers.gm.com/en/jobs/jr-202610225/fp-a-finance-systems-analyst/)
-  • [Travel and Expense CVO Spanish Bilingual Analyst](https://search-careers.gm.com/en/jobs/jr-202607643/travel-and-expense-cvo-spanish-bilingual-analyst/)
-  • [Sr. Systems Configurator, SAP Functional Analyst](https://search-careers.gm.com/en/jobs/jr-202609613/sr-systems-configurator-sap-functional-analyst/)
-
-🎯 **Cocacola** - 1 relevant new jobs:
-  • [Process and Data Analyst](https://careers.coca-colacompany.com/job/23387748/process-and-data-analyst-atlanta-ga/)
-
-🎯 **Intel** - 3 relevant new jobs:
-  • [DCG Engineering Finance Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/DCG-Engineering-Finance-Analyst_JR0283746)
-  • [Data Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0283787)
-  • [Planning Capabilities Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Planning-Capabilities-Analyst_JR0283853)
+🎯 **Gm** - 6 relevant new jobs:
+  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609230/hr-services-call-handling-analyst/)
+  • [Financial Planning Analyst](https://search-careers.gm.com/en/jobs/jr-202609216/financial-planning-analyst/)
+  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609866/hr-services-call-handling-analyst/)
+  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609867/hr-services-call-handling-analyst/)
+  • [GBST Test Management CoE - Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202610298/gbst-test-management-coe-senior-analyst/)
 
 🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Recruiting Systems Analyst](https://morganstanley.eightfold.ai/careers/job/549797699666?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797713192?source=mscom)
-  • [Corporate FP&A Forecasting & Strategic Transformation - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549797736318?source=mscom)
+  • [SPG Repo Junior Trader - Fixed Income Division - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549796856551?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797752139?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797713538?source=mscom)
 
-🎯 **Apple** - 5 relevant new jobs:
-  • [Senior Data Scientist, Marketing Analytics](https://jobs.apple.com/en-us/details/200661963-0836/senior-data-scientist-marketing-analytics?team=OPMFG)
-  • [Machine Learning Architect - Conversational Speech](https://jobs.apple.com/en-us/details/200653966-0836/machine-learning-architect-conversational-speech?team=MLAI)
-  • [Machine Learning Data Engineer](https://jobs.apple.com/en-us/details/200662925-0836/machine-learning-data-engineer?team=HRDWR)
-  • [Senior Search Machine Learning Engineer](https://jobs.apple.com/en-us/details/200661664-0836/senior-search-machine-learning-engineer?team=MLAI)
-  • [Sr. / Staff ML Engineer, FM Training Integration - ML Compute](https://jobs.apple.com/en-us/details/200663109-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI)
+🎯 **Qualcomm** - 5 relevant new jobs:
+  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717808672?domain=qualcomm.com)
+  • [AI / Machine Learning Researcher, Principal Engineer Level (AI Research San Diego)](https://careers.qualcomm.com/careers/job/446718544119?domain=qualcomm.com)
+  • [Financial Analyst, Senior– Pricing & Commercial Analytics (Datacenter BU)](https://careers.qualcomm.com/careers/job/446717374403?domain=qualcomm.com)
+  • [Modem Machine Learning Engineer](https://careers.qualcomm.com/careers/job/446718488995?domain=qualcomm.com)
+  • [Staff Project Analyst](https://careers.qualcomm.com/careers/job/446718506739?domain=qualcomm.com)
+
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Senior Data Scientist](https://careers.gehealthcare.com/global/en/job/R4041233/Senior-Data-Scientist)
+
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Dealer Training Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Dealer-Training-Analyst_10325440-1)
+
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Investment Banking Debt Capital Markets - Analyst](https://search.jobs.barclays/job/tokyo/investment-banking-debt-capital-markets-analyst/13015/95119669152)
+  • [Transaction Monitoring Analyst - CB](https://search.jobs.barclays/job/chennai/transaction-monitoring-analyst-cb/13015/95119666800)
+
+🎯 **Apple** - 18 relevant new jobs:
+  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-0670/marketing-insights-analyst-us-apple-ads?team=SLDEV)
+  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-0836/marketing-insights-analyst-us-apple-ads?team=SLDEV)
+  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-2459/marketing-insights-analyst-us-apple-ads?team=SLDEV)
+  • [Sr. Financial Analyst - AppleCare Finance](https://jobs.apple.com/en-us/details/200662140-3956/sr-financial-analyst-applecare-finance?team=CORSV)
+  • [AMP Disbursements Operations Analyst](https://jobs.apple.com/en-us/details/200662005-0157/amp-disbursements-operations-analyst?team=CORSV)
