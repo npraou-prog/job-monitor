@@ -1,51 +1,35 @@
-# Job Scan Summary - 2026-05-15
+# Job Scan Summary - 2026-05-16
 
-**New jobs today:** 260
-**Relevant new jobs:** 41
+**New jobs today:** 135
+**Relevant new jobs:** 15
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Associate Data Scientist](https://jobs.fidelity.com/en/jobs/2128581/associate-data-scientist/)
-  • [Analyst Market Risk](https://jobs.fidelity.com/en/jobs/2128375/analyst-market-risk/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Business Analyst](https://jobs.fidelity.com/en/jobs/2128373/business-analyst/)
+
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Senior Financial Analyst](https://careers.chewy.com/us/en/job/R29679/Senior-Financial-Analyst)
 
 🎯 **Meta** - 1 relevant new jobs:
-  • [Incident Response Team Analyst (Law Enforcement-Physical Security), EMEA](https://www.metacareers.com/profile/job_details/1588959265536164)
+  • [AI Research Scientist, CoreML - Monetization](https://www.metacareers.com/profile/job_details/1865758441490305)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/B70BAF8CF7D52C63F405824E26FAE394)
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/1CA780757DC2481C8CF8B879DFD14F50)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [M&A Analyst Senior](https://careers.elevancehealth.com/m-a-analyst-senior/job/801F2BC33BAAC1627B5148D50E37716A)
 
-🎯 **Gm** - 6 relevant new jobs:
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609230/hr-services-call-handling-analyst/)
-  • [Financial Planning Analyst](https://search-careers.gm.com/en/jobs/jr-202609216/financial-planning-analyst/)
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609866/hr-services-call-handling-analyst/)
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202609867/hr-services-call-handling-analyst/)
-  • [GBST Test Management CoE - Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202610298/gbst-test-management-coe-senior-analyst/)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Business Intelligence Data Analyst - GPSC](https://search-careers.gm.com/en/jobs/jr-202610962/business-intelligence-data-analyst-gpsc/)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [SPG Repo Junior Trader - Fixed Income Division - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549796856551?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797752139?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797713538?source=mscom)
-
-🎯 **Qualcomm** - 5 relevant new jobs:
-  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446717808672?domain=qualcomm.com)
-  • [AI / Machine Learning Researcher, Principal Engineer Level (AI Research San Diego)](https://careers.qualcomm.com/careers/job/446718544119?domain=qualcomm.com)
-  • [Financial Analyst, Senior– Pricing & Commercial Analytics (Datacenter BU)](https://careers.qualcomm.com/careers/job/446717374403?domain=qualcomm.com)
-  • [Modem Machine Learning Engineer](https://careers.qualcomm.com/careers/job/446718488995?domain=qualcomm.com)
-  • [Staff Project Analyst](https://careers.qualcomm.com/careers/job/446718506739?domain=qualcomm.com)
-
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Senior Data Scientist](https://careers.gehealthcare.com/global/en/job/R4041233/Senior-Data-Scientist)
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Associate Data Scientist 2026 - Artificial Intelligence](https://careers.ibm.com/careers/JobDetail?jobId=55957)
 
 🎯 **Toyota** - 1 relevant new jobs:
-  • [Dealer Training Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Dealer-Training-Analyst_10325440-1)
+  • [Senior Business Analyst – Dealer Experience](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Business-Analyst---Dealer-Experience_10324504)
 
-🎯 **Barclays** - 2 relevant new jobs:
-  • [Investment Banking Debt Capital Markets - Analyst](https://search.jobs.barclays/job/tokyo/investment-banking-debt-capital-markets-analyst/13015/95119669152)
-  • [Transaction Monitoring Analyst - CB](https://search.jobs.barclays/job/chennai/transaction-monitoring-analyst-cb/13015/95119666800)
+🎯 **Barclays** - 1 relevant new jobs:
+  • [Analyst - Product Control](https://search.jobs.barclays/job/pune/analyst-product-control/13015/95132413280)
 
-🎯 **Apple** - 18 relevant new jobs:
-  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-0670/marketing-insights-analyst-us-apple-ads?team=SLDEV)
-  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-0836/marketing-insights-analyst-us-apple-ads?team=SLDEV)
-  • [Marketing Insights Analyst — US, Apple Ads](https://jobs.apple.com/en-us/details/200663553-2459/marketing-insights-analyst-us-apple-ads?team=SLDEV)
-  • [Sr. Financial Analyst - AppleCare Finance](https://jobs.apple.com/en-us/details/200662140-3956/sr-financial-analyst-applecare-finance?team=CORSV)
-  • [AMP Disbursements Operations Analyst](https://jobs.apple.com/en-us/details/200662005-0157/amp-disbursements-operations-analyst?team=CORSV)
+🎯 **Apple** - 7 relevant new jobs:
+  • [Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech](https://jobs.apple.com/en-us/details/200628190-0836/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=MLAI)
+  • [Sr. Machine Learning Research Engineer, Siri Speech](https://jobs.apple.com/en-us/details/200663638-0836/sr-machine-learning-research-engineer-siri-speech?team=MLAI)
+  • [Finance Analyst, Apple Gift Card, Services Finance](https://jobs.apple.com/en-us/details/200651101-0836/finance-analyst-apple-gift-card-services-finance?team=MKTG)
+  • [Data Scientist](https://jobs.apple.com/en-us/details/200663649-3956/data-scientist?team=HRDWR)
+  • [AIML - Machine Learning Researcher, MLR](https://jobs.apple.com/en-us/details/200660327-1242/aiml-machine-learning-researcher-mlr?team=MLAI)
