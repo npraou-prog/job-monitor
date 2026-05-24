@@ -1,17 +1,10 @@
-# Job Scan Summary - 2026-05-23
+# Job Scan Summary - 2026-05-24
 
-**New jobs today:** 100
-**Relevant new jobs:** 7
-
-🎯 **Chewy** - 1 relevant new jobs:
-  • [AD, Data Science](https://careers.chewy.com/us/en/job/R29785/AD-Data-Science)
+**New jobs today:** 30
+**Relevant new jobs:** 2
 
 🎯 **Gm** - 1 relevant new jobs:
-  • [Senior Financial Analyst – AI Reporting](https://search-careers.gm.com/en/jobs/jr-202610778/senior-financial-analyst-ai-reporting/)
+  • [Job Posting Title Plant IT Manager - Site Support Analyst](https://search-careers.gm.com/en/jobs/jr-202610590/job-posting-title-plant-it-manager-site-support-analyst/)
 
-🎯 **Barclays** - 5 relevant new jobs:
-  • [KYC Senior Analyst](https://search.jobs.barclays/job/chennai/kyc-senior-analyst/13015/95424182560)
-  • [Product Analyst](https://search.jobs.barclays/job/whippany/product-analyst/13015/95424182528)
-  • [Data Analyst, AVP](https://search.jobs.barclays/job/whippany/data-analyst-avp/13015/95424182480)
-  • [KYC Processing Analyst](https://search.jobs.barclays/job/noida/kyc-processing-analyst/13015/95424176896)
-  • [Analyst](https://search.jobs.barclays/job/pune/analyst/13015/95424176464)
+🎯 **Barclays** - 1 relevant new jobs:
+  • [Cyber Operations Analyst](https://search.jobs.barclays/job/pune/cyber-operations-analyst/13015/93156161008)
