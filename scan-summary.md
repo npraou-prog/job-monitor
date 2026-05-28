@@ -1,49 +1,58 @@
-# Job Scan Summary - 2026-05-27
+# Job Scan Summary - 2026-05-28
 
-**New jobs today:** 457
-**Relevant new jobs:** 37
+**New jobs today:** 466
+**Relevant new jobs:** 45
 
-🎯 **Deloitte** - 15 relevant new jobs:
-  • [AI and Data Science Engineer (TS/SCI Poly)](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-TS-SCI-Poly/352681)
-  • [Epic Patient Access Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Patient-Access-Analyst/352673)
-  • [Palantir AI and Data Science Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/352664)
-  • [Project Senior Consultant- PMO Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Senior-Consultant-PMO-Analyst/352630)
-  • [Consultant, Momentum Application Security Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Momentum-Application-Security-Analyst/352614)
+🎯 **Deloitte** - 10 relevant new jobs:
+  • [Data Product Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Product-Analyst/353324)
+  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/352997)
+  • [QA Engineer/ QA Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/QA-Engineer-QA-Analyst/352990)
+  • [Project Consultant, Senior Transportation Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Senior-Transportation-Analyst/352986)
+  • [Project Consultant- Business Operations Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Business-Operations-Analyst/352960)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Client Operations Delivery Analyst](https://careers.cisco.com/global/en/job/2013000/Client-Operations-Delivery-Analyst)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Principal Machine Learning Engineer](https://careers.cisco.com/global/en/job/2015058/Principal-Machine-Learning-Engineer)
+  • [Business Analyst](https://careers.cisco.com/global/en/job/2013474/Business-Analyst)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Lead Analyst Financial Crimes Digital Asset Surveillance](https://jobs.fidelity.com/en/jobs/2129482/lead-analyst-financial-crimes-digital-asset-surveillance/)
-  • [Associate Analyst Brokerage Treasury Operations](https://jobs.fidelity.com/en/jobs/2129459/associate-analyst-brokerage-treasury-operations/)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Senior Cyber Remediation Analyst](https://jobs.fidelity.com/en/jobs/2127737/senior-cyber-remediation-analyst/)
+  • [Senior Integration Test Analyst](https://jobs.fidelity.com/en/jobs/2129575/senior-integration-test-analyst/)
+  • [Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2128832/analyst-brokerage-operations/)
+  • [Equity Research Analyst](https://jobs.fidelity.com/en/jobs/2129929/equity-research-analyst/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [AI Solutions Financial Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/AI-Solutions-Financial-Analyst_JR0284268)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Direct Tax Analyst](https://careers.chewy.com/us/en/job/R29799/Direct-Tax-Analyst)
 
-🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797889297?source=mscom)
-  • [Private Wealth Management Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797859198?source=mscom)
+🎯 **Meta** - 1 relevant new jobs:
+  • [AI Research Scientist, CoreML - Monetization AI](https://www.metacareers.com/profile/job_details/1380974339703907)
 
-🎯 **Qualcomm** - 5 relevant new jobs:
-  • [Modem Machine Learning Engineer](https://careers.qualcomm.com/careers/job/446718576791?domain=qualcomm.com)
-  • [AI Engineering Operations Analyst](https://careers.qualcomm.com/careers/job/446718591431?domain=qualcomm.com)
-  • [Engineering Ops Analyst, Senior](https://careers.qualcomm.com/careers/job/446718643847?domain=qualcomm.com)
-  • [Financial Analyst, Staff](https://careers.qualcomm.com/careers/job/446718436591?domain=qualcomm.com)
-  • [Systems Analyst, Senior](https://careers.qualcomm.com/careers/job/446718578325?domain=qualcomm.com)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/AD6D9D2F7018D4728B53443C573D6443)
 
-🎯 **Gehealthcare** - 2 relevant new jobs:
-  • [Senior Data Scientist](https://careers.gehealthcare.com/global/en/job/R4041609/Senior-Data-Scientist)
-  • [Senior Data Scientist](https://careers.gehealthcare.com/global/en/job/R4041613/Senior-Data-Scientist)
+🎯 **Gm** - 3 relevant new jobs:
+  • [GBS Transformation - Order to Deliver - Retail Billing, Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202611296/gbs-transformation-order-to-deliver-retail-billing-senior-analyst/)
+  • [Global Security Finance & Contract Governance Analyst](https://search-careers.gm.com/en/jobs/jr-202611816/global-security-finance-contract-governance-analyst/)
+  • [Business Management Data Analyst](https://search-careers.gm.com/en/jobs/jr-202611572/business-management-data-analyst/)
 
-🎯 **Delta** - 1 relevant new jobs:
-  • [Co-op, Crew Resources - Data Analyst (Fall 2026)](https://delta.avature.net/en_US/careers/JobDetail/Co-op-Crew-Resources-Data-Analyst-Fall-2026/32480?jobId=32480)
+🎯 **Intel** - 2 relevant new jobs:
+  • [Neuromorphic/AI Research Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193)
+  • [Engineering Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Engineering-Planning-Analyst_JR0284314-1)
+
+🎯 **Morganstanley** - 4 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797918455?source=mscom)
+  • [Institutional Consulting Analyst](https://morganstanley.eightfold.ai/careers/job/549797900767?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797900904?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797900740?source=mscom)
+
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Senior Analyst, Supply Chain](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Supply-Chain_10328456)
 
 🎯 **Barclays** - 1 relevant new jobs:
-  • [Senior Analyst](https://search.jobs.barclays/job/pune/senior-analyst/13015/95633305728)
+  • [Senior Analyst](https://search.jobs.barclays/job/chennai/senior-analyst/13015/95340091904)
 
-🎯 **Apple** - 7 relevant new jobs:
-  • [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-0836/aiml-researcher-engineer-foundation-model-post-training?team=MLAI)
-  • [AIML Researcher/Engineer - Foundation Model Post-Training](https://jobs.apple.com/en-us/details/200662944-2459/aiml-researcher-engineer-foundation-model-post-training?team=MLAI)
-  • [Sr Staff Machine Learning Engineer, ML Platform](https://jobs.apple.com/en-us/details/200641072-0836/sr-staff-machine-learning-engineer-ml-platform?team=MLAI)
-  • [Sr Staff Machine Learning Engineer, ML Platform](https://jobs.apple.com/en-us/details/200641072-2459/sr-staff-machine-learning-engineer-ml-platform?team=MLAI)
-  • [Computer Vision and Machine Learning Engineer, Creativity Apps](https://jobs.apple.com/en-us/details/200661630-0836/computer-vision-and-machine-learning-engineer-creativity-apps?team=SFTWR)
+🎯 **Apple** - 15 relevant new jobs:
+  • [Principal Engineer, Search and AI Infrastructure, Machine Learning Platform & Infrastructure](https://jobs.apple.com/en-us/details/200645636-3401/principal-engineer-search-and-ai-infrastructure-machine-learning-platform-infrastructure?team=MLAI)
+  • [Principal Engineer, Search and AI Infrastructure, Machine Learning Platform & Infrastructure](https://jobs.apple.com/en-us/details/200645636-3337/principal-engineer-search-and-ai-infrastructure-machine-learning-platform-infrastructure?team=MLAI)
+  • [Financial Analyst](https://jobs.apple.com/en-us/details/200664660-0836/financial-analyst?team=CORSV)
+  • [Financial Analyst](https://jobs.apple.com/en-us/details/200664658-0836/financial-analyst?team=CORSV)
+  • [WW RCC Data Scientist](https://jobs.apple.com/en-us/details/200665575-0836/ww-rcc-data-scientist?team=CORSV)
