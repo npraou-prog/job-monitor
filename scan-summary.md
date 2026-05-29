@@ -1,58 +1,59 @@
-# Job Scan Summary - 2026-05-28
+# Job Scan Summary - 2026-05-29
 
-**New jobs today:** 466
-**Relevant new jobs:** 45
+**New jobs today:** 351
+**Relevant new jobs:** 37
 
-🎯 **Deloitte** - 10 relevant new jobs:
-  • [Data Product Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Product-Analyst/353324)
-  • [Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/352997)
-  • [QA Engineer/ QA Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/QA-Engineer-QA-Analyst/352990)
-  • [Project Consultant, Senior Transportation Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Senior-Transportation-Analyst/352986)
-  • [Project Consultant- Business Operations Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Business-Operations-Analyst/352960)
+🎯 **Deloitte** - 8 relevant new jobs:
+  • [Financial Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Financial-Analyst/353836)
+  • [Sr Data Scientist (Healthcare & Medicaid)](https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Data-Scientist-Healthcare-Medicaid/353805)
+  • [Project Analyst, Oracle AMS Talent Module](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-Oracle-AMS-Talent-Module/353804)
+  • [Senior GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-GenAI-Engineer/353740)
+  • [Manager, GenAI Engineering](https://apply.deloitte.com/en_US/careers/JobDetail/Manager-GenAI-Engineering/353738)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Principal Machine Learning Engineer](https://careers.cisco.com/global/en/job/2015058/Principal-Machine-Learning-Engineer)
-  • [Business Analyst](https://careers.cisco.com/global/en/job/2013474/Business-Analyst)
-
-🎯 **Fidelity** - 4 relevant new jobs:
-  • [Senior Cyber Remediation Analyst](https://jobs.fidelity.com/en/jobs/2127737/senior-cyber-remediation-analyst/)
-  • [Senior Integration Test Analyst](https://jobs.fidelity.com/en/jobs/2129575/senior-integration-test-analyst/)
-  • [Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2128832/analyst-brokerage-operations/)
-  • [Equity Research Analyst](https://jobs.fidelity.com/en/jobs/2129929/equity-research-analyst/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Senior Financial Analyst](https://jobs.fidelity.com/en/jobs/2129783/senior-financial-analyst/)
 
 🎯 **Chewy** - 1 relevant new jobs:
-  • [Direct Tax Analyst](https://careers.chewy.com/us/en/job/R29799/Direct-Tax-Analyst)
+  • [Senior Financial Analyst](https://careers.chewy.com/us/en/job/R29816/Senior-Financial-Analyst)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [AI Research Scientist, CoreML - Monetization AI](https://www.metacareers.com/profile/job_details/1380974339703907)
+🎯 **Meta** - 2 relevant new jobs:
+  • [Research Scientist, HW/SW Co-Design (PhD)](https://www.metacareers.com/profile/job_details/1021697744059939)
+  • [Research Scientist, Post-Training (Tech Leadership)- Meta Superintelligence Labs](https://www.metacareers.com/profile/job_details/1721047739073639)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/AD6D9D2F7018D4728B53443C573D6443)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/AB73CA1DC50B077B27A05CFE33BCB7DD)
+  • [Investment Analyst](https://careers.elevancehealth.com/investment-analyst/job/76FAD6BF35B804F8DC0C768EB56AABB1)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [GBS Transformation - Order to Deliver - Retail Billing, Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202611296/gbs-transformation-order-to-deliver-retail-billing-senior-analyst/)
-  • [Global Security Finance & Contract Governance Analyst](https://search-careers.gm.com/en/jobs/jr-202611816/global-security-finance-contract-governance-analyst/)
-  • [Business Management Data Analyst](https://search-careers.gm.com/en/jobs/jr-202611572/business-management-data-analyst/)
+🎯 **Gm** - 6 relevant new jobs:
+  • [SSM Global Ops CoE - Retail Innovation Reporting Analyst](https://search-careers.gm.com/en/jobs/jr-202611469/ssm-global-ops-coe-retail-innovation-reporting-analyst/)
+  • [Staff AI Engineer - SimAI Team](https://search-careers.gm.com/en/jobs/jr-202606052/staff-ai-engineer-simai-team/)
+  • [GMI FP&A Reporting - Senior Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202611195/gmi-fp-a-reporting-senior-financial-analyst/)
+  • [Senior Analyst, GMI FP&A - Short-term Reporting](https://search-careers.gm.com/en/jobs/jr-202611480/senior-analyst-gmi-fp-a-short-term-reporting/)
+  • [Sr. Business Analyst, Talent Acquisition](https://search-careers.gm.com/en/jobs/jr-202610437/sr-business-analyst-talent-acquisition/)
 
 🎯 **Intel** - 2 relevant new jobs:
-  • [Neuromorphic/AI Research Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193)
-  • [Engineering Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Engineering-Planning-Analyst_JR0284314-1)
+  • [Hardware DevOps/AI Engineer Fall 2026 Internship](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Hardware-DevOps-AI-Engineer_JR0283839)
+  • [Enterprise Systems Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Enterprise-Systems-Analyst_JR0284274-1)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797918455?source=mscom)
-  • [Institutional Consulting Analyst](https://morganstanley.eightfold.ai/careers/job/549797900767?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797900904?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797900740?source=mscom)
+🎯 **Morganstanley** - 5 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797628376?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797889249?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797922851?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549797930985?source=mscom)
+  • [Financial Planning Analyst](https://morganstanley.eightfold.ai/careers/job/549797900716?source=mscom)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Senior Analyst, Supply Chain](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Supply-Chain_10328456)
+🎯 **Qualcomm** - 1 relevant new jobs:
+  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446718055387?domain=qualcomm.com)
+
+🎯 **Datadog** - 1 relevant new jobs:
+  • [Staff Applied Scientist - Agentic Interfaces](https://boards.greenhouse.io/datadog/jobs/7964141)
 
 🎯 **Barclays** - 1 relevant new jobs:
-  • [Senior Analyst](https://search.jobs.barclays/job/chennai/senior-analyst/13015/95340091904)
+  • [Data Analyst](https://search.jobs.barclays/job/whippany/data-analyst/13015/95721255328)
 
-🎯 **Apple** - 15 relevant new jobs:
-  • [Principal Engineer, Search and AI Infrastructure, Machine Learning Platform & Infrastructure](https://jobs.apple.com/en-us/details/200645636-3401/principal-engineer-search-and-ai-infrastructure-machine-learning-platform-infrastructure?team=MLAI)
-  • [Principal Engineer, Search and AI Infrastructure, Machine Learning Platform & Infrastructure](https://jobs.apple.com/en-us/details/200645636-3337/principal-engineer-search-and-ai-infrastructure-machine-learning-platform-infrastructure?team=MLAI)
-  • [Financial Analyst](https://jobs.apple.com/en-us/details/200664660-0836/financial-analyst?team=CORSV)
-  • [Financial Analyst](https://jobs.apple.com/en-us/details/200664658-0836/financial-analyst?team=CORSV)
-  • [WW RCC Data Scientist](https://jobs.apple.com/en-us/details/200665575-0836/ww-rcc-data-scientist?team=CORSV)
+🎯 **Apple** - 7 relevant new jobs:
+  • [Content Strategy & Planning, Contribution Value Model Lead Analyst](https://jobs.apple.com/en-us/details/200650200-0670/content-strategy-planning-contribution-value-model-lead-analyst?team=CORSV)
+  • [AI Engineer - Multimodal Intelligence](https://jobs.apple.com/en-us/details/200665673-3956/ai-engineer-multimodal-intelligence?team=MLAI)
+  • [Data Scientist - Health AIML](https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI)
+  • [Machine Learning Engineer, Video Engineering](https://jobs.apple.com/en-us/details/200665577-3956/machine-learning-engineer-video-engineering?team=MLAI)
+  • [CVML Engineer - 3D Reconstruction](https://jobs.apple.com/en-us/details/200664830-3956/cvml-engineer-3d-reconstruction?team=MLAI)
