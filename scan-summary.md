@@ -1,50 +1,51 @@
-# Job Scan Summary - 2026-06-04
+# Job Scan Summary - 2026-06-05
 
-**New jobs today:** 286
+**New jobs today:** 292
 **Relevant new jobs:** 28
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Illicit Finance Intelligence Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Illicit-Finance-Intelligence-Analyst/354946)
-  • [Project Consultant, Cataloging and Provisioning Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Cataloging-and-Provisioning-Analyst/354755)
-  • [Data Scientist Engineer – SFL Scientific](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Engineer-SFL-Scientific/350764)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Sr. Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Data-Scientist/355015)
+  • [AI and Data Science Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III/354798)
 
-🎯 **Cisco** - 5 relevant new jobs:
-  • [Finance Analyst, Supporting Legal & Strategy (Hybrid)](https://careers.cisco.com/global/en/job/2015429/Finance-Analyst-Supporting-Legal-Strategy-Hybrid)
-  • [Client Operations Delivery Analyst](https://careers.cisco.com/global/en/job/2015262/Client-Operations-Delivery-Analyst)
-  • [Client Operations Delivery Analyst](https://careers.cisco.com/global/en/job/2015286/Client-Operations-Delivery-Analyst)
-  • [Client Operations Delivery Analyst](https://careers.cisco.com/global/en/job/2015295/Client-Operations-Delivery-Analyst)
-  • [Client Operations Delivery Analyst](https://careers.cisco.com/global/en/job/2015299/Client-Operations-Delivery-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2014188/Business-Operations-Analyst)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Associate Analyst Corporate Actions](https://jobs.fidelity.com/en/jobs/2129399/associate-analyst-corporate-actions/)
-  • [Sr Analyst Financial Crimes Surveillance](https://jobs.fidelity.com/en/jobs/2129520/sr-analyst-financial-crimes-surveillance/)
-  • [Finops Hw Project Analytics Business Analyst](https://jobs.fidelity.com/en/jobs/2128384/finops-hw-project-analytics-business-analyst/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Credit Risk Analyst](https://jobs.fidelity.com/en/jobs/2129828/credit-risk-analyst/)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Sr. Third Party Cybersecurity GRC Analyst](https://careers.elevancehealth.com/sr-third-party-cybersecurity-grc-analyst/job/7BE909D195C1A8BDC91AA8C64D95CCF2)
+🎯 **Cigna-Evernorth** - 1 relevant new jobs:
+  • [Technical Support Senior Analyst - Evernorth - Remote](https://jobs.thecignagroup.com/us/en/job/26006803/Technical-Support-Senior-Analyst-Evernorth-Remote)
+
+🎯 **Elevancehealth** - 5 relevant new jobs:
+  • [AI Machine Learning Scientist](https://careers.elevancehealth.com/ai-machine-learning-scientist/job/5A3F15E7FC86343E1759F3391DE3F6ED)
+  • [Data Scientist Senior](https://careers.elevancehealth.com/data-scientist-senior/job/76B535506A934F31341B299EAFE0862C)
+  • [Provider Data Analyst Sr.](https://careers.elevancehealth.com/provider-data-analyst-sr/job/EFADB7325F65AA8277E1F754B4CCEB1C)
+  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/5030C9ECB55C102EE49FCCD6D8C6EEFF)
+  • [Systems Analyst Senior Advisor](https://careers.elevancehealth.com/systems-analyst-senior-advisor/job/8B46C81E78F092CE5E361EA281E80A66)
 
 🎯 **Gm** - 4 relevant new jobs:
-  • [Senior Analyst - Fixed Assets, Product Costing & Inventory](https://search-careers.gm.com/en/jobs/jr-202612428/senior-analyst-fixed-assets-product-costing-inventory/)
-  • [Senior AI/ML Engineer - Future Sensing, Embodied AI](https://search-careers.gm.com/en/jobs/jr-202611963/senior-ai-ml-engineer-future-sensing-embodied-ai/)
-  • [Machine Learning for Robotics](https://search-careers.gm.com/en/jobs/jr-202607217/machine-learning-for-robotics/)
-  • [Staff AI/ML Engineer - Future Sensing, Embodied AI](https://search-careers.gm.com/en/jobs/jr-202611789/staff-ai-ml-engineer-future-sensing-embodied-ai/)
+  • [Senior Analyst - Fixed Assets, Product Costing Inventory](https://search-careers.gm.com/en/jobs/jr-202611527/senior-analyst-fixed-assets-product-costing-inventory/)
+  • [Analyst - General Accounting](https://search-careers.gm.com/en/jobs/jr-202612103/analyst-general-accounting/)
+  • [Systems Analyst Lead (Payroll & Timekeeping)](https://search-careers.gm.com/en/jobs/jr-202612290/systems-analyst-lead-payroll-timekeeping/)
+  • [Staff System Analyst - GM Defense IT](https://search-careers.gm.com/en/jobs/jr-202611421/staff-system-analyst-gm-defense-it/)
 
 🎯 **Intel** - 1 relevant new jobs:
-  • [Division Supply Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Division-Supply-Planning-Analyst_JR0284423)
+  • [Intel Foundry Strategic Planning Demand Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Strategic-Planning-Demand-Analyst_JR0284437)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798053786?source=mscom)
-  • [Consulting Group Analyst](https://morganstanley.eightfold.ai/careers/job/549798058182?source=mscom)
-  • [Business Analyst – Offers Platform, Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549795599863?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798040068?source=mscom)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549798074852?source=mscom)
+  • [Analyst, Fund Services, Client Services](https://morganstanley.eightfold.ai/careers/job/549795904046?source=mscom)
 
-🎯 **Qualcomm** - 2 relevant new jobs:
-  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446718055365?domain=qualcomm.com)
-  • [Modem Machine Learning Engineer](https://careers.qualcomm.com/careers/job/446718829329?domain=qualcomm.com)
+🎯 **Datadog** - 2 relevant new jobs:
+  • [Senior Procurement Analyst](https://boards.greenhouse.io/datadog/jobs/7977425)
+  • [Staff Applied Scientist - Dashboards](https://boards.greenhouse.io/datadog/jobs/7984962)
 
-🎯 **Apple** - 5 relevant new jobs:
-  • [Retail Financial Analyst, People Retail](https://jobs.apple.com/en-us/details/200665715-0836/retail-financial-analyst-people-retail?team=CORSV)
-  • [Senior machine learning platform engineer, Evaluation & Privacy](https://jobs.apple.com/en-us/details/200666705-0836/senior-machine-learning-platform-engineer-evaluation-privacy?team=SFTWR)
-  • [Machine Learning Systems Engineer, Siri Agent Modeling](https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR)
-  • [Change Manager, AIML Data Operations](https://jobs.apple.com/en-us/details/200662439-0157/change-manager-aiml-data-operations?team=SFTWR)
-  • [Change Manager, AIML Data Operations](https://jobs.apple.com/en-us/details/200662439-0836/change-manager-aiml-data-operations?team=SFTWR)
+🎯 **Commerce** - 1 relevant new jobs:
+  • [Business Systems Analyst](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Business-Systems-Analyst_JR102695)
+
+🎯 **Apple** - 8 relevant new jobs:
+  • [Senior Data Scientist, Experimentation & Causal Inference](https://jobs.apple.com/en-us/details/200666485-0836/senior-data-scientist-experimentation-causal-inference?team=MLAI)
+  • [Senior Data Scientist, Strategic Modeling & Simulation](https://jobs.apple.com/en-us/details/200666451-0836/senior-data-scientist-strategic-modeling-simulation?team=MLAI)
+  • [Senior Machine Learning Engineer, AI, SIML](https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=MLAI)
+  • [Senior Machine Learning Engineer, AI, SIML](https://jobs.apple.com/en-us/details/200651112-3337/senior-machine-learning-engineer-ai-siml?team=MLAI)
+  • [Machine Learning Engineer - Visual Intelligence](https://jobs.apple.com/en-us/details/200666805-3337/machine-learning-engineer-visual-intelligence?team=SFTWR)
