@@ -1,51 +1,37 @@
-# Job Scan Summary - 2026-06-05
+# Job Scan Summary - 2026-06-06
 
-**New jobs today:** 292
-**Relevant new jobs:** 28
+**New jobs today:** 185
+**Relevant new jobs:** 19
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [Sr. Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Sr-Data-Scientist/355015)
-  • [AI and Data Science Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III/354798)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Analyst, Strategic Relationship Management - Deloitte University - Westlake](https://apply.deloitte.com/en_US/careers/JobDetail/Analyst-Strategic-Relationship-Management-Deloitte-University-Westlake/354347)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2014188/Business-Operations-Analyst)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Government Relations Analyst](https://jobs.fidelity.com/en/jobs/2129809/government-relations-analyst/)
+  • [Principal Analyst Digital Assets](https://jobs.fidelity.com/en/jobs/2128750/principal-analyst-digital-assets/)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Credit Risk Analyst](https://jobs.fidelity.com/en/jobs/2129828/credit-risk-analyst/)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Actuarial Analyst](https://careers.elevancehealth.com/actuarial-analyst/job/4907CB3D6567245ECAF1491AB87F140E)
+  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/20234C384893D81386F9162EE610C33B)
+  • [Business Analyst III- Data Mining Overpayment and Operations/Payment Integrity- WGS Claims](https://careers.elevancehealth.com/business-analyst-iii-data-mining-overpayment-and-operations-payment-integrity-wgs-claims/job/3615F9FAB4E7456C420F53F4B91AF99C)
+  • [PBM Product Strategies Analyst](https://careers.elevancehealth.com/pbm-product-strategies-analyst/job/96C651BEACDA88E275E1669A98428303)
 
-🎯 **Cigna-Evernorth** - 1 relevant new jobs:
-  • [Technical Support Senior Analyst - Evernorth - Remote](https://jobs.thecignagroup.com/us/en/job/26006803/Technical-Support-Senior-Analyst-Evernorth-Remote)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Staff Machine Learning Engineer - ML Training Infrastructure](https://search-careers.gm.com/en/jobs/jr-202612293/staff-machine-learning-engineer-ml-training-infrastructure/)
+  • [Sr. System Analyst – GM Defense IT](https://search-careers.gm.com/en/jobs/jr-202611857/sr-system-analyst-gm-defense-it/)
 
-🎯 **Elevancehealth** - 5 relevant new jobs:
-  • [AI Machine Learning Scientist](https://careers.elevancehealth.com/ai-machine-learning-scientist/job/5A3F15E7FC86343E1759F3391DE3F6ED)
-  • [Data Scientist Senior](https://careers.elevancehealth.com/data-scientist-senior/job/76B535506A934F31341B299EAFE0862C)
-  • [Provider Data Analyst Sr.](https://careers.elevancehealth.com/provider-data-analyst-sr/job/EFADB7325F65AA8277E1F754B4CCEB1C)
-  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/5030C9ECB55C102EE49FCCD6D8C6EEFF)
-  • [Systems Analyst Senior Advisor](https://careers.elevancehealth.com/systems-analyst-senior-advisor/job/8B46C81E78F092CE5E361EA281E80A66)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Wealth Management Strategic Solutions Product Owner/Business Analyst - Associate](https://morganstanley.eightfold.ai/careers/job/549798064265?source=mscom)
+  • [Business Analyst – Offers Platform, Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549798078409?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798059179?source=mscom)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Senior Analyst - Fixed Assets, Product Costing Inventory](https://search-careers.gm.com/en/jobs/jr-202611527/senior-analyst-fixed-assets-product-costing-inventory/)
-  • [Analyst - General Accounting](https://search-careers.gm.com/en/jobs/jr-202612103/analyst-general-accounting/)
-  • [Systems Analyst Lead (Payroll & Timekeeping)](https://search-careers.gm.com/en/jobs/jr-202612290/systems-analyst-lead-payroll-timekeeping/)
-  • [Staff System Analyst - GM Defense IT](https://search-careers.gm.com/en/jobs/jr-202611421/staff-system-analyst-gm-defense-it/)
+🎯 **Qualcomm** - 2 relevant new jobs:
+  • [Program Analyst](https://careers.qualcomm.com/careers/job/446718779467?domain=qualcomm.com)
+  • [Sr. Project Analyst](https://careers.qualcomm.com/careers/job/446718781840?domain=qualcomm.com)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Intel Foundry Strategic Planning Demand Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Strategic-Planning-Demand-Analyst_JR0284437)
-
-🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549798074852?source=mscom)
-  • [Analyst, Fund Services, Client Services](https://morganstanley.eightfold.ai/careers/job/549795904046?source=mscom)
-
-🎯 **Datadog** - 2 relevant new jobs:
-  • [Senior Procurement Analyst](https://boards.greenhouse.io/datadog/jobs/7977425)
-  • [Staff Applied Scientist - Dashboards](https://boards.greenhouse.io/datadog/jobs/7984962)
-
-🎯 **Commerce** - 1 relevant new jobs:
-  • [Business Systems Analyst](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Business-Systems-Analyst_JR102695)
-
-🎯 **Apple** - 8 relevant new jobs:
-  • [Senior Data Scientist, Experimentation & Causal Inference](https://jobs.apple.com/en-us/details/200666485-0836/senior-data-scientist-experimentation-causal-inference?team=MLAI)
-  • [Senior Data Scientist, Strategic Modeling & Simulation](https://jobs.apple.com/en-us/details/200666451-0836/senior-data-scientist-strategic-modeling-simulation?team=MLAI)
-  • [Senior Machine Learning Engineer, AI, SIML](https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=MLAI)
-  • [Senior Machine Learning Engineer, AI, SIML](https://jobs.apple.com/en-us/details/200651112-3337/senior-machine-learning-engineer-ai-siml?team=MLAI)
-  • [Machine Learning Engineer - Visual Intelligence](https://jobs.apple.com/en-us/details/200666805-3337/machine-learning-engineer-visual-intelligence?team=SFTWR)
+🎯 **Apple** - 5 relevant new jobs:
+  • [Senior Machine Learning Engineer, Wallet, Payment & Commerce](https://jobs.apple.com/en-us/details/200667108-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR)
+  • [Data Scientist, Apple Pay Marketing (Machine Learning Research)](https://jobs.apple.com/en-us/details/200665533-0836/data-scientist-apple-pay-marketing-machine-learning-research?team=MLAI)
+  • [AIML - ML Researcher, Responsible AI](https://jobs.apple.com/en-us/details/200667081-0836/aiml-ml-researcher-responsible-ai?team=MLAI)
+  • [AIML - ML Researcher, Responsible AI](https://jobs.apple.com/en-us/details/200667081-2926/aiml-ml-researcher-responsible-ai?team=MLAI)
+  • [AIML - ML Researcher, Responsible AI](https://jobs.apple.com/en-us/details/200667081-3337/aiml-ml-researcher-responsible-ai?team=MLAI)
