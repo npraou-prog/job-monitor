@@ -1,66 +1,64 @@
-# Job Scan Summary - 2026-06-09
+# Job Scan Summary - 2026-06-10
 
-**New jobs today:** 286
-**Relevant new jobs:** 39
+**New jobs today:** 385
+**Relevant new jobs:** 34
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Senior Data Scientist - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist-Government-Public-Services/355332)
-  • [Technical Product Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Technical-Product-Analyst/355305)
-  • [Lead Security Engineer II, Cyber Threat Intelligence Analyst (TS Cleared, Onsite)](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Security-Engineer-II-Cyber-Threat-Intelligence-Analyst-TS-Cleared-Onsite/352082)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Agentic AI Engineer — Healthcare AI](https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-AI-Engineer-Healthcare-AI/355577)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Data Analyst (Hybrid)](https://careers.cisco.com/global/en/job/2011265/Data-Analyst-Hybrid)
-  • [Compliance Information Security Analyst](https://careers.cisco.com/global/en/job/2003466/Compliance-Information-Security-Analyst)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Director Data Science](https://jobs.fidelity.com/en/jobs/2130584/director-data-science/)
+  • [Principal Aiml Engineer](https://jobs.fidelity.com/en/jobs/2130555/principal-aiml-engineer/)
+  • [Principal Technology Risk Analyst](https://jobs.fidelity.com/en/jobs/2130587/principal-technology-risk-analyst/)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2128798/senior-systems-analyst/)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Machine Learning Engineer II](https://careers.chewy.com/us/en/job/R29931/Machine-Learning-Engineer-II)
 
 🎯 **Meta** - 2 relevant new jobs:
-  • [Data Science Manager, Analytics](https://www.metacareers.com/profile/job_details/1531522778637309)
-  • [Data Science Manager, Entity and Actor Integrity (EAI)](https://www.metacareers.com/profile/job_details/962186803247016)
+  • [Payroll Analyst, EMEA](https://www.metacareers.com/profile/job_details/1749712072816612)
+  • [AI Research Scientist - Language - Meta AI (MRS)](https://www.metacareers.com/profile/job_details/1501891558284086)
 
-🎯 **Cigna-Evernorth** - 1 relevant new jobs:
-  • [Procure-to-Pay Senior Analyst (Express Scripts)](https://jobs.thecignagroup.com/us/en/job/26006598/Procure-to-Pay-Senior-Analyst-Express-Scripts)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/110B0BBD5DFCE0C155A9CA92867B2AF5)
+  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/3DB79755FEA615FF73E4039C9473D57D)
+  • [Behavioral Health Clinical Quality Audit Analyst Sr.](https://careers.elevancehealth.com/behavioral-health-clinical-quality-audit-analyst-sr/job/49A4F542D5689778ED91D86B4694C78F)
+  • [Senior Risk Adjustment Analyst](https://careers.elevancehealth.com/senior-risk-adjustment-analyst/job/EFB72415BBDBEB239B766662535085C6)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/10F5DA5D36FE7CCF67F9604B077974FC)
-  • [Medical Review Analyst II](https://careers.elevancehealth.com/medical-review-analyst-ii/job/7A8532D46FC212CF05DA1233252334CC)
+🎯 **Gm** - 3 relevant new jobs:
+  • [Senior Global Product Cost Analyst - RTR Transformation](https://search-careers.gm.com/en/jobs/jr-202612728/senior-global-product-cost-analyst-rtr-transformation/)
+  • [GMI Customer Research Sr. Analyst](https://search-careers.gm.com/en/jobs/jr-202611707/gmi-customer-research-sr-analyst/)
+  • [Business Management Analyst](https://search-careers.gm.com/en/jobs/jr-202612018/business-management-analyst/)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202612285/hr-services-call-handling-analyst/)
-  • [HR Services Call Handling Analyst](https://search-careers.gm.com/en/jobs/jr-202611563/hr-services-call-handling-analyst/)
-  • [Senior Finance Analyst (multiple positions available)](https://search-careers.gm.com/en/jobs/jr-202612747/senior-finance-analyst-multiple-positions-available/)
-  • [Senior Financial Analyst – Capital Consolidation](https://search-careers.gm.com/en/jobs/jr-202612754/senior-financial-analyst-capital-consolidation/)
+🎯 **Intel** - 3 relevant new jobs:
+  • [IF Planning Data Enablement Lead (Business System Analyst)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/IF-Planning-Data-Enablement-Lead--Business-System-Analyst-_JR0284699)
+  • [Business Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Business-Analyst_JR0284479)
+  • [Senior Supply Chain Business Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Senior-Supply-Chain-Business-Analyst_JR0284686)
 
-🎯 **Cocacola** - 1 relevant new jobs:
-  • [Senior Data/Machine Learning Engineer](https://careers.coca-colacompany.com/job/23476394/senior-data-machine-learning-engineer-atlanta-ga/)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798122145?source=mscom)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Private Wealth Management Senior Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798104238?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798118879?source=mscom)
-  • [Executive Director & Credit Analyst, Floating Rate Loans](https://morganstanley.eightfold.ai/careers/job/549798104253?source=mscom)
-  • [Consulting Group Analyst](https://morganstanley.eightfold.ai/careers/job/549798105791?source=mscom)
+🎯 **Ey** - 1 relevant new jobs:
+  • [Cons-Tech Cons-AI and Data-Enterprise Data - Data Science-Manager-Multiple Positions - 1716485](https://careers.ey.com/ey/job/Austin-Cons-Tech-Cons-AI-and-Data-Enterprise-Data-Data-Science-Manager-Multiple-Positions-1716485-TX-78701/1403042433/)
 
-🎯 **Walmart** - 5 relevant new jobs:
-  • [(USA) Data Analyst II](https://careers.walmart.com/us/en/job/R-2504580)
-  • [Senior, Data Analyst - Earnings Excellence Finance Group](https://careers.walmart.com/us/en/job/R-2477619)
-  • [Principal, Data Analyst (SQL, Tableau, AI, Business Fluency)](https://careers.walmart.com/us/en/job/R-2509530)
-  • [Senior, Data Scientist](https://careers.walmart.com/us/en/job/R-2508380)
-  • [(USA) Data Scientist III](https://careers.walmart.com/us/en/job/R-2518319)
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Senior Staff Data Scientist](https://careers.gehealthcare.com/global/en/job/R4042049/Senior-Staff-Data-Scientist)
 
-🎯 **Datadog** - 1 relevant new jobs:
-  • [FP&A Analyst - Data Insights](https://boards.greenhouse.io/datadog/jobs/7964916)
+🎯 **Walmart** - 2 relevant new jobs:
+  • [Distinguished, Data Scientist](https://careers.walmart.com/us/en/job/R-2438203)
+  • [Data Scientist III](https://careers.walmart.com/us/en/job/R-2478690)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Internal Communications Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Internal-Communications-Analyst_10328743)
-  • [Financial Reporting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Blue-Springs-Mississippi/Financial-Reporting-Analyst_10304683)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Graduate Intern, Reservations (Data Science) - Fall 2026](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Reservations-Data-Science-Fall-2026/32587?jobId=32587)
+
+🎯 **Commerce** - 1 relevant new jobs:
+  • [Procurement Analyst II](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Procurement-Analyst-II_JR102717)
 
 🎯 **Barclays** - 1 relevant new jobs:
-  • [Treasury Operations Analyst](https://search.jobs.barclays/job/chennai/treasury-operations-analyst/13015/96202500784)
+  • [Credit Risk Portfolio Senior Analyst](https://search.jobs.barclays/job/edinburgh/credit-risk-portfolio-senior-analyst/13015/96259800272)
 
-🎯 **Apple** - 10 relevant new jobs:
-  • [Sr. Applied Research Scientist](https://jobs.apple.com/en-us/details/200667370-3760/sr-applied-research-scientist?team=MLAI)
-  • [Sr. Applied Research Scientist](https://jobs.apple.com/en-us/details/200667370-3337/sr-applied-research-scientist?team=MLAI)
-  • [Data Scientist, Maps Evaluation](https://jobs.apple.com/en-us/details/200666663-0836/data-scientist-maps-evaluation?team=SFTWR)
-  • [Senior Machine Learning Engineer](https://jobs.apple.com/en-us/details/200666339-0836/senior-machine-learning-engineer?team=SFTWR)
-  • [AIML - Sr Machine Learning Engineer, Data and ML Innovation](https://jobs.apple.com/en-us/details/200667335-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI)
+🎯 **Apple** - 9 relevant new jobs:
+  • [Staff Machine Learning Engineer – Ads Signals Intelligence & Information Retrieval](https://jobs.apple.com/en-us/details/200644466-0836/staff-machine-learning-engineer-ads-signals-intelligence-information-retrieval?team=MLAI)
+  • [US Sales Finance PART Analyst](https://jobs.apple.com/en-us/details/200665741-0836/us-sales-finance-part-analyst?team=CORSV)
+  • [US Sales Financial Analyst, Demand Forecasting & Analysis](https://jobs.apple.com/en-us/details/200665516-0836/us-sales-financial-analyst-demand-forecasting-analysis?team=CORSV)
+  • [AI Engineer, Sensing & Connectivity](https://jobs.apple.com/en-us/details/200644140-0836/ai-engineer-sensing-connectivity?team=SFTWR)
+  • [Machine Learning Engineer, Proactive — Large Language Models, Generative AI & Agentic Systems](https://jobs.apple.com/en-us/details/200664261-0836/machine-learning-engineer-proactive-large-language-models-generative-ai-agentic-systems?team=MLAI)
