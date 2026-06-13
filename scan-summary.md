@@ -1,52 +1,34 @@
-# Job Scan Summary - 2026-06-12
+# Job Scan Summary - 2026-06-13
 
-**New jobs today:** 286
-**Relevant new jobs:** 28
+**New jobs today:** 144
+**Relevant new jobs:** 16
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [AI and Data Science Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III/356234)
-  • [Senior Data Scientist and AI Specialist](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist-and-AI-Specialist/355975)
+🎯 **Deloitte** - 4 relevant new jobs:
+  • [Capital Projects Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Capital-Projects-Analyst/356335)
+  • [Project- Analyst, Forensics and Investigations](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-Forensics-and-Investigations/356309)
+  • [Delivery Analyst, Training and Design](https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-Training-and-Design/356244)
+  • [Delivery Analyst, Technical Change Management](https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-Technical-Change-Management/356227)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Business Analyst Defined Benefit](https://jobs.fidelity.com/en/jobs/2131040/business-analyst-defined-benefit/)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Technology Risk Analyst](https://jobs.fidelity.com/en/jobs/2130673/technology-risk-analyst/)
+  • [Fixed Income Portfolio Analyst](https://jobs.fidelity.com/en/jobs/2130503/fixed-income-portfolio-analyst/)
 
-🎯 **Chewy** - 2 relevant new jobs:
-  • [Senior Financial Analyst](https://careers.chewy.com/us/en/job/R29965/Senior-Financial-Analyst)
-  • [Research Scientist III](https://careers.chewy.com/us/en/job/R29962/Research-Scientist-III)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Epic Interface Analyst](https://careers.elevancehealth.com/epic-interface-analyst/job/5E7CAE50C2C273C9B87997FFB07FFAC5)
 
-🎯 **Meta** - 2 relevant new jobs:
-  • [Data Scientist, Product Analytics (PhD)](https://www.metacareers.com/profile/job_details/1629501152106491)
-  • [Data Scientist, Product](https://www.metacareers.com/profile/job_details/1605573684424753)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Sr. Process Transformation Business Intelligence Data Analyst](https://search-careers.gm.com/en/jobs/jr-202612267/sr-process-transformation-business-intelligence-data-analyst/)
 
-🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/6416C1346EDCD8A2394649DED15DF873)
-  • [Senior AI Machine Learning Scientist](https://careers.elevancehealth.com/senior-ai-machine-learning-scientist/job/7598D17EFF32F02D254AE577AF6377C4)
-  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/1CEA8B22C481B445A2A066345BC85620)
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Data Scientist](https://careers.ibm.com/careers/JobDetail?jobId=120232)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [GPC Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202612824/gpc-finance-analyst/)
-  • [IT Site Support Analyst - Global Manufacturing](https://search-careers.gm.com/en/jobs/jr-202612415/it-site-support-analyst-global-manufacturing/)
-  • [Staff Artificial Intelligence Machine Learning Engineer](https://search-careers.gm.com/en/jobs/jr-202611732/staff-artificial-intelligence-machine-learning-engineer/)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Loan Closing Analyst](https://search.jobs.barclays/job/wilmington/loan-closing-analyst/13015/96362070944)
+  • [Fraud Analyst](https://search.jobs.barclays/job/glasgow/fraud-analyst/13015/96347369888)
 
-🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798114328?source=mscom)
-  • [GIMA Operational Due Diligence (OpDD) Analyst – Vice President](https://morganstanley.eightfold.ai/careers/job/549798160358?source=mscom)
-
-🎯 **Commerce** - 1 relevant new jobs:
-  • [Financial Analyst II, Incentive Compensation](https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Financial-Analyst-II--Incentive-Compensation_JR102708)
-
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Analyst - Corporate Accounting](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst---Corporate-Accounting_10329347)
-
-🎯 **Barclays** - 4 relevant new jobs:
-  • [IB KYC Refresh- Senior Analyst](https://search.jobs.barclays/job/gurugram/ib-kyc-refresh-senior-analyst/13015/96334021808)
-  • [IB KYC Refresh- Senior Analyst](https://search.jobs.barclays/job/noida/ib-kyc-refresh-senior-analyst/13015/96334021728)
-  • [UAT Test Analyst](https://search.jobs.barclays/job/chennai/uat-test-analyst/13015/96334017408)
-  • [Data Scientist](https://search.jobs.barclays/job/gurugram/data-scientist/13015/96334016064)
-
-🎯 **Apple** - 7 relevant new jobs:
-  • [Machine Learning Engineer, Apple Intelligence Data Platform - Proactive](https://jobs.apple.com/en-us/details/200667935-3337/machine-learning-engineer-apple-intelligence-data-platform-proactive?team=MLAI)
-  • [Senior Data Scientist, Apple Ads](https://jobs.apple.com/en-us/details/200667859-0157/senior-data-scientist-apple-ads?team=SFTWR)
-  • [Senior Data Scientist, Apple Ads](https://jobs.apple.com/en-us/details/200667859-0836/senior-data-scientist-apple-ads?team=SFTWR)
-  • [Senior Data Scientist, Apple Ads](https://jobs.apple.com/en-us/details/200667859-2459/senior-data-scientist-apple-ads?team=SFTWR)
-  • [Machine Learning Engineer - Large Language Models & Generative AI Inference](https://jobs.apple.com/en-us/details/200667252-0836/machine-learning-engineer-large-language-models-generative-ai-inference?team=MLAI)
+🎯 **Apple** - 5 relevant new jobs:
+  • [Machine Learning Research Engineer, LLM](https://jobs.apple.com/en-us/details/200636207-3337/machine-learning-research-engineer-llm?team=SFTWR)
+  • [Computational Support for Machine Learning and Transformers, Core OS](https://jobs.apple.com/en-us/details/200667866-0836/computational-support-for-machine-learning-and-transformers-core-os?team=SFTWR)
+  • [AIML - Machine Learning Engineer, Foundation Models](https://jobs.apple.com/en-us/details/200633262-0836/aiml-machine-learning-engineer-foundation-models?team=MLAI)
+  • [AIML - Machine Learning Engineer, Foundation Models](https://jobs.apple.com/en-us/details/200633262-2459/aiml-machine-learning-engineer-foundation-models?team=MLAI)
+  • [AIML - Machine Learning Engineer, Foundation Models](https://jobs.apple.com/en-us/details/200633262-3337/aiml-machine-learning-engineer-foundation-models?team=MLAI)
