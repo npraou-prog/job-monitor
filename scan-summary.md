@@ -1,48 +1,58 @@
-# Job Scan Summary - 2026-06-15
+# Job Scan Summary - 2026-06-16
 
-**New jobs today:** 179
-**Relevant new jobs:** 20
+**New jobs today:** 312
+**Relevant new jobs:** 31
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Business Systems Analyst](https://careers.cisco.com/global/en/job/2014987/Business-Systems-Analyst)
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2015672/Business-Operations-Analyst)
+🎯 **Deloitte** - 3 relevant new jobs:
+  • [Project Delivery Senior Analyst - API & Azure DevOps Developer - Remote](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Delivery-Senior-Analyst-API-Azure-DevOps-Developer-Remote/356466)
+  • [Analyst, Functional Transformation SAP](https://apply.deloitte.com/en_US/careers/JobDetail/Analyst-Functional-Transformation-SAP/356424)
+  • [GenAI Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Engineer-III/355373)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2130674/principal-systems-analyst/)
-  • [Senior Aiml Engineer](https://jobs.fidelity.com/en/jobs/2129112/senior-aiml-engineer/)
-  • [Analyst Digital Assets Accounting](https://jobs.fidelity.com/en/jobs/2130921/analyst-digital-assets-accounting/)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Data Analyst](https://careers.cisco.com/global/en/job/2015739/Data-Analyst)
+
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Data Scientist](https://jobs.fidelity.com/en/jobs/2124703/data-scientist/)
+  • [Systems Analyst](https://jobs.fidelity.com/en/jobs/2130358/systems-analyst/)
+  • [Senior Data Analyst](https://jobs.fidelity.com/en/jobs/2127286/senior-data-analyst/)
+  • [Senior Manager Product Development Analyst Wealth Product Investment Performance](https://jobs.fidelity.com/en/jobs/2125385/senior-manager-product-development-analyst-wealth-product-investment-performance/)
 
 🎯 **Meta** - 1 relevant new jobs:
-  • [Design Verification Engineer - Machine Learning Accelerators](https://www.metacareers.com/profile/job_details/935027182927858)
+  • [Data Scientist](https://www.metacareers.com/profile/job_details/1017038934509062)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [AI Machine Learning Scientist](https://careers.elevancehealth.com/ai-machine-learning-scientist/job/D753F3FB3A791C877160BE657E11745D)
-  • [Research Scientist Senior](https://careers.elevancehealth.com/research-scientist-senior/job/EE5E02D85E9F1A04D6B33B37D8A5B396)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Subrogation Analyst](https://careers.elevancehealth.com/subrogation-analyst/job/CFD3B4E1E312596D3208D79CB3EC4CAB)
 
-🎯 **Gm** - 1 relevant new jobs:
-  • [IT Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202613241/it-accounting-analyst/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [HCM Sr. Functional Analyst - Core](https://search-careers.gm.com/en/jobs/jr-202611677/hcm-sr-functional-analyst-core/)
+  • [Staff ML Validation Applied Scientist](https://search-careers.gm.com/en/jobs/jr-202609951/staff-ml-validation-applied-scientist/)
 
-🎯 **Ibm** - 1 relevant new jobs:
-  • [Operational Data Scientist TS/SCI (FSP)](https://careers.ibm.com/careers/JobDetail?jobId=120557)
+🎯 **Intel** - 2 relevant new jobs:
+  • [Neuromorphic/AI Research Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284776)
+  • [Machine Learning Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Machine-Learning-Engineer_JR0284870)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798220183?source=mscom)
+🎯 **Datadog** - 2 relevant new jobs:
+  • [Deal Desk Analyst - NYC](https://boards.greenhouse.io/datadog/jobs/7993638)
+  • [Financial Systems Analyst](https://boards.greenhouse.io/datadog/jobs/8002771)
 
-🎯 **Ey** - 3 relevant new jobs:
-  • [Service Delivery Center, AI & Data - Analyst](https://careers.ey.com/ey/job/Dallas-Service-Delivery-Center%2C-AI-&-Data-Analyst-TX-75270/1402549433/)
-  • [Data Analyst-Tech Con-Data & Analytics-DG & C - FSO - Senior- Multiple Positions-1707959](https://careers.ey.com/ey/job/Charlotte-Data-Analyst-Tech-Con-Data-&-Analytics-DG-&-C-FSO-Senior-Multiple-Positions-1707959-NC-28202/1391485033/)
-  • [Data Analyst-Tech Con-Data and Analytics - DG and C - FSO - Manager - Multiple Positions-1708266](https://careers.ey.com/ey/job/Dallas-Data-Analyst-Tech-Con-Data-and-Analytics-DG-and-C-FSO-Manager-Multiple-Positions-1708266-TX-75219/1391531833/)
-
-🎯 **Datadog** - 1 relevant new jobs:
-  • [Deal Desk Analyst - US West](https://boards.greenhouse.io/datadog/jobs/8003080)
-
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Sr. Credit Risk Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Credit-Risk-Analyst_10328695-1)
+🎯 **Toyota** - 6 relevant new jobs:
+  • [Analyst, Analytics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst--Analytics_10329521-1)
+  • [Sr. Machine Learning Engineer](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Machine-Learning-Engineer_10328604)
+  • [Sr. Business Analyst (Product Owner)](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Business-Analyst--Product-Owner-_10329189)
+  • [Control Room Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Control-Room-Analyst_10329452)
+  • [Training & Facilitation Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Training---Facilitation-Senior-Analyst_10329275-1)
 
 🎯 **Barclays** - 3 relevant new jobs:
-  • [Remediation KYC Analyst](https://search.jobs.barclays/job/noida/remediation-kyc-analyst/13015/96474961968)
-  • [Quant Analyst](https://search.jobs.barclays/job/london/quant-analyst/13015/96474956128)
-  • [KYC Analyst](https://search.jobs.barclays/job/noida/kyc-analyst/13015/96432429168)
+  • [Decision Intelligence Analyst](https://search.jobs.barclays/job/gurugram/decision-intelligence-analyst/13015/96518936128)
+  • [FLM LRR Analyst](https://search.jobs.barclays/job/noida/flm-lrr-analyst/13015/96518931520)
+  • [Customer Targeting Analyst](https://search.jobs.barclays/job/northampton/customer-targeting-analyst/13015/96518930512)
 
-🎯 **Apple** - 1 relevant new jobs:
-  • [Machine Learning Engineer - People Analytics](https://jobs.apple.com/en-us/details/200665705-0836/machine-learning-engineer-people-analytics?team=CORSV)
+🎯 **Rivian** - 1 relevant new jobs:
+  • [Sr / Staff Machine Learning Engineer, Perception](https://us-careers-rivian.icims.com/jobs/31553/login)
+
+🎯 **Apple** - 5 relevant new jobs:
+  • [AIML - Data Scientist, Evaluation](https://jobs.apple.com/en-us/details/200668520-3337/aiml-data-scientist-evaluation?team=MLAI)
+  • [Data Scientist, Employee Experience & Productivity](https://jobs.apple.com/en-us/details/200668306-3956/data-scientist-employee-experience-productivity?team=SFTWR)
+  • [Lyrics Program Manager, AIML & Tooling](https://jobs.apple.com/en-us/details/200668458-0670/lyrics-program-manager-aiml-tooling?team=MKTG)
+  • [Senior AI Engineer](https://jobs.apple.com/en-us/details/200668239-0157/senior-ai-engineer?team=SLDEV)
+  • [Senior AI Engineer](https://jobs.apple.com/en-us/details/200668239-0836/senior-ai-engineer?team=SLDEV)
