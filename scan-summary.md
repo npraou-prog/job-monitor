@@ -1,58 +1,53 @@
-# Job Scan Summary - 2026-06-17
+# Job Scan Summary - 2026-06-18
 
-**New jobs today:** 314
-**Relevant new jobs:** 34
+**New jobs today:** 334
+**Relevant new jobs:** 30
 
 🎯 **Deloitte** - 1 relevant new jobs:
-  • [Procurement Financial Data Analyst (TS Clearance)](https://apply.deloitte.com/en_US/careers/JobDetail/Procurement-Financial-Data-Analyst-TS-Clearance/356797)
+  • [AI Engineer – SFL Scientific](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-SFL-Scientific/355403)
 
-🎯 **Cisco** - 4 relevant new jobs:
-  • [Operations Analyst](https://careers.cisco.com/global/en/job/2015209/Operations-Analyst)
-  • [Client Operations Delivery Analyst (Korean Language Support)](https://careers.cisco.com/global/en/job/2015300/Client-Operations-Delivery-Analyst-Korean-Language-Support)
-  • [Client Operations Delivery Analyst (Korean language support)](https://careers.cisco.com/global/en/job/2015283/Client-Operations-Delivery-Analyst-Korean-language-support)
-  • [Client Operations Delivery Analyst (Korean Language Support)](https://careers.cisco.com/global/en/job/2015279/Client-Operations-Delivery-Analyst-Korean-Language-Support)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Business Change Analyst](https://careers.cisco.com/global/en/job/2014254/Business-Change-Analyst)
 
 🎯 **Fidelity** - 3 relevant new jobs:
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2131028/senior-systems-analyst/)
-  • [Principal Technology Risk Analyst](https://jobs.fidelity.com/en/jobs/2130976/principal-technology-risk-analyst/)
-  • [Analyst Real Estate Shareholder Reporting](https://jobs.fidelity.com/en/jobs/2130922/analyst-real-estate-shareholder-reporting/)
+  • [Financial Analyst](https://jobs.fidelity.com/en/jobs/2130273/financial-analyst/)
+  • [Principal Systems Analyst Adobe Workfront](https://jobs.fidelity.com/en/jobs/2130178/principal-systems-analyst-adobe-workfront/)
+  • [Research Analyst](https://jobs.fidelity.com/en/jobs/2131022/research-analyst/)
 
-🎯 **Synopsys** - 2 relevant new jobs:
-  • [Revenue Recognition AnalystUnited States Off-siteCategory:FinancePosted:06/15/2026Job ID:17706](https://careers.synopsys.com/job/canonsburg/revenue-recognition-analyst/44408/96539549712)
-  • [Revenue Recognition AnalystUnited States Off-siteCategory:FinancePosted:06/15/2026Job ID:17705](https://careers.synopsys.com/job/canonsburg/revenue-recognition-analyst/44408/96539549680)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/6FA68CE8968AC8C5ED652265E754053B)
+  • [Gen AI Engineer](https://careers.elevancehealth.com/gen-ai-engineer/job/85E79AF29893BEE7E19409D8651DFEDD)
+  • [Medical Coding Appeals Analyst](https://careers.elevancehealth.com/medical-coding-appeals-analyst/job/126E4EB9300000B191DE2A13AD3427D5)
+  • [Workforce Management Analyst II/Scheduler (US)](https://careers.elevancehealth.com/workforce-management-analyst-ii-scheduler-us/job/47FC733CCB2EE8AA328255E4AC5B92B9)
 
-🎯 **Meta** - 4 relevant new jobs:
-  • [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/profile/job_details/924149567345400)
-  • [Investigations Analyst, Child Safety](https://www.metacareers.com/profile/job_details/1010093921382410)
-  • [Investigations Analyst, Threats](https://www.metacareers.com/profile/job_details/4403019853270090)
-  • [Business Operations Manager, Applied AI Engineering](https://www.metacareers.com/profile/job_details/1036791622252778)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Alternative Investments Subscriptions Analyst](https://morganstanley.eightfold.ai/careers/job/549798263578?source=mscom)
+  • [Alternative Investments Subscriptions Analyst](https://morganstanley.eightfold.ai/careers/job/549798288645?source=mscom)
 
-🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Compensation Analyst Sr.](https://careers.elevancehealth.com/compensation-analyst-sr/job/C8A40DC0BD06BB775353DB2AE72307FC)
-  • [Risk Adjustment Systems Analyst Advisor](https://careers.elevancehealth.com/risk-adjustment-systems-analyst-advisor/job/F53A579525DC5B8AC174E60F16716C04)
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/45E3FB9099FCC043170344369CC7D45E)
+🎯 **Gehealthcare** - 6 relevant new jobs:
+  • [AI/ML Engineer](https://careers.gehealthcare.com/global/en/job/R4042507/AI-ML-Engineer)
+  • [Senior AI/ML Engineer](https://careers.gehealthcare.com/global/en/job/R4042506/Senior-AI-ML-Engineer)
+  • [Staff AI/ML Engineer](https://careers.gehealthcare.com/global/en/job/R4042505/Staff-AI-ML-Engineer)
+  • [Revenue Accounting Analyst – Contracts & Billing](https://careers.gehealthcare.com/global/en/job/R4042135/Revenue-Accounting-Analyst-Contracts-Billing)
+  • [Sr. Finance Manager - STO DHS & AIML](https://careers.gehealthcare.com/global/en/job/R4042353/Sr-Finance-Manager-STO-DHS-AIML)
 
-🎯 **Gm** - 5 relevant new jobs:
-  • [GBST Test Management Analyst (L5)](https://search-careers.gm.com/en/jobs/jr-202612357/gbst-test-management-analyst-l5/)
-  • [Continuous Improvement Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202613220/continuous-improvement-senior-analyst/)
-  • [People Services Analyst](https://search-careers.gm.com/en/jobs/jr-202613106/people-services-analyst/)
-  • [Senior Product Data Scientist, Vehicle Analytics & Insights](https://search-careers.gm.com/en/jobs/jr-202612997/senior-product-data-scientist-vehicle-analytics-insights/)
-  • [Staff Product Data Scientist, Vehicle Analytics & Insights](https://search-careers.gm.com/en/jobs/jr-202608704/staff-product-data-scientist-vehicle-analytics-insights/)
+🎯 **Delta** - 3 relevant new jobs:
+  • [Graduate Intern, Innovation - AI Engineering (Fall 2026)](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Innovation-AI-Engineering-Fall-2026/32780?jobId=32780)
+  • [Intern, Innovation - AI Engineering (Fall 2026)](https://delta.avature.net/en_US/careers/JobDetail/Intern-Innovation-AI-Engineering-Fall-2026/32774?jobId=32774)
+  • [Senior Digital Experience Developer, Artificial Intelligence](https://delta.avature.net/en_US/careers/JobDetail/Senior-Digital-Experience-Developer-Artificial-Intelligence/32858?jobId=32858)
 
-🎯 **Toyota** - 5 relevant new jobs:
-  • [Senior analyst – BU Finance Supply Chain](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-analyst---BU-Finance-Supply-Chain_10329381)
-  • [Engineering Analyst – Body Operations and Controls](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Long-Beach-California/Engineering-Analyst---Body-Operations-and-Controls_10329583)
-  • [Security QA Analyst, Senior](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Security-QA-Analyst--Senior_10329238-1)
-  • [Senior Marketing Services Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Marketing-Services-Analyst_10329543)
-  • [Corporate Communications Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Corporate-Communications-Analyst_10329573)
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Senior HR Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Long-Beach-California/Senior-HR-Analyst_10329216)
+  • [Corporate Communications Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Corporate-Communications-Analyst_10329539)
 
-🎯 **Barclays** - 2 relevant new jobs:
-  • [Equities Data Business Analyst/Project Manager](https://search.jobs.barclays/job/whippany/equities-data-business-analyst-project-manager/13015/96562353408)
-  • [Data  & Records Governance - Data Analyst AVP](https://search.jobs.barclays/job/pune/data-and-records-governance-data-analyst-avp/13015/96562345392)
+🎯 **Barclays** - 3 relevant new jobs:
+  • [API Analyst](https://search.jobs.barclays/job/edinburgh/api-analyst/13015/96593177024)
+  • [Business Analyst](https://search.jobs.barclays/job/bournemouth/business-analyst/13015/96593171808)
+  • [Data scientist - AVP-Acq. Credit Strategy](https://search.jobs.barclays/job/gurugram/data-scientist-avp-acq-credit-strategy/13015/94687910096)
 
 🎯 **Apple** - 5 relevant new jobs:
-  • [AIML - Data Scientist, Responsible AI, Product Insights](https://jobs.apple.com/en-us/details/200668695-0836/aiml-data-scientist-responsible-ai-product-insights?team=MLAI)
-  • [Machine Learning Research Engineer, Input Experience, Apple Intelligence](https://jobs.apple.com/en-us/details/200668701-0836/machine-learning-research-engineer-input-experience-apple-intelligence?team=MLAI)
-  • [Machine Learning Engineer, Web Indexing Team](https://jobs.apple.com/en-us/details/200668682-3760/machine-learning-engineer-web-indexing-team?team=MLAI)
-  • [Machine Learning Engineer, Web Indexing Team](https://jobs.apple.com/en-us/details/200668682-3337/machine-learning-engineer-web-indexing-team?team=MLAI)
-  • [Machine Learning Architect, Platform Architecture](https://jobs.apple.com/en-us/details/200668667-0836/machine-learning-architect-platform-architecture?team=HRDWR)
+  • [Data Scientist](https://jobs.apple.com/en-us/details/200669127-0670/data-scientist?team=MLAI)
+  • [Machine Learning Applied Researcher - Speech, Vision and Audio](https://jobs.apple.com/en-us/details/200668104-1242/machine-learning-applied-researcher-speech-vision-and-audio?team=HRDWR)
+  • [Machine Learning Applied Researcher - Speech, Vision and Audio](https://jobs.apple.com/en-us/details/200668423-1242/machine-learning-applied-researcher-speech-vision-and-audio?team=HRDWR)
+  • [Principal Research Scientist, Siri Innovation Studio](https://jobs.apple.com/en-us/details/200667331-3337/principal-research-scientist-siri-innovation-studio?team=MLAI)
+  • [Senior Computer Vision / Machine Learning Engineer - 3D Vision & Perception](https://jobs.apple.com/en-us/details/200668959-3956/senior-computer-vision-machine-learning-engineer-3d-vision-perception?team=MLAI)
