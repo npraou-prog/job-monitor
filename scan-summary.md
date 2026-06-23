@@ -1,33 +1,48 @@
-# Job Scan Summary - 2026-06-22
+# Job Scan Summary - 2026-06-23
 
-**New jobs today:** 167
-**Relevant new jobs:** 13
+**New jobs today:** 232
+**Relevant new jobs:** 22
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Project- Consultant, Senior Supply Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Senior-Supply-Analyst/357306)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Project- Cyber Threat Intel Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Cyber-Threat-Intel-Analyst/357471)
+  • [Strategy Project Analyst (CBP or TS clearance)](https://apply.deloitte.com/en_US/careers/JobDetail/Strategy-Project-Analyst-CBP-or-TS-clearance/357389)
+  • [Functional Requirements & Testing Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Functional-Requirements-Testing-Analyst/357368)
+  • [FOIA Analyst - TS/SCI Cleared](https://apply.deloitte.com/en_US/careers/JobDetail/FOIA-Analyst-TS-SCI-Cleared/357356)
+  • [Project Senior Consultant, Supply Policy Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Senior-Consultant-Supply-Policy-Analyst/357323)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [GPRS Finance Analyst](https://careers.cisco.com/global/en/job/2016418/GPRS-Finance-Analyst)
-  • [Data Analyst](https://careers.cisco.com/global/en/job/2015069/Data-Analyst)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2131287/senior-systems-analyst/)
+  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2128056/principal-systems-analyst/)
 
-🎯 **Synopsys** - 1 relevant new jobs:
-  • [Financial Analyst InternshipHyderabad, IndiaCategory:Interns/TempPosted:06/10/2026Job ID:17452](https://careers.synopsys.com/job/hyderabad/financial-analyst-internship/44408/96785765792)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Data Science Director](https://www.metacareers.com/profile/job_details/2453497665131398)
 
 🎯 **Gm** - 2 relevant new jobs:
-  • [Senior Financial Analyst - Transformation](https://search-careers.gm.com/en/jobs/jr-202613463/senior-financial-analyst-transformation/)
-  • [Senior Finance Analyst](https://search-careers.gm.com/en/jobs/jr-202613735/senior-finance-analyst/)
+  • [Senior Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202613846/senior-financial-analyst/)
+  • [Senior Financial Analyst - EV & AV Product Programs](https://search-careers.gm.com/en/jobs/jr-202613079/senior-financial-analyst-ev-av-product-programs/)
+
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Intern Conversion: Data Analyst](https://careers.ibm.com/careers/JobDetail?jobId=122525)
 
 🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Corporate FP&A - Analyst](https://morganstanley.eightfold.ai/careers/job/549798322025?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798321358?source=mscom)
 
-🎯 **Toyota** - 3 relevant new jobs:
-  • [Sr. Analyst - Accounting and Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---Accounting-and-Finance_10329276)
-  • [Consumer Insights Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Consumer-Insights-Senior-Analyst_10328480)
-  • [Commercial Credit Risk Oversight Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Commercial-Credit-Risk-Oversight-Analyst_10311594)
+🎯 **Qualcomm** - 2 relevant new jobs:
+  • [Business Process Analyst](https://careers.qualcomm.com/careers/job/446719158316?domain=qualcomm.com)
+  • [Senior Machine Learning Software Engineer](https://careers.qualcomm.com/careers/job/446719157414?domain=qualcomm.com)
 
-🎯 **Barclays** - 2 relevant new jobs:
-  • [VP - Business Analyst](https://search.jobs.barclays/job/pune/vp-business-analyst/13015/96785957136)
-  • [Data & Record Governance Analyst](https://search.jobs.barclays/job/bengaluru/data-and-record-governance-analyst/13015/96785955488)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [Analyst Relations Manager](https://boards.greenhouse.io/datadog/jobs/8003021)
 
-🎯 **Apple** - 1 relevant new jobs:
-  • [Machine Learning Engineer (Search)](https://jobs.apple.com/en-us/details/200669144-0836/machine-learning-engineer-search?team=SFTWR)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Sr. Analyst - Supply Chain](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---Supply-Chain_10329639)
+
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Senior Decision Analyst](https://search.jobs.barclays/job/noida/senior-decision-analyst/13015/96816116880)
+  • [Decision Analyst](https://search.jobs.barclays/job/noida/decision-analyst/13015/96816116864)
+  • [KYC Onboarding Analyst](https://search.jobs.barclays/job/noida/kyc-onboarding-analyst/13015/96461980592)
+
+🎯 **Apple** - 3 relevant new jobs:
+  • [Product Launch Analyst, Worldwide Readiness](https://jobs.apple.com/en-us/details/200663999-0836/product-launch-analyst-worldwide-readiness?team=OPMFG)
+  • [AIML - Sr Data Scientist, Evaluation](https://jobs.apple.com/en-us/details/200638769-3337/aiml-sr-data-scientist-evaluation?team=MLAI)
+  • [Machine Learning Research Engineer](https://jobs.apple.com/en-us/details/200669466-0836/machine-learning-research-engineer?team=HRDWR)
