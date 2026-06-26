@@ -1,53 +1,50 @@
-# Job Scan Summary - 2026-06-25
+# Job Scan Summary - 2026-06-26
 
-**New jobs today:** 380
-**Relevant new jobs:** 37
+**New jobs today:** 263
+**Relevant new jobs:** 23
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Analytics and Insights Engineer III, Business Analyst - TS/SCI w/ Poly - Ft. Meade, MD](https://apply.deloitte.com/en_US/careers/JobDetail/Analytics-and-Insights-Engineer-III-Business-Analyst-TS-SCI-w-Poly-Ft-Meade-MD/357773)
-  • [Fraud Investigative Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Fraud-Investigative-Analyst/357768)
-  • [Systems Analyst Exec Advisor](https://apply.deloitte.com/en_US/careers/JobDetail/Systems-Analyst-Exec-Advisor/357718)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Associate Analyst Global Product Markets Information](https://jobs.fidelity.com/en/jobs/2130338/associate-analyst-global-product-markets-information/)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Analyst Investment Operations](https://jobs.fidelity.com/en/jobs/2129294/analyst-investment-operations/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2130933/senior-systems-analyst/)
-  • [Market Data Vendor Analyst](https://jobs.fidelity.com/en/jobs/2129678/market-data-vendor-analyst/)
+🎯 **Synopsys** - 1 relevant new jobs:
+  • [Business Analyst InternshipPorto Salvo, PortugalCategory:Interns/TempPosted:06/24/2026Job ID:17885](https://careers.synopsys.com/job/porto-salvo/business-analyst-internship/44408/96919787216)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Security Analyst III – (Data at Rest Encryption)](https://careers.elevancehealth.com/security-analyst-iii-data-at-rest-encryption/job/8B8EBDD40261EE0D3F834B454CECCC78)
+🎯 **Elevancehealth** - 3 relevant new jobs:
+  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/3C486C247CE85EEC42A49D4182B4BF98)
+  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/4A6E06B7532DC902E7C4D9C80208B1D0)
+  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/5AC6F07990E3354BE4A27EEDEC783E79)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Senior Treasury Analyst](https://search-careers.gm.com/en/jobs/jr-202613321/senior-treasury-analyst/)
-  • [Tax Compliance Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202613534/tax-compliance-senior-analyst/)
-  • [Senior Machine Learning Engineer II](https://search-careers.gm.com/en/jobs/jr-202614083/senior-machine-learning-engineer-ii/)
-  • [Data Scientist](https://search-careers.gm.com/en/jobs/jr-202610501/data-scientist/)
-
-🎯 **Cocacola** - 1 relevant new jobs:
-  • [Data Analyst (Data Solutions)](https://careers.coca-colacompany.com/job/23537560/data-analyst-data-solutions-atlanta-ga/)
+🎯 **Gm** - 3 relevant new jobs:
+  • [Staff Data Scientist](https://search-careers.gm.com/en/jobs/jr-202613201/staff-data-scientist/)
+  • [Senior Robotics Data Engineer/Data Scientist](https://search-careers.gm.com/en/jobs/jr-202613275/senior-robotics-data-engineer-data-scientist/)
+  • [Senior Financial Analyst – Software & IT Controllership](https://search-careers.gm.com/en/jobs/jr-202613558/senior-financial-analyst-software-it-controllership/)
 
 🎯 **Intel** - 1 relevant new jobs:
-  • [Data Science and Analytics Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Science-and-Analytics-Intern_JR0284960)
+  • [Financial Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Financial-Analyst_JR0285180-1)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Investment Banking Media & Communications Analyst – New York](https://morganstanley.eightfold.ai/careers/job/549798497916?source=mscom)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Analyst, Sales](https://morganstanley.eightfold.ai/careers/job/549795904045?source=mscom)
+  • [Global Sustainable Finance, Analyst](https://morganstanley.eightfold.ai/careers/job/549798322298?source=mscom)
+  • [Investment Banking Real Estate Analyst - New York](https://morganstanley.eightfold.ai/careers/job/549798573872?source=mscom)
 
-🎯 **Qualcomm** - 3 relevant new jobs:
-  • [Staff Data Analyst](https://careers.qualcomm.com/careers/job/446719204586?domain=qualcomm.com)
-  • [Machine Learning Engineer - Generative AI](https://careers.qualcomm.com/careers/job/446719205209?domain=qualcomm.com)
-  • [Project Analyst](https://careers.qualcomm.com/careers/job/446719161530?domain=qualcomm.com)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Graduate Intern, Reservations (Data Science) - Fall 2026](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Reservations-Data-Science-Fall-2026/32877?jobId=32877)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Advanced Compensation - Senior HR Technical Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Advanced-Compensation---Senior-HR-Technical-Analyst_10329992)
-  • [Senior Analyst - Analytics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Analytics_10329993)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [GTM Strategy and Operations Analyst - Boston](https://boards.greenhouse.io/datadog/jobs/8026780)
 
-🎯 **Barclays** - 3 relevant new jobs:
-  • [AVP Operations Analyst](https://search.jobs.barclays/job/mumbai/avp-operations-analyst/13015/96905476288)
-  • [Senior Cyber Operations Analyst](https://search.jobs.barclays/job/pune/senior-cyber-operations-analyst/13015/96215820448)
-  • [Business Analyst](https://search.jobs.barclays/job/knutsford/business-analyst/13015/96245891552)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Data Scientist](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Data-Scientist_10330121)
 
-🎯 **Apple** - 15 relevant new jobs:
-  • [Senior Machine Learning Engineer - Ads Relevance & Quality](https://jobs.apple.com/en-us/details/200666596-0836/senior-machine-learning-engineer-ads-relevance-quality?team=SFTWR)
-  • [Financial Analyst, FP&A Real Estate & Development (Places) Finance](https://jobs.apple.com/en-us/details/200668983-3749/financial-analyst-fp-a-real-estate-development-places-finance?team=CORSV)
-  • [Data Scientist](https://jobs.apple.com/en-us/details/200668804-0157/data-scientist?team=SFTWR)
-  • [Business Intelligence Analyst](https://jobs.apple.com/en-us/details/200668981-0836/business-intelligence-analyst?team=CUST)
-  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200668947-0836/machine-learning-engineer?team=HRDWR)
+🎯 **Barclays** - 6 relevant new jobs:
+  • [Remediation KYC Analyst](https://search.jobs.barclays/job/gurugram/remediation-kyc-analyst/13015/96950724864)
+  • [Flow Credit Desk Analyst](https://search.jobs.barclays/job/hong-kong/flow-credit-desk-analyst/13015/96950718848)
+  • [Business Analyst](https://search.jobs.barclays/job/pune/business-analyst/13015/96950715408)
+  • [Transaction Monitoring Training Analyst](https://search.jobs.barclays/job/pune/transaction-monitoring-training-analyst/13015/96950714032)
+  • [Research Operations Analyst](https://search.jobs.barclays/job/mumbai/research-operations-analyst/13015/95888763520)
+
+🎯 **Rivian** - 1 relevant new jobs:
+  • [Sr. SAP FICO Analyst, Product Costing](https://us-careers-rivian.icims.com/jobs/31909/login)
+
+🎯 **Apple** - 1 relevant new jobs:
+  • [Senior Machine Learning Engineer, Analytics & Data Engineering](https://jobs.apple.com/en-us/details/200669664-3337/senior-machine-learning-engineer-analytics-data-engineering?team=MLAI)
