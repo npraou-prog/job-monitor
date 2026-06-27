@@ -1,50 +1,36 @@
-# Job Scan Summary - 2026-06-26
+# Job Scan Summary - 2026-06-27
 
-**New jobs today:** 263
-**Relevant new jobs:** 23
+**New jobs today:** 176
+**Relevant new jobs:** 14
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Associate Analyst Global Product Markets Information](https://jobs.fidelity.com/en/jobs/2130338/associate-analyst-global-product-markets-information/)
+🎯 **Globalpartners** - 1 relevant new jobs:
+  • [Senior Tax Analyst](https://careers.globalp.com/senior-tax-analyst/job/P1-4935441-0)
 
-🎯 **Synopsys** - 1 relevant new jobs:
-  • [Business Analyst InternshipPorto Salvo, PortugalCategory:Interns/TempPosted:06/24/2026Job ID:17885](https://careers.synopsys.com/job/porto-salvo/business-analyst-internship/44408/96919787216)
+🎯 **Meta** - 1 relevant new jobs:
+  • [AI Research Scientist, Robotics](https://www.metacareers.com/profile/job_details/1400306948797056)
 
-🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/3C486C247CE85EEC42A49D4182B4BF98)
-  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/4A6E06B7532DC902E7C4D9C80208B1D0)
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/5AC6F07990E3354BE4A27EEDEC783E79)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Business Analyst II- Capitation](https://careers.elevancehealth.com/business-analyst-ii-capitation/job/2E868B3BFDFA84338FC90FFC994F055F)
+  • [GBD Ops Analyst](https://careers.elevancehealth.com/gbd-ops-analyst/job/C0A522E0FC127E93918882B629882DC4)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [Staff Data Scientist](https://search-careers.gm.com/en/jobs/jr-202613201/staff-data-scientist/)
-  • [Senior Robotics Data Engineer/Data Scientist](https://search-careers.gm.com/en/jobs/jr-202613275/senior-robotics-data-engineer-data-scientist/)
-  • [Senior Financial Analyst – Software & IT Controllership](https://search-careers.gm.com/en/jobs/jr-202613558/senior-financial-analyst-software-it-controllership/)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Senior ML/AI Engineer - Observability](https://search-careers.gm.com/en/jobs/jr-202613387/senior-ml-ai-engineer-observability/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Financial Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Financial-Analyst_JR0285180-1)
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Agentic AI Engineer](https://careers.ibm.com/careers/JobDetail?jobId=123452)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Analyst, Sales](https://morganstanley.eightfold.ai/careers/job/549795904045?source=mscom)
-  • [Global Sustainable Finance, Analyst](https://morganstanley.eightfold.ai/careers/job/549798322298?source=mscom)
-  • [Investment Banking Real Estate Analyst - New York](https://morganstanley.eightfold.ai/careers/job/549798573872?source=mscom)
-
-🎯 **Delta** - 1 relevant new jobs:
-  • [Graduate Intern, Reservations (Data Science) - Fall 2026](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Reservations-Data-Science-Fall-2026/32877?jobId=32877)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798593252?source=mscom)
 
 🎯 **Datadog** - 1 relevant new jobs:
-  • [GTM Strategy and Operations Analyst - Boston](https://boards.greenhouse.io/datadog/jobs/8026780)
+  • [Deal Desk Analyst - Boston (Portuguese or Spanish Speaking)](https://boards.greenhouse.io/datadog/jobs/8029969)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Data Scientist](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Data-Scientist_10330121)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [IPMDM Business Analyst Lead](https://search.jobs.barclays/job/whippany/ipmdm-business-analyst-lead/13015/96979853952)
+  • [Business Analyst / Project Manager, AVP](https://search.jobs.barclays/job/new-york/business-analyst-project-manager-avp/13015/96979853760)
 
-🎯 **Barclays** - 6 relevant new jobs:
-  • [Remediation KYC Analyst](https://search.jobs.barclays/job/gurugram/remediation-kyc-analyst/13015/96950724864)
-  • [Flow Credit Desk Analyst](https://search.jobs.barclays/job/hong-kong/flow-credit-desk-analyst/13015/96950718848)
-  • [Business Analyst](https://search.jobs.barclays/job/pune/business-analyst/13015/96950715408)
-  • [Transaction Monitoring Training Analyst](https://search.jobs.barclays/job/pune/transaction-monitoring-training-analyst/13015/96950714032)
-  • [Research Operations Analyst](https://search.jobs.barclays/job/mumbai/research-operations-analyst/13015/95888763520)
-
-🎯 **Rivian** - 1 relevant new jobs:
-  • [Sr. SAP FICO Analyst, Product Costing](https://us-careers-rivian.icims.com/jobs/31909/login)
-
-🎯 **Apple** - 1 relevant new jobs:
-  • [Senior Machine Learning Engineer, Analytics & Data Engineering](https://jobs.apple.com/en-us/details/200669664-3337/senior-machine-learning-engineer-analytics-data-engineering?team=MLAI)
+🎯 **Apple** - 4 relevant new jobs:
+  • [Visual Intelligence and Machine Learning Research Scientist](https://jobs.apple.com/en-us/details/200670092-3749/visual-intelligence-and-machine-learning-research-scientist?team=HRDWR)
+  • [Sr. Applied ML Engineer, Apple Services Localization Engineering](https://jobs.apple.com/en-us/details/200670157-3337/sr-applied-ml-engineer-apple-services-localization-engineering?team=SFTWR)
+  • [Senior ML Engineer](https://jobs.apple.com/en-us/details/200670136-3337/senior-ml-engineer?team=SFTWR)
+  • [AIML - Sr Data Scientist, Evaluation](https://jobs.apple.com/en-us/details/200669902-0836/aiml-sr-data-scientist-evaluation?team=MLAI)
