@@ -1,55 +1,55 @@
-# Job Scan Summary - 2026-06-30
+# Job Scan Summary - 2026-07-01
 
-**New jobs today:** 307
-**Relevant new jobs:** 33
+**New jobs today:** 277
+**Relevant new jobs:** 30
 
 🎯 **Deloitte** - 2 relevant new jobs:
-  • [Senior Consultant, Strategy, Growth, and Transformation, Identity & Gen AI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Strategy-Growth-and-Transformation-Identity-Gen-AI-Engineer/357714)
-  • [Delivery Senior Consultant, Software Engineering Solutions, Identity & Gen AI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Software-Engineering-Solutions-Identity-Gen-AI-Engineer/357713)
+  • [GenAI Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Engineer/358366)
+  • [Clinical Data Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Clinical-Data-Analyst/358255)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Senior Financial Analyst](https://jobs.fidelity.com/en/jobs/2130446/senior-financial-analyst/)
+🎯 **Cisco** - 3 relevant new jobs:
+  • [Machine Learning Engineer](https://careers.cisco.com/global/en/job/2017922/Machine-Learning-Engineer)
+  • [Business Analyst II (Intern) - United States ENG/CHG ETR](https://careers.cisco.com/global/en/job/2017713/Business-Analyst-II-Intern-United-States-ENG-CHG-ETR)
+  • [Senior Data Scientist (Time Series + ML) | 6+ Years](https://careers.cisco.com/global/en/job/2017616/Senior-Data-Scientist-Time-Series-ML-6-Years)
 
-🎯 **Synopsys** - 1 relevant new jobs:
-  • [Sr. AI Engineer – Enterprise Agentic AISunnyvale, CaliforniaCategory:EngineeringPosted:06/28/2026Job ID:15460](https://careers.synopsys.com/job/sunnyvale/sr-ai-engineer-enterprise-agentic-ai/44408/92333269744)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Principal It Data Analyst](https://jobs.fidelity.com/en/jobs/2131640/principal-it-data-analyst/)
+  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2131644/principal-systems-analyst/)
+  • [Principal Configuration Management Analyst Csdm](https://jobs.fidelity.com/en/jobs/2130080/principal-configuration-management-analyst-csdm/)
+  • [Principal Systems Analyst](https://jobs.fidelity.com/en/jobs/2130187/principal-systems-analyst/)
 
-🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Provider Contracting Lead Analyst - Cigna Healthcare - Denver, CO](https://jobs.thecignagroup.com/us/en/job/26008103/Provider-Contracting-Lead-Analyst-Cigna-Healthcare-Denver-CO)
+🎯 **Meta** - 3 relevant new jobs:
+  • [Data Scientist, Product Analytics](https://www.metacareers.com/profile/job_details/1290978636169314)
+  • [Product Manager, Machine Learning](https://www.metacareers.com/profile/job_details/691715269835265)
+  • [AI Research Scientist](https://www.metacareers.com/profile/job_details/997644772875988)
 
-🎯 **Elevancehealth** - 7 relevant new jobs:
-  • [AI Engineer Senior](https://careers.elevancehealth.com/ai-engineer-senior/job/29159A9DB506D4B95260E3E9489B6F3F)
-  • [AI Engineer Senior](https://careers.elevancehealth.com/ai-engineer-senior/job/C0A18AF8162062BD67129FF7E070578C)
-  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/0A15D0E5B138BDFDE25801C56B94234B)
-  • [Documentation Analyst Sr.](https://careers.elevancehealth.com/documentation-analyst-sr/job/D00B0FEB00D9CBC2E421B125B5A01B4C)
-  • [Principal Engineer (AI Engineer Lead)](https://careers.elevancehealth.com/principal-engineer-ai-engineer-lead/job/513072E36FD3FF425CD5762D8BA95C05)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Data Scientist (US)](https://careers.elevancehealth.com/data-scientist-us/job/FADE177DB4B27DD2E0E94ED12E9D7FA6)
+  • [Data Scientist Senior](https://careers.elevancehealth.com/data-scientist-senior/job/B626E54FD8DF6986C06D62A5E8863CF7)
 
-🎯 **Gm** - 3 relevant new jobs:
-  • [Motorsports Operations & Procurement Analyst](https://search-careers.gm.com/en/jobs/jr-202613611/motorsports-operations-procurement-analyst/)
-  • [Senior Financial Analyst – Customer Care and Aftersales Technical Accounting](https://search-careers.gm.com/en/jobs/jr-202613596/senior-financial-analyst-customer-care-and-aftersales-technical-accounting/)
-  • [Principal AI/ML Engineer](https://search-careers.gm.com/en/jobs/jr-202604516/principal-ai-ml-engineer/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Daily Operations Analyst](https://search-careers.gm.com/en/jobs/jr-202613602/daily-operations-analyst/)
+  • [Purchasing Analyst](https://search-careers.gm.com/en/jobs/jr-202612392/purchasing-analyst/)
 
 🎯 **Intel** - 1 relevant new jobs:
-  • [supply chain analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/supply-chain-analyst_JR0285165)
+  • [SAP MM/PP Business Systems Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SAP-MM-PP-Business-Systems-Analyst_JR0284864)
 
-🎯 **Gehealthcare** - 8 relevant new jobs:
-  • [Cash Analyst](https://careers.gehealthcare.com/global/en/job/R4043032/Cash-Analyst)
-  • [Staff Machine Learning Engineer](https://careers.gehealthcare.com/global/en/job/R4042375/Staff-Machine-Learning-Engineer)
-  • [USCAN FP&A Analyst – Cash & Working Capital](https://careers.gehealthcare.com/global/en/job/R4042301/USCAN-FP-A-Analyst-Cash-Working-Capital)
-  • [Finance Analyst - Commercial](https://careers.gehealthcare.com/global/en/job/R4042964/Finance-Analyst-Commercial)
-  • [QC Analyst](https://careers.gehealthcare.com/global/en/job/R4042757/QC-Analyst)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798649611?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798595955?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798639382?source=mscom)
 
-🎯 **Delta** - 1 relevant new jobs:
-  • [Co-op, Crew Resources - Data Analyst (Spring 2027)](https://delta.avature.net/en_US/careers/JobDetail/Co-op-Crew-Resources-Data-Analyst-Spring-2027/33111?jobId=33111)
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Residual Value Accounting Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Residual-Value-Accounting-Senior-Analyst_10328639)
+  • [Corporate Shared Services Site Support Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Ontario-California/Corporate-Shared-Services-Site-Support-Analyst_10329304)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Sr Analyst – Vehicle Contribution Margin](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---Vehicle-Contribution-Margin_10330051)
-
-🎯 **Barclays** - 1 relevant new jobs:
-  • [Data Analyst - CB&P CDO](https://search.jobs.barclays/job/pune/data-analyst-cb-and-p-cdo/13015/97128395360)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Research Analyst Summer Internship Programme 2027 Singapore](https://search.jobs.barclays/job/singapore/research-analyst-summer-internship-programme-2027-singapore/13015/97173678304)
+  • [Analyst - ST&I MEx](https://search.jobs.barclays/job/chennai/analyst-st-and-i-mex/13015/97173672896)
 
 🎯 **Apple** - 6 relevant new jobs:
-  • [Machine Learning Engineer - Intelligent Quality Systems](https://jobs.apple.com/en-us/details/200670335-0836/machine-learning-engineer-intelligent-quality-systems?team=MLAI)
-  • [Machine Learning Research Scientist - Health AIML](https://jobs.apple.com/en-us/details/200649925-3337/machine-learning-research-scientist-health-aiml?team=MLAI)
-  • [CV and ML Engineer](https://jobs.apple.com/en-us/details/200670387-3337/cv-and-ml-engineer?team=MLAI)
-  • [CV and ML Engineer](https://jobs.apple.com/en-us/details/200670387-3956/cv-and-ml-engineer?team=MLAI)
-  • [Data Scientist](https://jobs.apple.com/en-us/details/200670381-3543/data-scientist?team=HRDWR)
+  • [Sr. Machine Learning Engineer](https://jobs.apple.com/en-us/details/200670390-3760/sr-machine-learning-engineer?team=MLAI)
+  • [Manager, Product Management Data Scientist](https://jobs.apple.com/en-us/details/200669478-0836/manager-product-management-data-scientist?team=MKTG)
+  • [Health Sensing ML Engineer](https://jobs.apple.com/en-us/details/200670408-0836/health-sensing-ml-engineer?team=HRDWR)
+  • [Machine Learning Research Scientist - Health AIML](https://jobs.apple.com/en-us/details/200670570-3337/machine-learning-research-scientist-health-aiml?team=MLAI)
+  • [Sr. Machine Learning Engineer - Apple News](https://jobs.apple.com/en-us/details/200670243-0836/sr-machine-learning-engineer-apple-news?team=SFTWR)
