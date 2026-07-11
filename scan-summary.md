@@ -1,51 +1,52 @@
-# Job Scan Summary - 2026-07-10
+# Job Scan Summary - 2026-07-11
 
-**New jobs today:** 289
-**Relevant new jobs:** 32
+**New jobs today:** 181
+**Relevant new jobs:** 30
 
-🎯 **Deloitte** - 7 relevant new jobs:
-  • [Analytics Development Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Analytics-Development-Analyst/359127)
-  • [Risk Adjustment Analytics Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Risk-Adjustment-Analytics-Data-Scientist/359109)
-  • [Consultant, Controllership - Financial Analyst/Audit Remediation](https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-Controllership-Financial-Analyst-Audit-Remediation/359075)
-  • [Agentic AI, AI & Data Science Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-AI-AI-Data-Science-Engineer/359035)
-  • [Lead Applied AI Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Applied-AI-Engineer-II/359031)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [ISRP Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/ISRP-Analyst/359195)
+  • [Senior Consultant-Project- ClinDoc/Stork Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Project-ClinDoc-Stork-Analyst/359154)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Sustainability Analyst](https://jobs.fidelity.com/en/jobs/2132273/sustainability-analyst/)
-  • [Senior Brokerage Product Business Analyst Alternative Investments](https://jobs.fidelity.com/en/jobs/2131758/senior-brokerage-product-business-analyst-alternative-investments/)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Logistics Operations Analyst](https://careers.cisco.com/global/en/job/2018847/Logistics-Operations-Analyst)
+  • [Deals Operations Analyst](https://careers.cisco.com/global/en/job/2018014/Deals-Operations-Analyst)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/profile/job_details/2281218542616482)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Senior Representativeassociate Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2131207/senior-representativeassociate-analyst-brokerage-operations/)
+  • [Financial Analyst](https://jobs.fidelity.com/en/jobs/2130006/financial-analyst/)
+  • [Aiml Engineer](https://jobs.fidelity.com/en/jobs/2128580/aiml-engineer/)
+  • [Risk Analyst Fidelity Institutional Risk](https://jobs.fidelity.com/en/jobs/2131309/risk-analyst-fidelity-institutional-risk/)
 
 🎯 **Elevancehealth** - 6 relevant new jobs:
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/5C792EB2EB7185254136C7C18F2382E9)
-  • [Business Analyst II (US)](https://careers.elevancehealth.com/business-analyst-ii-us/job/83E6A4A4468D9C5B3DD9AAFDF465678F)
-  • [Business Analyst III](https://careers.elevancehealth.com/business-analyst-iii/job/26C3C2ACEEA44CC3B6570DD0414C06BA)
-  • [Business Analyst III- Medicaid Overpayment Recovery](https://careers.elevancehealth.com/business-analyst-iii-medicaid-overpayment-recovery/job/C4CC7CB23C946A2BD0660B2F9F8FAD1C)
-  • [Data Admin Analyst Senior](https://careers.elevancehealth.com/data-admin-analyst-senior/job/DF06D935D2CF6EB27653E026C105D445)
+  • [Business Analyst II- Data Mining Overpayment and Operations/Payment Integrity-WGS Commercial Claims](https://careers.elevancehealth.com/business-analyst-ii-data-mining-overpayment-and-operations-payment-integrity-wgs-commercial-claims/job/3CD4E16B73A63E5DCB62AA5AF80E6B8D)
+  • [Business Analyst III- Data Mining Overpayment and Operations/Payment Integrity- WGS Claims](https://careers.elevancehealth.com/business-analyst-iii-data-mining-overpayment-and-operations-payment-integrity-wgs-claims/job/2016B82EAA1EDD393423D518923F3B02)
+  • [Documentation Analyst Senior (Information Mapping)](https://careers.elevancehealth.com/documentation-analyst-senior-information-mapping/job/18BBE7FDF31A9701EC5F4107C9841E4E)
+  • [Epic Interface Analyst](https://careers.elevancehealth.com/epic-interface-analyst/job/06ED6B333A2C7725E8B299D8E7C2571B)
+  • [Financial Reporting Analyst](https://careers.elevancehealth.com/financial-reporting-analyst/job/A6DF1A2DCE189F3CB4A5BA55C36A79AA)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Data Scientist Statistician Lead - Product Safety Data Analytics](https://search-careers.gm.com/en/jobs/jr-202614824/data-scientist-statistician-lead-product-safety-data-analytics/)
-  • [Senior Finance Analyst - Wentzville Assembly](https://search-careers.gm.com/en/jobs/jr-202614283/senior-finance-analyst-wentzville-assembly/)
-  • [Senior Financial Analyst - Finance Group - Accounting](https://search-careers.gm.com/en/jobs/jr-202613281/senior-financial-analyst-finance-group-accounting/)
-  • [Channel Insights Analyst](https://search-careers.gm.com/en/jobs/jr-202614656/channel-insights-analyst/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Systems Analyst – End User Testing](https://search-careers.gm.com/en/jobs/jr-202613168/systems-analyst-end-user-testing/)
+  • [Sr. Systems Analyst - Change Management](https://search-careers.gm.com/en/jobs/jr-202613160/sr-systems-analyst-change-management/)
 
 🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798868197?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798868227?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798868488?source=mscom)
+  • [First Line Credit Risk Analyst - Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549798810865?source=mscom)
+  • [PWM Consulting Group Analyst](https://morganstanley.eightfold.ai/careers/job/549798676566?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798886005?source=mscom)
 
-🎯 **Delta** - 3 relevant new jobs:
-  • [Cyber Threat Intelligence Analyst](https://delta.avature.net/en_US/careers/JobDetail/Cyber-Threat-Intelligence-Analyst/33238?jobId=33238)
-  • [Senior Analyst, Domestic Revenue Management](https://delta.avature.net/en_US/careers/JobDetail/Senior-Analyst-Domestic-Revenue-Management/33235?jobId=33235)
-  • [Senior Data Scientist](https://delta.avature.net/en_US/careers/JobDetail/Senior-Decision-Scientist/33178?jobId=33178)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [Staff Competitive Intelligence Analyst](https://boards.greenhouse.io/datadog/jobs/8054420)
+
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Safety Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Toyota-Motor-Mfg-Mississippi/Safety-Analyst_10330612)
+  • [Senior Cyber Risk Assurance Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Cyber-Risk-Assurance-Analyst_10325057)
 
 🎯 **Barclays** - 2 relevant new jobs:
-  • [Fraud Analyst - BA2](https://search.jobs.barclays/job/pune/fraud-analyst-ba2/13015/94208852976)
-  • [Business Analyst](https://search.jobs.barclays/job/chennai/business-analyst/13015/97600027200)
+  • [Technology Analyst](https://search.jobs.barclays/job/whippany/technology-analyst/13015/97629421904)
+  • [Sr Tech Business Analyst, AVP](https://search.jobs.barclays/job/whippany/sr-tech-business-analyst-avp/13015/97490237808)
 
-🎯 **Apple** - 4 relevant new jobs:
-  • [On-Device ML Compiler Engineer, Model Compilation, Graphics, Games and Machine Learning](https://jobs.apple.com/en-us/details/200631247-0836/on-device-ml-compiler-engineer-model-compilation-graphics-games-and-machine-learning?team=MLAI)
-  • [Business Process Analyst, WW Sales Business Transformation](https://jobs.apple.com/en-us/details/200662148-0836/business-process-analyst-ww-sales-business-transformation?team=SLDEV)
-  • [Machine Learning Engineer - Model Inference](https://jobs.apple.com/en-us/details/200671782-0836/machine-learning-engineer-model-inference?team=SFTWR)
-  • [Financial Analyst, Apple TV](https://jobs.apple.com/en-us/details/200671660-0670/financial-analyst-apple-tv?team=CORSV)
+🎯 **Apple** - 6 relevant new jobs:
+  • [Machine Learning Systems Engineer – Video Computer Vision](https://jobs.apple.com/en-us/details/200671637-3337/machine-learning-systems-engineer-video-computer-vision?team=MLAI)
+  • [Machine Learning Systems Engineer – Video Computer Vision](https://jobs.apple.com/en-us/details/200672068-3956/machine-learning-systems-engineer-video-computer-vision?team=MLAI)
+  • [SEO Analyst](https://jobs.apple.com/en-us/details/200671981-0670/seo-analyst?team=CORSV)
+  • [Software Engineer, AIML Evaluation](https://jobs.apple.com/en-us/details/200671986-0836/software-engineer-aiml-evaluation?team=SFTWR)
+  • [WPC Apple Card Data Scientist](https://jobs.apple.com/en-us/details/200671949-0836/wpc-apple-card-data-scientist?team=SFTWR)
