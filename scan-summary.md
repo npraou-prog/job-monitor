@@ -1,51 +1,38 @@
-# Job Scan Summary - 2026-07-17
+# Job Scan Summary - 2026-07-18
 
-**New jobs today:** 297
-**Relevant new jobs:** 25
+**New jobs today:** 206
+**Relevant new jobs:** 21
 
-🎯 **Deloitte** - 4 relevant new jobs:
-  • [Supply Chain Intelligence Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Chain-Intelligence-Analyst/359811)
-  • [Applied AI Engineer I](https://apply.deloitte.com/en_US/careers/JobDetail/Applied-AI-Engineer-I/359796)
-  • [Applied AI Engineer II - Encore Program](https://apply.deloitte.com/en_US/careers/JobDetail/Applied-AI-Engineer-II-Encore-Program/359778)
-  • [Applied AI Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/Applied-AI-Engineer-II/359757)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Project Consultant, Mergers & Acquisitions Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Mergers-Acquisitions-Analyst/359441)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Manager Business Analyst Fidelity Institutional Billing Solutions](https://jobs.fidelity.com/en/jobs/2131294/manager-business-analyst-fidelity-institutional-billing-solutions/)
-  • [Fixed Income Quantitative Analyst](https://jobs.fidelity.com/en/jobs/2132633/fixed-income-quantitative-analyst/)
-  • [Senior Business Analyst](https://jobs.fidelity.com/en/jobs/2131878/senior-business-analyst/)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Principal Machine Learning Engineer](https://careers.cisco.com/global/en/job/2019666/Principal-Machine-Learning-Engineer)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Financial Analyst](https://careers.chewy.com/us/en/job/R30218/Financial-Analyst)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Senior Data Scientist](https://jobs.fidelity.com/en/jobs/2131620/senior-data-scientist/)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Provider Contract/Cost of Care Analyst Senior](https://careers.elevancehealth.com/provider-contract-cost-of-care-analyst-senior/job/F471C21B4749D6ADDD124260166C4B13)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Grievance/Appeals Analyst I (US)](https://careers.elevancehealth.com/grievance-appeals-analyst-i-us/job/157A27B7DF33DE65A84CB1A178729F0C)
+  • [Grievance/Appeals Analyst I (US)](https://careers.elevancehealth.com/grievance-appeals-analyst-i-us/job/255510F6EFD332FCB9ECD1361E8A78B8)
 
-🎯 **Gm** - 2 relevant new jobs:
-  • [GBS Accounting Analyst](https://search-careers.gm.com/en/jobs/jr-202614590/gbs-accounting-analyst/)
-  • [Accounting Analyst GMSA](https://search-careers.gm.com/en/jobs/jr-202614261/accounting-analyst-gmsa/)
+🎯 **Gm** - 1 relevant new jobs:
+  • [SAP Solution Practice Analyst - Accounts Payable](https://search-careers.gm.com/en/jobs/jr-202615091/sap-solution-practice-analyst-accounts-payable/)
 
-🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Principal AI Engineer - Vice President](https://morganstanley.eightfold.ai/careers/job/549798559787?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799013626?source=mscom)
+🎯 **Cocacola** - 1 relevant new jobs:
+  • [CPS AR People & Culture Analyst](https://careers.coca-colacompany.com/job/23577713/cps-ar-people-culture-analyst-buenos-aires-ar/)
 
-🎯 **Qualcomm** - 4 relevant new jobs:
-  • [Senior Program Analyst](https://careers.qualcomm.com/careers/job/446719739574?domain=qualcomm.com)
-  • [Staff GPU AI Engineer](https://careers.qualcomm.com/careers/job/446719723427?domain=qualcomm.com)
-  • [Supply Chain Analyst](https://careers.qualcomm.com/careers/job/446719726354?domain=qualcomm.com)
-  • [Machine Learning Systems Engineer](https://careers.qualcomm.com/careers/job/446719428032?domain=qualcomm.com)
-
-🎯 **Delta** - 1 relevant new jobs:
-  • [Senior Operations Analyst, Digital and Technology Transformation](https://delta.avature.net/en_US/careers/JobDetail/Senior-Operations-Analyst-Digital-and-Technology-Transformation/33339?jobId=33339)
-
-🎯 **Toyota** - 2 relevant new jobs:
-  • [BPC/SAC Planning Sr. Analyst - Accounting and Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/BPC-SAC-Planning-Sr-Analyst---Accounting-and-Finance_10330929)
-  • [Credit Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Chandler-Arizona/Credit-Analyst_10331464)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799038736?source=mscom)
 
 🎯 **Barclays** - 3 relevant new jobs:
-  • [Data Analyst - Research](https://search.jobs.barclays/job/mumbai/data-analyst-research/13015/97909785456)
-  • [Data Analyst – AVP](https://search.jobs.barclays/job/pune/data-analyst-avp/13015/97909785136)
-  • [Coverage Analyst](https://search.jobs.barclays/job/chennai/coverage-analyst/13015/97909785024)
+  • [Senior Forward Deployed AI Engineer](https://search.jobs.barclays/job/whippany/senior-forward-deployed-ai-engineer/13015/97923297904)
+  • [Analyst - Financial Control](https://search.jobs.barclays/job/noida/analyst-financial-control/13015/97923289152)
+  • [Transaction Monitoring Training and LPT Analyst](https://search.jobs.barclays/job/glasgow/transaction-monitoring-training-and-lpt-analyst/13015/97923286416)
 
-🎯 **Apple** - 2 relevant new jobs:
-  • [Quality Analyst](https://jobs.apple.com/en-us/details/200671499-0836/quality-analyst?team=CORSV)
-  • [Administrative Assistant, AIML](https://jobs.apple.com/en-us/details/200672750-0836/administrative-assistant-aiml?team=CORSV)
+🎯 **Apple** - 10 relevant new jobs:
+  • [Machine Learning Engineer, Wallet Intelligence and Machine Learning](https://jobs.apple.com/en-us/details/200672668-0157/machine-learning-engineer-wallet-intelligence-and-machine-learning?team=MLAI)
+  • [Machine Learning Engineer, Wallet Intelligence and Machine Learning](https://jobs.apple.com/en-us/details/200672668-2459/machine-learning-engineer-wallet-intelligence-and-machine-learning?team=MLAI)
+  • [AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation](https://jobs.apple.com/en-us/details/200672937-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI)
+  • [AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation](https://jobs.apple.com/en-us/details/200672937-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI)
+  • [AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation](https://jobs.apple.com/en-us/details/200672934-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI)
