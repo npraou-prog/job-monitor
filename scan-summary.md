@@ -1,34 +1,42 @@
-# Job Scan Summary - 2026-07-24
+# Job Scan Summary - 2026-07-25
 
-**New jobs today:** 254
-**Relevant new jobs:** 18
+**New jobs today:** 198
+**Relevant new jobs:** 20
 
-🎯 **Deloitte** - 4 relevant new jobs:
-  • [Applied AI Engineer II - Encore Program](https://apply.deloitte.com/en_US/careers/JobDetail/Applied-AI-Engineer-II-Encore-Program/360479)
-  • [Business Analyst with Top Secret Clearance | PROJECT - Senior Engineering Management Specialist](https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst-with-Top-Secret-Clearance-PROJECT-Senior-Engineering-Management-Specialist/360478)
-  • [Audit & Assurance – Analyst – Technology Controls Advisory – Summer/Fall 2028, Winter 2029](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Summer-Fall-2028-Winter-2029/360220)
-  • [Audit & Assurance – Analyst – Business Process Controls Advisory – Summer/Fall 2028, Winter 2029](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Business-Process-Controls-Advisory-Summer-Fall-2028-Winter-2029/360218)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Supply Chain Strategy and Transformation Data Scientist](https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Chain-Strategy-and-Transformation-Data-Scientist/360603)
+  • [Senior, AI Business Analyst - Tax Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AI-Business-Analyst-Tax-Transformation/360258)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Analyst Relations Manager](https://careers.cisco.com/global/en/job/2019968/Analyst-Relations-Manager)
-  • [Operations Analyst](https://careers.cisco.com/global/en/job/2016647/Operations-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Data Scientist | Data Engineer (AI & GTM Analytics)](https://careers.cisco.com/global/en/job/2018975/Data-Scientist - Data-Engineer-AI-GTM-Analytics- )
 
-🎯 **Globalpartners** - 1 relevant new jobs:
-  • [Operations Analyst](https://careers.globalp.com/operations-analyst/job/P1-6271769-0)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Population Health Data Analyst](https://careers.elevancehealth.com/population-health-data-analyst/job/10E095106FA9FD8087C082C6CF40988B)
 
-🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Gen AI Engineer III](https://careers.elevancehealth.com/gen-ai-engineer-iii/job/8CA2166DF81BD6EC21B9C7ABFA0E4B50)
-  • [Infrastructure Services Analyst Sr Advisor](https://careers.elevancehealth.com/infrastructure-services-analyst-sr-advisor/job/32C90E4CF3C12DB5A4B1C66F35B7BA5B)
-  • [Mobile Device Coordinator (Asset Management Analyst)](https://careers.elevancehealth.com/mobile-device-coordinator-asset-management-analyst/job/04D0F8127D3944035669291447B445C0)
+🎯 **Gm** - 3 relevant new jobs:
+  • [Data Analyst](https://search-careers.gm.com/en/jobs/jr-202615362/data-analyst/)
+  • [Senior Finance Analyst - Bowling Green Assembly](https://search-careers.gm.com/en/jobs/jr-202615320/senior-finance-analyst-bowling-green-assembly/)
+  • [Senior AI/ML Engineer - Autonomy CI Platform](https://search-careers.gm.com/en/jobs/jr-202615460/senior-ai-ml-engineer-autonomy-ci-platform/)
 
-🎯 **Barclays** - 5 relevant new jobs:
-  • [Credit Operations Analyst](https://search.jobs.barclays/job/new-delhi/credit-operations-analyst/13015/98217202624)
-  • [Business Analyst -AVP](https://search.jobs.barclays/job/mumbai/business-analyst-avp/13015/98217202576)
-  • [Business Analyst -AVP](https://search.jobs.barclays/job/mumbai/business-analyst-avp/13015/98217202560)
-  • [Data Lineage Analyst](https://search.jobs.barclays/job/pune/data-lineage-analyst/13015/98217202512)
-  • [Analyst - Data and Records Governance – RCSA and CERPA](https://search.jobs.barclays/job/pune/analyst-data-and-records-governance-rcsa-and-cerpa/13015/98217202464)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Sr. Machine Learning Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sr-Machine-Learning-Engineer_JR0285966)
+
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Machine Learning, Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549799201782?source=mscom)
+  • [Machine Learning, Vice President](https://morganstanley.eightfold.ai/careers/job/549799201735?source=mscom)
+
+🎯 **Toyota** - 4 relevant new jobs:
+  • [Profit Lifecycle Management Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Profit-Lifecycle-Management-Senior-Analyst_10331245)
+  • [Senior Analyst - Intercompany Accounting](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Intercompany-Accounting_10331961)
+  • [Senior Accounting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Accounting-Analyst_10331486)
+  • [Analyst - Dock Operations](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Analyst---Dock-Operations_10331621)
+
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Broker Dealer Regulatory Reporting Analyst](https://search.jobs.barclays/job/whippany/broker-dealer-regulatory-reporting-analyst/13015/98249893184)
+  • [Analyst- UKCB Origination and Servicing](https://search.jobs.barclays/job/noida/analyst-ukcb-origination-and-servicing/13015/98249892576)
+  • [Business Architect Process Analyst](https://search.jobs.barclays/job/glasgow/business-architect-process-analyst/13015/92214190656)
 
 🎯 **Apple** - 3 relevant new jobs:
-  • [Senior Data Analyst, Health Operations (MSO)](https://jobs.apple.com/en-us/details/200674019-0836/senior-data-analyst-health-operations-mso?team=SFTWR)
-  • [Machine Learning Algorithm Engineer](https://jobs.apple.com/en-us/details/200672810-3956/machine-learning-algorithm-engineer?team=HRDWR)
-  • [Machine Learning Engineer: Multimodal Sensor Fusion](https://jobs.apple.com/en-us/details/200673828-3956/machine-learning-engineer-multimodal-sensor-fusion?team=MLAI)
+  • [AIML Data Operations - Senior Manager, Communications, Engagement and Learning & Development](https://jobs.apple.com/en-us/details/200674170-0836/aiml-data-operations-senior-manager-communications-engagement-and-learning-development?team=MLAI)
+  • [Senior Machine Learning Engineering Manager, Responsible AI and Safety - AIML/SWE](https://jobs.apple.com/en-us/details/200655875-0836/senior-machine-learning-engineering-manager-responsible-ai-and-safety-aiml-swe?team=MLAI)
+  • [Senior / Staff Machine Learning Engineer](https://jobs.apple.com/en-us/details/200674140-3337/senior-staff-machine-learning-engineer?team=SFTWR)
