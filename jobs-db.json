@@ -55853,6 +55853,76 @@
         "url": "https://careers.cisco.com/global/en/job/2018975/Data-Scientist\u00a0-\u00a0Data-Engineer-AI-GTM-Analytics-\u00a0",
         "firstSeen": "2026-07-25T15:16:27.321955",
         "restrictions": []
+      },
+      "2018755": {
+        "id": "2018755",
+        "title": "Product Lifecycle Project Manager (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2018755/Product-Lifecycle-Project-Manager-Hybrid",
+        "firstSeen": "2026-07-26T15:10:28.463346",
+        "restrictions": []
+      },
+      "2019338": {
+        "id": "2019338",
+        "title": "Partner Account Executive, Architecture - ThousandEyes",
+        "url": "https://careers.cisco.com/global/en/job/2019338/Partner-Account-Executive-Architecture-ThousandEyes",
+        "firstSeen": "2026-07-26T15:11:12.872719",
+        "restrictions": []
+      },
+      "2019188": {
+        "id": "2019188",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2019188/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-07-26T15:11:18.492067",
+        "restrictions": []
+      },
+      "2017589": {
+        "id": "2017589",
+        "title": "Software Engineer (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2017589/Software-Engineer-Remote",
+        "firstSeen": "2026-07-26T15:11:45.910736",
+        "restrictions": []
+      },
+      "2017955": {
+        "id": "2017955",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2017955/Solutions-Engineer",
+        "firstSeen": "2026-07-26T15:18:03.325299",
+        "restrictions": []
+      },
+      "2019418": {
+        "id": "2019418",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2019418/Solutions-Engineer",
+        "firstSeen": "2026-07-26T15:18:03.331466",
+        "restrictions": []
+      },
+      "2019848": {
+        "id": "2019848",
+        "title": "Account Executive - Splunk Commercial (Remote, EST)",
+        "url": "https://careers.cisco.com/global/en/job/2019848/Account-Executive-Splunk-Commercial-Remote-EST",
+        "firstSeen": "2026-07-26T15:18:08.628998",
+        "restrictions": []
+      },
+      "2017174": {
+        "id": "2017174",
+        "title": "Software Engineer, Infrastructure Automation - Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2017174/Software-Engineer-Infrastructure-Automation-Hybrid",
+        "firstSeen": "2026-07-26T15:18:08.639353",
+        "restrictions": []
+      },
+      "2015509": {
+        "id": "2015509",
+        "title": "Senior Site Reliability Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2015509/Senior-Site-Reliability-Engineer",
+        "firstSeen": "2026-07-26T15:18:08.644532",
+        "restrictions": []
+      },
+      "2019005": {
+        "id": "2019005",
+        "title": "Software Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2019005/Software-Engineer-Hybrid",
+        "firstSeen": "2026-07-26T15:18:08.667314",
+        "restrictions": []
       }
     },
     "visa": {
@@ -92565,6 +92635,27 @@
         "url": "https://careers.chewy.com/us/en/job/R30343/Senior-Program-Manager-Payment-Operations-Payment-Optimization",
         "firstSeen": "2026-07-25T15:21:39.659379",
         "restrictions": []
+      },
+      "R30332": {
+        "id": "R30332",
+        "title": "Associate Veterinarian",
+        "url": "https://careers.chewy.com/us/en/job/R30332/Associate-Veterinarian",
+        "firstSeen": "2026-07-26T15:23:12.910488",
+        "restrictions": []
+      },
+      "R30331": {
+        "id": "R30331",
+        "title": "Lead Veterinarian",
+        "url": "https://careers.chewy.com/us/en/job/R30331/Lead-Veterinarian",
+        "firstSeen": "2026-07-26T15:23:12.916576",
+        "restrictions": []
+      },
+      "R30373": {
+        "id": "R30373",
+        "title": "Practice Manager",
+        "url": "https://careers.chewy.com/us/en/job/R30373/Practice-Manager",
+        "firstSeen": "2026-07-26T15:23:12.963538",
+        "restrictions": []
       }
     },
     "meta": {
@@ -98346,6 +98437,34 @@
         "title": "Network Planner, Network Infrastructure",
         "url": "https://www.metacareers.com/profile/job_details/1747969426652136",
         "firstSeen": "2026-07-25T15:22:20.268500",
+        "restrictions": []
+      },
+      "1326061983016624": {
+        "id": "1326061983016624",
+        "title": "Technical Program Manager, Ads Ranking",
+        "url": "https://www.metacareers.com/profile/job_details/1326061983016624",
+        "firstSeen": "2026-07-26T15:23:54.338601",
+        "restrictions": []
+      },
+      "2276418099829274": {
+        "id": "2276418099829274",
+        "title": "Data Center Strategy & Planning Manager",
+        "url": "https://www.metacareers.com/profile/job_details/2276418099829274",
+        "firstSeen": "2026-07-26T15:23:54.343798",
+        "restrictions": []
+      },
+      "1506391554840264": {
+        "id": "1506391554840264",
+        "title": "Capacity Strategy & Planning Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1506391554840264",
+        "firstSeen": "2026-07-26T15:23:54.347589",
+        "restrictions": []
+      },
+      "3638157606325591": {
+        "id": "3638157606325591",
+        "title": "Mechanical Design Engineer: Robotics Hardware Engineering, Robot Design",
+        "url": "https://www.metacareers.com/profile/job_details/3638157606325591",
+        "firstSeen": "2026-07-26T15:23:54.351010",
         "restrictions": []
       }
     },
@@ -239696,6 +239815,20 @@
         "url": "https://jobs.apple.com/en-us/details/200653830-6709/data-center-construction-project-manager?team=CORSV",
         "firstSeen": "2026-07-25T15:36:10.913226",
         "restrictions": []
+      },
+      "200673612-0157": {
+        "id": "200673612-0157",
+        "title": "Applied Data Solutions Program (Internships)",
+        "url": "https://jobs.apple.com/en-us/details/200673612-0157/applied-data-solutions-program-internships?team=CORSV",
+        "firstSeen": "2026-07-26T15:37:13.015177",
+        "restrictions": []
+      },
+      "200673612-0836": {
+        "id": "200673612-0836",
+        "title": "Applied Data Solutions Program (Internships)",
+        "url": "https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships?team=CORSV",
+        "firstSeen": "2026-07-26T15:37:13.022277",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -239723,5 +239856,5 @@
       }
     }
   },
-  "lastUpdated": "2026-07-25T15:37:00.395237"
+  "lastUpdated": "2026-07-26T15:38:02.582151"
 }
