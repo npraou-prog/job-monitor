@@ -1,51 +1,59 @@
-# Job Scan Summary - 2026-07-28
+# Job Scan Summary - 2026-07-29
 
-**New jobs today:** 293
-**Relevant new jobs:** 32
+**New jobs today:** 363
+**Relevant new jobs:** 65
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Cost Analyst, Strategy & Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Cost-Analyst-Strategy-Transformation/360852)
+🎯 **Deloitte** - 4 relevant new jobs:
+  • [L55 - Lead AI and Data Science Engineer II (Secret Clearance Required)](https://apply.deloitte.com/en_US/careers/JobDetail/L55-Lead-AI-and-Data-Science-Engineer-II-Secret-Clearance-Required/361017)
+  • [Project Management Analyst - Federal Health Logistics](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Management-Analyst-Federal-Health-Logistics/360962)
+  • [MI&A - Market Insights Intelligence Analyst - C_MAT](https://apply.deloitte.com/en_US/careers/JobDetail/MI-A-Market-Insights-Intelligence-Analyst-C-MAT/360911)
+  • [AI Program Analyst - Analytics and Insights Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Program-Analyst-Analytics-and-Insights-Engineer-II/360871)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2019993/Business-Operations-Analyst)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Am Quantitative Analyst I](https://jobs.fidelity.com/en/jobs/2133145/am-quantitative-analyst-i/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Senior Financial Analyst](https://careers.chewy.com/us/en/job/R30244/Senior-Financial-Analyst)
+🎯 **Meta** - 2 relevant new jobs:
+  • [Data Science Director](https://www.metacareers.com/profile/job_details/1540996080295418)
+  • [Data Scientist, Analytics (Ranking, AI)](https://www.metacareers.com/profile/job_details/1068302586153033)
 
-🎯 **Elevancehealth** - 6 relevant new jobs:
-  • [Business Information Analyst II](https://careers.elevancehealth.com/business-information-analyst-ii/job/1453A26584640A24246E44B443E108B6)
-  • [HR Technology Analyst Senior](https://careers.elevancehealth.com/hr-technology-analyst-senior/job/36023A9A73EBE14F828FC464462D3707)
-  • [Population Health Data Analyst](https://careers.elevancehealth.com/population-health-data-analyst/job/F195B491146D1858F4DA80EC9B9A8D01)
-  • [Sr Test Analyst PBM](https://careers.elevancehealth.com/sr-test-analyst-pbm/job/E0BACCEA9E12E8C227B71B51E662C400)
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/56A6D3122D77617170009454FD09D3E5)
+🎯 **Cigna-Healthcare** - 1 relevant new jobs:
+  • [Presale Support Analyst - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26009381/Presale-Support-Analyst-Cigna-Healthcare-Remote)
 
-🎯 **Intel** - 2 relevant new jobs:
-  • [Sr. Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Sr-Planning-Analyst_JR0285706)
-  • [Data Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Data-Scientist_JR0285897-1)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Actuarial Analyst I](https://careers.elevancehealth.com/actuarial-analyst-i/job/C0F6979A3324555D1DD20688B1CB16BC)
+  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/B7472475DB2D197205931A66EE4D7794)
+  • [Business Analyst II - Payment Integrity Datamining](https://careers.elevancehealth.com/business-analyst-ii-payment-integrity-datamining/job/47D754A88525885BE98CF83DEF93AA8C)
+  • [DCCM Admin / Infrastructure Services Analyst Senior](https://careers.elevancehealth.com/dccm-admin-infrastructure-services-analyst-senior/job/A2E31C63D00EF8E5950C7E430226E620)
 
 🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Analyst, Client Reporting - Parametric](https://morganstanley.eightfold.ai/careers/job/549799114890?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799344423?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799184873?source=mscom)
-  • [Data Scientist (NLP and GenAI Specialist)](https://morganstanley.eightfold.ai/careers/job/549799200737?source=mscom)
+  • [Senior Investment Analyst - Parametric](https://morganstanley.eightfold.ai/careers/job/549799164599?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799391268?source=mscom)
+  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549799388247?source=mscom)
+  • [U.S. Banks Conduct Risk Analyst](https://morganstanley.eightfold.ai/careers/job/549799163002?source=mscom)
 
-🎯 **Delta** - 1 relevant new jobs:
-  • [Analyst, Pricing Solutions – Revenue Management](https://delta.avature.net/en_US/careers/JobDetail/Analyst-Pricing-Solutions-Revenue-Management/33359?jobId=33359)
+🎯 **Qualcomm** - 9 relevant new jobs:
+  • [Senior Machine Learning Software Engineer](https://careers.qualcomm.com/careers/job/446719947203?domain=qualcomm.com)
+  • [DataCenter Project Analyst](https://careers.qualcomm.com/careers/job/446720134255?domain=qualcomm.com)
+  • ["Senior Embedded and Machine Learning Software Development Engineer "](https://careers.qualcomm.com/careers/job/446719915088?domain=qualcomm.com)
+  • [Program Analyst, Staff - Automotive Chipset](https://careers.qualcomm.com/careers/job/446719895545?domain=qualcomm.com)
+  • [Senior Financial Performance Analyst](https://careers.qualcomm.com/careers/job/446719871576?domain=qualcomm.com)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Dealer Products Accounting Sr. Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Dealer-Products-Accounting-Sr-Analyst_10330429)
-  • [Sr. Treasury ALM & Analytics Analyst ](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Treasury-ALM---Analytics-Analyst-_10331282)
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Service Data Scientist](https://careers.gehealthcare.com/global/en/job/R4044120/Service-Data-Scientist)
 
-🎯 **Barclays** - 5 relevant new jobs:
-  • [APAC Collateral & Margin Services Analyst](https://search.jobs.barclays/job/singapore/apac-collateral-and-margin-services-analyst/13015/98409603936)
-  • [AI Engineering Lead-VP](https://search.jobs.barclays/job/pune/ai-engineering-lead-vp/13015/98409603856)
-  • [Data Scientist – Wealth Management](https://search.jobs.barclays/job/london/data-scientist-wealth-management/13015/98409603056)
-  • [Senior Data Scientist – Wealth Management](https://search.jobs.barclays/job/london/senior-data-scientist-wealth-management/13015/98409602912)
-  • [Insights and Analytics Business Analyst](https://search.jobs.barclays/job/pune/insights-and-analytics-business-analyst/13015/98409601120)
+🎯 **Toyota** - 4 relevant new jobs:
+  • [Analyst- New Model Trial Parts Ordering](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Blue-Springs-Mississippi/Analyst--New-Model-Trial-Parts-Ordering_10331129)
+  • [Sr. Security AI/ML Engineer](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Security-AI-ML-Engineer_10331988)
+  • [Analyst - Retail Transformation](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst---Retail-Transformation_10332079)
+  • [Legal Analyst and Executive Assistant](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Legal-Analyst-and-Executive-Assistant_10332040)
 
-🎯 **Apple** - 9 relevant new jobs:
-  • [Senior Threat Intelligence Analyst, SEAR](https://jobs.apple.com/en-us/details/200674432-4099/senior-threat-intelligence-analyst-sear?team=SFTWR)
-  • [Machine Learning Engineer – Computer Vision & Data Systems](https://jobs.apple.com/en-us/details/200674453-3337/machine-learning-engineer-computer-vision-data-systems?team=MLAI)
-  • [Machine Learning Engineer – Computer Vision & Data Systems](https://jobs.apple.com/en-us/details/200674453-3956/machine-learning-engineer-computer-vision-data-systems?team=MLAI)
-  • [Senior Machine Learning Software Engineer - Computer Vision](https://jobs.apple.com/en-us/details/200674465-3956/senior-machine-learning-software-engineer-computer-vision?team=MLAI)
-  • [AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation](https://jobs.apple.com/en-us/details/200674439-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Decision Analyst](https://search.jobs.barclays/job/gurugram/decision-analyst/13015/98423281984)
+  • [Analyst - Governance Risk & Control](https://search.jobs.barclays/job/pune/analyst-governance-risk-and-control/13015/98423272336)
+
+🎯 **Apple** - 33 relevant new jobs:
+  • [Staff Machine Learning Engineer - News, Books, and Stocks Team](https://jobs.apple.com/en-us/details/200674738-0157/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR)
+  • [Staff Machine Learning Engineer - News, Books, and Stocks Team](https://jobs.apple.com/en-us/details/200674738-0365/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR)
+  • [Staff Machine Learning Engineer - News, Books, and Stocks Team](https://jobs.apple.com/en-us/details/200674738-1242/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR)
+  • [Staff Machine Learning Engineer - News, Books, and Stocks Team](https://jobs.apple.com/en-us/details/200674738-1435/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR)
+  • [Staff Machine Learning Engineer - News, Books, and Stocks Team](https://jobs.apple.com/en-us/details/200674738-0670/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR)
