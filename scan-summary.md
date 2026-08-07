@@ -1,46 +1,59 @@
-# Job Scan Summary - 2026-08-05
+# Job Scan Summary - 2026-08-07
 
-**New jobs today:** 256
-**Relevant new jobs:** 23
+**New jobs today:** 507
+**Relevant new jobs:** 51
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [Oracle HCM Cloud Technical Integration Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Cloud-Technical-Integration-Analyst/361842)
-  • [Cyber Intelligence Analyst, Manager, Strategy, Growth, and Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Intelligence-Analyst-Manager-Strategy-Growth-and-Transformation/361816)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Lead Cloud Security Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Cloud-Security-Analyst/362121)
+  • [Data Scientist - Secret Clearance](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Secret-Clearance/362101)
+  • [Delivery Analyst, Infrastructure Engineering Solutions - Tier 1 Help Desk](https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-Infrastructure-Engineering-Solutions-Tier-1-Help-Desk/362082)
+  • [Security Engineer III, Exploitation Analyst / Incident Responder (TS Clearance)](https://apply.deloitte.com/en_US/careers/JobDetail/Security-Engineer-III-Exploitation-Analyst-Incident-Responder-TS-Clearance/362066)
+  • [Cyber Analyst - ServiceNow](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Analyst-ServiceNow/361524)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Financial Analyst I - LIFT Intern](https://careers.cisco.com/global/en/job/2022092/Financial-Analyst-I-LIFT-Intern)
-  • [Machine Learning Engineer](https://careers.cisco.com/global/en/job/2021531/Machine-Learning-Engineer)
+🎯 **Cisco** - 4 relevant new jobs:
+  • [Distinguished AI Engineer (Hybrid)](https://careers.cisco.com/global/en/job/2018230/Distinguished-AI-Engineer-Hybrid)
+  • [Business Analyst](https://careers.cisco.com/global/en/job/2020621/Business-Analyst)
+  • [Technical Lead, Machine Learning Engineering (AI Canvas)](https://careers.cisco.com/global/en/job/2018626/Technical-Lead-Machine-Learning-Engineering-AI-Canvas)
+  • [Finance Analyst- CA - FP&A (2-4yrs)](https://careers.cisco.com/global/en/job/2020346/Finance-Analyst-CA-FP-A-2-4yrs)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Financial Operations Analyst Lead- Data Mining Overpayment and Operations/Payment Integrity- WGS Claims](https://careers.elevancehealth.com/financial-operations-analyst-lead-data-mining-overpayment-and-operations-payment-integrity-wgs-claims/job/222283096BD659D71842C12C6902C5BD)
-  • [Provider Payment Appeals Analyst I](https://careers.elevancehealth.com/provider-payment-appeals-analyst-i/job/9449A1A3BEE0EC67BE558B09B38814D1)
+🎯 **Elevancehealth** - 4 relevant new jobs:
+  • [Behavioral Health Clinical Quality Audit Analyst Senior - Maryland](https://careers.elevancehealth.com/behavioral-health-clinical-quality-audit-analyst-senior-maryland/job/3EBCF00C28E3A4906EE8B338D695CB7B)
+  • [Payor Pricing Analyst (BioPlus)](https://careers.elevancehealth.com/payor-pricing-analyst-bioplus/job/A3407D1C8ED519383BD54D0868638799)
+  • [Security Analyst III (US)](https://careers.elevancehealth.com/security-analyst-iii-us/job/E378492E40503652382B609D4B5D2A6E)
+  • [Subrogation Analyst](https://careers.elevancehealth.com/subrogation-analyst/job/3FB8277107A3554C09310C361F2B8B52)
 
-🎯 **Gm** - 5 relevant new jobs:
-  • [Staff Research Scientist - VLM / VLA](https://search-careers.gm.com/en/jobs/jr-202616614/staff-research-scientist-vlm-vla/)
-  • [Imported Material Flow Analyst](https://search-careers.gm.com/en/jobs/jr-202615681/imported-material-flow-analyst/)
-  • [GPSC Finance Analyst - Commodity Function Lead](https://search-careers.gm.com/en/jobs/jr-202616228/gpsc-finance-analyst-commodity-function-lead/)
-  • [Information and Tools Analyst](https://search-careers.gm.com/en/jobs/jr-202615440/information-and-tools-analyst/)
-  • [Senior Machine Learning Perception Engineer - Fallback Driving System](https://search-careers.gm.com/en/jobs/jr-202612197/senior-machine-learning-perception-engineer-fallback-driving-system/)
+🎯 **Gm** - 11 relevant new jobs:
+  • [FP&A Analyst](https://search-careers.gm.com/en/jobs/jr-202615975/fp-a-analyst/)
+  • [Senior Financial Analyst - Reporting and Analysis](https://search-careers.gm.com/en/jobs/jr-202616525/senior-financial-analyst-reporting-and-analysis/)
+  • [Senior AI/ML Engineer - Data Scaling, Embodied AI Data Foundations](https://search-careers.gm.com/en/jobs/jr-202616913/senior-ai-ml-engineer-data-scaling-embodied-ai-data-foundations/)
+  • [Sr. Market Research Analyst](https://search-careers.gm.com/en/jobs/jr-202616838/sr-market-research-analyst/)
+  • [Senior Financial Analyst - US Pricing](https://search-careers.gm.com/en/jobs/jr-202614344/senior-financial-analyst-us-pricing/)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Generative AI & Machine Learning Engineer](https://morganstanley.eightfold.ai/careers/job/549799388181?source=mscom)
+🎯 **Morganstanley** - 5 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549798861248?source=mscom)
+  • [Lead Business Analyst](https://morganstanley.eightfold.ai/careers/job/549799424948?source=mscom)
+  • [Sr AI Engineer](https://morganstanley.eightfold.ai/careers/job/549799501420?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799484064?source=mscom)
+  • [Technical Analyst, AI Solutions, AVP](https://morganstanley.eightfold.ai/careers/job/549799346486?source=mscom)
 
 🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Data Analyst - Product](https://careers.gehealthcare.com/global/en/job/R4044660/Data-Analyst-Product)
+  • [Business Title Data and BI Analyst – Projects and Initiatives](https://careers.gehealthcare.com/global/en/job/R4044554/Business-Title-Data-and-BI-Analyst-Projects-and-Initiatives)
 
-🎯 **Delta** - 1 relevant new jobs:
-  • [Data Analyst - Retail and Reporting](https://delta.avature.net/en_US/careers/JobDetail/Data-Analyst-Retail-and-Reporting/33502?jobId=33502)
+🎯 **Toyota** - 5 relevant new jobs:
+  • [Digital Retail Sr. Analyst - Service](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Digital-Retail-Sr-Analyst---Service_10332677)
+  • [Purchasing Supplier Development Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Purchasing-Supplier-Development-Analyst_10332871)
+  • [Purchasing Supplier Development Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Georgetown-Kentucky/Purchasing-Supplier-Development-Analyst_10331808)
+  • [Buying Systems Analyst - Purchasing Supplier Development](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Buying-Systems-Analyst---Purchasing-Supplier-Development_10328734)
+  • [Digital Retail Sr. Analyst - Sales](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Digital-Retail-Sr-Analyst---Sales_10332676)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Marketing Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Marketing-Analyst_10332036)
-  • [Senior Analyst - Analytics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Analytics_10332764)
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Technology Analyst](https://search.jobs.barclays/job/pune/technology-analyst/13015/98878072816)
+  • [KYC Analyst](https://search.jobs.barclays/job/pune/kyc-analyst/13015/98409592528)
+  • [KYC Refresh Analyst](https://search.jobs.barclays/job/pune/kyc-refresh-analyst/13015/98878064144)
 
-🎯 **Barclays** - 1 relevant new jobs:
-  • [Senior VPT Analyst](https://search.jobs.barclays/job/pune/senior-vpt-analyst/13015/98468667280)
-
-🎯 **Apple** - 6 relevant new jobs:
-  • [Data Scientist - Insights and Analytics](https://jobs.apple.com/en-us/details/200675897-0157/data-scientist-insights-and-analytics?team=HRDWR)
-  • [Retail Finance Analyst - Process, Analytics, Reporting and Technology (PART)](https://jobs.apple.com/en-us/details/200674945-0836/retail-finance-analyst-process-analytics-reporting-and-technology-part?team=CORSV)
-  • [ML Engineer - Robotics](https://jobs.apple.com/en-us/details/200675240-0836/ml-engineer-robotics?team=MLAI)
-  • [Finance Analyst, Hardware Engineering](https://jobs.apple.com/en-us/details/200674405-0836/finance-analyst-hardware-engineering?team=CORSV)
-  • [Market Research Analyst](https://jobs.apple.com/en-us/details/200675046-0836/market-research-analyst?team=MKTG)
+🎯 **Apple** - 13 relevant new jobs:
+  • [Staff Machine Learning Engineer, Tools and Framework AI](https://jobs.apple.com/en-us/details/200675799-0836/staff-machine-learning-engineer-tools-and-framework-ai?team=SFTWR)
+  • [Display Algorithm Engineer / Machine Learning Engineer](https://jobs.apple.com/en-us/details/200676458-3401/display-algorithm-engineer-machine-learning-engineer?team=HRDWR)
+  • [Display Algorithm Engineer / Machine Learning Engineer](https://jobs.apple.com/en-us/details/200676479-3401/display-algorithm-engineer-machine-learning-engineer?team=HRDWR)
+  • [On-Device ML Infrastructure Engineer (ML User Experience APIs), Graphics, Games and Machine Learning](https://jobs.apple.com/en-us/details/200676475-0836/on-device-ml-infrastructure-engineer-ml-user-experience-apis-graphics-games-and-machine-learning?team=MLAI)
+  • [AIML - Privacy & Compliance Data Strategy Lead, Evaluation](https://jobs.apple.com/en-us/details/200668120-2459/aiml-privacy-compliance-data-strategy-lead-evaluation?team=MLAI)
