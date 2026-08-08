@@ -30031,6 +30031,115 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Specialist-Lead-Channel-Sales-Supply-Chain-Senior-Consultant-Level/358637",
         "firstSeen": "2026-08-07T14:55:04.430337",
         "restrictions": []
+      },
+      "362230": {
+        "id": "362230",
+        "title": "Lead Data Mgt Engineer \u2013 Archiving/ILM",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Mgt-Engineer-Archiving-ILM/362230",
+        "firstSeen": "2026-08-08T14:33:02.159184",
+        "restrictions": []
+      },
+      "362223": {
+        "id": "362223",
+        "title": "SOC Delivery Management Engineer | Secret Clearance Required",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/SOC-Delivery-Management-Engineer-Secret-Clearance-Required/362223",
+        "firstSeen": "2026-08-08T14:33:02.159209",
+        "restrictions": [
+          "clearance"
+        ]
+      },
+      "362222": {
+        "id": "362222",
+        "title": "Delivery Senior Consultant, Software Engineering Solutions",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Software-Engineering-Solutions/362222",
+        "firstSeen": "2026-08-08T14:33:02.159224",
+        "restrictions": []
+      },
+      "362216": {
+        "id": "362216",
+        "title": "Consultant, PMO Operations",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-PMO-Operations/362216",
+        "firstSeen": "2026-08-08T14:33:02.159242",
+        "restrictions": []
+      },
+      "362209": {
+        "id": "362209",
+        "title": "Talent Acquisition Specialist for Skilled Trades - Secret Cleared - Arlington, VA",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Talent-Acquisition-Specialist-for-Skilled-Trades-Secret-Cleared-Arlington-VA/362209",
+        "firstSeen": "2026-08-08T14:33:02.159255",
+        "restrictions": []
+      },
+      "362208": {
+        "id": "362208",
+        "title": "Manager, Sanctions Forensics and Investigations",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-Sanctions-Forensics-and-Investigations/362208",
+        "firstSeen": "2026-08-08T14:33:02.159266",
+        "restrictions": []
+      },
+      "362206": {
+        "id": "362206",
+        "title": "Senior Consultant, Product Marketer",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Product-Marketer/362206",
+        "firstSeen": "2026-08-08T14:33:02.159277",
+        "restrictions": []
+      },
+      "362205": {
+        "id": "362205",
+        "title": "Tax Consultant II, Mergers & Acquisitions",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Tax-Consultant-II-Mergers-Acquisitions/362205",
+        "firstSeen": "2026-08-08T14:33:02.159292",
+        "restrictions": []
+      },
+      "362202": {
+        "id": "362202",
+        "title": "Google AI Architect",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Google-AI-Architect/362202",
+        "firstSeen": "2026-08-08T14:33:02.159302",
+        "restrictions": []
+      },
+      "362186": {
+        "id": "362186",
+        "title": "AI Governance & Assurance Strategy Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-Governance-Assurance-Strategy-Manager/362186",
+        "firstSeen": "2026-08-08T14:33:02.159311",
+        "restrictions": []
+      },
+      "362162": {
+        "id": "362162",
+        "title": "V&V Test Coordinator - AI & Engineering",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/V-V-Test-Coordinator-AI-Engineering/362162",
+        "firstSeen": "2026-08-08T14:33:03.532735",
+        "restrictions": []
+      },
+      "362161": {
+        "id": "362161",
+        "title": "Workforce Assessment Manager - TS/SCI w/ Poly - Ft. Meade, MD",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Workforce-Assessment-Manager-TS-SCI-w-Poly-Ft-Meade-MD/362161",
+        "firstSeen": "2026-08-08T14:33:03.532756",
+        "restrictions": [
+          "clearance"
+        ]
+      },
+      "362153": {
+        "id": "362153",
+        "title": "Manager - SAP Concur",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-SAP-Concur/362153",
+        "firstSeen": "2026-08-08T14:33:03.532767",
+        "restrictions": []
+      },
+      "362088": {
+        "id": "362088",
+        "title": "AI Developer",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-Developer/362088",
+        "firstSeen": "2026-08-08T14:33:03.532802",
+        "restrictions": []
+      },
+      "362079": {
+        "id": "362079",
+        "title": "Cornerstone Technical Senior Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cornerstone-Technical-Senior-Consultant/362079",
+        "firstSeen": "2026-08-08T14:33:04.866178",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -60787,6 +60896,167 @@
         "url": "https://careers.cisco.com/global/en/job/2015198/Customer-Experience-Manager-Enterprise",
         "firstSeen": "2026-08-07T15:05:47.030401",
         "restrictions": []
+      },
+      "2021754": {
+        "id": "2021754",
+        "title": "Software Engineering Technical Leader -- Secure Workload Agent",
+        "url": "https://careers.cisco.com/global/en/job/2021754/Software-Engineering-Technical-Leader-Secure-Workload-Agent",
+        "firstSeen": "2026-08-08T14:35:20.609129",
+        "restrictions": []
+      },
+      "2020394": {
+        "id": "2020394",
+        "title": "Program Manager - Integration",
+        "url": "https://careers.cisco.com/global/en/job/2020394/Program-Manager-Integration",
+        "firstSeen": "2026-08-08T14:35:20.615865",
+        "restrictions": []
+      },
+      "2020398": {
+        "id": "2020398",
+        "title": "Strategy & Planning (NPI), Lead",
+        "url": "https://careers.cisco.com/global/en/job/2020398/Strategy-Planning-NPI-Lead",
+        "firstSeen": "2026-08-08T14:35:20.628255",
+        "restrictions": []
+      },
+      "2021104": {
+        "id": "2021104",
+        "title": "Forward Deployed Engineer Secure Services Edge (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2021104/Forward-Deployed-Engineer-Secure-Services-Edge-Remote",
+        "firstSeen": "2026-08-08T14:35:20.643934",
+        "restrictions": []
+      },
+      "2021826": {
+        "id": "2021826",
+        "title": "Business Consulting Manager",
+        "url": "https://careers.cisco.com/global/en/job/2021826/Business-Consulting-Manager",
+        "firstSeen": "2026-08-08T14:35:31.067650",
+        "restrictions": []
+      },
+      "2022003": {
+        "id": "2022003",
+        "title": "Portfolio Sales Account Manager",
+        "url": "https://careers.cisco.com/global/en/job/2022003/Portfolio-Sales-Account-Manager",
+        "firstSeen": "2026-08-08T14:35:31.085306",
+        "restrictions": []
+      },
+      "2021194": {
+        "id": "2021194",
+        "title": "Account Executive - Service Provider",
+        "url": "https://careers.cisco.com/global/en/job/2021194/Account-Executive-Service-Provider",
+        "firstSeen": "2026-08-08T14:35:46.839350",
+        "restrictions": []
+      },
+      "2021055": {
+        "id": "2021055",
+        "title": "Enterprise Hardware Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2021055/Enterprise-Hardware-Engineering-Technical-Leader",
+        "firstSeen": "2026-08-08T14:36:19.495139",
+        "restrictions": []
+      },
+      "2019741": {
+        "id": "2019741",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2019741/Software-Engineer",
+        "firstSeen": "2026-08-08T14:36:19.520072",
+        "restrictions": []
+      },
+      "2021411": {
+        "id": "2021411",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2021411/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-08-08T14:36:19.528597",
+        "restrictions": []
+      },
+      "2021005": {
+        "id": "2021005",
+        "title": "Software Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2021005/Software-Engineering-Technical-Leader",
+        "firstSeen": "2026-08-08T14:36:24.766249",
+        "restrictions": []
+      },
+      "2021908": {
+        "id": "2021908",
+        "title": "Engineering Product Manager",
+        "url": "https://careers.cisco.com/global/en/job/2021908/Engineering-Product-Manager",
+        "firstSeen": "2026-08-08T14:36:24.782444",
+        "restrictions": []
+      },
+      "2021678": {
+        "id": "2021678",
+        "title": "Industry Solutions Engineer - Healthcare, Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2021678/Industry-Solutions-Engineer-Healthcare-Splunk",
+        "firstSeen": "2026-08-08T14:36:24.788901",
+        "restrictions": []
+      },
+      "2021250": {
+        "id": "2021250",
+        "title": "Strategy & Planning Manager",
+        "url": "https://careers.cisco.com/global/en/job/2021250/Strategy-Planning-Manager",
+        "firstSeen": "2026-08-08T14:36:24.798344",
+        "restrictions": []
+      },
+      "2020526": {
+        "id": "2020526",
+        "title": "Solutions Engineer-Enterprise Sales, Nashville",
+        "url": "https://careers.cisco.com/global/en/job/2020526/Solutions-Engineer-Enterprise-Sales-Nashville",
+        "firstSeen": "2026-08-08T14:36:46.757852",
+        "restrictions": []
+      },
+      "2021684": {
+        "id": "2021684",
+        "title": "Leader, Solutions Engineer, Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2021684/Leader-Solutions-Engineer-Splunk",
+        "firstSeen": "2026-08-08T14:36:51.848052",
+        "restrictions": []
+      },
+      "2019172": {
+        "id": "2019172",
+        "title": "Senior Staff Product Manager, AI Knowledge Graph & Intelligence",
+        "url": "https://careers.cisco.com/global/en/job/2019172/Senior-Staff-Product-Manager-AI-Knowledge-Graph-Intelligence",
+        "firstSeen": "2026-08-08T14:37:02.615503",
+        "restrictions": []
+      },
+      "2020763": {
+        "id": "2020763",
+        "title": "Services(CX) Finance Manager",
+        "url": "https://careers.cisco.com/global/en/job/2020763/Services-CX-Finance-Manager",
+        "firstSeen": "2026-08-08T14:37:07.810930",
+        "restrictions": []
+      },
+      "2020603": {
+        "id": "2020603",
+        "title": "Analyst Relations Manager: Identity Security (US Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2020603/Analyst-Relations-Manager-Identity-Security-US-Remote",
+        "firstSeen": "2026-08-08T14:44:15.639400",
+        "restrictions": []
+      },
+      "2022243": {
+        "id": "2022243",
+        "title": "Solution Engineer Cloud and AI",
+        "url": "https://careers.cisco.com/global/en/job/2022243/Solution-Engineer-Cloud-and-AI",
+        "firstSeen": "2026-08-08T14:44:15.668442",
+        "restrictions": []
+      },
+      "2022397": {
+        "id": "2022397",
+        "title": "Solution Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2022397/Solution-Engineer",
+        "firstSeen": "2026-08-08T14:44:20.881604",
+        "restrictions": []
+      },
+      "2019365": {
+        "id": "2019365",
+        "title": "Principal Product Management Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2019365/Principal-Product-Management-Engineer",
+        "firstSeen": "2026-08-08T14:44:25.953751",
+        "restrictions": []
+      },
+      "2018965": {
+        "id": "2018965",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2018965/Account-Executive-Portfolio",
+        "firstSeen": "2026-08-08T14:44:25.967961",
+        "restrictions": []
       }
     },
     "visa": {
@@ -84906,6 +85176,34 @@
         "url": "https://jobs.fidelity.com/en/jobs/2133191/manager-security-operations/",
         "firstSeen": "2026-08-07T15:07:50.634891",
         "restrictions": []
+      },
+      "2133571": {
+        "id": "2133571",
+        "title": "Investment Consultant Marin Ca",
+        "url": "https://jobs.fidelity.com/en/jobs/2133571/investment-consultant-marin-ca/",
+        "firstSeen": "2026-08-08T14:45:24.543003",
+        "restrictions": []
+      },
+      "2132616": {
+        "id": "2132616",
+        "title": "Senior Manager Fpa",
+        "url": "https://jobs.fidelity.com/en/jobs/2132616/senior-manager-fpa/",
+        "firstSeen": "2026-08-08T14:46:29.214220",
+        "restrictions": []
+      },
+      "2130786": {
+        "id": "2130786",
+        "title": "Manager Senior Manager Defined Benefit Operations",
+        "url": "https://jobs.fidelity.com/en/jobs/2130786/manager-senior-manager-defined-benefit-operations/",
+        "firstSeen": "2026-08-08T14:46:29.216022",
+        "restrictions": []
+      },
+      "2133351": {
+        "id": "2133351",
+        "title": "Investment Consultant San Jose Ca",
+        "url": "https://jobs.fidelity.com/en/jobs/2133351/investment-consultant-san-jose-ca/",
+        "firstSeen": "2026-08-08T14:46:29.217972",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -93433,6 +93731,48 @@
         "url": "https://careers.synopsys.com/job/bengaluru/staff-validation-engineer/44408/94739576336",
         "firstSeen": "2026-08-07T15:09:44.700647",
         "restrictions": []
+      },
+      "98909080736": {
+        "id": "98909080736",
+        "title": "Director of Product Management \u2013 AI ProductsSunnyvale, CaliforniaCategory:Product ManagementPosted:08/06/2026Job ID:18325",
+        "url": "https://careers.synopsys.com/job/sunnyvale/director-of-product-management-ai-products/44408/98909080736",
+        "firstSeen": "2026-08-08T14:48:18.821292",
+        "restrictions": []
+      },
+      "98909080720": {
+        "id": "98909080720",
+        "title": "Executive Director of Established Nodes Product StrategiesEgypt Off-siteCategory:Product ManagementPosted:06/14/2026Job ID:17469",
+        "url": "https://careers.synopsys.com/job/cairo/executive-director-of-established-nodes-product-strategies/44408/98909080720",
+        "firstSeen": "2026-08-08T14:48:18.821321",
+        "restrictions": []
+      },
+      "98890913600": {
+        "id": "98890913600",
+        "title": "Silicon IP Program Manager - 18327Sunnyvale, CaliforniaCategory:General ManagementPosted:08/06/2026Job ID:18327",
+        "url": "https://careers.synopsys.com/job/sunnyvale/silicon-ip-program-manager-18327/44408/98890913600",
+        "firstSeen": "2026-08-08T14:48:18.821351",
+        "restrictions": []
+      },
+      "98890913552": {
+        "id": "98890913552",
+        "title": "ASIC Physical Design, Sr ManagerHyderabad, IndiaCategory:EngineeringPosted:08/06/2026Job ID:18333",
+        "url": "https://careers.synopsys.com/job/hyderabad/asic-physical-design-sr-manager/44408/98890913552",
+        "firstSeen": "2026-08-08T14:48:18.821394",
+        "restrictions": []
+      },
+      "98890913536": {
+        "id": "98890913536",
+        "title": "Technical IP Program Manager, PrincipalTokyo, JapanCategory:General ManagementPosted:08/06/2026Job ID:18312",
+        "url": "https://careers.synopsys.com/job/tokyo/technical-ip-program-manager-principal/44408/98890913536",
+        "firstSeen": "2026-08-08T14:48:18.821412",
+        "restrictions": []
+      },
+      "98890913520": {
+        "id": "98890913520",
+        "title": "Applications Engineering, Principal EngineerBengaluru, IndiaCategory:EngineeringPosted:12/09/2025Job ID:13734",
+        "url": "https://careers.synopsys.com/job/bengaluru/applications-engineering-principal-engineer/44408/98890913520",
+        "firstSeen": "2026-08-08T14:48:18.821429",
+        "restrictions": []
       }
     },
     "chewy": {
@@ -99171,6 +99511,41 @@
         "title": "Technical Product Manager",
         "url": "https://careers.chewy.com/us/en/job/R30386/Technical-Product-Manager",
         "firstSeen": "2026-08-07T15:11:48.765267",
+        "restrictions": []
+      },
+      "R30506": {
+        "id": "R30506",
+        "title": "Senior Financial Analyst",
+        "url": "https://careers.chewy.com/us/en/job/R30506/Senior-Financial-Analyst",
+        "firstSeen": "2026-08-08T14:50:00.026814",
+        "restrictions": []
+      },
+      "R29180": {
+        "id": "R29180",
+        "title": "Fulfillment Specialist",
+        "url": "https://careers.chewy.com/us/en/job/R29180/Fulfillment-Specialist",
+        "firstSeen": "2026-08-08T14:50:00.067061",
+        "restrictions": []
+      },
+      "R30245": {
+        "id": "R30245",
+        "title": "Sr Financial Analyst",
+        "url": "https://careers.chewy.com/us/en/job/R30245/Sr-Financial-Analyst",
+        "firstSeen": "2026-08-08T14:50:02.413859",
+        "restrictions": []
+      },
+      "R30458": {
+        "id": "R30458",
+        "title": "Corporate Development Manager (M&A)",
+        "url": "https://careers.chewy.com/us/en/job/R30458/Corporate-Development-Manager-M-A",
+        "firstSeen": "2026-08-08T14:50:14.467522",
+        "restrictions": []
+      },
+      "R30441": {
+        "id": "R30441",
+        "title": "Database Engineer II",
+        "url": "https://careers.chewy.com/us/en/job/R30441/Database-Engineer-II",
+        "firstSeen": "2026-08-08T14:50:16.898576",
         "restrictions": []
       }
     },
@@ -105388,6 +105763,62 @@
         "url": "https://www.metacareers.com/profile/job_details/1742230443497154",
         "firstSeen": "2026-08-07T15:12:30.066562",
         "restrictions": []
+      },
+      "2851019931950200": {
+        "id": "2851019931950200",
+        "title": "Infrastructure Accounting Manager, Controls & Process Transformation",
+        "url": "https://www.metacareers.com/profile/job_details/2851019931950200",
+        "firstSeen": "2026-08-08T14:50:57.819009",
+        "restrictions": []
+      },
+      "1566891301657978": {
+        "id": "1566891301657978",
+        "title": "Local Partnerships Lead, Texas",
+        "url": "https://www.metacareers.com/profile/job_details/1566891301657978",
+        "firstSeen": "2026-08-08T14:50:57.823424",
+        "restrictions": []
+      },
+      "1811449686504462": {
+        "id": "1811449686504462",
+        "title": "Associate General Counsel, Monetization Partnerships",
+        "url": "https://www.metacareers.com/profile/job_details/1811449686504462",
+        "firstSeen": "2026-08-08T14:50:57.827436",
+        "restrictions": []
+      },
+      "2104087630542092": {
+        "id": "2104087630542092",
+        "title": "Business Education Training Partner, EMEA",
+        "url": "https://www.metacareers.com/profile/job_details/2104087630542092",
+        "firstSeen": "2026-08-08T14:50:57.831838",
+        "restrictions": []
+      },
+      "1365610952448888": {
+        "id": "1365610952448888",
+        "title": "Executive Support Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1365610952448888",
+        "firstSeen": "2026-08-08T14:50:57.836339",
+        "restrictions": []
+      },
+      "1989757405038430": {
+        "id": "1989757405038430",
+        "title": "Technical Program Manager, ASIC",
+        "url": "https://www.metacareers.com/profile/job_details/1989757405038430",
+        "firstSeen": "2026-08-08T14:50:57.839971",
+        "restrictions": []
+      },
+      "1066568532979786": {
+        "id": "1066568532979786",
+        "title": "Finance Program Manager, Spend",
+        "url": "https://www.metacareers.com/profile/job_details/1066568532979786",
+        "firstSeen": "2026-08-08T14:50:57.843739",
+        "restrictions": []
+      },
+      "2499464570478811": {
+        "id": "2499464570478811",
+        "title": "Strategic Sourcing Manager \u2013 Display Engine & Optics",
+        "url": "https://www.metacareers.com/profile/job_details/2499464570478811",
+        "firstSeen": "2026-08-08T14:50:57.847318",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -108065,6 +108496,27 @@
         "title": "Sr. Account Manager - Express Scripts - Hybrid",
         "url": "https://jobs.thecignagroup.com/us/en/job/26009780/Sr-Account-Manager-Express-Scripts-Hybrid",
         "firstSeen": "2026-08-07T15:14:18.589560",
+        "restrictions": []
+      },
+      "26009737": {
+        "id": "26009737",
+        "title": "Inventory Representative - CuraScript",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009737/Inventory-Representative-CuraScript",
+        "firstSeen": "2026-08-08T14:52:46.835016",
+        "restrictions": []
+      },
+      "26009604": {
+        "id": "26009604",
+        "title": "Specialty Infusion Field Nurse - Accredo - Philadelphia, PA",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009604/Specialty-Infusion-Field-Nurse-Accredo-Philadelphia-PA",
+        "firstSeen": "2026-08-08T14:52:46.840027",
+        "restrictions": []
+      },
+      "26009728": {
+        "id": "26009728",
+        "title": "Pharmacy Technician - Accredo Speciality Pharmacy - Remote PA and AZ",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009728/Pharmacy-Technician-Accredo-Speciality-Pharmacy-Remote-PA-and-AZ",
+        "firstSeen": "2026-08-08T14:52:46.869509",
         "restrictions": []
       }
     },
@@ -128038,6 +128490,111 @@
         "title": "Wound Care Utilization Management RN",
         "url": "https://careers.elevancehealth.com/wound-care-utilization-management-rn/job/D054B6D9B51D6F0C5C6F29889E906169",
         "firstSeen": "2026-08-07T15:18:02.378318",
+        "restrictions": []
+      },
+      "0DF035CE759B8DF9F59C16662A82BF55": {
+        "id": "0DF035CE759B8DF9F59C16662A82BF55",
+        "title": "AI Compliance Monitoring & Audit Advisor",
+        "url": "https://careers.elevancehealth.com/ai-compliance-monitoring-audit-advisor/job/0DF035CE759B8DF9F59C16662A82BF55",
+        "firstSeen": "2026-08-08T14:53:55.857615",
+        "restrictions": []
+      },
+      "5DABAA8980BE9AF88A57FBF1D7CC0ED2": {
+        "id": "5DABAA8980BE9AF88A57FBF1D7CC0ED2",
+        "title": "Account Service Manager Sr",
+        "url": "https://careers.elevancehealth.com/account-service-manager-sr/job/5DABAA8980BE9AF88A57FBF1D7CC0ED2",
+        "firstSeen": "2026-08-08T14:53:55.885396",
+        "restrictions": []
+      },
+      "8C2B554EE745816A4C58E29A683E32C9": {
+        "id": "8C2B554EE745816A4C58E29A683E32C9",
+        "title": "Associate General Counsel Senior \u2013 Litigation and Business Counseling",
+        "url": "https://careers.elevancehealth.com/associate-general-counsel-senior-litigation-and-business-counseling/job/8C2B554EE745816A4C58E29A683E32C9",
+        "firstSeen": "2026-08-08T14:54:02.180466",
+        "restrictions": []
+      },
+      "0848EC53CE874D6C535294BB4ADF991A": {
+        "id": "0848EC53CE874D6C535294BB4ADF991A",
+        "title": "Benefit Verification Specialist - BioPlus Specialty Pharmacy",
+        "url": "https://careers.elevancehealth.com/benefit-verification-specialist-bioplus-specialty-pharmacy/job/0848EC53CE874D6C535294BB4ADF991A",
+        "firstSeen": "2026-08-08T14:54:05.347418",
+        "restrictions": []
+      },
+      "B0478A5604849AD5184FEFE6A1F361FF": {
+        "id": "B0478A5604849AD5184FEFE6A1F361FF",
+        "title": "Business Information Developer Consultant Senior",
+        "url": "https://careers.elevancehealth.com/business-information-developer-consultant-senior/job/B0478A5604849AD5184FEFE6A1F361FF",
+        "firstSeen": "2026-08-08T14:54:08.467879",
+        "restrictions": []
+      },
+      "4D6F871A0E21631204AE3F75EC6833B5": {
+        "id": "4D6F871A0E21631204AE3F75EC6833B5",
+        "title": "Cust Care Rep I-Bilingual (US)",
+        "url": "https://careers.elevancehealth.com/cust-care-rep-i-bilingual-us/job/4D6F871A0E21631204AE3F75EC6833B5",
+        "firstSeen": "2026-08-08T14:54:18.150995",
+        "restrictions": []
+      },
+      "967D00C7E1ABC46D43CC80AFFAA1C4B2": {
+        "id": "967D00C7E1ABC46D43CC80AFFAA1C4B2",
+        "title": "Customer Care Representative I (Latham, NY)",
+        "url": "https://careers.elevancehealth.com/customer-care-representative-i-latham-ny/job/967D00C7E1ABC46D43CC80AFFAA1C4B2",
+        "firstSeen": "2026-08-08T14:54:21.252343",
+        "restrictions": []
+      },
+      "8C2D1FB0CA1F4D7D746803026088F01A": {
+        "id": "8C2D1FB0CA1F4D7D746803026088F01A",
+        "title": "Customer Care Representative II/III",
+        "url": "https://careers.elevancehealth.com/customer-care-representative-ii-iii/job/8C2D1FB0CA1F4D7D746803026088F01A",
+        "firstSeen": "2026-08-08T14:54:21.298881",
+        "restrictions": []
+      },
+      "C007DC27E870155231F1FF5B62865F2A": {
+        "id": "C007DC27E870155231F1FF5B62865F2A",
+        "title": "DRG Coding Auditor - MS-DRG and APR-DRG",
+        "url": "https://careers.elevancehealth.com/drg-coding-auditor-ms-drg-and-apr-drg/job/C007DC27E870155231F1FF5B62865F2A",
+        "firstSeen": "2026-08-08T14:54:24.387257",
+        "restrictions": []
+      },
+      "106FFEA05D99F8F3A8B9C6A3AE474578": {
+        "id": "106FFEA05D99F8F3A8B9C6A3AE474578",
+        "title": "Enterprise Architect Executive",
+        "url": "https://careers.elevancehealth.com/enterprise-architect-executive/job/106FFEA05D99F8F3A8B9C6A3AE474578",
+        "firstSeen": "2026-08-08T14:54:30.943862",
+        "restrictions": []
+      },
+      "F3F541DF926082A1D93D164DDDAF5711": {
+        "id": "F3F541DF926082A1D93D164DDDAF5711",
+        "title": "Group Underwriting Consultant",
+        "url": "https://careers.elevancehealth.com/group-underwriting-consultant/job/F3F541DF926082A1D93D164DDDAF5711",
+        "firstSeen": "2026-08-08T14:54:40.308409",
+        "restrictions": []
+      },
+      "BE5DC6B56374A972AACA3B3F30A70618": {
+        "id": "BE5DC6B56374A972AACA3B3F30A70618",
+        "title": "Information Security Advisor",
+        "url": "https://careers.elevancehealth.com/information-security-advisor/job/BE5DC6B56374A972AACA3B3F30A70618",
+        "firstSeen": "2026-08-08T14:54:43.689384",
+        "restrictions": []
+      },
+      "6A3A2524423B4731D13957ED4F2A3BF3": {
+        "id": "6A3A2524423B4731D13957ED4F2A3BF3",
+        "title": "LTSS Svc Coordinator-Clinician",
+        "url": "https://careers.elevancehealth.com/ltss-svc-coordinator-clinician/job/6A3A2524423B4731D13957ED4F2A3BF3",
+        "firstSeen": "2026-08-08T14:54:56.146656",
+        "restrictions": []
+      },
+      "E101BBB335D96D925CD683CF85EC158F": {
+        "id": "E101BBB335D96D925CD683CF85EC158F",
+        "title": "Outreach Care Specialist, CareBridge",
+        "url": "https://careers.elevancehealth.com/outreach-care-specialist-carebridge/job/E101BBB335D96D925CD683CF85EC158F",
+        "firstSeen": "2026-08-08T14:55:05.814448",
+        "restrictions": []
+      },
+      "7D31581B6630DBB5FA5EE5E60BEFDA21": {
+        "id": "7D31581B6630DBB5FA5EE5E60BEFDA21",
+        "title": "Referral Specialist II - Paragon Infusion Centers",
+        "url": "https://careers.elevancehealth.com/referral-specialist-ii-paragon-infusion-centers/job/7D31581B6630DBB5FA5EE5E60BEFDA21",
+        "firstSeen": "2026-08-08T14:55:24.825516",
         "restrictions": []
       }
     },
@@ -159317,6 +159874,174 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202615809/senior-financial-analyst-finance-group-financial-planning-and-analysis/",
         "firstSeen": "2026-08-07T15:18:58.535931",
         "restrictions": []
+      },
+      "jr-202615711": {
+        "id": "jr-202615711",
+        "title": "Customer Experience Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615711/customer-experience-analyst/",
+        "firstSeen": "2026-08-08T14:56:18.054874",
+        "restrictions": []
+      },
+      "jr-202616462": {
+        "id": "jr-202616462",
+        "title": "Cyber Threat Intelligence Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616462/cyber-threat-intelligence-analyst/",
+        "firstSeen": "2026-08-08T14:56:18.095996",
+        "restrictions": []
+      },
+      "jr-202616758": {
+        "id": "jr-202616758",
+        "title": "Staff Product Cybersecurity Engineer - Offensive Product Security",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616758/staff-product-cybersecurity-engineer-offensive-product-security/",
+        "firstSeen": "2026-08-08T14:56:18.108069",
+        "restrictions": []
+      },
+      "jr-202614744": {
+        "id": "jr-202614744",
+        "title": "Senior Vehicle Systems Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202614744/senior-vehicle-systems-engineer/",
+        "firstSeen": "2026-08-08T14:56:18.118805",
+        "restrictions": []
+      },
+      "jr-202616982": {
+        "id": "jr-202616982",
+        "title": "GMI Close, Consolidation and Reporting Manager",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616982/gmi-close-consolidation-and-reporting-manager/",
+        "firstSeen": "2026-08-08T14:56:18.131895",
+        "restrictions": []
+      },
+      "jr-202616874": {
+        "id": "jr-202616874",
+        "title": "Martech Lead",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616874/martech-lead/",
+        "firstSeen": "2026-08-08T14:56:18.138924",
+        "restrictions": []
+      },
+      "jr-202615976": {
+        "id": "jr-202615976",
+        "title": "Senior Design Release Engineer Body/Chassis Structure",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615976/senior-design-release-engineer-body-chassis-structure/",
+        "firstSeen": "2026-08-08T14:56:18.149450",
+        "restrictions": []
+      },
+      "jr-202616085": {
+        "id": "jr-202616085",
+        "title": "Quality Engineer - Orion Assembly",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616085/quality-engineer-orion-assembly/",
+        "firstSeen": "2026-08-08T14:56:18.154736",
+        "restrictions": []
+      },
+      "jr-202616939": {
+        "id": "jr-202616939",
+        "title": "Process Engineer Lead - Teamcenter Configuration",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616939/process-engineer-lead-teamcenter-configuration/",
+        "firstSeen": "2026-08-08T14:56:18.158075",
+        "restrictions": []
+      },
+      "jr-202616698": {
+        "id": "jr-202616698",
+        "title": "Senior Analyst \u2013 Finance Workspace Transformation",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616698/senior-analyst-finance-workspace-transformation/",
+        "firstSeen": "2026-08-08T14:56:18.161552",
+        "restrictions": []
+      },
+      "jr-202613803": {
+        "id": "jr-202613803",
+        "title": "Software Test Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202613803/software-test-engineer/",
+        "firstSeen": "2026-08-08T14:56:23.806914",
+        "restrictions": []
+      },
+      "jr-202616756": {
+        "id": "jr-202616756",
+        "title": "Staff Product Cybersecurity Engineer - Secure Product Engineering",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616756/staff-product-cybersecurity-engineer-secure-product-engineering/",
+        "firstSeen": "2026-08-08T14:56:23.812238",
+        "restrictions": []
+      },
+      "jr-202614488": {
+        "id": "jr-202614488",
+        "title": "Reflash & Repair Execution Lead \u2013 Global Manufacturing Electrical & SDV",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202614488/reflash-repair-execution-lead-global-manufacturing-electrical-sdv/",
+        "firstSeen": "2026-08-08T14:56:23.818808",
+        "restrictions": []
+      },
+      "jr-202616449": {
+        "id": "jr-202616449",
+        "title": "Cyber Threat Intelligence Analyst",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616449/cyber-threat-intelligence-analyst/",
+        "firstSeen": "2026-08-08T14:56:23.831334",
+        "restrictions": []
+      },
+      "jr-202616262": {
+        "id": "jr-202616262",
+        "title": "New Architecture Technical Specialist\u2013 Boot Software",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616262/new-architecture-technical-specialist-boot-software/",
+        "firstSeen": "2026-08-08T14:56:23.837861",
+        "restrictions": []
+      },
+      "jr-202615965": {
+        "id": "jr-202615965",
+        "title": "Supervisor, U.S. Health Care Operations",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615965/supervisor-u-s-health-care-operations/",
+        "firstSeen": "2026-08-08T14:56:23.840893",
+        "restrictions": []
+      },
+      "jr-202615120": {
+        "id": "jr-202615120",
+        "title": "GMSA Design & Build Logistics Specialist",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615120/gmsa-design-build-logistics-specialist/",
+        "firstSeen": "2026-08-08T14:56:23.856264",
+        "restrictions": []
+      },
+      "jr-202617217": {
+        "id": "jr-202617217",
+        "title": "Accounting Manager - Capital Management Controller",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202617217/accounting-manager-capital-management-controller/",
+        "firstSeen": "2026-08-08T14:56:23.862259",
+        "restrictions": []
+      },
+      "jr-202616518": {
+        "id": "jr-202616518",
+        "title": "Senior Suspension DRE \u2013 Performance Damper Design and Release",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616518/senior-suspension-dre-performance-damper-design-and-release/",
+        "firstSeen": "2026-08-08T14:56:23.868207",
+        "restrictions": []
+      },
+      "jr-202616770": {
+        "id": "jr-202616770",
+        "title": "Tactical Vehicle Armor Designer \u2013 GM Defense",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202616770/tactical-vehicle-armor-designer-gm-defense/",
+        "firstSeen": "2026-08-08T14:56:29.550466",
+        "restrictions": []
+      },
+      "jr-202617312": {
+        "id": "jr-202617312",
+        "title": "Early Career Virtual/Computer Aided Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202617312/early-career-virtual-computer-aided-engineer/",
+        "firstSeen": "2026-08-08T14:56:29.554120",
+        "restrictions": []
+      },
+      "jr-202615603": {
+        "id": "jr-202615603",
+        "title": "Metrology Training Specialist in Virtual Matching",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615603/metrology-training-specialist-in-virtual-matching/",
+        "firstSeen": "2026-08-08T14:56:29.565736",
+        "restrictions": []
+      },
+      "jr-202615606": {
+        "id": "jr-202615606",
+        "title": "Scrum Leader - Engine Controls",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615606/scrum-leader-engine-controls/",
+        "firstSeen": "2026-08-08T14:58:19.493493",
+        "restrictions": []
+      },
+      "jr-202615812": {
+        "id": "jr-202615812",
+        "title": "Staff Solutions Architect \u2013Virtual Cloud Platform",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202615812/staff-solutions-architect-virtual-cloud-platform/",
+        "firstSeen": "2026-08-08T14:58:19.496790",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -169863,6 +170588,48 @@
         "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Facilities-LSS-Engineer_JR0286127",
         "firstSeen": "2026-08-07T15:21:17.262795",
         "restrictions": []
+      },
+      "JR0286301": {
+        "id": "JR0286301",
+        "title": "CPU Physical Design Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0286301",
+        "firstSeen": "2026-08-08T14:59:40.017706",
+        "restrictions": []
+      },
+      "JR0286300": {
+        "id": "JR0286300",
+        "title": "CPU Physical Design Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0286300",
+        "firstSeen": "2026-08-08T14:59:40.021036",
+        "restrictions": []
+      },
+      "JR0286214": {
+        "id": "JR0286214",
+        "title": "Packaging Module Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0286214",
+        "firstSeen": "2026-08-08T14:59:40.032467",
+        "restrictions": []
+      },
+      "JR0285459": {
+        "id": "JR0285459",
+        "title": "Simulation and Modeling Lead",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Simulation-and-Modeling-Lead_JR0285459",
+        "firstSeen": "2026-08-08T14:59:40.038425",
+        "restrictions": []
+      },
+      "JR0286239": {
+        "id": "JR0286239",
+        "title": "Silicon Photonics Wafer Test Automation Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Silicon-Photonics-Wafer-Test-Automation-Development-Engineer_JR0286239-1",
+        "firstSeen": "2026-08-08T14:59:40.041362",
+        "restrictions": []
+      },
+      "JR0286232": {
+        "id": "JR0286232",
+        "title": "Intel Foundry Overlay Development Engineer",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Overlay-Development-Engineer_JR0286232",
+        "firstSeen": "2026-08-08T14:59:40.050326",
+        "restrictions": []
       }
     },
     "ibm": {
@@ -170207,6 +170974,13 @@
         "title": "Technical Lead (Agentic AI Architect)",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=123453",
         "firstSeen": "2026-06-27T15:49:39.627475",
+        "restrictions": []
+      },
+      "127790": {
+        "id": "127790",
+        "title": "Federal Associate Data Scientist 2027",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=127790",
+        "firstSeen": "2026-08-08T15:02:01.376150",
         "restrictions": []
       }
     },
@@ -186499,6 +187273,111 @@
         "url": "https://morganstanley.eightfold.ai/careers/job/549799393709?source=mscom",
         "firstSeen": "2026-08-07T15:24:26.646267",
         "restrictions": []
+      },
+      "549799537015": {
+        "id": "549799537015",
+        "title": "Ultra-High Net-Worth Planning \u2013 Senior Equity Compensation Planner, Vice President",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799537015?source=mscom",
+        "firstSeen": "2026-08-08T15:02:09.548570",
+        "restrictions": []
+      },
+      "549799536270": {
+        "id": "549799536270",
+        "title": "Associate, Acquisition",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799536270?source=mscom",
+        "firstSeen": "2026-08-08T15:02:09.566266",
+        "restrictions": []
+      },
+      "549799390087": {
+        "id": "549799390087",
+        "title": "Global Lead Security Control Engineer",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799390087?source=mscom",
+        "firstSeen": "2026-08-08T15:02:13.686927",
+        "restrictions": []
+      },
+      "549798322116": {
+        "id": "549798322116",
+        "title": "Investment Consultant - Relationship Manager",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549798322116?source=mscom",
+        "firstSeen": "2026-08-08T15:02:13.705167",
+        "restrictions": []
+      },
+      "549798593283": {
+        "id": "549798593283",
+        "title": "Private Wealth Management Director of Business Strategy",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549798593283?source=mscom",
+        "firstSeen": "2026-08-08T15:02:13.709044",
+        "restrictions": []
+      },
+      "549799514702": {
+        "id": "549799514702",
+        "title": "Registered Client Service Associate",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799514702?source=mscom",
+        "firstSeen": "2026-08-08T15:02:17.805926",
+        "restrictions": []
+      },
+      "549799532142": {
+        "id": "549799532142",
+        "title": "Global Financial Crimes Anti Bribery Corruption Officer - Vice President",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799532142?source=mscom",
+        "firstSeen": "2026-08-08T15:02:17.820910",
+        "restrictions": []
+      },
+      "549799532674": {
+        "id": "549799532674",
+        "title": "Wealth Management Associate",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799532674?source=mscom",
+        "firstSeen": "2026-08-08T15:02:17.824470",
+        "restrictions": []
+      },
+      "549799504019": {
+        "id": "549799504019",
+        "title": "Home Loans \u2013 Platforms & Client Experience - Executive Director",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799504019?source=mscom",
+        "firstSeen": "2026-08-08T15:02:21.912523",
+        "restrictions": []
+      },
+      "549799110843": {
+        "id": "549799110843",
+        "title": "Technology Project Manager- Risk & Controls",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799110843?source=mscom",
+        "firstSeen": "2026-08-08T15:02:21.920728",
+        "restrictions": []
+      },
+      "549799533725": {
+        "id": "549799533725",
+        "title": "NFR Framework Policies Professional",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799533725?source=mscom",
+        "firstSeen": "2026-08-08T15:02:21.941244",
+        "restrictions": []
+      },
+      "549799502000": {
+        "id": "549799502000",
+        "title": "Business Service Officer",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799502000?source=mscom",
+        "firstSeen": "2026-08-08T15:02:26.024439",
+        "restrictions": []
+      },
+      "549799496830": {
+        "id": "549799496830",
+        "title": "Quantitative Risk & Portfolio Analytics - Associate",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799496830?source=mscom",
+        "firstSeen": "2026-08-08T15:02:26.035707",
+        "restrictions": []
+      },
+      "549799534529": {
+        "id": "549799534529",
+        "title": "Associate Portfolio Manager - Parametric",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549799534529?source=mscom",
+        "firstSeen": "2026-08-08T15:02:26.039622",
+        "restrictions": []
+      },
+      "549784949888": {
+        "id": "549784949888",
+        "title": "Path to Advice - Associate/AVP (Strategy)",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549784949888?source=mscom",
+        "firstSeen": "2026-08-08T15:02:26.043765",
+        "restrictions": []
       }
     },
     "choa": {
@@ -197525,6 +198404,34 @@
         "title": "Agentic Data Engineer - Health - Manager - Consulting - Boston",
         "url": "https://careers.ey.com/ey/job/Boston-Agentic-Data-Engineer-Health-Manager-Consulting-Boston-MA-02116/1423125233/",
         "firstSeen": "2026-08-05T16:32:29.203141",
+        "restrictions": []
+      },
+      "1424475433": {
+        "id": "1424475433",
+        "title": "Government and Public Sector - AI & Data - Data Engineer - Senior Consultant",
+        "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-AI-&-Data-Data-Engineer-Senior-Consultant-VA-22102/1424475433/",
+        "firstSeen": "2026-08-08T15:03:28.499120",
+        "restrictions": []
+      },
+      "1424475333": {
+        "id": "1424475333",
+        "title": "Government and Public Sector - AI & Data - Ontology Senior Analyst",
+        "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-AI-&-Data-Ontology-Senior-Analyst-VA-22102/1424475333/",
+        "firstSeen": "2026-08-08T15:03:28.586295",
+        "restrictions": []
+      },
+      "1424473233": {
+        "id": "1424473233",
+        "title": "Government and Public Sector - AI & Data - GenAI Developer",
+        "url": "https://careers.ey.com/ey/job/McLean-Government-and-Public-Sector-AI-&-Data-GenAI-Developer-VA-22102/1424473233/",
+        "firstSeen": "2026-08-08T15:03:32.311950",
+        "restrictions": []
+      },
+      "1423943133": {
+        "id": "1423943133",
+        "title": "Cons - Tech Cons-AI and Quant Modelling-AI Data Scientist - Manager - Multiple Positions - 1731669",
+        "url": "https://careers.ey.com/ey/job/McLean-Cons-Tech-Cons-AI-and-Quant-Modelling-AI-Data-Scientist-Manager-Multiple-Positions-1731669-VA-22102/1423943133/",
+        "firstSeen": "2026-08-08T15:03:39.744173",
         "restrictions": []
       }
     },
@@ -212430,6 +213337,22 @@
         "firstSeen": "2026-08-07T15:27:29.526100",
         "restrictions": [],
         "location": "Denver, Colorado, USA; San Francisco, California, USA"
+      },
+      "8110038": {
+        "id": "8110038",
+        "title": "Office Operations Associate - Boston",
+        "url": "https://boards.greenhouse.io/datadog/jobs/8110038",
+        "firstSeen": "2026-08-08T15:05:05.488204",
+        "restrictions": [],
+        "location": "Boston, Massachusetts, USA"
+      },
+      "8115033": {
+        "id": "8115033",
+        "title": "Senior Product Manager - Journey Monitoring",
+        "url": "https://boards.greenhouse.io/datadog/jobs/8115033",
+        "firstSeen": "2026-08-08T15:05:05.488368",
+        "restrictions": [],
+        "location": "New York, New York, USA"
       }
     },
     "commerce": {
@@ -213159,6 +214082,13 @@
         "title": "Technical Program Manager",
         "url": "https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Technical-Program-Manager_JR102816",
         "firstSeen": "2026-08-05T16:34:23.841912",
+        "restrictions": []
+      },
+      "JR102825": {
+        "id": "JR102825",
+        "title": "Enterprise Feed Manager",
+        "url": "https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Austin-TX/Enterprise-Feed-Manager_JR102825",
+        "firstSeen": "2026-08-08T15:05:11.530259",
         "restrictions": []
       }
     },
@@ -217195,6 +218125,41 @@
         "title": "Digital Retail Sr. Analyst - Sales",
         "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Digital-Retail-Sr-Analyst---Sales_10332676",
         "firstSeen": "2026-08-07T15:28:29.551325",
+        "restrictions": []
+      },
+      "Production-Track-Team-Member_10272650-1": {
+        "id": "Production-Track-Team-Member_10272650-1",
+        "title": "Production Track Team Member",
+        "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Production-Track-Team-Member_10272650-1",
+        "firstSeen": "2026-08-08T15:06:05.720191",
+        "restrictions": []
+      },
+      "UI-UX-Designer_10332606-1": {
+        "id": "UI-UX-Designer_10332606-1",
+        "title": "UI/UX Designer",
+        "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/UI-UX-Designer_10332606-1",
+        "firstSeen": "2026-08-08T15:06:05.720211",
+        "restrictions": []
+      },
+      "Electronic-Assembly-Technician_10332997": {
+        "id": "Electronic-Assembly-Technician_10332997",
+        "title": "Electronic Assembly Technician",
+        "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Costa-Mesa-California/Electronic-Assembly-Technician_10332997",
+        "firstSeen": "2026-08-08T15:06:05.720220",
+        "restrictions": []
+      },
+      "A-F-PMO---Transformation-Analyst_10332861": {
+        "id": "A-F-PMO---Transformation-Analyst_10332861",
+        "title": "A&F PMO & Transformation Analyst",
+        "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/A-F-PMO---Transformation-Analyst_10332861",
+        "firstSeen": "2026-08-08T15:06:05.720229",
+        "restrictions": []
+      },
+      "UI-UX-Designer_10332605": {
+        "id": "UI-UX-Designer_10332605",
+        "title": "UI/UX Designer",
+        "url": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/UI-UX-Designer_10332605",
+        "firstSeen": "2026-08-08T15:06:05.720238",
         "restrictions": []
       }
     },
@@ -225787,6 +226752,118 @@
         "url": "https://search.jobs.barclays/job/pune/kyc-refresh-analyst/13015/98878064144",
         "firstSeen": "2026-08-07T15:28:36.100448",
         "restrictions": []
+      },
+      "98924986880": {
+        "id": "98924986880",
+        "title": "Software Engineer",
+        "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/98924986880",
+        "firstSeen": "2026-08-08T15:06:10.115180",
+        "restrictions": []
+      },
+      "98908852544": {
+        "id": "98908852544",
+        "title": "International Corporate Bank Industrials Group, Analyst",
+        "url": "https://search.jobs.barclays/job/new-york/international-corporate-bank-industrials-group-analyst/13015/98908852544",
+        "firstSeen": "2026-08-08T15:06:10.115204",
+        "restrictions": []
+      },
+      "98908851232": {
+        "id": "98908851232",
+        "title": "Portfolio Strategy Lead VMO VP",
+        "url": "https://search.jobs.barclays/job/wilmington/portfolio-strategy-lead-vmo-vp/13015/98908851232",
+        "firstSeen": "2026-08-08T15:06:10.115218",
+        "restrictions": []
+      },
+      "98908850752": {
+        "id": "98908850752",
+        "title": "Senior Advisor",
+        "url": "https://search.jobs.barclays/job/northampton/senior-advisor/13015/98908850752",
+        "firstSeen": "2026-08-08T15:06:10.115228",
+        "restrictions": []
+      },
+      "98908848656": {
+        "id": "98908848656",
+        "title": "Large Holdings Regulatory Reporting Analyst",
+        "url": "https://search.jobs.barclays/job/whippany/large-holdings-regulatory-reporting-analyst/13015/98908848656",
+        "firstSeen": "2026-08-08T15:06:10.115240",
+        "restrictions": []
+      },
+      "92651843552": {
+        "id": "92651843552",
+        "title": "Senior Solutions Architect - VP",
+        "url": "https://search.jobs.barclays/job/whippany/senior-solutions-architect-vp/13015/92651843552",
+        "firstSeen": "2026-08-08T15:06:10.115251",
+        "restrictions": []
+      },
+      "90937552496": {
+        "id": "90937552496",
+        "title": "Equity Research Metals and Mining, AVP",
+        "url": "https://search.jobs.barclays/job/new-york/equity-research-metals-and-mining-avp/13015/90937552496",
+        "firstSeen": "2026-08-08T15:06:10.115261",
+        "restrictions": []
+      },
+      "98891058336": {
+        "id": "98891058336",
+        "title": "Equities Business Management - AVP",
+        "url": "https://search.jobs.barclays/job/mumbai/equities-business-management-avp/13015/98891058336",
+        "firstSeen": "2026-08-08T15:06:10.115276",
+        "restrictions": []
+      },
+      "98891057744": {
+        "id": "98891057744",
+        "title": "Full Stack Software Engineer",
+        "url": "https://search.jobs.barclays/job/prague/full-stack-software-engineer/13015/98891057744",
+        "firstSeen": "2026-08-08T15:06:10.115288",
+        "restrictions": []
+      },
+      "98891057584": {
+        "id": "98891057584",
+        "title": "AVP - Cyber Operations",
+        "url": "https://search.jobs.barclays/job/pune/avp-cyber-operations/13015/98891057584",
+        "firstSeen": "2026-08-08T15:06:10.115297",
+        "restrictions": []
+      },
+      "98891057504": {
+        "id": "98891057504",
+        "title": "Investment Banking Cross Border Controls",
+        "url": "https://search.jobs.barclays/job/london/investment-banking-cross-border-controls/13015/98891057504",
+        "firstSeen": "2026-08-08T15:06:10.115337",
+        "restrictions": []
+      },
+      "98891057472": {
+        "id": "98891057472",
+        "title": "Service Engineer - Mainframe",
+        "url": "https://search.jobs.barclays/job/pune/service-engineer-mainframe/13015/98891057472",
+        "firstSeen": "2026-08-08T15:06:10.115345",
+        "restrictions": []
+      },
+      "98891057264": {
+        "id": "98891057264",
+        "title": "Credit Operations Team Member",
+        "url": "https://search.jobs.barclays/job/douglas/credit-operations-team-member/13015/98891057264",
+        "firstSeen": "2026-08-08T15:06:10.115354",
+        "restrictions": []
+      },
+      "98891057232": {
+        "id": "98891057232",
+        "title": "FRTB Assistant Vice President",
+        "url": "https://search.jobs.barclays/job/london/frtb-assistant-vice-president/13015/98891057232",
+        "firstSeen": "2026-08-08T15:06:10.115362",
+        "restrictions": []
+      },
+      "98891056848": {
+        "id": "98891056848",
+        "title": "Advocacy Creation CX Manager",
+        "url": "https://search.jobs.barclays/job/london/advocacy-creation-cx-manager/13015/98891056848",
+        "firstSeen": "2026-08-08T15:06:10.115370",
+        "restrictions": []
+      },
+      "98891056672": {
+        "id": "98891056672",
+        "title": "Software Engineer",
+        "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/98891056672",
+        "firstSeen": "2026-08-08T15:06:10.115378",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -227875,6 +228952,13 @@
         "title": "Sr. Simulation Engineer, Factory Design",
         "url": "https://us-careers-rivian.icims.com/jobs/32628/login",
         "firstSeen": "2026-08-07T15:28:38.497216",
+        "restrictions": []
+      },
+      "32637": {
+        "id": "32637",
+        "title": "Operations Coordinator, Autonomy Systems Validation (2nd Shift)",
+        "url": "https://us-careers-rivian.icims.com/jobs/32637/login",
+        "firstSeen": "2026-08-08T15:06:12.251139",
         "restrictions": []
       }
     },
@@ -260045,6 +261129,279 @@
         "url": "https://jobs.apple.com/en-us/details/200666781-3956/senior-devops-engineer-infrastructure-services?team=SFTWR",
         "firstSeen": "2026-08-07T15:29:19.368983",
         "restrictions": []
+      },
+      "200676744-0157": {
+        "id": "200676744-0157",
+        "title": "SoC Physical Design Engineer, PnR",
+        "url": "https://jobs.apple.com/en-us/details/200676744-0157/soc-physical-design-engineer-pnr?team=HRDWR",
+        "firstSeen": "2026-08-08T15:06:21.009155",
+        "restrictions": []
+      },
+      "200676753-0157": {
+        "id": "200676753-0157",
+        "title": "People Planning Process Analyst",
+        "url": "https://jobs.apple.com/en-us/details/200676753-0157/people-planning-process-analyst?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:21.017141",
+        "restrictions": []
+      },
+      "200676755-2068": {
+        "id": "200676755-2068",
+        "title": "Community Specialist, Channel Retail",
+        "url": "https://jobs.apple.com/en-us/details/200676755-2068/community-specialist-channel-retail?team=SLDEV",
+        "firstSeen": "2026-08-08T15:06:21.025350",
+        "restrictions": []
+      },
+      "200650153-0836": {
+        "id": "200650153-0836",
+        "title": "Senior Lead Auditor (Medical Devices)",
+        "url": "https://jobs.apple.com/en-us/details/200650153-0836/senior-lead-auditor-medical-devices?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:21.033124",
+        "restrictions": []
+      },
+      "200675406-3088": {
+        "id": "200675406-3088",
+        "title": "US-Manager",
+        "url": "https://jobs.apple.com/en-us/details/200675406-3088/us-manager?team=APPST",
+        "firstSeen": "2026-08-08T15:06:21.040746",
+        "restrictions": []
+      },
+      "200676664-0836": {
+        "id": "200676664-0836",
+        "title": "Generative AI Applied Scientist, SIML - ISE",
+        "url": "https://jobs.apple.com/en-us/details/200676664-0836/generative-ai-applied-scientist-siml-ise?team=MLAI",
+        "firstSeen": "2026-08-08T15:06:21.048622",
+        "restrictions": []
+      },
+      "200676478-3577": {
+        "id": "200676478-3577",
+        "title": "Software Engineer - Apple Services",
+        "url": "https://jobs.apple.com/en-us/details/200676478-3577/software-engineer-apple-services?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:21.064380",
+        "restrictions": []
+      },
+      "200661387-0836": {
+        "id": "200661387-0836",
+        "title": "People Business Partner",
+        "url": "https://jobs.apple.com/en-us/details/200661387-0836/people-business-partner?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:21.071806",
+        "restrictions": []
+      },
+      "200676699-0836": {
+        "id": "200676699-0836",
+        "title": "Global Security Manager, Executive Protection",
+        "url": "https://jobs.apple.com/en-us/details/200676699-0836/global-security-manager-executive-protection?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:21.086963",
+        "restrictions": []
+      },
+      "200675344-2389": {
+        "id": "200675344-2389",
+        "title": "US-Store Leader",
+        "url": "https://jobs.apple.com/en-us/details/200675344-2389/us-store-leader?team=APPST",
+        "firstSeen": "2026-08-08T15:06:21.094657",
+        "restrictions": []
+      },
+      "200676368-0836": {
+        "id": "200676368-0836",
+        "title": "Engineering Program Manager, Siri Runtime Platform and Interaction",
+        "url": "https://jobs.apple.com/en-us/details/200676368-0836/engineering-program-manager-siri-runtime-platform-and-interaction?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:21.110478",
+        "restrictions": []
+      },
+      "200676512-2459": {
+        "id": "200676512-2459",
+        "title": "AIML - Privacy & Compliance Data Strategy Lead, Evaluation",
+        "url": "https://jobs.apple.com/en-us/details/200676512-2459/aiml-privacy-compliance-data-strategy-lead-evaluation?team=MLAI",
+        "firstSeen": "2026-08-08T15:06:21.118079",
+        "restrictions": []
+      },
+      "200676658-0836": {
+        "id": "200676658-0836",
+        "title": "Senior Applied ML Researcher - Video Apps",
+        "url": "https://jobs.apple.com/en-us/details/200676658-0836/senior-applied-ml-researcher-video-apps?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:21.125841",
+        "restrictions": []
+      },
+      "200676680-0836": {
+        "id": "200676680-0836",
+        "title": "UX Designer - Xcode & AI Developer Tools",
+        "url": "https://jobs.apple.com/en-us/details/200676680-0836/ux-designer-xcode-ai-developer-tools?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:21.133277",
+        "restrictions": []
+      },
+      "200676496-0776": {
+        "id": "200676496-0776",
+        "title": "Community Specialist, Channel Retail",
+        "url": "https://jobs.apple.com/en-us/details/200676496-0776/community-specialist-channel-retail?team=SLDEV",
+        "firstSeen": "2026-08-08T15:06:21.140953",
+        "restrictions": []
+      },
+      "200676496-3164": {
+        "id": "200676496-3164",
+        "title": "Community Specialist, Channel Retail",
+        "url": "https://jobs.apple.com/en-us/details/200676496-3164/community-specialist-channel-retail?team=SLDEV",
+        "firstSeen": "2026-08-08T15:06:24.296548",
+        "restrictions": []
+      },
+      "200676670-0836": {
+        "id": "200676670-0836",
+        "title": "Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity",
+        "url": "https://jobs.apple.com/en-us/details/200676670-0836/data-analytics-engineer-health-fitness-sensing-connectivity?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:24.304825",
+        "restrictions": []
+      },
+      "200651722-2446": {
+        "id": "200651722-2446",
+        "title": "US-Technical Specialist",
+        "url": "https://jobs.apple.com/en-us/details/200651722-2446/us-technical-specialist?team=APPST",
+        "firstSeen": "2026-08-08T15:06:24.312378",
+        "restrictions": []
+      },
+      "200658053-3543": {
+        "id": "200658053-3543",
+        "title": "Senior Software Engineer, Swift - macOS",
+        "url": "https://jobs.apple.com/en-us/details/200658053-3543/senior-software-engineer-swift-macos?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:24.319664",
+        "restrictions": []
+      },
+      "200675149-6720": {
+        "id": "200675149-6720",
+        "title": "US-Manager",
+        "url": "https://jobs.apple.com/en-us/details/200675149-6720/us-manager?team=APPST",
+        "firstSeen": "2026-08-08T15:06:24.334631",
+        "restrictions": []
+      },
+      "200653833-1902": {
+        "id": "200653833-1902",
+        "title": "Data Center Project Manager, Mechanical",
+        "url": "https://jobs.apple.com/en-us/details/200653833-1902/data-center-project-manager-mechanical?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.342243",
+        "restrictions": []
+      },
+      "200653833-2903": {
+        "id": "200653833-2903",
+        "title": "Data Center Project Manager, Mechanical",
+        "url": "https://jobs.apple.com/en-us/details/200653833-2903/data-center-project-manager-mechanical?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.349268",
+        "restrictions": []
+      },
+      "200653833-2228": {
+        "id": "200653833-2228",
+        "title": "Data Center Project Manager, Mechanical",
+        "url": "https://jobs.apple.com/en-us/details/200653833-2228/data-center-project-manager-mechanical?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.357248",
+        "restrictions": []
+      },
+      "200653833-6172": {
+        "id": "200653833-6172",
+        "title": "Data Center Project Manager, Mechanical",
+        "url": "https://jobs.apple.com/en-us/details/200653833-6172/data-center-project-manager-mechanical?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.364420",
+        "restrictions": []
+      },
+      "200653833-6709": {
+        "id": "200653833-6709",
+        "title": "Data Center Project Manager, Mechanical",
+        "url": "https://jobs.apple.com/en-us/details/200653833-6709/data-center-project-manager-mechanical?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.371653",
+        "restrictions": []
+      },
+      "200618567-0836": {
+        "id": "200618567-0836",
+        "title": "Product Manager, Siri AI",
+        "url": "https://jobs.apple.com/en-us/details/200618567-0836/product-manager-siri-ai?team=MKTG",
+        "firstSeen": "2026-08-08T15:06:24.378894",
+        "restrictions": []
+      },
+      "200676412-0157": {
+        "id": "200676412-0157",
+        "title": "Sr. Project Manager - Digital Support (ASO)",
+        "url": "https://jobs.apple.com/en-us/details/200676412-0157/sr-project-manager-digital-support-aso?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.385614",
+        "restrictions": []
+      },
+      "200675507-2459": {
+        "id": "200675507-2459",
+        "title": "Merchandising Field Operations Program Manager",
+        "url": "https://jobs.apple.com/en-us/details/200675507-2459/merchandising-field-operations-program-manager?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.392602",
+        "restrictions": []
+      },
+      "200645796-0157": {
+        "id": "200645796-0157",
+        "title": "Data Scientist - Strategic Data Solutions",
+        "url": "https://jobs.apple.com/en-us/details/200645796-0157/data-scientist-strategic-data-solutions?team=OPMFG",
+        "firstSeen": "2026-08-08T15:06:24.399610",
+        "restrictions": []
+      },
+      "200676435-0157": {
+        "id": "200676435-0157",
+        "title": "Data Scientist, AI/ML Model Quality",
+        "url": "https://jobs.apple.com/en-us/details/200676435-0157/data-scientist-ai-ml-model-quality?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:24.413978",
+        "restrictions": []
+      },
+      "200676435-2459": {
+        "id": "200676435-2459",
+        "title": "Data Scientist, AI/ML Model Quality",
+        "url": "https://jobs.apple.com/en-us/details/200676435-2459/data-scientist-ai-ml-model-quality?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:24.420859",
+        "restrictions": []
+      },
+      "200676435-3543": {
+        "id": "200676435-3543",
+        "title": "Data Scientist, AI/ML Model Quality",
+        "url": "https://jobs.apple.com/en-us/details/200676435-3543/data-scientist-ai-ml-model-quality?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:24.427613",
+        "restrictions": []
+      },
+      "200676374-0670": {
+        "id": "200676374-0670",
+        "title": "Senior Counsel - Marketing and Communications Legal",
+        "url": "https://jobs.apple.com/en-us/details/200676374-0670/senior-counsel-marketing-and-communications-legal?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:24.434606",
+        "restrictions": []
+      },
+      "200676374-0836": {
+        "id": "200676374-0836",
+        "title": "Senior Counsel - Marketing and Communications Legal",
+        "url": "https://jobs.apple.com/en-us/details/200676374-0836/senior-counsel-marketing-and-communications-legal?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:27.504163",
+        "restrictions": []
+      },
+      "200671411-3543": {
+        "id": "200671411-3543",
+        "title": "Hardware Reliability Engineer - Watch System Reliability",
+        "url": "https://jobs.apple.com/en-us/details/200671411-3543/hardware-reliability-engineer-watch-system-reliability?team=HRDWR",
+        "firstSeen": "2026-08-08T15:06:27.527618",
+        "restrictions": []
+      },
+      "200673649-3401": {
+        "id": "200673649-3401",
+        "title": "Staff Software Engineer, Apple Ads",
+        "url": "https://jobs.apple.com/en-us/details/200673649-3401/staff-software-engineer-apple-ads?team=SFTWR",
+        "firstSeen": "2026-08-08T15:06:27.534772",
+        "restrictions": []
+      },
+      "200673745-1025": {
+        "id": "200673745-1025",
+        "title": "US Carrier B2B Sales Account Executive",
+        "url": "https://jobs.apple.com/en-us/details/200673745-1025/us-carrier-b2b-sales-account-executive?team=SLDEV",
+        "firstSeen": "2026-08-08T15:06:27.542142",
+        "restrictions": []
+      },
+      "200674820-0670": {
+        "id": "200674820-0670",
+        "title": "Senior Counsel, Intellectual Property",
+        "url": "https://jobs.apple.com/en-us/details/200674820-0670/senior-counsel-intellectual-property?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:27.549472",
+        "restrictions": []
+      },
+      "200674820-3543": {
+        "id": "200674820-3543",
+        "title": "Senior Counsel, Intellectual Property",
+        "url": "https://jobs.apple.com/en-us/details/200674820-3543/senior-counsel-intellectual-property?team=CORSV",
+        "firstSeen": "2026-08-08T15:06:27.563793",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -260072,5 +261429,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-07T15:30:07.959057"
+  "lastUpdated": "2026-08-08T15:07:16.171433"
 }
