@@ -30140,6 +30140,27 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cornerstone-Technical-Senior-Consultant/362079",
         "firstSeen": "2026-08-08T14:33:04.866178",
         "restrictions": []
+      },
+      "362240": {
+        "id": "362240",
+        "title": "Oracle HCM Cloud Core HR Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Cloud-Core-HR-Consultant/362240",
+        "firstSeen": "2026-08-09T14:35:45.033407",
+        "restrictions": []
+      },
+      "362239": {
+        "id": "362239",
+        "title": "Oracle HCM Core HR Module Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Core-HR-Module-Manager/362239",
+        "firstSeen": "2026-08-09T14:35:45.033432",
+        "restrictions": []
+      },
+      "362238": {
+        "id": "362238",
+        "title": "Oracle HCM Cloud Core HR Analyst",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Cloud-Core-HR-Analyst/362238",
+        "firstSeen": "2026-08-09T14:35:45.033447",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -61057,6 +61078,90 @@
         "url": "https://careers.cisco.com/global/en/job/2018965/Account-Executive-Portfolio",
         "firstSeen": "2026-08-08T14:44:25.967961",
         "restrictions": []
+      },
+      "2019851": {
+        "id": "2019851",
+        "title": "Software Engineering Technical Leader- Networking",
+        "url": "https://careers.cisco.com/global/en/job/2019851/Software-Engineering-Technical-Leader-Networking",
+        "firstSeen": "2026-08-09T14:39:19.056478",
+        "restrictions": []
+      },
+      "2019266": {
+        "id": "2019266",
+        "title": "Strategic Program Manager (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2019266/Strategic-Program-Manager-Remote",
+        "firstSeen": "2026-08-09T14:40:31.307259",
+        "restrictions": []
+      },
+      "2020842": {
+        "id": "2020842",
+        "title": "Staff Engineering Product Manager, Analytics - Query Language & Planning (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2020842/Staff-Engineering-Product-Manager-Analytics-Query-Language-Planning-Hybrid",
+        "firstSeen": "2026-08-09T14:40:31.315889",
+        "restrictions": []
+      },
+      "2020719": {
+        "id": "2020719",
+        "title": "Account Executive - Splunk - SLED IN",
+        "url": "https://careers.cisco.com/global/en/job/2020719/Account-Executive-Splunk-SLED-IN",
+        "firstSeen": "2026-08-09T14:40:36.945043",
+        "restrictions": []
+      },
+      "2021545": {
+        "id": "2021545",
+        "title": "Account Executive, Portfolio - US Commercial - NE Ohio",
+        "url": "https://careers.cisco.com/global/en/job/2021545/Account-Executive-Portfolio-US-Commercial-NE-Ohio",
+        "firstSeen": "2026-08-09T14:40:42.699503",
+        "restrictions": []
+      },
+      "2020212": {
+        "id": "2020212",
+        "title": "Customer Experience Manager, Federal - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2020212/Customer-Experience-Manager-Federal-Splunk-Remote",
+        "firstSeen": "2026-08-09T14:41:10.490198",
+        "restrictions": []
+      },
+      "2020624": {
+        "id": "2020624",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2020624/Solutions-Engineer",
+        "firstSeen": "2026-08-09T14:47:35.278325",
+        "restrictions": []
+      },
+      "2018730": {
+        "id": "2018730",
+        "title": "Software Engineer \u2013 Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 Years",
+        "url": "https://careers.cisco.com/global/en/job/2018730/Software-Engineer-Java-Go-Distributed-Systems-Microservices-Kafka-Cloud-4-8-Years",
+        "firstSeen": "2026-08-09T14:47:40.635277",
+        "restrictions": []
+      },
+      "2019676": {
+        "id": "2019676",
+        "title": "Inside Sales Representative - Malaysia",
+        "url": "https://careers.cisco.com/global/en/job/2019676/Inside-Sales-Representative-Malaysia",
+        "firstSeen": "2026-08-09T14:47:40.641328",
+        "restrictions": []
+      },
+      "2022629": {
+        "id": "2022629",
+        "title": "Technical PMO \u2013 Development Infrastructure",
+        "url": "https://careers.cisco.com/global/en/job/2022629/Technical-PMO-Development-Infrastructure",
+        "firstSeen": "2026-08-09T14:47:51.575362",
+        "restrictions": []
+      },
+      "2020677": {
+        "id": "2020677",
+        "title": "Partner Account Executive - SMB & Mid-Market",
+        "url": "https://careers.cisco.com/global/en/job/2020677/Partner-Account-Executive-SMB-Mid-Market",
+        "firstSeen": "2026-08-09T14:47:51.581027",
+        "restrictions": []
+      },
+      "2018781": {
+        "id": "2018781",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2018781/Account-Executive-Portfolio",
+        "firstSeen": "2026-08-09T14:47:51.586507",
+        "restrictions": []
       }
     },
     "visa": {
@@ -85204,6 +85309,13 @@
         "url": "https://jobs.fidelity.com/en/jobs/2133351/investment-consultant-san-jose-ca/",
         "firstSeen": "2026-08-08T14:46:29.217972",
         "restrictions": []
+      },
+      "2132570": {
+        "id": "2132570",
+        "title": "Vice President Custody Sales District Of Columbia Maryland Virginia Territory",
+        "url": "https://jobs.fidelity.com/en/jobs/2132570/vice-president-custody-sales-district-of-columbia-maryland-virginia-territory/",
+        "firstSeen": "2026-08-09T14:49:49.337507",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -105819,6 +105931,34 @@
         "url": "https://www.metacareers.com/profile/job_details/2499464570478811",
         "firstSeen": "2026-08-08T14:50:57.847318",
         "restrictions": []
+      },
+      "816158320844730": {
+        "id": "816158320844730",
+        "title": "Product Content Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/816158320844730",
+        "firstSeen": "2026-08-09T14:54:33.564467",
+        "restrictions": []
+      },
+      "1016147127616653": {
+        "id": "1016147127616653",
+        "title": "Research Scientist, Demography and Survey Sciences",
+        "url": "https://www.metacareers.com/profile/job_details/1016147127616653",
+        "firstSeen": "2026-08-09T14:54:33.571242",
+        "restrictions": []
+      },
+      "1665891037811282": {
+        "id": "1665891037811282",
+        "title": "Software Engineer, Machine Learning RecSys",
+        "url": "https://www.metacareers.com/profile/job_details/1665891037811282",
+        "firstSeen": "2026-08-09T14:54:33.581055",
+        "restrictions": []
+      },
+      "921934854272214": {
+        "id": "921934854272214",
+        "title": "Nanofabrication Research Engineer, Optical Systems",
+        "url": "https://www.metacareers.com/profile/job_details/921934854272214",
+        "firstSeen": "2026-08-09T14:54:33.584952",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -106625,6 +106765,13 @@
         "title": "Executive Administrative Assistant \u2013 Cigna Healthcare \u2013 Hybrid in Chicago, IL",
         "url": "https://jobs.thecignagroup.com/us/en/job/26009747/Executive-Administrative-Assistant-Cigna-Healthcare-Hybrid-in-Chicago-IL",
         "firstSeen": "2026-08-07T15:13:10.338062",
+        "restrictions": []
+      },
+      "26009709": {
+        "id": "26009709",
+        "title": "Middle Market Client Experience Consultant; Houston, TX - Hybrid - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009709/Middle-Market-Client-Experience-Consultant;-Houston-TX-Hybrid-Cigna-Healthcare",
+        "firstSeen": "2026-08-09T14:55:14.192841",
         "restrictions": []
       }
     },
@@ -108517,6 +108664,34 @@
         "title": "Pharmacy Technician - Accredo Speciality Pharmacy - Remote PA and AZ",
         "url": "https://jobs.thecignagroup.com/us/en/job/26009728/Pharmacy-Technician-Accredo-Speciality-Pharmacy-Remote-PA-and-AZ",
         "firstSeen": "2026-08-08T14:52:46.869509",
+        "restrictions": []
+      },
+      "26009635": {
+        "id": "26009635",
+        "title": "Specialty Infusion Field Nurse, 32 hours - Accredo - Bismarck, ND",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009635/Specialty-Infusion-Field-Nurse-32-hours-Accredo-Bismarck-ND",
+        "firstSeen": "2026-08-09T14:56:23.271492",
+        "restrictions": []
+      },
+      "26009500": {
+        "id": "26009500",
+        "title": "Home Infusion Nurse, Per Diem - Accredo - Roswell, NM",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009500/Home-Infusion-Nurse-Per-Diem-Accredo-Roswell-NM",
+        "firstSeen": "2026-08-09T14:56:23.281749",
+        "restrictions": []
+      },
+      "26009569": {
+        "id": "26009569",
+        "title": "Specialty Infusion Field Nurse, Per Diem \u2013 Accredo \u2013 Des Moines, IA",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009569/Specialty-Infusion-Field-Nurse-Per-Diem-Accredo-Des-Moines-IA",
+        "firstSeen": "2026-08-09T14:56:23.297507",
+        "restrictions": []
+      },
+      "26009629": {
+        "id": "26009629",
+        "title": "Staff Pharmacist - Accredo - Remote (AZ, FL, IN, OH, TN)",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26009629/Staff-Pharmacist-Accredo-Remote-AZ-FL-IN-OH-TN",
+        "firstSeen": "2026-08-09T14:56:23.302489",
         "restrictions": []
       }
     },
@@ -161002,6 +161177,90 @@
         "title": "Director, Connected Commerce",
         "url": "https://careers.coca-colacompany.com/job/23665185/director-connected-commerce-atlanta-ga/",
         "firstSeen": "2026-08-05T16:27:49.306593",
+        "restrictions": []
+      },
+      "23677928": {
+        "id": "23677928",
+        "title": "Data Strategist",
+        "url": "https://careers.coca-colacompany.com/job/23677928/data-strategist-atlanta-ga/",
+        "firstSeen": "2026-08-09T15:02:41.217174",
+        "restrictions": []
+      },
+      "23676916": {
+        "id": "23676916",
+        "title": "Data Engineer",
+        "url": "https://careers.coca-colacompany.com/job/23676916/data-engineer-tokyo-jp/",
+        "firstSeen": "2026-08-09T15:02:41.231676",
+        "restrictions": []
+      },
+      "23677053": {
+        "id": "23677053",
+        "title": "Data Engineer",
+        "url": "https://careers.coca-colacompany.com/job/23677053/data-engineer-johannesburg-za/",
+        "firstSeen": "2026-08-09T15:02:41.251929",
+        "restrictions": []
+      },
+      "23677929": {
+        "id": "23677929",
+        "title": "Data Analyst",
+        "url": "https://careers.coca-colacompany.com/job/23677929/data-analyst-atlanta-ga/",
+        "firstSeen": "2026-08-09T15:02:41.266057",
+        "restrictions": []
+      },
+      "23676750": {
+        "id": "23676750",
+        "title": "Data Scientist",
+        "url": "https://careers.coca-colacompany.com/job/23676750/data-scientist-shanghai-cn/",
+        "firstSeen": "2026-08-09T15:02:41.279794",
+        "restrictions": []
+      },
+      "23679666": {
+        "id": "23679666",
+        "title": "Sr. Data Engineer",
+        "url": "https://careers.coca-colacompany.com/job/23679666/sr-data-engineer-ciudad-de-m-xico-mx/",
+        "firstSeen": "2026-08-09T15:02:41.293389",
+        "restrictions": []
+      },
+      "23676857": {
+        "id": "23676857",
+        "title": "Manager, Data Engineer",
+        "url": "https://careers.coca-colacompany.com/job/23676857/manager-data-engineer-singapore-sg/",
+        "firstSeen": "2026-08-09T15:02:41.306725",
+        "restrictions": []
+      },
+      "23677925": {
+        "id": "23677925",
+        "title": "Junior Data Engineer",
+        "url": "https://careers.coca-colacompany.com/job/23677925/junior-data-engineer-atlanta-ga/",
+        "firstSeen": "2026-08-09T15:02:41.320000",
+        "restrictions": []
+      },
+      "23676751": {
+        "id": "23676751",
+        "title": "Senior Manager, Data Governance",
+        "url": "https://careers.coca-colacompany.com/job/23676751/senior-manager-data-governance-shanghai-cn/",
+        "firstSeen": "2026-08-09T15:02:41.333269",
+        "restrictions": []
+      },
+      "23676920": {
+        "id": "23676920",
+        "title": "Senior Director, Data Analytics",
+        "url": "https://careers.coca-colacompany.com/job/23676920/senior-director-data-analytics-tokyo-jp/",
+        "firstSeen": "2026-08-09T15:02:41.346926",
+        "restrictions": []
+      },
+      "23679667": {
+        "id": "23679667",
+        "title": "Sr. Data Engineer - Integrations",
+        "url": "https://careers.coca-colacompany.com/job/23679667/sr-data-engineer-integrations-ciudad-de-m-xico-mx/",
+        "firstSeen": "2026-08-09T15:02:41.360613",
+        "restrictions": []
+      },
+      "23677926": {
+        "id": "23677926",
+        "title": "Senior Director, Data Engineering",
+        "url": "https://careers.coca-colacompany.com/job/23677926/senior-director-data-engineering-atlanta-ga/",
+        "firstSeen": "2026-08-09T15:02:41.373576",
         "restrictions": []
       }
     },
@@ -226864,6 +227123,13 @@
         "url": "https://search.jobs.barclays/job/pune/software-engineer/13015/98891056672",
         "firstSeen": "2026-08-08T15:06:10.115378",
         "restrictions": []
+      },
+      "98969979792": {
+        "id": "98969979792",
+        "title": "US Collections VP",
+        "url": "https://search.jobs.barclays/job/noida/us-collections-vp/13015/98969979792",
+        "firstSeen": "2026-08-09T15:09:26.408703",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -261402,6 +261668,20 @@
         "url": "https://jobs.apple.com/en-us/details/200674820-3543/senior-counsel-intellectual-property?team=CORSV",
         "firstSeen": "2026-08-08T15:06:27.563793",
         "restrictions": []
+      },
+      "200676692-3543": {
+        "id": "200676692-3543",
+        "title": "AI Test Engineer, Sensing & Connectivity",
+        "url": "https://jobs.apple.com/en-us/details/200676692-3543/ai-test-engineer-sensing-connectivity?team=SFTWR",
+        "firstSeen": "2026-08-09T15:09:38.448596",
+        "restrictions": []
+      },
+      "200676717-3543": {
+        "id": "200676717-3543",
+        "title": "Systems Software Engineer, Core OS",
+        "url": "https://jobs.apple.com/en-us/details/200676717-3543/systems-software-engineer-core-os?team=SFTWR",
+        "firstSeen": "2026-08-09T15:09:38.466591",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -261429,5 +261709,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-08T15:07:16.171433"
+  "lastUpdated": "2026-08-09T15:10:27.955922"
 }
