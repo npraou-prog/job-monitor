@@ -1,50 +1,48 @@
-# Job Scan Summary - 2026-08-13
+# Job Scan Summary - 2026-08-14
 
-**New jobs today:** 296
-**Relevant new jobs:** 32
+**New jobs today:** 304
+**Relevant new jobs:** 28
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Site Analyst - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Site-Analyst-Government-Public-Services/362787)
-  • [Oracle EBS Functional Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-EBS-Functional-Analyst/362653)
-  • [Associate Director, Applied AI Engineering - PxE Consulting](https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Director-Applied-AI-Engineering-PxE-Consulting/362635)
+🎯 **Deloitte** - 4 relevant new jobs:
+  • [Senior Palantir AI and Data Science Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Palantir-AI-and-Data-Science-Engineer/362895)
+  • [Analytics and Insights Engineer II, Data Science and Model Development](https://apply.deloitte.com/en_US/careers/JobDetail/Analytics-and-Insights-Engineer-II-Data-Science-and-Model-Development/362813)
+  • [Cyber Oracle Identity Analyst / Security Engineer I](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Oracle-Identity-Analyst-Security-Engineer-I/362708)
+  • [Oracle HCM Cloud Core HR Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Cloud-Core-HR-Analyst/362486)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Data Analyst](https://careers.cisco.com/global/en/job/2019165/Data-Analyst)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Senior Analyst Digital Assets Security](https://jobs.fidelity.com/en/jobs/2133193/senior-analyst-digital-assets-security/)
+  • [Quantitative Risk Analyst](https://jobs.fidelity.com/en/jobs/2129820/quantitative-risk-analyst/)
 
 🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Presale Support Analyst - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26010085/Presale-Support-Analyst-Cigna-Healthcare-Remote)
+  • [Provider Relations Lead Analyst - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26009886/Provider-Relations-Lead-Analyst-Cigna-Healthcare-Remote)
 
 🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/7D70754412E7C0928816C83AE2FA5411)
-  • [Financial Accounting Analyst](https://careers.elevancehealth.com/financial-accounting-analyst/job/D97DA508151C882781A22FF7F60A8011)
+  • [Business Analyst III](https://careers.elevancehealth.com/business-analyst-iii/job/DFCD61CDE87E500085B945E68A494F44)
+  • [Data Scientist Senior](https://careers.elevancehealth.com/data-scientist-senior/job/2A830B8C0139148BB25308027AB86A55)
 
-🎯 **Gm** - 6 relevant new jobs:
-  • [Tax Compliance Analyst](https://search-careers.gm.com/en/jobs/jr-202617743/tax-compliance-analyst/)
-  • [Marketing Strategy & Intelligence Analyst](https://search-careers.gm.com/en/jobs/jr-202616924/marketing-strategy-intelligence-analyst/)
-  • [Senior Data Analyst, OnStar Product Engagement](https://search-careers.gm.com/en/jobs/jr-202616795/senior-data-analyst-onstar-product-engagement/)
-  • [Staff Data Science](https://search-careers.gm.com/en/jobs/jr-202617273/staff-data-science/)
-  • [Staff AI Engineer – Analytics & Domain Intelligence](https://search-careers.gm.com/en/jobs/jr-202617051/staff-ai-engineer-analytics-domain-intelligence/)
+🎯 **Gm** - 3 relevant new jobs:
+  • [Senior Cybersecurity Incident Analyst](https://search-careers.gm.com/en/jobs/jr-202616771/senior-cybersecurity-incident-analyst/)
+  • [Senior Analyst – Retail Planning](https://search-careers.gm.com/en/jobs/jr-202617114/senior-analyst-retail-planning/)
+  • [Staff Data Scientist](https://search-careers.gm.com/en/jobs/jr-202617746/staff-data-scientist/)
 
 🎯 **Intel** - 1 relevant new jobs:
-  • [Rebates Global Process Owner Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Rebates-Global-Process-Owner-Analyst_JR0286362)
+  • [Data Analyst, Enterprise Data Governance Team](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Analyst--Enterprise-Data-Governance-Team_JR0286387)
 
-🎯 **Morganstanley** - 5 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799610283?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799604334?source=mscom)
-  • [Senior Investment Analyst - Parametric](https://morganstanley.eightfold.ai/careers/job/549799504062?source=mscom)
-  • [Insured Solutions Sales Desk Analyst](https://morganstanley.eightfold.ai/careers/job/549799603108?source=mscom)
-  • [Strategy & Analytics Analyst, Assistant Vice President](https://morganstanley.eightfold.ai/careers/job/549799536450?source=mscom)
+🎯 **Qualcomm** - 2 relevant new jobs:
+  • [AI/Machine Learning Researcher, Staff (AI Research)](https://careers.qualcomm.com/careers/job/446720416779?domain=qualcomm.com)
+  • [Project Analyst](https://careers.qualcomm.com/careers/job/446720238889?domain=qualcomm.com)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Procurement Senior Sourcing Analyst- Human Resources](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Procurement-Senior-Sourcing-Analyst--Human-Resources_10332367-1)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Graduate Intern, Data Scientist (Spring 2027)](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Data-Scientist-Spring-2027/33537?jobId=33537)
 
-🎯 **Barclays** - 2 relevant new jobs:
-  • [Decision Analyst](https://search.jobs.barclays/job/gurugram/decision-analyst/13015/98454881152)
-  • [Test Analyst](https://search.jobs.barclays/job/chennai/test-analyst/13015/99153518928)
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Legal Matter Analyst](https://search.jobs.barclays/job/noida/legal-matter-analyst/13015/99203719056)
+  • [Decision Analyst Retail Banking](https://search.jobs.barclays/job/gurugram/decision-analyst-retail-banking/13015/99203718928)
+  • [Investment Banking - Analyst](https://search.jobs.barclays/job/tokyo/investment-banking-analyst/13015/99203718768)
 
-🎯 **Apple** - 10 relevant new jobs:
-  • [Applied AI Engineer - iCloud Data](https://jobs.apple.com/en-us/details/200677759-0836/applied-ai-engineer-icloud-data?team=SFTWR)
-  • [Applied AI Engineer - iCloud Data](https://jobs.apple.com/en-us/details/200677759-3337/applied-ai-engineer-icloud-data?team=SFTWR)
-  • [Staff Machine Learning Engineer – Ads Predictions](https://jobs.apple.com/en-us/details/200653495-0836/staff-machine-learning-engineer-ads-predictions?team=SFTWR)
-  • [Senior Machine Learning Engineer – Ads Predictions](https://jobs.apple.com/en-us/details/200650755-2459/senior-machine-learning-engineer-ads-predictions?team=SFTWR)
-  • [Senior Machine Learning Scientist - Ad Campaign Optimization](https://jobs.apple.com/en-us/details/200649539-0836/senior-machine-learning-scientist-ad-campaign-optimization?team=MLAI)
+🎯 **Apple** - 9 relevant new jobs:
+  • [Global Market Analyst, Market Intelligence](https://jobs.apple.com/en-us/details/200665950-0836/global-market-analyst-market-intelligence?team=CORSV)
+  • [Global Market Analyst, Store Intelligence](https://jobs.apple.com/en-us/details/200665947-0836/global-market-analyst-store-intelligence?team=CORSV)
+  • [Sr. Machine Learning Engineer, Foundation Models Inference - Cloud OS & Inference](https://jobs.apple.com/en-us/details/200677962-3760/sr-machine-learning-engineer-foundation-models-inference-cloud-os-inference?team=MLAI)
+  • [Sr. Machine Learning Engineer, Foundation Models Inference - Cloud OS & Inference](https://jobs.apple.com/en-us/details/200677962-3337/sr-machine-learning-engineer-foundation-models-inference-cloud-os-inference?team=MLAI)
+  • [Senior Business Operations Analyst, Enterprise Technology Services](https://jobs.apple.com/en-us/details/200677755-3956/senior-business-operations-analyst-enterprise-technology-services?team=SFTWR)
