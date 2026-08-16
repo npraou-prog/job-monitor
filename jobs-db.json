@@ -64049,6 +64049,90 @@
         "url": "https://careers.cisco.com/global/en/job/2022891/Software-Engineer",
         "firstSeen": "2026-08-15T14:36:45.613761",
         "restrictions": []
+      },
+      "2020845": {
+        "id": "2020845",
+        "title": "Administrative Assistant, Director, Sales (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2020845/Administrative-Assistant-Director-Sales-Remote",
+        "firstSeen": "2026-08-16T14:26:17.019981",
+        "restrictions": []
+      },
+      "2022353": {
+        "id": "2022353",
+        "title": "Solutions Engineer - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2022353/Solutions-Engineer-Splunk",
+        "firstSeen": "2026-08-16T14:26:40.037675",
+        "restrictions": []
+      },
+      "2018607": {
+        "id": "2018607",
+        "title": "Software Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2018607/Software-Engineer-Hybrid",
+        "firstSeen": "2026-08-16T14:27:53.443677",
+        "restrictions": []
+      },
+      "2022033": {
+        "id": "2022033",
+        "title": "Failure Analysis Engineer (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2022033/Failure-Analysis-Engineer-Hybrid",
+        "firstSeen": "2026-08-16T14:28:10.474990",
+        "restrictions": []
+      },
+      "2018944": {
+        "id": "2018944",
+        "title": "Security Consulting Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2018944/Security-Consulting-Engineer",
+        "firstSeen": "2026-08-16T14:36:57.350238",
+        "restrictions": []
+      },
+      "2019039": {
+        "id": "2019039",
+        "title": "Partner Account Executive (Nordics & Benelux)",
+        "url": "https://careers.cisco.com/global/en/job/2019039/Partner-Account-Executive-Nordics-Benelux",
+        "firstSeen": "2026-08-16T14:36:57.355870",
+        "restrictions": []
+      },
+      "2020623": {
+        "id": "2020623",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2020623/Solutions-Engineer",
+        "firstSeen": "2026-08-16T14:37:02.786434",
+        "restrictions": []
+      },
+      "2021160": {
+        "id": "2021160",
+        "title": "Financial Sales Specialist",
+        "url": "https://careers.cisco.com/global/en/job/2021160/Financial-Sales-Specialist",
+        "firstSeen": "2026-08-16T14:37:02.804833",
+        "restrictions": []
+      },
+      "2021787": {
+        "id": "2021787",
+        "title": "Account Executive, Barcelona - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2021787/Account-Executive-Barcelona-Splunk",
+        "firstSeen": "2026-08-16T14:37:08.471321",
+        "restrictions": []
+      },
+      "2018605": {
+        "id": "2018605",
+        "title": "Software Engineering Architect- 6-9 years of proven experience as a Salesforce Developer with a strong understanding of Salesforce architecture and best practices. (Work Location- Hyderabad)",
+        "url": "https://careers.cisco.com/global/en/job/2018605/Software-Engineering-Architect-6-9-years-of-proven-experience-as-a-Salesforce-Developer-with-a-strong-understanding-of-Salesforce-architecture-and-best-practices-Work-Location-Hyderabad",
+        "firstSeen": "2026-08-16T14:37:08.484041",
+        "restrictions": []
+      },
+      "2021837": {
+        "id": "2021837",
+        "title": "Communications Manager",
+        "url": "https://careers.cisco.com/global/en/job/2021837/Communications-Manager",
+        "firstSeen": "2026-08-16T14:37:08.489928",
+        "restrictions": []
+      },
+      "2021891": {
+        "id": "2021891",
+        "title": "Leader, Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2021891/Leader-Solutions-Engineer",
+        "firstSeen": "2026-08-16T14:37:08.496417",
+        "restrictions": []
       }
     },
     "visa": {
@@ -97604,6 +97688,48 @@
         "title": "Hardware EngineerCairo, EgyptCategory:EngineeringPosted:08/13/2026Job ID:18346",
         "url": "https://careers.synopsys.com/job/cairo/hardware-engineer/44408/99217076784",
         "firstSeen": "2026-08-15T14:40:39.598623",
+        "restrictions": []
+      },
+      "99291810640": {
+        "id": "99291810640",
+        "title": "AI, Sr ArchitectNoida, IndiaCategory:EngineeringPosted:08/15/2026Job ID:18355",
+        "url": "https://careers.synopsys.com/job/noida/ai-sr-architect/44408/99291810640",
+        "firstSeen": "2026-08-16T14:41:05.494633",
+        "restrictions": []
+      },
+      "99283756416": {
+        "id": "99283756416",
+        "title": "Senior/Principal ASIC Digital Design Engineer (HPC IP) - 18387Austin, TexasCategory:EngineeringPosted:08/13/2026Job ID:18387",
+        "url": "https://careers.synopsys.com/job/austin/senior-principal-asic-digital-design-engineer-hpc-ip-18387/44408/99283756416",
+        "firstSeen": "2026-08-16T14:41:05.494670",
+        "restrictions": []
+      },
+      "99283756400": {
+        "id": "99283756400",
+        "title": "Digital Design Architect HPC IP - 18388Austin, TexasCategory:EngineeringPosted:08/13/2026Job ID:18388",
+        "url": "https://careers.synopsys.com/job/austin/digital-design-architect-hpc-ip-18388/44408/99283756400",
+        "firstSeen": "2026-08-16T14:41:05.494701",
+        "restrictions": []
+      },
+      "99283756352": {
+        "id": "99283756352",
+        "title": "ASIC Digital Design Engineer HPC IP  - 18384Austin, TexasCategory:EngineeringPosted:08/13/2026Job ID:18384",
+        "url": "https://careers.synopsys.com/job/austin/asic-digital-design-engineer-hpc-ip-18384/44408/99283756352",
+        "firstSeen": "2026-08-16T14:41:05.494721",
+        "restrictions": []
+      },
+      "99283756288": {
+        "id": "99283756288",
+        "title": "ASIC Digital Design Engineer (HPC IP) - 18382Austin, TexasCategory:EngineeringPosted:08/13/2026Job ID:18382",
+        "url": "https://careers.synopsys.com/job/austin/asic-digital-design-engineer-hpc-ip-18382/44408/99283756288",
+        "firstSeen": "2026-08-16T14:41:05.494740",
+        "restrictions": []
+      },
+      "99263061728": {
+        "id": "99263061728",
+        "title": "Senior/Principal Interface IP Verification Engineer (Pre-Silicon) - 18383Austin, TexasCategory:EngineeringPosted:08/13/2026Job ID:18383",
+        "url": "https://careers.synopsys.com/job/austin/senior-principal-interface-ip-verification-engineer-pre-silicon-18383/44408/99263061728",
+        "firstSeen": "2026-08-16T14:41:05.494759",
         "restrictions": []
       }
     },
@@ -238772,6 +238898,20 @@
         "url": "https://search.jobs.barclays/job/northampton/risk-assessment-manager/13015/99217253664",
         "firstSeen": "2026-08-15T15:00:39.922872",
         "restrictions": []
+      },
+      "99295437056": {
+        "id": "99295437056",
+        "title": "Corp FX Test Automation Lead",
+        "url": "https://search.jobs.barclays/job/pune/corp-fx-test-automation-lead/13015/99295437056",
+        "firstSeen": "2026-08-16T15:00:39.590170",
+        "restrictions": []
+      },
+      "97173672560": {
+        "id": "97173672560",
+        "title": "AVP - ST&I Recovery Resolution planning",
+        "url": "https://search.jobs.barclays/job/chennai/avp-st-and-i-recovery-resolution-planning/13015/97173672560",
+        "firstSeen": "2026-08-16T15:00:39.590195",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -275850,5 +275990,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-15T15:01:50.092263"
+  "lastUpdated": "2026-08-16T15:01:41.513596"
 }
