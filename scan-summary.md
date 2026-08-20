@@ -1,61 +1,34 @@
-# Job Scan Summary - 2026-08-19
+# Job Scan Summary - 2026-08-20
 
-**New jobs today:** 293
-**Relevant new jobs:** 31
+**New jobs today:** 282
+**Relevant new jobs:** 16
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [Senior, Business Analyst - Tax Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Business-Analyst-Tax-Transformation/363534)
-  • [Manager, Business Analyst - Tax Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Manager-Business-Analyst-Tax-Transformation/363533)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Associate Director, Applied AI Engineering](https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Director-Applied-AI-Engineering/363546)
 
-🎯 **Cisco** - 4 relevant new jobs:
-  • [Data Analyst: People Legal Team](https://careers.cisco.com/global/en/job/2020834/Data-Analyst-People-Legal-Team)
-  • [Data Science Engineer II (Full Time) - United States](https://careers.cisco.com/global/en/job/2023062/Data-Science-Engineer-II-Full-Time-United-States)
-  • [Incident Response Analyst](https://careers.cisco.com/global/en/job/2021883/Incident-Response-Analyst)
-  • [Incident Response Analyst](https://careers.cisco.com/global/en/job/2021878/Incident-Response-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Data Science Analyst](https://careers.cisco.com/global/en/job/2023188/Data-Science-Analyst)
 
 🎯 **Chewy** - 1 relevant new jobs:
-  • [Accounts Payable Analyst](https://careers.chewy.com/us/en/job/R30571/Accounts-Payable-Analyst)
+  • [Data Scientist I](https://careers.chewy.com/us/en/job/R30610/Data-Scientist-I)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Audio Software Engineer, Applied Scientist](https://www.metacareers.com/profile/job_details/1837102413919658)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/4E2AB8674DCAA482FFFE6F866C0972CF)
+  • [Financial Analyst Senior](https://careers.elevancehealth.com/financial-analyst-senior/job/7CE70C69E9FCBBF2E3A14ECE1F0491BA)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Systems Analyst Advisor](https://careers.elevancehealth.com/systems-analyst-advisor/job/A7CB9DB22C91BF0A5D471D3E1088BA8A)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799757587?source=mscom)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [GBS Transformation Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202618101/gbs-transformation-senior-analyst/)
-  • [Senior RTP Analyst - Global SAP CoE](https://search-careers.gm.com/en/jobs/jr-202617922/senior-rtp-analyst-global-sap-coe/)
-  • [Senior Financial Analyst - SEC Reporting](https://search-careers.gm.com/en/jobs/jr-202617880/senior-financial-analyst-sec-reporting/)
-  • [Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202616658/financial-analyst/)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Analyst II-Supply Chain and Logistics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Blue-Springs-Mississippi/Analyst-II-Supply-Chain-and-Logistics_10331811)
 
-🎯 **Ibm** - 2 relevant new jobs:
-  • [Confluent - Data Scientist - Product](https://careers.ibm.com/careers/JobDetail?jobId=128216)
-  • [Associate Data Scientist 2027 - AI & Data Analytics](https://careers.ibm.com/careers/JobDetail?jobId=129654)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Analyst - Investment Banking](https://search.jobs.barclays/job/mumbai/analyst-investment-banking/13015/99483448448)
+  • [Research Analyst, Asia FX & EM Macro Strategy](https://search.jobs.barclays/job/singapore/research-analyst-asia-fx-and-em-macro-strategy/13015/99446586432)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Investment Banking Technology Analyst - New York OR Menlo Park](https://morganstanley.eightfold.ai/careers/job/549799711120?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799681840?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549799677687?source=mscom)
-
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Variable Compensation and Sales Planning Analyst](https://careers.gehealthcare.com/global/en/job/R4044933/Variable-Compensation-and-Sales-Planning-Analyst)
-
-🎯 **Datadog** - 1 relevant new jobs:
-  • [Sales Revenue Analyst - NYC](https://boards.greenhouse.io/datadog/jobs/8132294)
-
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Credit Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Alpharetta-Georgia/Credit-Analyst_10333637)
-  • [Analyst - Product Lifecycle Management](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Analyst---Product-Lifecycle-Management_10333372)
-
-🎯 **Barclays** - 4 relevant new jobs:
-  • [Senior Business Analyst - AVP](https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/99072662624)
-  • [Banking Analyst Graduate Program 2027 San Francisco](https://search.jobs.barclays/job/san-francisco/banking-analyst-graduate-program-2027-san-francisco/13015/99402605664)
-  • [Banking Analyst Graduate Program 2027 Houston](https://search.jobs.barclays/job/houston/banking-analyst-graduate-program-2027-houston/13015/99402605584)
-  • [Analyst - Treasury PC](https://search.jobs.barclays/job/chennai/analyst-treasury-pc/13015/99402600208)
-
-🎯 **Apple** - 5 relevant new jobs:
-  • [Senior Engineer - Health AIML](https://jobs.apple.com/en-us/details/200678785-0836/senior-engineer-health-aiml?team=MLAI)
-  • [Engineering Program Manager, AIML, Data Insights & Engineering](https://jobs.apple.com/en-us/details/200678544-0836/engineering-program-manager-aiml-data-insights-engineering?team=SFTWR)
-  • [Sr. Data Scientist, Apple Business & Education Organization](https://jobs.apple.com/en-us/details/200678733-0836/sr-data-scientist-apple-business-education-organization?team=SFTWR)
-  • [Sr. Data Scientist, Apple Business & Education Organization](https://jobs.apple.com/en-us/details/200678733-3337/sr-data-scientist-apple-business-education-organization?team=SFTWR)
-  • [GPU ML Engineer](https://jobs.apple.com/en-us/details/200678240-0836/gpu-ml-engineer?team=SFTWR)
+🎯 **Apple** - 7 relevant new jobs:
+  • [AI/ML Engineer (GenAI), Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200678755-3543/ai-ml-engineer-genai-wireless-technologies-ecosystems?team=SFTWR)
+  • [Product Data Scientist, Employee Experience & Productivity, IS&T](https://jobs.apple.com/en-us/details/200677976-3956/product-data-scientist-employee-experience-productivity-is-t?team=SFTWR)
+  • [AIML - Sr Manager, Evaluation - Data Science & Insights](https://jobs.apple.com/en-us/details/200678963-3337/aiml-sr-manager-evaluation-data-science-insights?team=MLAI)
+  • [Apple Ads, Financial Analyst](https://jobs.apple.com/en-us/details/200677414-0836/apple-ads-financial-analyst?team=CORSV)
+  • [Machine Learning Engineer - On-Device Adaptive Control](https://jobs.apple.com/en-us/details/200679038-3337/machine-learning-engineer-on-device-adaptive-control?team=SFTWR)
