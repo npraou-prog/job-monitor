@@ -1,48 +1,48 @@
-# Job Scan Summary - 2026-08-21
+# Job Scan Summary - 2026-08-22
 
-**New jobs today:** 289
-**Relevant new jobs:** 24
+**New jobs today:** 259
+**Relevant new jobs:** 22
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Senior Data Product Analyst - Data Management Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Product-Analyst-Data-Management-Engineer-III/363755)
-  • [Data Analyst - Top Secret clearance](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analyst-Top-Secret-clearance/363647)
-  • [SAP Data Conversion, Transformation Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/SAP-Data-Conversion-Transformation-Analyst/363406)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [AI Research Scientist II (Full Time)- United States ENG/CPO/AISWP ETR](https://careers.cisco.com/global/en/job/2023101/AI-Research-Scientist-II-Full-Time-United-States-ENG-CPO-AISWP-ETR)
+  • [Software Machine Learning Engineer](https://careers.cisco.com/global/en/job/2016324/Software-Machine-Learning-Engineer)
+
+🎯 **Globalpartners** - 1 relevant new jobs:
+  • [Staff Data Scientist](https://careers.globalp.com/staff-data-scientist/job/P1-6568176-0)
+
+🎯 **Chewy** - 2 relevant new jobs:
+  • [Category Analyst](https://careers.chewy.com/us/en/job/R30674/Category-Analyst)
+  • [Senior Finance Analyst](https://careers.chewy.com/us/en/job/R30701/Senior-Finance-Analyst)
 
 🎯 **Elevancehealth** - 3 relevant new jobs:
-  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/BC2DB739EA1634855BDAF37E35E42873)
-  • [Financial Accounting Analyst Senior](https://careers.elevancehealth.com/financial-accounting-analyst-senior/job/DD01CEF586AD12F513053EBDACDEE8DD)
-  • [Secrets Management Security Analyst (Security Analyst Senior)](https://careers.elevancehealth.com/secrets-management-security-analyst-security-analyst-senior/job/D6E1B117DCD1ACDD1C1579F0FBD70B0A)
-
-🎯 **Gm** - 1 relevant new jobs:
-  • [Data Scientist - AI/ML Solutions PPCO](https://search-careers.gm.com/en/jobs/jr-202617248/data-scientist-ai-ml-solutions-ppco/)
+  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/A567EBF0BFD76ACC36AD0E0788E7140A)
+  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/FF2CD995396758C3D59D3DBAFBB1FFBE)
+  • [Health Services Data Analyst](https://careers.elevancehealth.com/health-services-data-analyst/job/AF9B078B2EC9617D2D9C2B9784B4B6A2)
 
 🎯 **Ibm** - 1 relevant new jobs:
-  • [Senior AI Engineer - Agentic Systems](https://careers.ibm.com/careers/JobDetail?jobId=129785)
+  • [Senior Operations Research/ System Analyst (ORSA)](https://careers.ibm.com/careers/JobDetail?jobId=129449)
 
 🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Business Solutions Group (BSG), Analyst](https://morganstanley.eightfold.ai/careers/job/549799799137?source=mscom)
-  • [Private Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549799780166?source=mscom)
+  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549799714807?source=mscom)
+  • [Investment Analyst - Parametric](https://morganstanley.eightfold.ai/careers/job/549799569757?source=mscom)
 
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Data Analyst - Commercial Operations (Hybrid)](https://careers.gehealthcare.com/global/en/job/R4044951/Data-Analyst-Commercial-Operations-Hybrid)
+🎯 **Ey** - 3 relevant new jobs:
+  • [Cons-Tech Cons-AI and Data-AAA-Adv Analytics-Data Scientist-Manager - Multiple Positions - 1736509](https://careers.ey.com/ey/job/Chicago-Cons-Tech-Cons-AI-and-Data-AAA-Adv-Analytics-Data-Scientist-Manager-Multiple-Positions-1736509-IL-60606/1428043133/)
+  • [Americas Tax Technology Group - Business Analyst - Manager](https://careers.ey.com/ey/job/Dallas-Americas-Tax-Technology-Group-Business-Analyst-Manager-TX-75219/1413968133/)
+  • [EY-Parthenon - Strategy and Execution - Growth Platforms - AI/ML Engineer - Sr Associate/Consultant](https://careers.ey.com/ey/job/Atlanta-EY-Parthenon-Strategy-and-Execution-Growth-Platforms-AIML-Engineer-Sr-AssociateConsultant-GA-30309/1408049733/)
 
-🎯 **Delta** - 2 relevant new jobs:
-  • [Graduate Intern, Innovation - AI Engineering (Spring 2027)](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Innovation-AI-Engineering-Spring-2027/33706?jobId=33706)
-  • [Intern, Innovation - AI Engineering (Spring 2027)](https://delta.avature.net/en_US/careers/JobDetail/Intern-Innovation-AI-Engineering-Spring-2027/33707?jobId=33707)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [Senior Accounts Receivable Analyst](https://boards.greenhouse.io/datadog/jobs/8143849)
 
-🎯 **Toyota** - 3 relevant new jobs:
-  • [Cost Management Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Cost-Management-Analyst_10333448)
-  • [Analyst II - Supply Chain Development](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst-II---Supply-Chain-Development_10333473)
-  • [Senior Analyst Product Profit Lifecycle Management](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Senior-Analyst-Product-Profit-Lifecycle-Management_10333373)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Security Operations Center (SOC) Analyst - L1](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Security-Operations-Center--SOC--Analyst---L1_10331600)
 
-🎯 **Barclays** - 4 relevant new jobs:
-  • [Business Analyst](https://search.jobs.barclays/job/pune/business-analyst/13015/99528482736)
-  • [Risk Reporting, Analytics & Automation Analyst](https://search.jobs.barclays/job/pune/risk-reporting-analytics-and-automation-analyst/13015/99528482656)
-  • [Data Solutions Analyst](https://search.jobs.barclays/job/gurugram/data-solutions-analyst/13015/98846459408)
-  • [Corporate Operations Senior Data Analyst](https://search.jobs.barclays/job/dublin/corporate-operations-senior-data-analyst/13015/99528478656)
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Payment Research Operations Analyst](https://search.jobs.barclays/job/noida/payment-research-operations-analyst/13015/98800935888)
+  • [Structured Products Credit Analyst](https://search.jobs.barclays/job/new-york/structured-products-credit-analyst/13015/99556912528)
+  • [Correspondent Banking Investigations Analyst](https://search.jobs.barclays/job/whippany/correspondent-banking-investigations-analyst/13015/99542114960)
 
-🎯 **Apple** - 4 relevant new jobs:
-  • [Senior Data Analyst - OS Stability](https://jobs.apple.com/en-us/details/200679313-3543/senior-data-analyst-os-stability?team=SFTWR)
-  • [Technical Fraud Analyst - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200679210-0157/technical-fraud-analyst-strategic-data-solutions?team=CORSV)
-  • [Machine Learning Research Engineer, ASE Search](https://jobs.apple.com/en-us/details/200679268-3337/machine-learning-research-engineer-ase-search?team=MLAI)
-  • [Pricing Analyst, Worldwide Product Marketing (WWPM) Finance & Business Management](https://jobs.apple.com/en-us/details/200677412-0836/pricing-analyst-worldwide-product-marketing-wwpm-finance-business-management?team=CORSV)
+🎯 **Apple** - 3 relevant new jobs:
+  • [Machine Learning Engineer - On-Device Control and Optimization](https://jobs.apple.com/en-us/details/200676105-3337/machine-learning-engineer-on-device-control-and-optimization?team=SFTWR)
+  • [Machine Learning (ML) Data Scientist - ISE Analytics and User Studies, Input Experience](https://jobs.apple.com/en-us/details/200663909-0836/machine-learning-ml-data-scientist-ise-analytics-and-user-studies-input-experience?team=MLAI)
+  • [AIML - Machine Learning Researcher, MLR](https://jobs.apple.com/en-us/details/200672239-1242/aiml-machine-learning-researcher-mlr?team=MLAI)
