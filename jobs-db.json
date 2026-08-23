@@ -32747,6 +32747,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Consultant-Digital-Quality-Compliance/362643",
         "firstSeen": "2026-08-22T14:22:57.466164",
         "restrictions": []
+      },
+      "363993": {
+        "id": "363993",
+        "title": "Real Estate Technology Senior Consultant - Maximo (Technical)",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Real-Estate-Technology-Senior-Consultant-Maximo-Technical/363993",
+        "firstSeen": "2026-08-23T14:24:31.506518",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -66933,6 +66940,55 @@
         "url": "https://careers.cisco.com/global/en/job/2022809/Product-Engineer-Wafer-Test",
         "firstSeen": "2026-08-22T14:35:48.052127",
         "restrictions": []
+      },
+      "2022000": {
+        "id": "2022000",
+        "title": "Director, Financial Regional Sales",
+        "url": "https://careers.cisco.com/global/en/job/2022000/Director-Financial-Regional-Sales",
+        "firstSeen": "2026-08-23T14:28:43.383686",
+        "restrictions": []
+      },
+      "2014912": {
+        "id": "2014912",
+        "title": "Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2014912/Software-Engineer",
+        "firstSeen": "2026-08-23T14:38:05.227498",
+        "restrictions": []
+      },
+      "2018455": {
+        "id": "2018455",
+        "title": "Customer Delivery Architect",
+        "url": "https://careers.cisco.com/global/en/job/2018455/Customer-Delivery-Architect",
+        "firstSeen": "2026-08-23T14:38:12.088681",
+        "restrictions": []
+      },
+      "2021232": {
+        "id": "2021232",
+        "title": "Solution Test Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2021232/Solution-Test-Engineer",
+        "firstSeen": "2026-08-23T14:38:12.094350",
+        "restrictions": []
+      },
+      "2022350": {
+        "id": "2022350",
+        "title": "Component Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2022350/Component-Engineer",
+        "firstSeen": "2026-08-23T14:38:12.100046",
+        "restrictions": []
+      },
+      "2023812": {
+        "id": "2023812",
+        "title": "Integrated Photonic Test Engineer - Acacia (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2023812/Integrated-Photonic-Test-Engineer-Acacia-Hybrid",
+        "firstSeen": "2026-08-23T14:38:17.960907",
+        "restrictions": []
+      },
+      "2022405": {
+        "id": "2022405",
+        "title": "Engineering Project Manager",
+        "url": "https://careers.cisco.com/global/en/job/2022405/Engineering-Project-Manager",
+        "firstSeen": "2026-08-23T14:38:17.973674",
+        "restrictions": []
       }
     },
     "visa": {
@@ -92046,6 +92102,27 @@
         "url": "https://jobs.fidelity.com/en/jobs/2133289/data-center-engineer/",
         "firstSeen": "2026-08-22T14:36:47.754640",
         "restrictions": []
+      },
+      "2127337": {
+        "id": "2127337",
+        "title": "Director Of Engineering Voice Platform",
+        "url": "https://jobs.fidelity.com/en/jobs/2127337/director-of-engineering-voice-platform/",
+        "firstSeen": "2026-08-23T14:39:19.490188",
+        "restrictions": []
+      },
+      "2132943": {
+        "id": "2132943",
+        "title": "Trust Officer",
+        "url": "https://jobs.fidelity.com/en/jobs/2132943/trust-officer/",
+        "firstSeen": "2026-08-23T14:39:19.495106",
+        "restrictions": []
+      },
+      "2127333": {
+        "id": "2127333",
+        "title": "Vp Of Architecture Workforce Management",
+        "url": "https://jobs.fidelity.com/en/jobs/2127333/vp-of-architecture-workforce-management/",
+        "firstSeen": "2026-08-23T14:39:19.498471",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -107502,6 +107579,20 @@
         "url": "https://careers.chewy.com/us/en/job/R30701/Senior-Finance-Analyst",
         "firstSeen": "2026-08-22T14:43:08.106030",
         "restrictions": []
+      },
+      "R30693": {
+        "id": "R30693",
+        "title": "Automated Lead Maintenance Technician",
+        "url": "https://careers.chewy.com/us/en/job/R30693/Automated-Lead-Maintenance-Technician",
+        "firstSeen": "2026-08-23T14:43:04.104852",
+        "restrictions": []
+      },
+      "R30686": {
+        "id": "R30686",
+        "title": "Maintenance Tech III",
+        "url": "https://careers.chewy.com/us/en/job/R30686/Maintenance-Tech-III",
+        "firstSeen": "2026-08-23T14:43:04.124867",
+        "restrictions": []
       }
     },
     "meta": {
@@ -114306,6 +114397,13 @@
         "url": "https://www.metacareers.com/profile/job_details/1033687579538811",
         "firstSeen": "2026-08-22T14:43:47.030270",
         "restrictions": []
+      },
+      "2112788296260284": {
+        "id": "2112788296260284",
+        "title": "AI Research Manager",
+        "url": "https://www.metacareers.com/profile/job_details/2112788296260284",
+        "firstSeen": "2026-08-23T14:43:52.838045",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -117361,6 +117459,13 @@
         "title": "Staff Pharmacist - Accredo Fulfillment (Tempe, AZ)",
         "url": "https://jobs.thecignagroup.com/us/en/job/26009682/Staff-Pharmacist-Accredo-Fulfillment-Tempe-AZ",
         "firstSeen": "2026-08-22T14:45:37.412293",
+        "restrictions": []
+      },
+      "26010041": {
+        "id": "26010041",
+        "title": "Home Infusion Nurse Per Diem - Accredo - Medford, OR",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26010041/Home-Infusion-Nurse-Per-Diem-Accredo-Medford-OR",
+        "firstSeen": "2026-08-23T14:45:42.598007",
         "restrictions": []
       }
     },
@@ -184521,6 +184626,13 @@
         "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer_JR0286476",
         "firstSeen": "2026-08-22T14:54:37.395169",
         "restrictions": []
+      },
+      "JR0286591": {
+        "id": "JR0286591",
+        "title": "NMSi Administrative Assistant",
+        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/NMSi-Administrative-Assistant_JR0286591",
+        "firstSeen": "2026-08-23T14:54:33.240025",
+        "restrictions": []
       }
     },
     "ibm": {
@@ -248011,6 +248123,13 @@
         "url": "https://search.jobs.barclays/job/london/managing-director-global-head-of-crisis-management-and-joc/13015/99542113120",
         "firstSeen": "2026-08-22T15:02:05.385825",
         "restrictions": []
+      },
+      "99542113088": {
+        "id": "99542113088",
+        "title": "Principal Engineer - File Gateway",
+        "url": "https://search.jobs.barclays/job/pune/principal-engineer-file-gateway/13015/99542113088",
+        "firstSeen": "2026-08-23T15:00:31.796313",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -287204,6 +287323,13 @@
         "url": "https://jobs.apple.com/en-us/details/200679077-0157/program-manager-bpr-supply-chain?team=SFTWR",
         "firstSeen": "2026-08-22T15:02:34.067366",
         "restrictions": []
+      },
+      "200678571-3337": {
+        "id": "200678571-3337",
+        "title": "Software Development Engineer, Compute Platform",
+        "url": "https://jobs.apple.com/en-us/details/200678571-3337/software-development-engineer-compute-platform?team=SFTWR",
+        "firstSeen": "2026-08-23T15:00:44.570731",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -287231,5 +287357,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-22T15:03:23.456729"
+  "lastUpdated": "2026-08-23T15:01:34.246861"
 }
