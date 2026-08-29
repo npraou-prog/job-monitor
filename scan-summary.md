@@ -1,12 +1,16 @@
 # Job Scan Summary - 2026-08-29
 
-**New jobs today:** 159
-**Relevant new jobs:** 17
+**New jobs today:** 200
+**Relevant new jobs:** 24
 
-🎯 **Morganstanley** - 3 relevant new jobs:
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2022958/Business-Operations-Analyst)
+
+🎯 **Morganstanley** - 4 relevant new jobs:
   • [Fixed Income Division - Municipal Securities - Analyst/Associate, Syndicate-Client Financing (New York)](https://morganstanley.eightfold.ai/careers/job/549800045134?source=mscom)
   • [Cyber Security AI Engineer - Director](https://morganstanley.eightfold.ai/careers/job/549799625436?source=mscom)
   • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549800008723?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800046416?source=mscom)
 
 🎯 **Gehealthcare** - 7 relevant new jobs:
   • [MR Research Scientist](https://careers.gehealthcare.com/global/en/job/R4040298/MR-Research-Scientist)
@@ -21,7 +25,7 @@
 🎯 **Toyota** - 1 relevant new jobs:
   • [Advanced Compensation - Senior HR Technical Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Advanced-Compensation---Senior-HR-Technical-Analyst_10334349)
 
-🎯 **Apple** - 5 relevant new jobs:
+🎯 **Apple** - 10 relevant new jobs:
   • [Software Engineer - Applied Machine Learning & Localization](https://jobs.apple.com/en-us/details/200668733-0836/software-engineer-applied-machine-learning-localization?team=SFTWR)
   • [HomeKit Machine Learning Engineer](https://jobs.apple.com/en-us/details/200680682-3401/homekit-machine-learning-engineer?team=SFTWR)
   • [Machine Learning Evaluation Engineer](https://jobs.apple.com/en-us/details/200680655-3956/machine-learning-evaluation-engineer?team=HRDWR)
