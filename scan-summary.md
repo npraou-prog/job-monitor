@@ -1,64 +1,51 @@
-# Job Scan Summary - 2026-09-10
+# Job Scan Summary - 2026-09-11
 
-**New jobs today:** 585
-**Relevant new jobs:** 40
+**New jobs today:** 303
+**Relevant new jobs:** 30
 
 🎯 **Deloitte** - 3 relevant new jobs:
-  • [Data Analyst - Risk Adjustment Analytics | Analytics and Insights Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analyst-Risk-Adjustment-Analytics-Analytics-and-Insights-Engineer-III/366078)
-  • [Data Scientist / ML Engineer - Analytics and Insights Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-ML-Engineer-Analytics-and-Insights-Engineer-III/366075)
-  • [RCM Training and Quality Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Training-and-Quality-Analyst/365976)
+  • [Project Analyst, All-Source Intelligence](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-All-Source-Intelligence/366382)
+  • [Intelligence Analyst - Network Development](https://apply.deloitte.com/en_US/careers/JobDetail/Intelligence-Analyst-Network-Development/366331)
+  • [Converge Life Sciences - GTM Product Strategy Analyst - Innovation_Delivery_Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Converge-Life-Sciences-GTM-Product-Strategy-Analyst-Innovation-Delivery-Transformation/365531)
 
-🎯 **Cisco** - 3 relevant new jobs:
-  • [Senior Machine Learning Engineer, AISWP (Hybrid)](https://careers.cisco.com/global/en/job/2023544/Senior-Machine-Learning-Engineer-AISWP-Hybrid)
-  • [Data Science Engineer II (Full Time) - United States](https://careers.cisco.com/global/en/job/2024971/Data-Science-Engineer-II-Full-Time-United-States)
-  • [Director, AI Engineering](https://careers.cisco.com/global/en/job/2024315/Director-AI-Engineering)
+🎯 **Cisco** - 4 relevant new jobs:
+  • [Risk Analyst, Global Monitoring Center, Corporate Security](https://careers.cisco.com/global/en/job/2024226/Risk-Analyst-Global-Monitoring-Center-Corporate-Security)
+  • [Machine Learning Engineering Technical Leader - CX AI](https://careers.cisco.com/global/en/job/2021592/Machine-Learning-Engineering-Technical-Leader-CX-AI)
+  • [Lead Data Scientist](https://careers.cisco.com/global/en/job/2023585/Lead-Data-Scientist)
+  • [Senior Customer Trust Analyst](https://careers.cisco.com/global/en/job/2022914/Senior-Customer-Trust-Analyst)
 
 🎯 **Globalpartners** - 1 relevant new jobs:
-  • [Nymex Analyst](https://careers.globalp.com/nymex-analyst/job/P1-6701320-0)
+  • [Network Operations Service Analyst](https://careers.globalp.com/network-operations-service-analyst/job/P1-6713751-0)
 
-🎯 **Fidelity** - 6 relevant new jobs:
-  • [Research Analyst I](https://jobs.fidelity.com/en/jobs/2134832/research-analyst-i/)
-  • [Quantitative Risk Analyst Multi Strategy Alternatives](https://jobs.fidelity.com/en/jobs/2134286/quantitative-risk-analyst-multi-strategy-alternatives/)
-  • [Director Data Science](https://jobs.fidelity.com/en/jobs/2134859/director-data-science/)
-  • [Am Quantitative Analyst Ii](https://jobs.fidelity.com/en/jobs/2134861/am-quantitative-analyst-ii/)
-  • [Principal Systems Services And Support Analyst](https://jobs.fidelity.com/en/jobs/2134867/principal-systems-services-and-support-analyst/)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Associate Analyst Custody Operations](https://jobs.fidelity.com/en/jobs/2135133/associate-analyst-custody-operations/)
+  • [Director Product Analyst Estate Planning Financial Planning Advice](https://jobs.fidelity.com/en/jobs/2134702/director-product-analyst-estate-planning-financial-planning-advice/)
+  • [Senior Business Analyst](https://jobs.fidelity.com/en/jobs/2129856/senior-business-analyst/)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Machine Learning Engineer](https://www.metacareers.com/profile/job_details/2316600655751692)
-
-🎯 **Elevancehealth** - 4 relevant new jobs:
-  • [Actuarial Analyst II](https://careers.elevancehealth.com/actuarial-analyst-ii/job/039405F76732A9F30E785CD14939869B)
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/EB1A99A566E6E6994A1BF82B11729778)
-  • [Credentialing Analyst, Infusion Clinics/Nursing](https://careers.elevancehealth.com/credentialing-analyst-infusion-clinics-nursing/job/09256633194181EAED10A77B64907DC4)
-  • [CyberArk EPM Operations Security Analyst III](https://careers.elevancehealth.com/cyberark-epm-operations-security-analyst-iii/job/0B427A812FF4DF91FC9798B332D51219)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Credentialing Analyst (CareBridge)](https://careers.elevancehealth.com/credentialing-analyst-carebridge/job/EC4A8337F6A71C8DFBFEDDC51214EA2D)
+  • [Performance Quality Analyst II](https://careers.elevancehealth.com/performance-quality-analyst-ii/job/84C40D141A243ACBF65E830DCD4F9EAD)
 
 🎯 **Gm** - 2 relevant new jobs:
-  • [Senior AI/ML Engineer](https://search-careers.gm.com/en/jobs/jr-202619968/senior-ai-ml-engineer/)
-  • [Staff AI/ML Engineer - Autonomy CI Platform](https://search-careers.gm.com/en/jobs/jr-202619951/staff-ai-ml-engineer-autonomy-ci-platform/)
+  • [Payroll Analyst](https://search-careers.gm.com/en/jobs/jr-202618346/payroll-analyst/)
+  • [People Services Analyst](https://search-careers.gm.com/en/jobs/jr-202619571/people-services-analyst/)
 
-🎯 **Ibm** - 2 relevant new jobs:
-  • [Business Analyst (Non - Technical)](https://careers.ibm.com/careers/JobDetail?jobId=131815)
-  • [Business Analyst (Non - Technical)](https://careers.ibm.com/careers/JobDetail?jobId=131811)
+🎯 **Ibm** - 4 relevant new jobs:
+  • [ML/AI Engineer – Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131375)
+  • [Machine Learning & AI Engineer – Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131405)
+  • [Machine Learning & AI Engineer – Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131406)
+  • [ML/AI Engineer – Senior Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131401)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Parametric - Operations Analyst Cohort, Summer 2027 Grads](https://morganstanley.eightfold.ai/careers/job/549800174740?source=mscom)
-  • [Parametric - Operations Analyst Cohort, Winter, 2027 (Recent Grads)](https://morganstanley.eightfold.ai/careers/job/549800175346?source=mscom)
-  • [Equity Research – Analyst/Associate, Hardlines, Broadlines & Food Retail (New York)](https://morganstanley.eightfold.ai/careers/job/549800243346?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800243959?source=mscom)
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Staff Data Scientist](https://careers.gehealthcare.com/global/en/job/R4046213/Staff-Data-Scientist)
 
-🎯 **Toyota** - 4 relevant new jobs:
-  • [Warranty Publications Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Warranty-Publications-Analyst_10334322)
-  • [Analyst, Commercial Services Administration](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst--Commercial-Services-Administration_10332207)
-  • [Warranty Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Warranty-Analyst_10334320)
-  • [Senior Analyst – Fire Protection & Emergency Management](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Fire-Protection---Emergency-Management_10334885)
-
-🎯 **Barclays** - 2 relevant new jobs:
-  • [2027 Technology Analyst AI and Data Science Graduate Apprenticeship Programme Glasgow](https://search.jobs.barclays/job/glasgow/2027-technology-analyst-ai-and-data-science-graduate-apprenticeship-programme-glasgow/13015/100442649632)
-  • [Data Analyst](https://search.jobs.barclays/job/pune/data-analyst/13015/100442631312)
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Talent Acquisition Analyst, External Workforce & Managed Service Provider](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Talent-Acquisition-Analyst--External-Workforce---Managed-Service-Provider_10335133-1)
+  • [Supply Chain Business Analytics - Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Supply-Chain-Business-Analytics---Senior-Analyst_10335300)
 
 🎯 **Apple** - 8 relevant new jobs:
-  • [Senior Machine Learning Engineer](https://jobs.apple.com/en-us/details/200677492-3337/senior-machine-learning-engineer?team=SFTWR)
-  • [Machine Learning Engineer - Agentic AI Evaluation Frameworks](https://jobs.apple.com/en-us/details/200681825-0836/machine-learning-engineer-agentic-ai-evaluation-frameworks?team=MLAI)
-  • [Media Analyst](https://jobs.apple.com/en-us/details/200682447-0836/media-analyst?team=MKTG)
-  • [AIML - Senior Machine Learning Research Engineer, LLM Post-training (Multilinguality)](https://jobs.apple.com/en-us/details/200682761-0836/aiml-senior-machine-learning-research-engineer-llm-post-training-multilinguality?team=MLAI)
-  • [AIML - Machine Learning Research Lead, RL Agents, MLR](https://jobs.apple.com/en-us/details/200674615-0836/aiml-machine-learning-research-lead-rl-agents-mlr?team=MLAI)
+  • [Data Scientist, US Decision Intelligence](https://jobs.apple.com/en-us/details/200682042-0836/data-scientist-us-decision-intelligence?team=SLDEV)
+  • [WW Sales & Operations Support: Logistics Senior Financial Analyst](https://jobs.apple.com/en-us/details/200681239-3956/ww-sales-operations-support-logistics-senior-financial-analyst?team=CORSV)
+  • [Finance Analyst, Apple Card, Services Finance](https://jobs.apple.com/en-us/details/200681805-0836/finance-analyst-apple-card-services-finance?team=CORSV)
+  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200683023-0836/machine-learning-engineer?team=MLAI)
+  • [Machine Learning Research Engineer, ASE Search](https://jobs.apple.com/en-us/details/200679268-0836/machine-learning-research-engineer-ase-search?team=MLAI)
