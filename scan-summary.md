@@ -1,51 +1,35 @@
-# Job Scan Summary - 2026-09-11
+# Job Scan Summary - 2026-09-12
 
-**New jobs today:** 303
-**Relevant new jobs:** 30
+**New jobs today:** 148
+**Relevant new jobs:** 17
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Project Analyst, All-Source Intelligence](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-All-Source-Intelligence/366382)
-  • [Intelligence Analyst - Network Development](https://apply.deloitte.com/en_US/careers/JobDetail/Intelligence-Analyst-Network-Development/366331)
-  • [Converge Life Sciences - GTM Product Strategy Analyst - Innovation_Delivery_Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Converge-Life-Sciences-GTM-Product-Strategy-Analyst-Innovation-Delivery-Transformation/365531)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Audit & Assurance – Analyst – Technology Controls Advisory – Summer/Fall 2026](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Summer-Fall-2026/366198)
 
-🎯 **Cisco** - 4 relevant new jobs:
-  • [Risk Analyst, Global Monitoring Center, Corporate Security](https://careers.cisco.com/global/en/job/2024226/Risk-Analyst-Global-Monitoring-Center-Corporate-Security)
-  • [Machine Learning Engineering Technical Leader - CX AI](https://careers.cisco.com/global/en/job/2021592/Machine-Learning-Engineering-Technical-Leader-CX-AI)
-  • [Lead Data Scientist](https://careers.cisco.com/global/en/job/2023585/Lead-Data-Scientist)
-  • [Senior Customer Trust Analyst](https://careers.cisco.com/global/en/job/2022914/Senior-Customer-Trust-Analyst)
+🎯 **Cisco** - 3 relevant new jobs:
+  • [Sales Operations Analyst Hybrid](https://careers.cisco.com/global/en/job/2023707/Sales-Operations-Analyst-Hybrid)
+  • [Pricing Business Analyst](https://careers.cisco.com/global/en/job/2023520/Pricing-Business-Analyst)
+  • [Machine Learning Engineering Technical Leader](https://careers.cisco.com/global/en/job/2023913/Machine-Learning-Engineering-Technical-Leader)
 
-🎯 **Globalpartners** - 1 relevant new jobs:
-  • [Network Operations Service Analyst](https://careers.globalp.com/network-operations-service-analyst/job/P1-6713751-0)
-
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Associate Analyst Custody Operations](https://jobs.fidelity.com/en/jobs/2135133/associate-analyst-custody-operations/)
-  • [Director Product Analyst Estate Planning Financial Planning Advice](https://jobs.fidelity.com/en/jobs/2134702/director-product-analyst-estate-planning-financial-planning-advice/)
-  • [Senior Business Analyst](https://jobs.fidelity.com/en/jobs/2129856/senior-business-analyst/)
-
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Credentialing Analyst (CareBridge)](https://careers.elevancehealth.com/credentialing-analyst-carebridge/job/EC4A8337F6A71C8DFBFEDDC51214EA2D)
-  • [Performance Quality Analyst II](https://careers.elevancehealth.com/performance-quality-analyst-ii/job/84C40D141A243ACBF65E830DCD4F9EAD)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Data Scientist, Product Analytics | Scientifique de données en analyse de produits](https://www.metacareers.com/profile/job_details/1748424582835326)
 
 🎯 **Gm** - 2 relevant new jobs:
-  • [Payroll Analyst](https://search-careers.gm.com/en/jobs/jr-202618346/payroll-analyst/)
-  • [People Services Analyst](https://search-careers.gm.com/en/jobs/jr-202619571/people-services-analyst/)
+  • [Logistics Analyst - São Caetano/SP](https://search-careers.gm.com/en/jobs/jr-202618036/logistics-analyst-sao-caetano-sp/)
+  • [Global Customer Research Analyst – Digital Media (Apps & Websites)](https://search-careers.gm.com/en/jobs/jr-202619849/global-customer-research-analyst-digital-media-apps-websites/)
 
-🎯 **Ibm** - 4 relevant new jobs:
-  • [ML/AI Engineer – Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131375)
-  • [Machine Learning & AI Engineer – Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131405)
-  • [Machine Learning & AI Engineer – Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131406)
-  • [ML/AI Engineer – Senior Managing Consultant](https://careers.ibm.com/careers/JobDetail?jobId=131401)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Data Scientist, Semiconductor Manufacturing Analytics](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist--Semiconductor-Manufacturing-Analytics_JR0287216)
 
-🎯 **Gehealthcare** - 1 relevant new jobs:
-  • [Staff Data Scientist](https://careers.gehealthcare.com/global/en/job/R4046213/Staff-Data-Scientist)
+🎯 **Toyota** - 5 relevant new jobs:
+  • [Sr. Analyst, Infrastructure and InfoSec](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Juan-Puerto-Rico/Sr-Analyst--Infrastructure-and-InfoSec_10335164)
+  • [Analyst - Accounting and Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Analyst---Accounting-and-Finance_10335358)
+  • [Asset Management Sr. Analyst, Accounting and Finance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Asset-Management-Sr-Analyst--Accounting-and-Finance_10335354)
+  • [Threat and Exposure Analyst, Senior](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Threat-and-Exposure-Analyst--Senior_10332665)
+  • [Analyst I - Supply Chain and Logistics](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Ontario-California/Analyst-I---Supply-Chain-and-Logistics_10335070-1)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Talent Acquisition Analyst, External Workforce & Managed Service Provider](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Talent-Acquisition-Analyst--External-Workforce---Managed-Service-Provider_10335133-1)
-  • [Supply Chain Business Analytics - Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Supply-Chain-Business-Analytics---Senior-Analyst_10335300)
-
-🎯 **Apple** - 8 relevant new jobs:
-  • [Data Scientist, US Decision Intelligence](https://jobs.apple.com/en-us/details/200682042-0836/data-scientist-us-decision-intelligence?team=SLDEV)
-  • [WW Sales & Operations Support: Logistics Senior Financial Analyst](https://jobs.apple.com/en-us/details/200681239-3956/ww-sales-operations-support-logistics-senior-financial-analyst?team=CORSV)
-  • [Finance Analyst, Apple Card, Services Finance](https://jobs.apple.com/en-us/details/200681805-0836/finance-analyst-apple-card-services-finance?team=CORSV)
-  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200683023-0836/machine-learning-engineer?team=MLAI)
-  • [Machine Learning Research Engineer, ASE Search](https://jobs.apple.com/en-us/details/200679268-0836/machine-learning-research-engineer-ase-search?team=MLAI)
+🎯 **Apple** - 4 relevant new jobs:
+  • [Senior Machine Learning Engineer, Natural Language Generation](https://jobs.apple.com/en-us/details/200683336-3337/senior-machine-learning-engineer-natural-language-generation?team=MLAI)
+  • [Music Content Operations AIML Program Lead](https://jobs.apple.com/en-us/details/200683205-0836/music-content-operations-aiml-program-lead?team=MKTG)
+  • [Data Scientist, Apple Pay](https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=MLAI)
+  • [Senior Machine Learning Engineer, Apple Wallet](https://jobs.apple.com/en-us/details/200683100-0836/senior-machine-learning-engineer-apple-wallet?team=MLAI)
