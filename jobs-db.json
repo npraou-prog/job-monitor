@@ -75677,6 +75677,62 @@
         "url": "https://careers.cisco.com/global/en/job/2023892/Account-Executive-Small-Medium-Business",
         "firstSeen": "2026-09-12T17:02:42.429658",
         "restrictions": []
+      },
+      "2022332": {
+        "id": "2022332",
+        "title": "Virtual Sales Account Executive - Splunk Public Sector SLED West (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2022332/Virtual-Sales-Account-Executive-Splunk-Public-Sector-SLED-West-Remote",
+        "firstSeen": "2026-09-13T17:21:53.784676",
+        "restrictions": []
+      },
+      "2024907": {
+        "id": "2024907",
+        "title": "Business Operations Manager, Strategic Program Management",
+        "url": "https://careers.cisco.com/global/en/job/2024907/Business-Operations-Manager-Strategic-Program-Management",
+        "firstSeen": "2026-09-13T17:22:06.677221",
+        "restrictions": []
+      },
+      "2023303": {
+        "id": "2023303",
+        "title": "Strategy & Planning Manager",
+        "url": "https://careers.cisco.com/global/en/job/2023303/Strategy-Planning-Manager",
+        "firstSeen": "2026-09-13T17:22:06.682360",
+        "restrictions": []
+      },
+      "2023841": {
+        "id": "2023841",
+        "title": "Data Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2023841/Data-Engineer",
+        "firstSeen": "2026-09-13T17:23:33.072754",
+        "restrictions": []
+      },
+      "2021200": {
+        "id": "2021200",
+        "title": "Senior Software Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2021200/Senior-Software-Engineer",
+        "firstSeen": "2026-09-13T17:24:39.686649",
+        "restrictions": []
+      },
+      "2023381": {
+        "id": "2023381",
+        "title": "Executive Assistant - UKI Sales",
+        "url": "https://careers.cisco.com/global/en/job/2023381/Executive-Assistant-UKI-Sales",
+        "firstSeen": "2026-09-13T17:31:25.201059",
+        "restrictions": []
+      },
+      "2016884": {
+        "id": "2016884",
+        "title": "Emerging Talent Recruiter",
+        "url": "https://careers.cisco.com/global/en/job/2016884/Emerging-Talent-Recruiter",
+        "firstSeen": "2026-09-13T17:31:25.205917",
+        "restrictions": []
+      },
+      "2022074": {
+        "id": "2022074",
+        "title": "Software Test Automation Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2022074/Software-Test-Automation-Engineer",
+        "firstSeen": "2026-09-13T17:33:10.863301",
+        "restrictions": []
       }
     },
     "visa": {
@@ -128644,6 +128700,13 @@
         "title": "Core Medical Benefits Product Director - Cigna Healthcare - Hybrid",
         "url": "https://jobs.thecignagroup.com/us/en/job/26010228/Core-Medical-Benefits-Product-Director-Cigna-Healthcare-Hybrid",
         "firstSeen": "2026-09-12T17:11:23.192274",
+        "restrictions": []
+      },
+      "26011332": {
+        "id": "26011332",
+        "title": "Legal Compliance Advisor, Individual Dental Operations - Cigna Healthcare - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26011332/Legal-Compliance-Advisor-Individual-Dental-Operations-Cigna-Healthcare-Remote",
+        "firstSeen": "2026-09-13T17:40:46.441021",
         "restrictions": []
       }
     },
@@ -192057,6 +192120,13 @@
         "url": "https://search-careers.gm.com/en/jobs/jr-202618715/senior-technical-writer-high-voltage-and-vehicle-systems-gm-defense/",
         "firstSeen": "2026-09-12T17:16:05.578434",
         "restrictions": []
+      },
+      "jr-202618884": {
+        "id": "jr-202618884",
+        "title": "Human Resources Manager Cluster Lead",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202618884/human-resources-manager-cluster-lead/",
+        "firstSeen": "2026-09-13T17:45:17.942088",
+        "restrictions": []
       }
     },
     "cocacola": {
@@ -224312,6 +224382,13 @@
         "title": "Registered Client Service Associate",
         "url": "https://morganstanley.eightfold.ai/careers/job/549800189608?source=mscom",
         "firstSeen": "2026-09-12T17:20:20.822091",
+        "restrictions": []
+      },
+      "549800271103": {
+        "id": "549800271103",
+        "title": "Client Relationship Analyst",
+        "url": "https://morganstanley.eightfold.ai/careers/job/549800271103?source=mscom",
+        "firstSeen": "2026-09-13T17:49:29.905841",
         "restrictions": []
       }
     },
@@ -273752,6 +273829,13 @@
         "url": "https://search.jobs.barclays/job/new-york/agency-cmo-trader/13015/89705529696",
         "firstSeen": "2026-09-12T17:23:50.631585",
         "restrictions": []
+      },
+      "97476065952": {
+        "id": "97476065952",
+        "title": "Cloud Data Engineer",
+        "url": "https://search.jobs.barclays/job/pune/cloud-data-engineer/13015/97476065952",
+        "firstSeen": "2026-09-13T17:53:06.480338",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -319581,6 +319665,20 @@
         "url": "https://jobs.apple.com/en-us/details/200683100-0836/senior-machine-learning-engineer-apple-wallet?team=MLAI",
         "firstSeen": "2026-09-12T17:24:09.112161",
         "restrictions": []
+      },
+      "200683388-0157": {
+        "id": "200683388-0157",
+        "title": "Apple Pay eCommerce Merchant Specialist",
+        "url": "https://jobs.apple.com/en-us/details/200683388-0157/apple-pay-ecommerce-merchant-specialist?team=SFTWR",
+        "firstSeen": "2026-09-13T17:53:18.060348",
+        "restrictions": []
+      },
+      "200683390-0157": {
+        "id": "200683390-0157",
+        "title": "Apple Pay eCommerce Merchant Specialist",
+        "url": "https://jobs.apple.com/en-us/details/200683390-0157/apple-pay-ecommerce-merchant-specialist?team=SFTWR",
+        "firstSeen": "2026-09-13T17:53:18.074774",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -319608,5 +319706,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-12T17:24:58.834448"
+  "lastUpdated": "2026-09-13T17:54:07.418085"
 }
