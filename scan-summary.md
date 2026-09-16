@@ -1,37 +1,59 @@
-# Job Scan Summary - 2026-09-15
+# Job Scan Summary - 2026-09-16
 
-**New jobs today:** 339
-**Relevant new jobs:** 21
+**New jobs today:** 351
+**Relevant new jobs:** 36
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Cyber Remediation Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Remediation-Analyst/366564)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Project Analyst, Watchlist Intelligence & Investigations](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-Watchlist-Intelligence-Investigations/366974)
+  • [RCM Performance Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Performance-Analyst/366946)
+  • [AI Engineer Consultant](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-Consultant/366942)
+  • [PROJECT - Analytics and Insights Engineer III - Data Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/PROJECT-Analytics-and-Insights-Engineer-III-Data-Analyst/366934)
+  • [Associate Director, Applied AI Engineering - PxE GPS](https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Director-Applied-AI-Engineering-PxE-GPS/366903)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2132697/senior-systems-analyst/)
+🎯 **Cisco** - 5 relevant new jobs:
+  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2023923/Business-Operations-Analyst)
+  • [Business Analyst I (Intern) United States](https://careers.cisco.com/global/en/job/2024552/Business-Analyst-I-Intern-United-States)
+  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2022968/Business-Operations-Analyst)
+  • [AI Research Scientist III (Full Time) – United States](https://careers.cisco.com/global/en/job/2025872/AI-Research-Scientist-III-Full-Time-United-States)
+  • [Business Analyst](https://careers.cisco.com/global/en/job/2021553/Business-Analyst)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/BE6311AFCA94B6987B728CFD50BDF88A)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Financial Analyst](https://jobs.fidelity.com/en/jobs/2134566/financial-analyst/)
+  • [Principal Ediscovery Analyst](https://jobs.fidelity.com/en/jobs/2132048/principal-ediscovery-analyst/)
+  • [Business Systems Analyst Workforce Management](https://jobs.fidelity.com/en/jobs/2134197/business-systems-analyst-workforce-management/)
+
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist, Camera and Sensor Systems](https://www.metacareers.com/profile/job_details/882461694479677)
+
+🎯 **Cigna-Healthcare** - 1 relevant new jobs:
+  • [Human Resources Operations Analyst (APAC) - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26010385/Human-Resources-Operations-Analyst-APAC-Cigna-Healthcare)
+
+🎯 **Elevancehealth** - 3 relevant new jobs:
+  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/78D818211B90998F1047B886303686ED)
+  • [Data Scientist](https://careers.elevancehealth.com/data-scientist/job/F7D00B3D45A66E3E72F48E0518A5C43A)
+  • [Grievance & Appeal Analyst 1](https://careers.elevancehealth.com/grievance-appeal-analyst-1/job/4B44CF1E93353C55F9F9B79CBBB040C4)
 
 🎯 **Gm** - 2 relevant new jobs:
-  • [Sr. Analyst, Asset Sustainment](https://search-careers.gm.com/en/jobs/jr-202619923/sr-analyst-asset-sustainment/)
-  • [Business Analyst, Zero Waste Chemical & Resource Management](https://search-careers.gm.com/en/jobs/jr-202619619/business-analyst-zero-waste-chemical-resource-management/)
+  • [Sr. Treasury Analyst](https://search-careers.gm.com/en/jobs/jr-202618827/sr-treasury-analyst/)
+  • [Staff Research Scientist](https://search-careers.gm.com/en/jobs/jr-202620345/staff-research-scientist/)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [FSMS Systems Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/FSMS-Systems-Analyst_JR0286993)
+🎯 **Ibm** - 1 relevant new jobs:
+  • [Data Scientist & AI ELH - RTP 2027](https://careers.ibm.com/careers/JobDetail?jobId=132703)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Return To Work - Operations Analyst, Parametric | Seattle, WA](https://morganstanley.eightfold.ai/careers/job/549800260006?source=mscom)
-  • [Digital Client Experience and Platforms Business Analyst – Associate](https://morganstanley.eightfold.ai/careers/job/549800300502?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800295675?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800301004?source=mscom)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Investment Banking Private Capital Advisory Analyst – New York](https://morganstanley.eightfold.ai/careers/job/549800278806?source=mscom)
+  • [Fixed Income Division - Analyst, Municipal Markets (New York)](https://morganstanley.eightfold.ai/careers/job/549800342032?source=mscom)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Credit Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Juan-Puerto-Rico/Credit-Analyst_10335965)
-  • [Analyst I- Supply Chain Development and Optimization](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst-I--Supply-Chain-Development-and-Optimization_10335156)
+🎯 **Barclays** - 2 relevant new jobs:
+  • [Commercial Optimisation and Pricing Analyst - Consumer Loans](https://search.jobs.barclays/job/london/commercial-optimisation-and-pricing-analyst-consumer-loans/13015/100721595344)
+  • [BARX Markets Desk Support Analyst](https://search.jobs.barclays/job/new-york/barx-markets-desk-support-analyst/13015/100721593056)
 
-🎯 **Apple** - 9 relevant new jobs:
-  • [Machine Learning Engineer, Natural Language Understanding, Proactive](https://jobs.apple.com/en-us/details/200683571-3760/machine-learning-engineer-natural-language-understanding-proactive?team=MLAI)
-  • [AIML Data Operations - Director, Business and Capacity Planning, Data Analytics](https://jobs.apple.com/en-us/details/200683718-0836/aiml-data-operations-director-business-and-capacity-planning-data-analytics?team=MLAI)
-  • [Machine Learning Engineer - Sensing & Connectivity](https://jobs.apple.com/en-us/details/200683839-0836/machine-learning-engineer-sensing-connectivity?team=SFTWR)
-  • [Senior Machine Learning Engineer](https://jobs.apple.com/en-us/details/200683803-0836/senior-machine-learning-engineer?team=SFTWR)
-  • [Senior Machine Learning Engineer](https://jobs.apple.com/en-us/details/200683803-3337/senior-machine-learning-engineer?team=SFTWR)
+🎯 **Rivian** - 1 relevant new jobs:
+  • [Carrier Operations Analyst](https://us-careers-rivian.icims.com/jobs/33078/login)
+
+🎯 **Apple** - 10 relevant new jobs:
+  • [Sr Machine Learning Engineer - ML Data](https://jobs.apple.com/en-us/details/200683797-0836/sr-machine-learning-engineer-ml-data?team=SFTWR)
+  • [Sr Machine Learning Engineer - ML Data](https://jobs.apple.com/en-us/details/200683797-2459/sr-machine-learning-engineer-ml-data?team=SFTWR)
+  • [Machine Learning Engineer, Apple Search & Knowledge Platforms](https://jobs.apple.com/en-us/details/200683907-3337/machine-learning-engineer-apple-search-knowledge-platforms?team=MLAI)
+  • [Sr Machine Learning Engineer - ML Platform](https://jobs.apple.com/en-us/details/200683782-2459/sr-machine-learning-engineer-ml-platform?team=MLAI)
+  • [Senior ML Engineer - Portal](https://jobs.apple.com/en-us/details/200683901-0836/senior-ml-engineer-portal?team=SFTWR)
