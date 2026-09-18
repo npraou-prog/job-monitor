@@ -6133,3 +6133,39 @@
 | 2026-09-17 | 17:58 | Apple | 🎯 MATCH | 112 | 6 | 6 relevant found! |
 | 2026-09-17 | 17:58 | Rhoda | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
 | 2026-09-17 | 17:58 | Aptiv | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Deloitte | NEW | 32 | 0 | 32 new (not matching) |
+| 2026-09-18 | 17:34 | Cisco | 🎯 MATCH | 31 | 2 | 2 relevant found! |
+| 2026-09-18 | 17:34 | Visa | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Global Partners | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Fidelity | 🎯 MATCH | 12 | 3 | 3 relevant found! |
+| 2026-09-18 | 17:34 | Synopsys | NEW | 10 | 0 | 10 new (not matching) |
+| 2026-09-18 | 17:34 | Chewy | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-09-18 | 17:34 | Meta | NEW | 6 | 0 | 6 new (not matching) |
+| 2026-09-18 | 17:34 | Cigna Healthcare | 🎯 MATCH | 7 | 4 | 4 relevant found! |
+| 2026-09-18 | 17:34 | Cigna Evernorth Health Services | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Elevance Health | 🎯 MATCH | 19 | 1 | 1 relevant found! |
+| 2026-09-18 | 17:34 | General Motors | NEW | 16 | 0 | 16 new (not matching) |
+| 2026-09-18 | 17:34 | Coca-Cola | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Intel | NEW | 10 | 0 | 10 new (not matching) |
+| 2026-09-18 | 17:34 | IBM | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Morgan Stanley | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Children's Healthcare of Atlanta (CHOA) | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Qualcomm | 🎯 MATCH | 127 | 11 | 11 relevant found! |
+| 2026-09-18 | 17:34 | Amazon (Jobs for Grads) | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | EY (Ernst & Young) | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | GE Healthcare | NEW | 1 | 0 | 1 new (not matching) |
+| 2026-09-18 | 17:34 | Walmart | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Delta Air Lines | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Datadog | NEW | 3 | 0 | 3 new (not matching) |
+| 2026-09-18 | 17:34 | Commerce.com (BigCommerce) | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Paycom | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-09-18 | 17:34 | Fujitsu | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-09-18 | 17:34 | J.P. Morgan Chase | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-09-18 | 17:34 | Toyota | 🎯 MATCH | 16 | 4 | 4 relevant found! |
+| 2026-09-18 | 17:34 | Barclays | 🎯 MATCH | 13 | 1 | 1 relevant found! |
+| 2026-09-18 | 17:34 | Amadeus | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-09-18 | 17:34 | Rivian | 🎯 MATCH | 4 | 1 | 1 relevant found! |
+| 2026-09-18 | 17:34 | Dyna | No change | 0 | 0 | - |
+| 2026-09-18 | 17:34 | Apple | 🎯 MATCH | 75 | 2 | 2 relevant found! |
+| 2026-09-18 | 17:34 | Rhoda | BASELINE | 0 | 0 | Initial scan, 0 jobs indexed |
+| 2026-09-18 | 17:34 | Aptiv | No change | 0 | 0 | - |

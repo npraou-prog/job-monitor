@@ -1,56 +1,58 @@
-# Job Scan Summary - 2026-09-17
+# Job Scan Summary - 2026-09-18
 
-**New jobs today:** 365
-**Relevant new jobs:** 29
+**New jobs today:** 385
+**Relevant new jobs:** 43
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [SOC Analyst I](https://apply.deloitte.com/en_US/careers/JobDetail/SOC-Analyst-I/367133)
-  • [Data Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analyst/366704)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [PMO Analyst Finance Managed Services Consultant](https://apply.deloitte.com/en_US/careers/JobDetail/PMO-Analyst-Finance-Managed-Services-Consultant/366721)
 
-🎯 **Cisco** - 3 relevant new jobs:
-  • [Business Analyst I (Full Time) United States](https://careers.cisco.com/global/en/job/2025739/Business-Analyst-I-Full-Time-United-States)
-  • [Data Analyst I (Intern) - United States](https://careers.cisco.com/global/en/job/2024561/Data-Analyst-I-Intern-United-States)
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2025625/Business-Operations-Analyst)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Business Analyst I (Intern) United States](https://careers.cisco.com/global/en/job/2026181/Business-Analyst-I-Intern-United-States)
+  • [Procurement Analyst, Supply Chain Operations, Malaysia](https://careers.cisco.com/global/en/job/2025388/Procurement-Analyst-Supply-Chain-Operations-Malaysia)
 
-🎯 **Fidelity** - 1 relevant new jobs:
-  • [Financial Reporting Analyst Stock Plan Services](https://jobs.fidelity.com/en/jobs/2135624/financial-reporting-analyst-stock-plan-services/)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Senior Technology Risk Analyst Ai Coe](https://jobs.fidelity.com/en/jobs/2133132/senior-technology-risk-analyst-ai-coe/)
+  • [Senior Tax Analyst](https://jobs.fidelity.com/en/jobs/2135179/senior-tax-analyst/)
+  • [Manager Business Analyst Electronic Trading](https://jobs.fidelity.com/en/jobs/2133947/manager-business-analyst-electronic-trading/)
+  • [Analyst Business Continuity](https://jobs.fidelity.com/en/jobs/2134779/analyst-business-continuity/)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Data Scientist, Product Analytics](https://www.metacareers.com/profile/job_details/1063946209792967)
+🎯 **Chewy** - 1 relevant new jobs:
+  • [Category Analyst New Graduate Program](https://careers.chewy.com/us/en/job/R30772/Category-Analyst-New-Graduate-Program)
 
-🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Technical Customer Support Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26008506/Technical-Customer-Support-Analyst-Cigna-Healthcare)
+🎯 **Cigna-Healthcare** - 4 relevant new jobs:
+  • [Issue Resolution Lead Analyst, Individual Dental Operations - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26011438/Issue-Resolution-Lead-Analyst-Individual-Dental-Operations-Cigna-Healthcare-Remote)
+  • [Quality Review and Audit Senior Analyst, Individual Dental Operations - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26011453/Quality-Review-and-Audit-Senior-Analyst-Individual-Dental-Operations-Cigna-Healthcare-Remote)
+  • [Quality Review and Audit Lead Analyst, Individual Dental Operations - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26011452/Quality-Review-and-Audit-Lead-Analyst-Individual-Dental-Operations-Cigna-Healthcare-Remote)
+  • [Quality Review and Audit Analyst, Individual Dental Operations - Cigna Healthcare - Remote](https://jobs.thecignagroup.com/us/en/job/26011454/Quality-Review-and-Audit-Analyst-Individual-Dental-Operations-Cigna-Healthcare-Remote)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Actuarial Analyst I](https://careers.elevancehealth.com/actuarial-analyst-i/job/4CF258F38B915A82458E850099FD19E5)
+🎯 **Elevancehealth** - 3 relevant new jobs:
+  • [PBM Financial Analyst Lead](https://careers.elevancehealth.com/pbm-financial-analyst-lead/job/A2AD738ABCD681ED143B7104918ACB10)
+  • [Pharmacy Credentialing/Licensing Analyst](https://careers.elevancehealth.com/pharmacy-credentialing-licensing-analyst/job/9B8320A7554018B4C77838977083975A)
+  • [Security Analyst III - Identity and Access Management (Wellpoint Federal)](https://careers.elevancehealth.com/security-analyst-iii-identity-and-access-management-wellpoint-federal/job/1B21B78B0311D52C21489EC907F7F7EB)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Senior AI/ML Engineer - Robot Localization](https://search-careers.gm.com/en/jobs/jr-202619556/senior-ai-ml-engineer-robot-localization/)
-  • [Vehicle Safety Performance Integration Engineering Analyst - Indaiatuba - BRA](https://search-careers.gm.com/en/jobs/jr-202619674/vehicle-safety-performance-integration-engineering-analyst-indaiatuba-bra/)
-  • [Senior Data Scientist - Vehicle Reliability Engineering](https://search-careers.gm.com/en/jobs/jr-202618769/senior-data-scientist-vehicle-reliability-engineering/)
-  • [Data Scientist – Employee Research](https://search-careers.gm.com/en/jobs/jr-202618536/data-scientist-employee-research/)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Long Range Capacity Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Long-Range-Capacity-Planning-Analyst_JR0287317)
 
-🎯 **Intel** - 2 relevant new jobs:
-  • [APTM Central Senior Finance Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/APTM-Central-Senior-Finance-Analyst_JR0287316)
-  • [Mark Pack Label (MPL) Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mark-Pack-Label--MPL--Analyst_JR0287199)
+🎯 **Qualcomm** - 15 relevant new jobs:
+  • [Senior Embedded Software Engineer (Cloud Edge & Data Center Machine Learning)](https://careers.qualcomm.com/careers/job/446721154919?domain=qualcomm.com)
+  • [Machine Learning Engineer, Staff (Model Optimization)](https://careers.qualcomm.com/careers/job/446720899578?domain=qualcomm.com)
+  • [Machine Learning / Computer Vision Engineer](https://careers.qualcomm.com/careers/job/446720988289?domain=qualcomm.com)
+  • [Staff Machine Learning Engineer – AI/ML Compiler](https://careers.qualcomm.com/careers/job/446720351246?domain=qualcomm.com)
+  • [Senior Machine Learning Software Engineer](https://careers.qualcomm.com/careers/job/446721085855?domain=qualcomm.com)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800299127?source=mscom)
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800324765?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800341534?source=mscom)
-  • [Global Capital Markets – Analyst/Associate, Alternative Capital Solutions (New York)](https://morganstanley.eightfold.ai/careers/job/549800343253?source=mscom)
+🎯 **Toyota** - 8 relevant new jobs:
+  • [Dealer Facilities Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Dealer-Facilities-Analyst_10336011-1)
+  • [Analyst - TPS Promotions](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst---TPS-Promotions_10329812-1)
+  • [Analyst I - Customer Support/Operations](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Buffalo-West-Virginia/Analyst-I---Customer-Support-Operations_10334875)
+  • [Instructional Designer Senior Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Instructional-Designer-Senior-Analyst_10334986)
+  • [Senior Analyst - Physical Security Technology](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Physical-Security-Technology_10335990-1)
 
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Analyst, Commercial Audit](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst--Commercial-Audit_10332644)
+🎯 **Barclays** - 1 relevant new jobs:
+  • [Pricing Decision Analyst](https://search.jobs.barclays/job/london/pricing-decision-analyst/13015/100812851600)
 
-🎯 **Barclays** - 3 relevant new jobs:
-  • [Senior Red Team Analyst - VP](https://search.jobs.barclays/job/new-jersey/senior-red-team-analyst-vp/13015/100768378160)
-  • [2027 Human Resources Analyst Graduate Programme London](https://search.jobs.barclays/job/london/2027-human-resources-analyst-graduate-programme-london/13015/100411086368)
-  • [2027 Compliance Analyst Summer Internship Programme London](https://search.jobs.barclays/job/london/2027-compliance-analyst-summer-internship-programme-london/13015/100411084912)
+🎯 **Rivian** - 1 relevant new jobs:
+  • [Sr. AI Engineer, Product Devleopment](https://us-careers-rivian.icims.com/jobs/33750/login)
 
-🎯 **Apple** - 6 relevant new jobs:
-  • [Senior Exercise Physiologist - Health AIML](https://jobs.apple.com/en-us/details/200684303-0836/senior-exercise-physiologist-health-aiml?team=MLAI)
-  • [Sr. Machine Learning Engineer - Answers, Knowledge & Information (AKI)](https://jobs.apple.com/en-us/details/200683999-3760/sr-machine-learning-engineer-answers-knowledge-information-aki?team=MLAI)
-  • [Sr. Machine Learning Engineer - Answers, Knowledge & Information (AKI)](https://jobs.apple.com/en-us/details/200683999-3337/sr-machine-learning-engineer-answers-knowledge-information-aki?team=MLAI)
-  • [Americas Logistics-Business Analyst](https://jobs.apple.com/en-us/details/200684264-0157/americas-logistics-business-analyst?team=OPMFG)
-  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200684201-0836/machine-learning-engineer?team=HRDWR)
+🎯 **Apple** - 2 relevant new jobs:
+  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200681112-0836/machine-learning-engineer?team=MLAI)
+  • [Product Launch Analyst, Worldwide Readiness](https://jobs.apple.com/en-us/details/200680295-0836/product-launch-analyst-worldwide-readiness?team=OPMFG)
