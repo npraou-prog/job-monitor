@@ -78341,6 +78341,20 @@
         "url": "https://careers.cisco.com/global/en/job/2025047/Engineering-Program-Manager",
         "firstSeen": "2026-09-19T17:16:46.355472",
         "restrictions": []
+      },
+      "2024329": {
+        "id": "2024329",
+        "title": "Demand Planning Manager",
+        "url": "https://careers.cisco.com/global/en/job/2024329/Demand-Planning-Manager",
+        "firstSeen": "2026-09-20T17:24:35.837645",
+        "restrictions": []
+      },
+      "2017544": {
+        "id": "2017544",
+        "title": "Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2017544/Hardware-Engineer",
+        "firstSeen": "2026-09-20T17:33:49.496535",
+        "restrictions": []
       }
     },
     "visa": {
@@ -106464,6 +106478,20 @@
         "url": "https://jobs.fidelity.com/en/jobs/2134851/financial-representative-chandler-az/",
         "firstSeen": "2026-09-19T17:18:54.411350",
         "restrictions": []
+      },
+      "2134615": {
+        "id": "2134615",
+        "title": "Compliance Advisor Supervisory Infrastructure",
+        "url": "https://jobs.fidelity.com/en/jobs/2134615/compliance-advisor-supervisory-infrastructure/",
+        "firstSeen": "2026-09-20T17:34:44.058891",
+        "restrictions": []
+      },
+      "2132844": {
+        "id": "2132844",
+        "title": "Director Due Diligence Investigations",
+        "url": "https://jobs.fidelity.com/en/jobs/2132844/director-due-diligence-investigations/",
+        "firstSeen": "2026-09-20T17:35:56.677870",
+        "restrictions": []
       }
     },
     "synopsys": {
@@ -117167,6 +117195,13 @@
         "title": "Principal Modeling Engineer, Field ApplicationsAustin, TexasCategory:EngineeringPosted:09/17/2026Job ID:18774",
         "url": "https://careers.synopsys.com/job/austin/principal-modeling-engineer-field-applications/44408/100830266688",
         "firstSeen": "2026-09-19T17:21:18.222251",
+        "restrictions": []
+      },
+      "100903181728": {
+        "id": "100903181728",
+        "title": "Applications Engineer, Sr EngineerBengaluru, IndiaCategory:EngineeringPosted:09/19/2026Job ID:18844",
+        "url": "https://careers.synopsys.com/job/bengaluru/applications-engineer-sr-engineer/44408/100903181728",
+        "firstSeen": "2026-09-20T17:39:26.528374",
         "restrictions": []
       }
     },
@@ -132056,6 +132091,20 @@
         "url": "https://www.metacareers.com/profile/job_details/1404312347713996",
         "firstSeen": "2026-09-19T17:24:11.033436",
         "restrictions": []
+      },
+      "1809721810184545": {
+        "id": "1809721810184545",
+        "title": "Software Engineer - Host Networking",
+        "url": "https://www.metacareers.com/profile/job_details/1809721810184545",
+        "firstSeen": "2026-09-20T17:42:14.227468",
+        "restrictions": []
+      },
+      "1050754181130466": {
+        "id": "1050754181130466",
+        "title": "Software Engineering Manager",
+        "url": "https://www.metacareers.com/profile/job_details/1050754181130466",
+        "firstSeen": "2026-09-20T17:42:14.239985",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -133198,6 +133247,13 @@
         "title": "Business Project Senior Advisor, Individual Dental Operations - Cigna Healthcare - Remote",
         "url": "https://jobs.thecignagroup.com/us/en/job/26011442/Business-Project-Senior-Advisor-Individual-Dental-Operations-Cigna-Healthcare-Remote",
         "firstSeen": "2026-09-18T17:57:15.316207",
+        "restrictions": []
+      },
+      "26008562": {
+        "id": "26008562",
+        "title": "Cloud Engineer (AWS & Multi-Cloud) - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26008562/Cloud-Engineer-AWS-Multi-Cloud-Cigna-Healthcare",
+        "firstSeen": "2026-09-20T17:42:53.806336",
         "restrictions": []
       }
     },
@@ -135636,6 +135692,13 @@
         "title": "Pharmacy Technician Lead QRT - 2nd shift - Express Scripts - Whitestown, IN",
         "url": "https://jobs.thecignagroup.com/us/en/job/26010655/Pharmacy-Technician-Lead-QRT-2nd-shift-Express-Scripts-Whitestown-IN",
         "firstSeen": "2026-09-19T17:26:00.917211",
+        "restrictions": []
+      },
+      "26011355": {
+        "id": "26011355",
+        "title": "Staff Pharmacist - Accredo - Newark, DE",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26011355/Staff-Pharmacist-Accredo-Newark-DE",
+        "firstSeen": "2026-09-20T17:44:02.505535",
         "restrictions": []
       }
     },
@@ -265700,6 +265763,14 @@
         "firstSeen": "2026-09-19T17:36:23.534558",
         "restrictions": [],
         "location": "New York, New York, USA"
+      },
+      "8186274": {
+        "id": "8186274",
+        "title": "Manager, Customer Success (Spanish Speaking)",
+        "url": "https://boards.greenhouse.io/datadog/jobs/8186274",
+        "firstSeen": "2026-09-20T17:53:48.545716",
+        "restrictions": [],
+        "location": "Boston, Massachusetts, USA"
       }
     },
     "commerce": {
@@ -332432,6 +332503,13 @@
         "url": "https://jobs.apple.com/en-us/details/200683634-2705/us-manager?team=APPST",
         "firstSeen": "2026-09-19T17:37:55.802155",
         "restrictions": []
+      },
+      "200683893-3956": {
+        "id": "200683893-3956",
+        "title": "AI Data & Infrastructure Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200683893-3956/ai-data-infrastructure-engineer?team=OPMFG",
+        "firstSeen": "2026-09-20T17:55:06.963368",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -332459,5 +332537,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-19T17:38:46.023712"
+  "lastUpdated": "2026-09-20T17:55:55.363355"
 }
