@@ -39532,6 +39532,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Salesforce-Life-Sciences-Cloud-Senior-Consultant/368250",
         "firstSeen": "2026-09-26T17:39:30.663783",
         "restrictions": []
+      },
+      "368657": {
+        "id": "368657",
+        "title": "Aladdin Consultant",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Aladdin-Consultant/368657",
+        "firstSeen": "2026-09-27T18:05:26.203410",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -81221,6 +81228,76 @@
         "title": "Account Executive - Portfolio",
         "url": "https://careers.cisco.com/global/en/job/2025403/Account-Executive-Portfolio",
         "firstSeen": "2026-09-26T17:52:49.764062",
+        "restrictions": []
+      },
+      "2025733": {
+        "id": "2025733",
+        "title": "Reliability/Component Engineer - Optics/Silicon Photonics",
+        "url": "https://careers.cisco.com/global/en/job/2025733/Reliability-Component-Engineer-Optics-Silicon-Photonics",
+        "firstSeen": "2026-09-27T18:09:56.991041",
+        "restrictions": []
+      },
+      "2024360": {
+        "id": "2024360",
+        "title": "Technical Marketing Engineering Technical Leader",
+        "url": "https://careers.cisco.com/global/en/job/2024360/Technical-Marketing-Engineering-Technical-Leader",
+        "firstSeen": "2026-09-27T18:10:08.191658",
+        "restrictions": []
+      },
+      "2024523": {
+        "id": "2024523",
+        "title": "Leader, Renewals",
+        "url": "https://careers.cisco.com/global/en/job/2024523/Leader-Renewals",
+        "firstSeen": "2026-09-27T18:10:31.855980",
+        "restrictions": []
+      },
+      "2023650": {
+        "id": "2023650",
+        "title": "Tech Lead - Hardware /Embedded Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2023650/Tech-Lead-Hardware-Embedded-Engineer",
+        "firstSeen": "2026-09-27T18:10:48.511130",
+        "restrictions": []
+      },
+      "2023652": {
+        "id": "2023652",
+        "title": "Hardware Tech Lead -Optomechanical Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2023652/Hardware-Tech-Lead-Optomechanical-Engineer",
+        "firstSeen": "2026-09-27T18:10:48.519252",
+        "restrictions": []
+      },
+      "2024112": {
+        "id": "2024112",
+        "title": "Principal Hardware Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2024112/Principal-Hardware-Engineer",
+        "firstSeen": "2026-09-27T18:10:48.528100",
+        "restrictions": []
+      },
+      "2025384": {
+        "id": "2025384",
+        "title": "Account Executive - Splunk Strategic Public Sector Accounts (NSW)",
+        "url": "https://careers.cisco.com/global/en/job/2025384/Account-Executive-Splunk-Strategic-Public-Sector-Accounts-NSW",
+        "firstSeen": "2026-09-27T18:19:53.632807",
+        "restrictions": []
+      },
+      "2024608": {
+        "id": "2024608",
+        "title": "Partner Account Executive",
+        "url": "https://careers.cisco.com/global/en/job/2024608/Partner-Account-Executive",
+        "firstSeen": "2026-09-27T18:19:53.639052",
+        "restrictions": []
+      },
+      "2025685": {
+        "id": "2025685",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2025685/Solutions-Engineer",
+        "firstSeen": "2026-09-27T18:19:53.645634",
+        "restrictions": []
+      },
+      "2020019": {
+        "id": "2020019",
+        "title": "Account Executive - Architecture",
+        "url": "https://careers.cisco.com/global/en/job/2020019/Account-Executive-Architecture",
+        "firstSeen": "2026-09-27T18:19:53.664745",
         "restrictions": []
       }
     },
@@ -137583,6 +137660,27 @@
         "url": "https://www.metacareers.com/profile/job_details/1600283378263128",
         "firstSeen": "2026-09-26T18:00:35.659583",
         "restrictions": []
+      },
+      "2045779119402472": {
+        "id": "2045779119402472",
+        "title": "QA Engineering Lead",
+        "url": "https://www.metacareers.com/profile/job_details/2045779119402472",
+        "firstSeen": "2026-09-27T18:27:44.822797",
+        "restrictions": []
+      },
+      "1318844793447458": {
+        "id": "1318844793447458",
+        "title": "Marketing Insights Researcher",
+        "url": "https://www.metacareers.com/profile/job_details/1318844793447458",
+        "firstSeen": "2026-09-27T18:27:44.835160",
+        "restrictions": []
+      },
+      "1394915781774041": {
+        "id": "1394915781774041",
+        "title": "Software Engineer, Android",
+        "url": "https://www.metacareers.com/profile/job_details/1394915781774041",
+        "firstSeen": "2026-09-27T18:27:44.841356",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -141310,6 +141408,20 @@
         "title": "Clinical Account Executive - Express Scripts - Remote (Commercial)",
         "url": "https://jobs.thecignagroup.com/us/en/job/26006272/Clinical-Account-Executive-Express-Scripts-Remote-Commercial",
         "firstSeen": "2026-09-26T18:02:24.981412",
+        "restrictions": []
+      },
+      "26011441": {
+        "id": "26011441",
+        "title": "Strategic Sales Support Advisor - Evernorth",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26011441/Strategic-Sales-Support-Advisor-Evernorth",
+        "firstSeen": "2026-09-27T18:29:34.369337",
+        "restrictions": []
+      },
+      "26011457": {
+        "id": "26011457",
+        "title": "Staff Pharmacist - Accredo - Whitestown, IN",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26011457/Staff-Pharmacist-Accredo-Whitestown-IN",
+        "firstSeen": "2026-09-27T18:29:34.411477",
         "restrictions": []
       }
     },
@@ -206330,6 +206442,13 @@
         "title": "Design Release Engineer \u2013 External Microphone Systems, Super Cruise",
         "url": "https://search-careers.gm.com/en/jobs/jr-202620557/design-release-engineer-external-microphone-systems-super-cruise/",
         "firstSeen": "2026-09-26T18:05:58.483586",
+        "restrictions": []
+      },
+      "jr-202618586": {
+        "id": "jr-202618586",
+        "title": "Cadillac Sales Planning Manager",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202618586/cadillac-sales-planning-manager/",
+        "firstSeen": "2026-09-27T18:32:56.769058",
         "restrictions": []
       }
     },
@@ -345445,5 +345564,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-26T18:15:43.740364"
+  "lastUpdated": "2026-09-27T18:42:30.051450"
 }
