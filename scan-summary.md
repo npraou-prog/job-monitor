@@ -1,55 +1,50 @@
-# Job Scan Summary - 2026-09-29
+# Job Scan Summary - 2026-09-30
 
-**New jobs today:** 514
-**Relevant new jobs:** 65
+**New jobs today:** 276
+**Relevant new jobs:** 25
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Data Scientist - AI and Data Science Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-AI-and-Data-Science-Engineer-II/368918)
+🎯 **Deloitte** - 5 relevant new jobs:
+  • [Lead AI and Data Science Engineer | Secret Clearance](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-and-Data-Science-Engineer-Secret-Clearance/369247)
+  • [GenAI Applied Scientist and Solution Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Applied-Scientist-and-Solution-Engineer/369238)
+  • [AI Engineer - Palantir Foundry](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-Palantir-Foundry/369072)
+  • [AI Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-II/369053)
+  • [Project Analyst, OSINT Forensics and Investigations](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-OSINT-Forensics-and-Investigations/368843)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Financial Reporting Analyst- CA, Accounting , Intercompany ,INDAS,Banking Regulations - 5+yrs exp](https://careers.cisco.com/global/en/job/2025393/Financial-Reporting-Analyst-CA-Accounting-Intercompany-INDAS-Banking-Regulations-5-yrs-exp)
+🎯 **Cisco** - 2 relevant new jobs:
+  • [Finance Analyst](https://careers.cisco.com/global/en/job/2026685/Finance-Analyst)
+  • [Business Analyst I Intern - Colombia](https://careers.cisco.com/global/en/job/2023675/Business-Analyst-I-Intern-Colombia)
 
 🎯 **Fidelity** - 3 relevant new jobs:
-  • [January 2027 Leap Systems Analyst](https://jobs.fidelity.com/en/jobs/2136142/january-2027-leap-systems-analyst/)
-  • [Principal Quantitative Analyst Performance Investment Insights](https://jobs.fidelity.com/en/jobs/2136054/principal-quantitative-analyst-performance-investment-insights/)
-  • [Analyst Performance Measurement Analysis](https://jobs.fidelity.com/en/jobs/2136053/analyst-performance-measurement-analysis/)
+  • [Business Analystproduct Manager](https://jobs.fidelity.com/en/jobs/2134304/business-analystproduct-manager/)
+  • [Senior Analyst Uk Trading Operations Fixed Income](https://jobs.fidelity.com/en/jobs/2135018/senior-analyst-uk-trading-operations-fixed-income/)
+  • [Product Analyst Portfolio Construction Solutions](https://jobs.fidelity.com/en/jobs/2135291/product-analyst-portfolio-construction-solutions/)
 
-🎯 **Cigna-Healthcare** - 29 relevant new jobs:
-  • [Automation Engineer Senior Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26010753/Automation-Engineer-Senior-Analyst-Cigna-Healthcare)
-  • [Learning Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26010296/Learning-Analyst-Cigna-Healthcare)
-  • [Learning Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26010294/Learning-Analyst-Cigna-Healthcare)
-  • [Data Engineering Senior Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26010785/Data-Engineering-Senior-Analyst-Cigna-Healthcare)
-  • [Application Development Senior Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26008549/Application-Development-Senior-Analyst-Cigna-Healthcare)
-
-🎯 **Cigna-Evernorth** - 18 relevant new jobs:
-  • [Financial Analysis Lead Analyst – Express Scripts – Hybrid](https://jobs.thecignagroup.com/us/en/job/26009481/Financial-Analysis-Lead-Analyst-Express-Scripts-Hybrid)
-  • [Financial Operations Analyst - Evernorth - HYBRID](https://jobs.thecignagroup.com/us/en/job/26012088/Financial-Operations-Analyst-Evernorth-HYBRID)
-  • [Procure-to-Pay Analyst - Express Scripts](https://jobs.thecignagroup.com/us/en/job/26011736/Procure-to-Pay-Analyst-Express-Scripts)
-  • [Machine Learning Engineer - Express Scripts Canada](https://jobs.thecignagroup.com/us/en/job/26009410/Machine-Learning-Engineer-Express-Scripts-Canada)
-  • [User Experience Design Senior Analyst - HIH - Evernorth](https://jobs.thecignagroup.com/us/en/job/26001486/User-Experience-Design-Senior-Analyst-HIH-Evernorth)
+🎯 **Meta** - 1 relevant new jobs:
+  • [AI Research Scientist, AI Safety and Security](https://www.metacareers.com/profile/job_details/1873038390772808)
 
 🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Business Information Analyst Senior](https://careers.elevancehealth.com/business-information-analyst-senior/job/F3628174187A0302743BE1CF24CCEE47)
+  • [AI Machine Learning Scientist](https://careers.elevancehealth.com/ai-machine-learning-scientist/job/66F4299E9EA101B51ADBB66CCC202414)
 
-🎯 **Gm** - 1 relevant new jobs:
-  • [Data Scientist](https://search-careers.gm.com/en/jobs/jr-202620897/data-scientist/)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Finance Data Scientist](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800533939?source=mscom)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800540506?source=mscom)
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800483322?source=mscom)
 
 🎯 **Datadog** - 1 relevant new jobs:
-  • [Senior Talent Planning Analyst](https://boards.greenhouse.io/datadog/jobs/8204629)
+  • [Strategic Finance Analyst](https://boards.greenhouse.io/datadog/jobs/8237942)
 
 🎯 **Toyota** - 2 relevant new jobs:
-  • [Sr. Commercial Insurance Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Commercial-Insurance-Analyst_10336229-2)
-  • [Buying Analyst - Purchasing Supplier Development](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Liberty-North-Carolina/Buying-Analyst---Purchasing-Supplier-Development_10335242)
+  • [Senior Analyst - Vehicle Marketing Series](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst---Vehicle-Marketing-Series_10334026)
+  • [VPP Corporate Accounting and Financial Reporting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/VPP-Corporate-Accounting-and-Financial-Reporting-Analyst_10335227)
 
 🎯 **Barclays** - 1 relevant new jobs:
-  • [.Net Developer Analyst](https://search.jobs.barclays/job/whippany/net-developer-analyst/13015/101317716832)
+  • [Transaction Monitoring Barclays UK Quality Assurance Analyst](https://search.jobs.barclays/job/glasgow/transaction-monitoring-barclays-uk-quality-assurance-analyst/13015/101359986416)
 
 🎯 **Apple** - 6 relevant new jobs:
-  • [Camera ISP Computer Vision & Machine Learning Algorithm Engineer](https://jobs.apple.com/en-us/details/200685793-0836/camera-isp-computer-vision-machine-learning-algorithm-engineer?team=HRDWR)
-  • [Senior ML Data Scientist, Apple Pay Analytics](https://jobs.apple.com/en-us/details/200686251-0836/senior-ml-data-scientist-apple-pay-analytics?team=MLAI)
-  • [Machine Learning Engineer - Apple News](https://jobs.apple.com/en-us/details/200686238-0836/machine-learning-engineer-apple-news?team=SFTWR)
-  • [Engineering Program Manager - Graphics, Gaming and Machine Learning](https://jobs.apple.com/en-us/details/200685817-0836/engineering-program-manager-graphics-gaming-and-machine-learning?team=SFTWR)
-  • [Senior Data Scientist, Experimentation & Causal Inference](https://jobs.apple.com/en-us/details/200666441-0670/senior-data-scientist-experimentation-causal-inference?team=MLAI)
+  • [Product Solutions Analyst, Recruiting Technology](https://jobs.apple.com/en-us/details/200684488-0157/product-solutions-analyst-recruiting-technology?team=CORSV)
+  • [Product Solutions Analyst, Recruiting Technology](https://jobs.apple.com/en-us/details/200684488-0836/product-solutions-analyst-recruiting-technology?team=CORSV)
+  • [Product Solutions Analyst, Recruiting Technology](https://jobs.apple.com/en-us/details/200684488-0626/product-solutions-analyst-recruiting-technology?team=CORSV)
+  • [Product Solutions Analyst, Recruiting Technology](https://jobs.apple.com/en-us/details/200684488-3337/product-solutions-analyst-recruiting-technology?team=CORSV)
+  • [Machine Learning Engineer - Proactive](https://jobs.apple.com/en-us/details/200686466-0836/machine-learning-engineer-proactive?team=MLAI)
