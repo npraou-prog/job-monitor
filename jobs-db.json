@@ -40905,6 +40905,13 @@
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst-Integrated-Eligibility-Modernization-Software-Engineer-II/369605",
         "firstSeen": "2026-10-03T17:50:14.326936",
         "restrictions": []
+      },
+      "369656": {
+        "id": "369656",
+        "title": "Casey Quirk Investment & Wealth Management Senior Manager",
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Casey-Quirk-Investment-Wealth-Management-Senior-Manager/369656",
+        "firstSeen": "2026-10-04T18:01:14.230851",
+        "restrictions": []
       }
     },
     "cisco": {
@@ -84408,6 +84415,83 @@
         "url": "https://careers.cisco.com/global/en/job/2025777/Account-Executive-Architecture",
         "firstSeen": "2026-10-03T18:04:32.502933",
         "restrictions": []
+      },
+      "2024135": {
+        "id": "2024135",
+        "title": "Sr. Technical Product Marketing Manager, AI and AgenticOps",
+        "url": "https://careers.cisco.com/global/en/job/2024135/Sr-Technical-Product-Marketing-Manager-AI-and-AgenticOps",
+        "firstSeen": "2026-10-04T18:05:39.287810",
+        "restrictions": []
+      },
+      "2024200": {
+        "id": "2024200",
+        "title": "Finance Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2024200/Finance-Analyst",
+        "firstSeen": "2026-10-04T18:05:39.294317",
+        "restrictions": []
+      },
+      "2026086": {
+        "id": "2026086",
+        "title": "Risk Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2026086/Risk-Analyst",
+        "firstSeen": "2026-10-04T18:06:21.848539",
+        "restrictions": []
+      },
+      "2025465": {
+        "id": "2025465",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2025465/Solutions-Engineer",
+        "firstSeen": "2026-10-04T18:17:06.731346",
+        "restrictions": []
+      },
+      "2026405": {
+        "id": "2026405",
+        "title": "MSP Partner Technical Manager - Splunk",
+        "url": "https://careers.cisco.com/global/en/job/2026405/MSP-Partner-Technical-Manager-Splunk",
+        "firstSeen": "2026-10-04T18:17:12.297531",
+        "restrictions": []
+      },
+      "2025322": {
+        "id": "2025322",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2025322/Solutions-Engineer",
+        "firstSeen": "2026-10-04T18:17:12.305492",
+        "restrictions": []
+      },
+      "2025721": {
+        "id": "2025721",
+        "title": "Business Development Manager - Splunk PBST- NatSec",
+        "url": "https://careers.cisco.com/global/en/job/2025721/Business-Development-Manager-Splunk-PBST-NatSec",
+        "firstSeen": "2026-10-04T18:17:12.312961",
+        "restrictions": []
+      },
+      "2026409": {
+        "id": "2026409",
+        "title": "Leader, Sales",
+        "url": "https://careers.cisco.com/global/en/job/2026409/Leader-Sales",
+        "firstSeen": "2026-10-04T18:17:12.321179",
+        "restrictions": []
+      },
+      "2024065": {
+        "id": "2024065",
+        "title": "Strategy & Planning Manager - Enterprise AI Programs & Governance, Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2024065/Strategy-Planning-Manager-Enterprise-AI-Programs-Governance-Hybrid",
+        "firstSeen": "2026-10-04T18:17:12.327687",
+        "restrictions": []
+      },
+      "2024069": {
+        "id": "2024069",
+        "title": "Strategy & Planning Manager - Enterprise AI Programs & Governance , Hybrid",
+        "url": "https://careers.cisco.com/global/en/job/2024069/Strategy-Planning-Manager-Enterprise-AI-Programs-Governance-Hybrid",
+        "firstSeen": "2026-10-04T18:17:12.336176",
+        "restrictions": []
+      },
+      "2021333": {
+        "id": "2021333",
+        "title": "Information Security Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2021333/Information-Security-Engineer",
+        "firstSeen": "2026-10-04T18:17:12.356872",
+        "restrictions": []
       }
     },
     "visa": {
@@ -114917,6 +115001,34 @@
         "title": "Mainframedata Platform Production Support Engineer Cobol",
         "url": "https://jobs.fidelity.com/en/jobs/2135304/mainframedata-platform-production-support-engineer-cobol/",
         "firstSeen": "2026-10-03T18:06:35.621434",
+        "restrictions": []
+      },
+      "2132703": {
+        "id": "2132703",
+        "title": "Director Analytics Technology",
+        "url": "https://jobs.fidelity.com/en/jobs/2132703/director-analytics-technology/",
+        "firstSeen": "2026-10-04T18:18:08.739746",
+        "restrictions": []
+      },
+      "2131047": {
+        "id": "2131047",
+        "title": "Senior Software Engineer In Test Playwrightselenium Rest Assured",
+        "url": "https://jobs.fidelity.com/en/jobs/2131047/senior-software-engineer-in-test-playwrightselenium-rest-assured/",
+        "firstSeen": "2026-10-04T18:18:08.741572",
+        "restrictions": []
+      },
+      "2132744": {
+        "id": "2132744",
+        "title": "Senior Manager Alternative Accounting",
+        "url": "https://jobs.fidelity.com/en/jobs/2132744/senior-manager-alternative-accounting/",
+        "firstSeen": "2026-10-04T18:18:08.745232",
+        "restrictions": []
+      },
+      "2132147": {
+        "id": "2132147",
+        "title": "Senior It Project Manager",
+        "url": "https://jobs.fidelity.com/en/jobs/2132147/senior-it-project-manager/",
+        "firstSeen": "2026-10-04T18:18:08.750626",
         "restrictions": []
       }
     },
@@ -147674,6 +147786,27 @@
         "title": "Warehouse Associate Representative- Accredo",
         "url": "https://jobs.thecignagroup.com/us/en/job/26011987/Warehouse-Associate-Representative-Accredo",
         "firstSeen": "2026-10-02T19:27:28.181137",
+        "restrictions": []
+      },
+      "26012230": {
+        "id": "26012230",
+        "title": "Customer Service Associate Representative - Accredo - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26012230/Customer-Service-Associate-Representative-Accredo-Remote",
+        "firstSeen": "2026-10-04T18:25:31.423678",
+        "restrictions": []
+      },
+      "26012049": {
+        "id": "26012049",
+        "title": "Pharmacy Technician Lead Representative - Freedom Fertility - Remote, AZ",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26012049/Pharmacy-Technician-Lead-Representative-Freedom-Fertility-Remote-AZ",
+        "firstSeen": "2026-10-04T18:25:31.428749",
+        "restrictions": []
+      },
+      "26012064": {
+        "id": "26012064",
+        "title": "Supervisor, Cigna Benefit Investigation & Prior Authorization Team - Freedom Fertility - Newburyport, MA or Arizona",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26012064/Supervisor-Cigna-Benefit-Investigation-Prior-Authorization-Team-Freedom-Fertility-Newburyport-MA-or-Arizona",
+        "firstSeen": "2026-10-04T18:25:31.433656",
         "restrictions": []
       }
     },
@@ -213989,6 +214122,13 @@
         "title": "2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
         "url": "https://search-careers.gm.com/en/jobs/jr-202621697/2027-summer-intern-software-verification-engineer-av-ai-platform/",
         "firstSeen": "2026-10-03T18:16:32.667391",
+        "restrictions": []
+      },
+      "jr-202620612": {
+        "id": "jr-202620612",
+        "title": "Technical Lead Manager, Sensing Systems Design & Validation",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202620612/technical-lead-manager-sensing-systems-design-validation/",
+        "firstSeen": "2026-10-04T18:27:35.627006",
         "restrictions": []
       }
     },
@@ -305145,6 +305285,20 @@
         "url": "https://search.jobs.barclays/job/dublin/private-banking-executive/13015/101462762080",
         "firstSeen": "2026-10-03T18:26:18.127939",
         "restrictions": []
+      },
+      "93906886976": {
+        "id": "93906886976",
+        "title": "Full Stack Developer",
+        "url": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/93906886976",
+        "firstSeen": "2026-10-04T18:35:16.705942",
+        "restrictions": []
+      },
+      "92153529968": {
+        "id": "92153529968",
+        "title": "Full Stack Developer",
+        "url": "https://search.jobs.barclays/job/pune/full-stack-developer/13015/92153529968",
+        "firstSeen": "2026-10-04T18:35:16.705967",
+        "restrictions": []
       }
     },
     "amadeus": {},
@@ -358443,6 +358597,118 @@
         "url": "https://jobs.apple.com/en-us/details/200686850-3337/sr-engineering-program-manager-traffic-apple-services-engineering?team=SFTWR",
         "firstSeen": "2026-10-03T18:26:38.814354",
         "restrictions": []
+      },
+      "200687148-0836": {
+        "id": "200687148-0836",
+        "title": "Manager, Technical SEO Programs - Cupertino",
+        "url": "https://jobs.apple.com/en-us/details/200687148-0836/manager-technical-seo-programs-cupertino?team=CORSV",
+        "firstSeen": "2026-10-04T18:35:29.287698",
+        "restrictions": []
+      },
+      "200687147-0836": {
+        "id": "200687147-0836",
+        "title": "Content SEO Program Manager - Cupertino",
+        "url": "https://jobs.apple.com/en-us/details/200687147-0836/content-seo-program-manager-cupertino?team=CORSV",
+        "firstSeen": "2026-10-04T18:35:29.303093",
+        "restrictions": []
+      },
+      "200686152-3956": {
+        "id": "200686152-3956",
+        "title": "Director, Software Test Engineering & Quality Assurance",
+        "url": "https://jobs.apple.com/en-us/details/200686152-3956/director-software-test-engineering-quality-assurance?team=OPMFG",
+        "firstSeen": "2026-10-04T18:35:29.312034",
+        "restrictions": []
+      },
+      "200682696-3956": {
+        "id": "200682696-3956",
+        "title": "Machine Learning Scientist - AppleCare WW Demand Planning",
+        "url": "https://jobs.apple.com/en-us/details/200682696-3956/machine-learning-scientist-applecare-ww-demand-planning?team=MLAI",
+        "firstSeen": "2026-10-04T18:35:29.320640",
+        "restrictions": []
+      },
+      "200687116-0670": {
+        "id": "200687116-0670",
+        "title": "Strategic Planning Lead, Services",
+        "url": "https://jobs.apple.com/en-us/details/200687116-0670/strategic-planning-lead-services?team=MKTG",
+        "firstSeen": "2026-10-04T18:35:29.328761",
+        "restrictions": []
+      },
+      "200686929-0836": {
+        "id": "200686929-0836",
+        "title": "Photonics Test Development Hardware Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200686929-0836/photonics-test-development-hardware-engineer?team=HRDWR",
+        "firstSeen": "2026-10-04T18:35:29.345153",
+        "restrictions": []
+      },
+      "200686650-1269": {
+        "id": "200686650-1269",
+        "title": "Account Executive, Argentina & Accessories",
+        "url": "https://jobs.apple.com/en-us/details/200686650-1269/account-executive-argentina-accessories?team=SLDEV",
+        "firstSeen": "2026-10-04T18:35:29.368881",
+        "restrictions": []
+      },
+      "200686295-0836": {
+        "id": "200686295-0836",
+        "title": "Senior Services Compliance Manager, Apple Services",
+        "url": "https://jobs.apple.com/en-us/details/200686295-0836/senior-services-compliance-manager-apple-services?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.376948",
+        "restrictions": []
+      },
+      "200686866-0836": {
+        "id": "200686866-0836",
+        "title": "Core Audio Software Engineer, Audio & Media Technologies",
+        "url": "https://jobs.apple.com/en-us/details/200686866-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.385048",
+        "restrictions": []
+      },
+      "200679027-3337": {
+        "id": "200679027-3337",
+        "title": "Manager, Security Engineering Program Manager, Risk & Vulnerability Management, Apple Services Engineering",
+        "url": "https://jobs.apple.com/en-us/details/200679027-3337/manager-security-engineering-program-manager-risk-vulnerability-management-apple-services-engineering?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.393054",
+        "restrictions": []
+      },
+      "200687095-0836": {
+        "id": "200687095-0836",
+        "title": "Aesthetics Scientist",
+        "url": "https://jobs.apple.com/en-us/details/200687095-0836/aesthetics-scientist?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.400992",
+        "restrictions": []
+      },
+      "200687073-3337": {
+        "id": "200687073-3337",
+        "title": "Senior Machine Learning Engineer, Apple Cloud AI",
+        "url": "https://jobs.apple.com/en-us/details/200687073-3337/senior-machine-learning-engineer-apple-cloud-ai?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.409425",
+        "restrictions": []
+      },
+      "200687061-0836": {
+        "id": "200687061-0836",
+        "title": "Software Engineer - Data Platform",
+        "url": "https://jobs.apple.com/en-us/details/200687061-0836/software-engineer-data-platform?team=SFTWR",
+        "firstSeen": "2026-10-04T18:35:29.417426",
+        "restrictions": []
+      },
+      "200686455-0836": {
+        "id": "200686455-0836",
+        "title": "AIML - Quality Engineering Manager, Responsible AI and Safety",
+        "url": "https://jobs.apple.com/en-us/details/200686455-0836/aiml-quality-engineering-manager-responsible-ai-and-safety?team=MLAI",
+        "firstSeen": "2026-10-04T18:35:29.442905",
+        "restrictions": []
+      },
+      "200687075-1541": {
+        "id": "200687075-1541",
+        "title": "US-Technical Specialist",
+        "url": "https://jobs.apple.com/en-us/details/200687075-1541/us-technical-specialist?team=APPST",
+        "firstSeen": "2026-10-04T18:35:32.532516",
+        "restrictions": []
+      },
+      "200687074-3543": {
+        "id": "200687074-3543",
+        "title": "Software Engineer, Satellite Operations",
+        "url": "https://jobs.apple.com/en-us/details/200687074-3543/software-engineer-satellite-operations?team=HRDWR",
+        "firstSeen": "2026-10-04T18:35:32.540705",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -358470,5 +358736,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-03T18:27:27.588131"
+  "lastUpdated": "2026-10-04T18:36:21.697631"
 }
