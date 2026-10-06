@@ -1,40 +1,53 @@
-# Job Scan Summary - 2026-10-05
+# Job Scan Summary - 2026-10-06
 
-**New jobs today:** 207
-**Relevant new jobs:** 20
+**New jobs today:** 314
+**Relevant new jobs:** 29
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [AI and Data Science Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III/370020)
-  • [PMO OCM Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/PMO-OCM-Analyst/369883)
-  • [Communications Insights Analyst - Consultant, Technical Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Communications-Insights-Analyst-Consultant-Technical-Transformation/369879)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Senior Epic Analyst - Ambulatory Care](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Epic-Analyst-Ambulatory-Care/370148)
+  • [GenAI Applied Scientist and Solution Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/GenAI-Applied-Scientist-and-Solution-Engineer/370107)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Operations Analyst](https://careers.cisco.com/global/en/job/2025520/Operations-Analyst)
+🎯 **Cisco** - 4 relevant new jobs:
+  • [Finance Analyst](https://careers.cisco.com/global/en/job/2027258/Finance-Analyst)
+  • [Partner Operations Analyst](https://careers.cisco.com/global/en/job/2027489/Partner-Operations-Analyst)
+  • [Data Analyst – Business Intelligence & AI – SQL | Power BI/Tableau | Python | Automation | 3.5–7.5 Years](https://careers.cisco.com/global/en/job/2027525/Data-Analyst-Business-Intelligence-AI-SQL-Power-BI-Tableau-Python-Automation-3-5-7-5-Years)
+  • [Finance Analyst](https://careers.cisco.com/global/en/job/2025010/Finance-Analyst)
+
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Systems Analyst](https://jobs.fidelity.com/en/jobs/2132280/systems-analyst/)
+  • [Hw Sr Business Analyst](https://jobs.fidelity.com/en/jobs/2134761/hw-sr-business-analyst/)
 
 🎯 **Meta** - 1 relevant new jobs:
-  • [IP Validation Engineer - Machine Learning Accelerators](https://www.metacareers.com/profile/job_details/1639485184196542)
+  • [Data Scientist, Product Analytics STE 18 Month Contract](https://www.metacareers.com/profile/job_details/921084204189695)
 
-🎯 **Gm** - 2 relevant new jobs:
-  • [2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)](https://search-careers.gm.com/en/jobs/jr-202621655/2027-summer-intern-machine-learning-intern-autonomous-vehicles-software-validation-master-s/)
-  • [2027 Summer Intern, AI/ML Engineer, Mapping](https://search-careers.gm.com/en/jobs/jr-202621778/2027-summer-intern-ai-ml-engineer-mapping/)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Business Analyst III](https://careers.elevancehealth.com/business-analyst-iii/job/5284EAD30978F083BA05D8BC426A272A)
+
+🎯 **Gm** - 3 relevant new jobs:
+  • [Global Talent Operations Process & Enablement Analyst](https://search-careers.gm.com/en/jobs/jr-202621051/global-talent-operations-process-enablement-analyst/)
+  • [Senior Financial Analyst](https://search-careers.gm.com/en/jobs/jr-202621780/senior-financial-analyst/)
+  • [2027 Summer Intern – Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)](https://search-careers.gm.com/en/jobs/jr-202621649/2027-summer-intern-machine-learning-intern-autonomous-vehicles-software-validation-phd/)
 
 🎯 **Morganstanley** - 2 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800587436?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800587474?source=mscom)
+  • [Private Wealth Management Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800641722?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800587480?source=mscom)
 
-🎯 **Toyota** - 4 relevant new jobs:
-  • [Sr. Analyst - Payroll Projects & Delivery](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---Payroll-Projects---Delivery_10336335)
-  • [Collision Technical Training Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Collision-Technical-Training-Analyst_10336915-1)
-  • [Analyst - Cost Accounting](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/San-Antonio-Texas/Analyst---Cost-Accounting_10336998)
-  • [Market Insights Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Market-Insights-Analyst_10266034)
+🎯 **Datadog** - 2 relevant new jobs:
+  • [Accounts Payable Analyst](https://boards.greenhouse.io/datadog/jobs/8257324)
+  • [Strategic Finance Analyst](https://boards.greenhouse.io/datadog/jobs/8257306)
+
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Senior Technical Program Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Technical-Program-Analyst_10337229)
 
 🎯 **Barclays** - 4 relevant new jobs:
-  • [Financial Crime – Alert Management Analyst](https://search.jobs.barclays/job/gurugram/financial-crime-alert-management-analyst/13015/101573478064)
-  • [PC Equities Analyst](https://search.jobs.barclays/job/pune/pc-equities-analyst/13015/101573469024)
-  • [Data Analyst](https://search.jobs.barclays/job/pune/data-analyst/13015/101573461360)
-  • [Business / Product Analyst](https://search.jobs.barclays/job/northampton/business-product-analyst/13015/98767789888)
+  • [Wealth Planning Investment Operations Analyst](https://search.jobs.barclays/job/glasgow/wealth-planning-investment-operations-analyst/13015/100798331376)
+  • [Credit Analyst](https://search.jobs.barclays/job/noida/credit-analyst/13015/101121925136)
+  • [Data Analyst](https://search.jobs.barclays/job/glasgow/data-analyst/13015/101041073504)
+  • [Data Analyst](https://search.jobs.barclays/job/pune/data-analyst/13015/100161893152)
 
-🎯 **Apple** - 3 relevant new jobs:
-  • [On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games and Machine Learning](https://jobs.apple.com/en-us/details/200687246-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-and-machine-learning?team=MLAI)
-  • [Machine Learning FEA Engineer](https://jobs.apple.com/en-us/details/200636369-3401/machine-learning-fea-engineer?team=HRDWR)
-  • [Machine Learning FEA Engineer](https://jobs.apple.com/en-us/details/200636369-0670/machine-learning-fea-engineer?team=HRDWR)
+🎯 **Apple** - 7 relevant new jobs:
+  • [Machine Learning Scientist - Apple Services Engineering, GenAI & ML Frameworks](https://jobs.apple.com/en-us/details/200687461-2459/machine-learning-scientist-apple-services-engineering-genai-ml-frameworks?team=MLAI)
+  • [Machine Learning Evaluation Engineer](https://jobs.apple.com/en-us/details/200687261-3956/machine-learning-evaluation-engineer?team=HRDWR)
+  • [SoC Machine Learning Design Engineer](https://jobs.apple.com/en-us/details/200687294-0157/soc-machine-learning-design-engineer?team=HRDWR)
+  • [SoC Machine Learning Design Engineer](https://jobs.apple.com/en-us/details/200687294-0836/soc-machine-learning-design-engineer?team=HRDWR)
+  • [SoC Machine Learning Design Engineer](https://jobs.apple.com/en-us/details/200687311-0157/soc-machine-learning-design-engineer?team=HRDWR)
