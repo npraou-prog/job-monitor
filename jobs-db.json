@@ -87235,6 +87235,62 @@
         "url": "https://careers.cisco.com/global/en/job/2026504/Splunk-Solutions-Engineer-Poland",
         "firstSeen": "2026-10-10T18:30:34.907799",
         "restrictions": []
+      },
+      "2026738": {
+        "id": "2026738",
+        "title": "Renewals Manager",
+        "url": "https://careers.cisco.com/global/en/job/2026738/Renewals-Manager",
+        "firstSeen": "2026-10-11T18:43:59.073299",
+        "restrictions": []
+      },
+      "2026020": {
+        "id": "2026020",
+        "title": "Tax Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2026020/Tax-Analyst",
+        "firstSeen": "2026-10-11T18:44:25.964719",
+        "restrictions": []
+      },
+      "2024727": {
+        "id": "2024727",
+        "title": "Solutions Engineer - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2024727/Solutions-Engineer-Splunk-Remote",
+        "firstSeen": "2026-10-11T18:45:48.052975",
+        "restrictions": []
+      },
+      "2026350": {
+        "id": "2026350",
+        "title": "Software Development Test Engineer, Hybrid, Milpitas, CA",
+        "url": "https://careers.cisco.com/global/en/job/2026350/Software-Development-Test-Engineer-Hybrid-Milpitas-CA",
+        "firstSeen": "2026-10-11T18:46:40.851829",
+        "restrictions": []
+      },
+      "2026294": {
+        "id": "2026294",
+        "title": "Executive Assistant: VP, Customer Experience Product Management (Hybrid)",
+        "url": "https://careers.cisco.com/global/en/job/2026294/Executive-Assistant-VP-Customer-Experience-Product-Management-Hybrid",
+        "firstSeen": "2026-10-11T18:47:45.069238",
+        "restrictions": []
+      },
+      "2024724": {
+        "id": "2024724",
+        "title": "Solutions Engineer - Splunk (Remote)",
+        "url": "https://careers.cisco.com/global/en/job/2024724/Solutions-Engineer-Splunk-Remote",
+        "firstSeen": "2026-10-11T18:47:45.075133",
+        "restrictions": []
+      },
+      "2025400": {
+        "id": "2025400",
+        "title": "Consulting Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2025400/Consulting-Engineer",
+        "firstSeen": "2026-10-11T18:55:08.605288",
+        "restrictions": []
+      },
+      "2027194": {
+        "id": "2027194",
+        "title": "DevOps Infrastructure Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2027194/DevOps-Infrastructure-Engineer",
+        "firstSeen": "2026-10-11T18:55:08.611114",
+        "restrictions": []
       }
     },
     "visa": {
@@ -147054,6 +147110,34 @@
         "url": "https://www.metacareers.com/profile/job_details/1139619051753971",
         "firstSeen": "2026-10-10T18:38:31.276240",
         "restrictions": []
+      },
+      "1288834486094873": {
+        "id": "1288834486094873",
+        "title": "Lead Building Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1288834486094873",
+        "firstSeen": "2026-10-11T19:02:56.579265",
+        "restrictions": []
+      },
+      "2309543522914406": {
+        "id": "2309543522914406",
+        "title": "Signal Integrity / Power Integrity Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/2309543522914406",
+        "firstSeen": "2026-10-11T19:02:56.586039",
+        "restrictions": []
+      },
+      "1145229698073705": {
+        "id": "1145229698073705",
+        "title": "Product Content Engineer",
+        "url": "https://www.metacareers.com/profile/job_details/1145229698073705",
+        "firstSeen": "2026-10-11T19:02:56.589867",
+        "restrictions": []
+      },
+      "1125521820153840": {
+        "id": "1125521820153840",
+        "title": "Software Engineer - Fleet Management & Repair Automation",
+        "url": "https://www.metacareers.com/profile/job_details/1125521820153840",
+        "firstSeen": "2026-10-11T19:02:56.594720",
+        "restrictions": []
       }
     },
     "cigna-healthcare": {
@@ -152391,6 +152475,13 @@
         "title": "Senior Pharmacy Technician - Accredo - Elmhurst, IL",
         "url": "https://jobs.thecignagroup.com/us/en/job/26012470/Senior-Pharmacy-Technician-Accredo-Elmhurst-IL",
         "firstSeen": "2026-10-10T18:40:22.079128",
+        "restrictions": []
+      },
+      "26012106": {
+        "id": "26012106",
+        "title": "Specialty Infusion Field Nurse, Per Diem \u2013 Accredo \u2013 Columbia, MO",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26012106/Specialty-Infusion-Field-Nurse-Per-Diem-Accredo-Columbia-MO",
+        "firstSeen": "2026-10-11T19:04:46.390846",
         "restrictions": []
       }
     },
@@ -219896,6 +219987,27 @@
         "title": "Fabrication Technician - GM Defense",
         "url": "https://search-careers.gm.com/en/jobs/jr-202620460/fabrication-technician-gm-defense/",
         "firstSeen": "2026-10-10T18:42:27.233247",
+        "restrictions": []
+      },
+      "jr-202621538": {
+        "id": "jr-202621538",
+        "title": "General Assembly Engineer",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202621538/general-assembly-engineer/",
+        "firstSeen": "2026-10-11T19:06:45.693275",
+        "restrictions": []
+      },
+      "jr-202620699": {
+        "id": "jr-202620699",
+        "title": "Service Operations Manager.",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202620699/service-operations-manager/",
+        "firstSeen": "2026-10-11T19:06:45.695936",
+        "restrictions": []
+      },
+      "jr-202621235": {
+        "id": "jr-202621235",
+        "title": "Gen AI Staff Researcher",
+        "url": "https://search-careers.gm.com/en/jobs/jr-202621235/gen-ai-staff-researcher/",
+        "firstSeen": "2026-10-11T19:06:45.699199",
         "restrictions": []
       }
     },
@@ -368651,6 +368763,27 @@
         "url": "https://jobs.apple.com/en-us/details/200687765-3337/machine-learning-engineer-apple-services-engineering?team=MLAI",
         "firstSeen": "2026-10-10T18:51:58.272045",
         "restrictions": []
+      },
+      "200688305-0157": {
+        "id": "200688305-0157",
+        "title": "Graphics Software Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200688305-0157/graphics-software-engineer?team=HRDWR",
+        "firstSeen": "2026-10-11T19:15:37.235225",
+        "restrictions": []
+      },
+      "200688368-0836": {
+        "id": "200688368-0836",
+        "title": "Human Factors Engineer-ARC",
+        "url": "https://jobs.apple.com/en-us/details/200688368-0836/human-factors-engineer-arc?team=HRDWR",
+        "firstSeen": "2026-10-11T19:15:37.243249",
+        "restrictions": []
+      },
+      "200687357-2466": {
+        "id": "200687357-2466",
+        "title": "US-Lead",
+        "url": "https://jobs.apple.com/en-us/details/200687357-2466/us-lead?team=APPST",
+        "firstSeen": "2026-10-11T19:15:37.248942",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -368678,5 +368811,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-10T18:52:47.054461"
+  "lastUpdated": "2026-10-11T19:16:26.495822"
 }
