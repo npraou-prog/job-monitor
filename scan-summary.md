@@ -1,45 +1,46 @@
-# Job Scan Summary - 2026-10-12
+# Job Scan Summary - 2026-10-13
 
-**New jobs today:** 240
-**Relevant new jobs:** 21
+**New jobs today:** 243
+**Relevant new jobs:** 20
 
-🎯 **Deloitte** - 1 relevant new jobs:
-  • [Consultative Offerings - Investment Banking Summer Analyst - Corporate Finance](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Investment-Banking-Summer-Analyst-Corporate-Finance/364072)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Business Analyst, Functional Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst-Functional-Transformation/371235)
+  • [Supply Chain Optimization Data Scientist Senior Consultant](https://apply.deloitte.com/en_US/careers/JobDetail/Supply-Chain-Optimization-Data-Scientist-Senior-Consultant/370940)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Senior Lead Machine Learning Engineer , AISWP (Hybrid)](https://careers.cisco.com/global/en/job/2026911/Senior-Lead-Machine-Learning-Engineer-AISWP-Hybrid)
-  • [Inventory Accounting Operations Analyst](https://careers.cisco.com/global/en/job/2027836/Inventory-Accounting-Operations-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Principal Machine Learning Developer](https://careers.cisco.com/global/en/job/2026589/Principal-Machine-Learning-Developer)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Associate Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2131234/associate-analyst-brokerage-operations/)
-  • [Associate Analyst Client Experience](https://jobs.fidelity.com/en/jobs/2135212/associate-analyst-client-experience/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Senior Business Analyst](https://jobs.fidelity.com/en/jobs/2135909/senior-business-analyst/)
 
 🎯 **Synopsys** - 1 relevant new jobs:
-  • [Vulnerability Management Analyst — Semiconductor IPBengaluru, IndiaCategory:EngineeringPosted:10/11/2026Job ID:19196](https://careers.synopsys.com/job/bengaluru/vulnerability-management-analyst-semiconductor-ip/44408/101868933504)
+  • [Verification AI EngineerSeongnam-si, South KoreaCategory:EngineeringPosted:10/12/2026Job ID:19170](https://careers.synopsys.com/job/seongnam-si/verification-ai-engineer/44408/101890608144)
 
-🎯 **Meta** - 4 relevant new jobs:
-  • [Data Scientist, Meta Superintelligence Labs (Safety)](https://www.metacareers.com/profile/job_details/1086151640855627)
-  • [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/profile/job_details/2586686598441521)
-  • [Data Scientist, Product](https://www.metacareers.com/profile/job_details/1755410732408318)
-  • [Data Scientist, Product](https://www.metacareers.com/profile/job_details/4374182922893050)
+🎯 **Chewy** - 2 relevant new jobs:
+  • [Business Intelligence Analyst II](https://careers.chewy.com/us/en/job/R31112/Business-Intelligence-Analyst-II)
+  • [Business Intelligence Analyst I](https://careers.chewy.com/us/en/job/R31111/Business-Intelligence-Analyst-I)
 
-🎯 **Gm** - 4 relevant new jobs:
-  • [Entry-Level – AI/Machine Learning Researcher](https://search-careers.gm.com/en/jobs/jr-202621753/entry-level-ai-machine-learning-researcher/)
-  • [2027 Summer Intern - Research and Development - Machine Learning for Automation](https://search-careers.gm.com/en/jobs/jr-202621724/2027-summer-intern-research-and-development-machine-learning-for-automation/)
-  • [2027 Summer Intern - Research and Development - AI/Machine Learning](https://search-careers.gm.com/en/jobs/jr-202621620/2027-summer-intern-research-and-development-ai-machine-learning/)
-  • [Entry-Level – AI and Machine Learning for Automation Researcher](https://search-careers.gm.com/en/jobs/jr-202621769/entry-level-ai-and-machine-learning-for-automation-researcher/)
+🎯 **Meta** - 5 relevant new jobs:
+  • [Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)](https://www.metacareers.com/profile/job_details/2192664358300823)
+  • [Research Scientist, Clinical AI Evaluation Lead](https://www.metacareers.com/profile/job_details/1484238786880586)
+  • [Research Scientist Intern, VLM and Omni Model Post-Training (PhD)](https://www.metacareers.com/profile/job_details/2988199118196184)
+  • [Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)](https://www.metacareers.com/profile/job_details/1839680137188723)
+  • [Data Scientist, Analytics (Technical Leadership)](https://www.metacareers.com/profile/job_details/1407517847676303)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Supply Chain Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Supply-Chain-Planning-Analyst_JR0287447)
+🎯 **Gm** - 1 relevant new jobs:
+  • [R&D Researcher – AI and Machine Learning](https://search-careers.gm.com/en/jobs/jr-202621474/r-d-researcher-ai-and-machine-learning/)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Analyst - Fund Services Operations Representative](https://morganstanley.eightfold.ai/careers/job/549800707691?source=mscom)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [FP&A Analyst, Cloud Finance](https://boards.greenhouse.io/datadog/jobs/8267437)
 
-🎯 **Toyota** - 4 relevant new jobs:
-  • [Senior Machine Learning Platform Engineer](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-North/Senior-Machine-Learning-Platform-Engineer_10337827-1)
-  • [Security ML / AI Engineer, Senior](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Security-ML---AI-Engineer--Senior_10321453)
-  • [QA & Controls Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Henderson-Nevada/QA---Controls-Analyst_10336878)
-  • [QA & Controls Support Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Henderson-Nevada/QA---Controls-Support-Analyst_10336875)
+🎯 **Toyota** - 2 relevant new jobs:
+  • [Document Management Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Henderson-Nevada/Document-Management-Analyst_10336879)
+  • [Senior Analyst, Inventory Planning](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Inventory-Planning_10337654)
+
+🎯 **Barclays** - 3 relevant new jobs:
+  • [Senior Analyst](https://search.jobs.barclays/job/gurugram/senior-analyst/13015/101911111744)
+  • [Senior Analyst](https://search.jobs.barclays/job/gurugram/senior-analyst/13015/101911111728)
+  • [Senior Analyst](https://search.jobs.barclays/job/gurugram/senior-analyst/13015/101911111712)
 
 🎯 **Apple** - 1 relevant new jobs:
-  • [Machine Learning Engineer - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200687919-0157/machine-learning-engineer-strategic-data-solutions?team=MLAI)
+  • [Delivery Exception Management Logistics Analyst](https://jobs.apple.com/en-us/details/200685982-0157/delivery-exception-management-logistics-analyst?team=OPMFG)
