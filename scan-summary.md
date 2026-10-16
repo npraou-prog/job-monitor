@@ -1,50 +1,45 @@
-# Job Scan Summary - 2026-10-15
+# Job Scan Summary - 2026-10-16
 
-**New jobs today:** 365
-**Relevant new jobs:** 22
+**New jobs today:** 308
+**Relevant new jobs:** 27
 
-🎯 **Deloitte** - 4 relevant new jobs:
-  • [Mission Finance and Intelligence Analyst and Insights Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Finance-and-Intelligence-Analyst-and-Insights-Engineer-II/371704)
-  • [AI Engineer II](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-II/371700)
-  • [Mission Intelligence & Research Analyst (TS/SCI with Poly)](https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Intelligence-Research-Analyst-TS-SCI-with-Poly/371663)
-  • [Data Scientist/Engineer and Application Developer](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Engineer-and-Application-Developer/371645)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [AI Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-Engineer-III/371753)
+  • [P&C Actuary Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/P-C-Actuary-Analyst/371719)
 
 🎯 **Cisco** - 2 relevant new jobs:
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2025212/Business-Operations-Analyst)
-  • [Principal Machine Learning Engineer](https://careers.cisco.com/global/en/job/2025206/Principal-Machine-Learning-Engineer)
+  • [Financial Controls & Compliance Analyst](https://careers.cisco.com/global/en/job/2026413/Financial-Controls-Compliance-Analyst)
+  • [Machine Learning Engineering Technical Leader](https://careers.cisco.com/global/en/job/2027055/Machine-Learning-Engineering-Technical-Leader)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Senior Analyst Performance Attribution](https://jobs.fidelity.com/en/jobs/2133390/senior-analyst-performance-attribution/)
-  • [Senior Systems Analyst Sql Apis Angular](https://jobs.fidelity.com/en/jobs/2136077/senior-systems-analyst-sql-apis-angular/)
+🎯 **Fidelity** - 4 relevant new jobs:
+  • [Financial Reporting Analyst Stock Plan Services](https://jobs.fidelity.com/en/jobs/2136550/financial-reporting-analyst-stock-plan-services/)
+  • [Principal Ai Ml Engineer](https://jobs.fidelity.com/en/jobs/2135284/principal-ai-ml-engineer/)
+  • [Associate Analyst Accounts And Commission Management](https://jobs.fidelity.com/en/jobs/2136161/associate-analyst-accounts-and-commission-management/)
+  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2135461/senior-systems-analyst/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Category Analyst](https://careers.chewy.com/us/en/job/R31118/Category-Analyst)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)](https://www.metacareers.com/profile/job_details/1141752241867684)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/58DD99B012017536FB43133E0808D2EB)
+🎯 **Cigna-Evernorth** - 1 relevant new jobs:
+  • [Planner, Procure to Pay Lead Analyst – Evernorth – Hybrid](https://jobs.thecignagroup.com/us/en/job/26012557/Planner-Procure-to-Pay-Lead-Analyst-Evernorth-Hybrid)
 
 🎯 **Gm** - 1 relevant new jobs:
-  • [Analyst – Global Customs](https://search-careers.gm.com/en/jobs/jr-202621926/analyst-global-customs/)
+  • [2027 Summer Intern, AI/ML Engineer, Mapping (Masters)](https://search-careers.gm.com/en/jobs/jr-202622539/2027-summer-intern-ai-ml-engineer-mapping-masters/)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800792707?source=mscom)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800827655?source=mscom)
+  • [Capital & Data Risk / IM Risk (Risk Management) : Job Level - Analyst](https://morganstanley.eightfold.ai/careers/job/549800785531?source=mscom)
 
-🎯 **Gehealthcare** - 3 relevant new jobs:
-  • [EE LCT Commercial Finance Analyst](https://careers.gehealthcare.com/global/en/job/R4045388/EE-LCT-Commercial-Finance-Analyst)
-  • [Associate Service Finance Analyst (](https://careers.gehealthcare.com/global/en/job/R4047269/Associate-Service-Finance-Analyst)
-  • [Modality Lead Finance Analyst](https://careers.gehealthcare.com/global/en/job/R4047021/Modality-Lead-Finance-Analyst)
-
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Analyst II - Purchasing Supplier Development](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Saline-Michigan/Analyst-II---Purchasing-Supplier-Development_10338299)
-  • [Senior Analyst, Cyber Risk Assurance](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Cyber-Risk-Assurance_10338216)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Senior Engineer - Data Science](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Engineer---Data-Science_10338143)
 
 🎯 **Barclays** - 2 relevant new jobs:
-  • [Valuation Sr Analyst](https://search.jobs.barclays/job/gurugram/valuation-sr-analyst/13015/101647076448)
-  • [Equity Research Analyst/AVP – Pharmaceuticals team](https://search.jobs.barclays/job/london/equity-research-analyst-avp-pharmaceuticals-team/13015/101647073136)
+  • [Fraud Detections Analyst](https://search.jobs.barclays/job/henderson/fraud-detections-analyst/13015/101587812368)
+  • [Investment Banking Equity Capital Markets Healthcare Analyst](https://search.jobs.barclays/job/new-york/investment-banking-equity-capital-markets-healthcare-analyst/13015/102040054496)
 
-🎯 **Rivian** - 1 relevant new jobs:
-  • [Senior Machine Learning, AI Infrastructure, Autonomy](https://uk-careers-rivian.icims.com/jobs/34394/login)
-
-🎯 **Apple** - 2 relevant new jobs:
-  • [Apple Ads, Financial Analyst](https://jobs.apple.com/en-us/details/200688590-0836/apple-ads-financial-analyst?team=CORSV)
-  • [Financial Analyst, Services FP&A](https://jobs.apple.com/en-us/details/200688601-0836/financial-analyst-services-fp-a?team=CORSV)
+🎯 **Apple** - 11 relevant new jobs:
+  • [Machine Learning Algorithm Engineer](https://jobs.apple.com/en-us/details/200689245-0836/machine-learning-algorithm-engineer?team=HRDWR)
+  • [Machine Learning Engineer, System Experience - Proactive](https://jobs.apple.com/en-us/details/200689638-0836/machine-learning-engineer-system-experience-proactive?team=MLAI)
+  • [Machine Learning Engineer, System Experience - Proactive](https://jobs.apple.com/en-us/details/200689638-3337/machine-learning-engineer-system-experience-proactive?team=MLAI)
+  • [Battery Algorithm ML Engineer](https://jobs.apple.com/en-us/details/200689563-0836/battery-algorithm-ml-engineer?team=HRDWR)
+  • [Battery Algorithm ML Engineer](https://jobs.apple.com/en-us/details/200689563-3543/battery-algorithm-ml-engineer?team=HRDWR)
