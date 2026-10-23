@@ -1,50 +1,41 @@
-# Job Scan Summary - 2026-10-22
+# Job Scan Summary - 2026-10-23
 
-**New jobs today:** 316
-**Relevant new jobs:** 31
+**New jobs today:** 285
+**Relevant new jobs:** 34
 
-🎯 **Deloitte** - 3 relevant new jobs:
-  • [Junior GIS Analyst - Delivery Analyst, AI and Analytics Solutions](https://apply.deloitte.com/en_US/careers/JobDetail/Junior-GIS-Analyst-Delivery-Analyst-AI-and-Analytics-Solutions/372639)
-  • [Cyber Threat Intelligence Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Threat-Intelligence-Analyst/372547)
-  • [Healthcare Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Healthcare-Analyst/372503)
+🎯 **Fidelity** - 3 relevant new jobs:
+  • [Associate Analyst International Settlements Brokerage Operations](https://jobs.fidelity.com/en/jobs/2135379/associate-analyst-international-settlements-brokerage-operations/)
+  • [Analyst Brokerage Operations Tax](https://jobs.fidelity.com/en/jobs/2136768/analyst-brokerage-operations-tax/)
+  • [Associate Analyst Brokerage Treasury Operations](https://jobs.fidelity.com/en/jobs/2135012/associate-analyst-brokerage-treasury-operations/)
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Business Analyst I (Intern) – Mexico](https://careers.cisco.com/global/en/job/2029054/Business-Analyst-I-Intern-Mexico)
+🎯 **Meta** - 1 relevant new jobs:
+  • [Research Scientist, CBRNE AI Safety](https://www.metacareers.com/profile/job_details/1648224786656870)
 
-🎯 **Fidelity** - 4 relevant new jobs:
-  • [Derivatives Analyst](https://jobs.fidelity.com/en/jobs/2132603/derivatives-analyst/)
-  • [Senior Analyst Derivatives](https://jobs.fidelity.com/en/jobs/2133928/senior-analyst-derivatives/)
-  • [Investment Risk Management Analyst](https://jobs.fidelity.com/en/jobs/2131098/investment-risk-management-analyst/)
-  • [Associate Analyst Brokerage Operations](https://jobs.fidelity.com/en/jobs/2137127/associate-analyst-brokerage-operations/)
+🎯 **Gm** - 2 relevant new jobs:
+  • [Sr. Analyst, Asset Lifecyle Management](https://search-careers.gm.com/en/jobs/jr-202622510/sr-analyst-asset-lifecyle-management/)
+  • [IT System Analyst – Corporate Development IT, Acquisitions, Joint Ventures & Alliances](https://search-careers.gm.com/en/jobs/jr-202622331/it-system-analyst-corporate-development-it-acquisitions-joint-ventures-alliances/)
 
-🎯 **Meta** - 6 relevant new jobs:
-  • [Research Scientist Intern, Muse RL and Agents Team (MSc)](https://www.metacareers.com/profile/job_details/1647286810370437)
-  • [Research Scientist Intern, World-Model Aware Perception & Communication (PhD)](https://www.metacareers.com/profile/job_details/1097992326377524)
-  • [Research Scientist Intern, MSL Agents (PhD)](https://www.metacareers.com/profile/job_details/1136354555738164)
-  • [Research Scientist Intern, Feed Recommendations (PhD)](https://www.metacareers.com/profile/job_details/29044546168568671)
-  • [Research Scientist Intern, FAIR - Physical Engineering AI (PhD)](https://www.metacareers.com/profile/job_details/1081255008061721)
+🎯 **Morganstanley** - 5 relevant new jobs:
+  • [Investment Banking Consumer Retail Analyst - New York](https://morganstanley.eightfold.ai/careers/job/549800905447?source=mscom)
+  • [Private Wealth Management Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549800876531?source=mscom)
+  • [PWM Analyst](https://morganstanley.eightfold.ai/careers/job/549800897062?source=mscom)
+  • [Investment Banking Industrials Analyst - New York](https://morganstanley.eightfold.ai/careers/job/549800876518?source=mscom)
+  • [Investment Banking Media & Communications Analyst – New York](https://morganstanley.eightfold.ai/careers/job/549800877327?source=mscom)
 
-🎯 **Gm** - 5 relevant new jobs:
-  • [SSM Global Ops COE – Sales Reporting Sr. Analyst](https://search-careers.gm.com/en/jobs/jr-202622658/ssm-global-ops-coe-sales-reporting-sr-analyst/)
-  • [Analyst, Demand Forecasting - Control Tower](https://search-careers.gm.com/en/jobs/jr-202622699/analyst-demand-forecasting-control-tower/)
-  • [Senior Consumer Insights Analyst](https://search-careers.gm.com/en/jobs/jr-202622685/senior-consumer-insights-analyst/)
-  • [Pricing Analyst](https://search-careers.gm.com/en/jobs/jr-202618377/pricing-analyst/)
-  • [Global Customer Research Analyst](https://search-careers.gm.com/en/jobs/jr-202622712/global-customer-research-analyst/)
+🎯 **Delta** - 3 relevant new jobs:
+  • [Business Operations Senior Analyst, Media Network](https://delta.avature.net/en_US/careers/JobDetail/Business-Operations-Senior-Analyst-Media-Network/34772?jobId=34772)
+  • [Senior Analyst, Pilot Resources](https://delta.avature.net/en_US/careers/JobDetail/Sr-Analyst-Pilot-Resources/34718?jobId=34718)
+  • [Transportation Settlement Analyst](https://delta.avature.net/en_US/careers/JobDetail/Transportation-Settlement-Analyst/34775?jobId=34775)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Investment Banking Global Power and Energy Group Analyst - New York and/or Houston, TX](https://morganstanley.eightfold.ai/careers/job/549800901114?source=mscom)
+🎯 **Barclays** - 4 relevant new jobs:
+  • [KYC Analyst](https://search.jobs.barclays/job/noida/kyc-analyst/13015/102338246720)
+  • [Operations Analyst - Enhanced Due Diligence/Exits](https://search.jobs.barclays/job/chennai/operations-analyst-enhanced-due-diligence-exits/13015/102338246624)
+  • [Fraud Analytics - Data Scientist](https://search.jobs.barclays/job/northampton/fraud-analytics-data-scientist/13015/102338239536)
+  • [KYC Senior Analyst](https://search.jobs.barclays/job/pune/kyc-senior-analyst/13015/102338239440)
 
-🎯 **Datadog** - 1 relevant new jobs:
-  • [FP&A Analyst GTM](https://boards.greenhouse.io/datadog/jobs/8312438)
-
-🎯 **Barclays** - 3 relevant new jobs:
-  • [AI Engineer](https://search.jobs.barclays/job/pune/ai-engineer/13015/102293927328)
-  • [Legacy Review Analyst 6-month Secondment/FTC](https://search.jobs.barclays/job/cardiff/legacy-review-analyst-6-month-secondment-ftc/13015/101733750160)
-  • [Analyst - Treasury PC](https://search.jobs.barclays/job/chennai/analyst-treasury-pc/13015/101691071120)
-
-🎯 **Apple** - 7 relevant new jobs:
-  • [AIML - Machine Learning Researcher, MLR](https://jobs.apple.com/en-us/details/200691018-1242/aiml-machine-learning-researcher-mlr?team=MLAI)
-  • [Data Scientist, Apple Pay](https://jobs.apple.com/en-us/details/200690854-0836/data-scientist-apple-pay?team=MLAI)
-  • [Senior / Staff Machine Learning Engineer, Apple Cloud AI Platform](https://jobs.apple.com/en-us/details/200690749-3337/senior-staff-machine-learning-engineer-apple-cloud-ai-platform?team=SFTWR)
-  • [Senior Indirect Tax Analyst, U.S. and Canada](https://jobs.apple.com/en-us/details/200690268-0157/senior-indirect-tax-analyst-u-s-and-canada?team=CORSV)
-  • [Senior Indirect Tax Analyst, U.S. and Canada](https://jobs.apple.com/en-us/details/200690268-0836/senior-indirect-tax-analyst-u-s-and-canada?team=CORSV)
+🎯 **Apple** - 16 relevant new jobs:
+  • [CVML Engineer - 3D Reconstruction](https://jobs.apple.com/en-us/details/200691198-3956/cvml-engineer-3d-reconstruction?team=MLAI)
+  • [CVML Engineer - 3D Reconstruction](https://jobs.apple.com/en-us/details/200691197-3956/cvml-engineer-3d-reconstruction?team=MLAI)
+  • [CVML Engineer - 3D Reconstruction](https://jobs.apple.com/en-us/details/200691194-3956/cvml-engineer-3d-reconstruction?team=MLAI)
+  • [Retail Finance- Financial Analyst - WW Stores](https://jobs.apple.com/en-us/details/200690548-0836/retail-finance-financial-analyst-ww-stores?team=CORSV)
+  • [AI/ML Engineer: System RF Data Ecosystem](https://jobs.apple.com/en-us/details/200690744-0836/ai-ml-engineer-system-rf-data-ecosystem?team=MLAI)
