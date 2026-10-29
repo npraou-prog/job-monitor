@@ -1,51 +1,51 @@
-# Job Scan Summary - 2026-10-28
+# Job Scan Summary - 2026-10-29
 
-**New jobs today:** 315
+**New jobs today:** 288
 **Relevant new jobs:** 25
 
-🎯 **Deloitte** - 7 relevant new jobs:
-  • [Child Welfare Business Analyst -  Human Service Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Child-Welfare-Business-Analyst-Human-Service-Transformation/373297)
-  • [Child Welfare Senior Consultant Business Analyst -  Human Service Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Child-Welfare-Senior-Consultant-Business-Analyst-Human-Service-Transformation/373296)
-  • [Cyber Identity - SailPoint ISC Analyst - Security Engineer I](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Identity-SailPoint-ISC-Analyst-Security-Engineer-I/373283)
-  • [Integrated Eligibility  Business Analyst -  Human Service Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Integrated-Eligibility-Business-Analyst-Human-Service-Transformation/373274)
-  • [Child Support Senior Consultant Business Analyst -  Human Service Transformation](https://apply.deloitte.com/en_US/careers/JobDetail/Child-Support-Senior-Consultant-Business-Analyst-Human-Service-Transformation/373254)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Senior Tax Analyst - US Indirect Tax, Deloitte Global Finance](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Tax-Analyst-US-Indirect-Tax-Deloitte-Global-Finance/373568)
+  • [AI and Data Science Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III/373430)
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Incident Response Analyst - Agentic SOC](https://careers.cisco.com/global/en/job/2029028/Incident-Response-Analyst-Agentic-SOC)
-  • [Business Operations Analyst](https://careers.cisco.com/global/en/job/2028183/Business-Operations-Analyst)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [AI Data Scientist Technical Leader (Hybrid)](https://careers.cisco.com/global/en/job/2028168/AI-Data-Scientist-Technical-Leader-Hybrid)
 
-🎯 **Fidelity** - 3 relevant new jobs:
-  • [Director Software Engineering Machine Learning Individual Contributor](https://jobs.fidelity.com/en/jobs/2137574/director-software-engineering-machine-learning-individual-contributor/)
-  • [Associate Analyst Corporate Actions](https://jobs.fidelity.com/en/jobs/2135175/associate-analyst-corporate-actions/)
-  • [Associate Analyst Custody Operations](https://jobs.fidelity.com/en/jobs/2136171/associate-analyst-custody-operations/)
+🎯 **Fidelity** - 2 relevant new jobs:
+  • [Associate Analyst Alternative Investments](https://jobs.fidelity.com/en/jobs/2135354/associate-analyst-alternative-investments/)
+  • [Associate Financial Analyst](https://jobs.fidelity.com/en/jobs/2137506/associate-financial-analyst/)
 
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Data Scientist III](https://careers.chewy.com/us/en/job/R31187/Data-Scientist-III)
+🎯 **Synopsys** - 1 relevant new jobs:
+  • [Hardware Security Analyst - Semiconductor IPBengaluru, IndiaCategory:EngineeringPosted:10/28/2026Job ID:19277](https://careers.synopsys.com/job/bengaluru/hardware-security-analyst-semiconductor-ip/44408/102236641072)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Research Scientist](https://www.metacareers.com/profile/job_details/1412172437306781)
+🎯 **Meta** - 5 relevant new jobs:
+  • [Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)](https://www.metacareers.com/profile/job_details/1105933535765181)
+  • [Research Scientist Intern, AI Infra (PhD)](https://www.metacareers.com/profile/job_details/4603165899971826)
+  • [Research Scientist Intern, Integrity AI (PhD)](https://www.metacareers.com/profile/job_details/1134052755889538)
+  • [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/profile/job_details/2082008865811696)
+  • [Research Scientist Intern, Scam and Trust (PhD)](https://www.metacareers.com/profile/job_details/2355649268510104)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Systems Analyst Senior](https://careers.elevancehealth.com/systems-analyst-senior/job/FEE7497DE3AE21F58B45E6731832363E)
+🎯 **Elevancehealth** - 2 relevant new jobs:
+  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/1678083D3F6C91AB9DC7D65EA1E00F1B)
+  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/C260D5440BCADD508EA2197CE13B763C)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Demand Planning Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Demand-Planning-Analyst_JR0288260)
+🎯 **Gm** - 3 relevant new jobs:
+  • [HR Technology Analyst](https://search-careers.gm.com/en/jobs/jr-202621774/hr-technology-analyst/)
+  • [Pricing Senior Analyst](https://search-careers.gm.com/en/jobs/jr-202623015/pricing-senior-analyst/)
+  • [HR Technology Analyst](https://search-careers.gm.com/en/jobs/jr-202621771/hr-technology-analyst/)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Investment Banking Real Estate Analyst - New York](https://morganstanley.eightfold.ai/careers/job/549801017404?source=mscom)
-  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549801017010?source=mscom)
-  • [North American Security Settlements- Analyst/ Associate](https://morganstanley.eightfold.ai/careers/job/549800509309?source=mscom)
+🎯 **Gehealthcare** - 1 relevant new jobs:
+  • [Markets Intelligence Analyst](https://careers.gehealthcare.com/global/en/job/R4048686/Markets-Intelligence-Analyst)
 
-🎯 **Ey** - 1 relevant new jobs:
-  • [Government and Infrastructure - AI and Data - Data Science Healthcare Manager](https://careers.ey.com/ey/job/McLean-Government-and-Infrastructure-AI-and-Data-Data-Science-Healthcare-Manager-VA-22102/1450924133/)
+🎯 **Datadog** - 1 relevant new jobs:
+  • [Senior Strategic Sourcing Analyst](https://boards.greenhouse.io/datadog/jobs/8314268)
 
-🎯 **Toyota** - 2 relevant new jobs:
-  • [Business Operations Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Business-Operations-Analyst_10339166)
-  • [SAP Techno-Functional Vertex Sr. Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/SAP-Techno-Functional-Vertex-Sr-Analyst_10339147)
+🎯 **Barclays** - 4 relevant new jobs:
+  • [Liquidity Risk Reporting - Analyst](https://search.jobs.barclays/job/chennai/liquidity-risk-reporting-analyst/13015/102599897824)
+  • [Liquidity Risk Reporting - Analyst](https://search.jobs.barclays/job/chennai/liquidity-risk-reporting-analyst/13015/102599897760)
+  • [Software Technical Analyst.](https://search.jobs.barclays/job/pune/software-technical-analyst/13015/102599893648)
+  • [BARX Client Services: Macro-FX and Fixed Income Analyst](https://search.jobs.barclays/job/london/barx-client-services-macro-fx-and-fixed-income-analyst/13015/102599892976)
 
-🎯 **Barclays** - 1 relevant new jobs:
-  • [Senior Business Analyst/Project Manager in Structured Products Technology](https://search.jobs.barclays/job/london/senior-business-analyst-project-manager-in-structured-products-technology/13015/102556760944)
-
-🎯 **Apple** - 2 relevant new jobs:
-  • [Machine Learning Systems Engineer – Video Computer Vision](https://jobs.apple.com/en-us/details/200692165-3956/machine-learning-systems-engineer-video-computer-vision?team=MLAI)
-  • [Machine Learning Engineer, Evaluation and Quality, Creativity Apps](https://jobs.apple.com/en-us/details/200691707/machine-learning-engineer-evaluation-and-quality-creativity-apps?team=SFTWR)
+🎯 **Apple** - 3 relevant new jobs:
+  • [Human Factors Research Engineer, AIML Data Operations](https://jobs.apple.com/en-us/details/200691851-3337/human-factors-research-engineer-aiml-data-operations?team=SFTWR)
+  • [Applied AI Engineer](https://jobs.apple.com/en-us/details/200689594-0836/applied-ai-engineer?team=MLAI)
+  • [Machine Learning Engineer, Computer Vision](https://jobs.apple.com/en-us/details/200691173-0836/machine-learning-engineer-computer-vision?team=MLAI)
