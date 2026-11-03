@@ -1,29 +1,29 @@
-# Job Scan Summary - 2026-11-02
+# Job Scan Summary - 2026-11-03
 
-**New jobs today:** 266
-**Relevant new jobs:** 11
+**New jobs today:** 257
+**Relevant new jobs:** 13
 
-🎯 **Cisco** - 1 relevant new jobs:
-  • [Personalization Lead Analyst](https://careers.cisco.com/global/en/job/2027682/Personalization-Lead-Analyst)
+🎯 **Deloitte** - 2 relevant new jobs:
+  • [Manager, Tax Analyst - Payroll](https://apply.deloitte.com/en_US/careers/JobDetail/Manager-Tax-Analyst-Payroll/374024)
+  • [AI and Data Science Engineer III - Marketing Measurement](https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III-Marketing-Measurement/373953)
 
-🎯 **Fidelity** - 2 relevant new jobs:
-  • [Quantitative Analyst](https://jobs.fidelity.com/en/jobs/2137324/quantitative-analyst/)
-  • [Senior Business Analyst](https://jobs.fidelity.com/en/jobs/2137309/senior-business-analyst/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Systems Services And Support Analyst](https://jobs.fidelity.com/en/jobs/2137318/systems-services-and-support-analyst/)
 
-🎯 **Meta** - 2 relevant new jobs:
-  • [Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD)](https://www.metacareers.com/profile/job_details/1143164681833409)
-  • [AI Research Scientist, Visual Coding - MSL FAIR](https://www.metacareers.com/profile/job_details/2922422108141088)
+🎯 **Meta** - 4 relevant new jobs:
+  • [Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)](https://www.metacareers.com/profile/job_details/1832390484751700)
+  • [Research Scientist Intern, Ads Quality (PhD)](https://www.metacareers.com/profile/job_details/1838454487574865)
+  • [Research Scientist Intern, FM Quality ML (PhD)](https://www.metacareers.com/profile/job_details/1125383989877928)
+  • [AI Research Scientist, Robotics](https://www.metacareers.com/profile/job_details/3068587003348843)
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Data Scientist Senior](https://careers.elevancehealth.com/data-scientist-senior/job/B017B9FE234100C88833771CFC92DA75)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Private Company Liquidity - Deal Execution Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549800860099?source=mscom)
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801159333?source=mscom)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Client Relationship Analyst FARS](https://morganstanley.eightfold.ai/careers/job/549801125857?source=mscom)
+🎯 **Barclays** - 1 relevant new jobs:
+  • [Fraud Data Scientist AVP](https://search.jobs.barclays/job/northampton/fraud-data-scientist-avp/13015/102814414064)
 
-🎯 **Delta** - 3 relevant new jobs:
-  • [Graduate Intern, Reservations (Data Science) - Spring 2027](https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Reservations-Data-Science-Spring-2027/34738?jobId=34738)
-  • [IT Business Systems Analyst, Technology Control Center](https://delta.avature.net/en_US/careers/JobDetail/IT-Business-Systems-Analyst/34933?jobId=34933)
-  • [Senior Analyst, Crew Operations](https://delta.avature.net/en_US/careers/JobDetail/Sr-Analyst-Crew-Operations/34809?jobId=34809)
-
-🎯 **Toyota** - 1 relevant new jobs:
-  • [Digital Retail Sr. Analyst - Sales](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Digital-Retail-Sr-Analyst---Sales_10339178)
+🎯 **Apple** - 3 relevant new jobs:
+  • [Machine Learning Engineer, Siri Speech](https://jobs.apple.com/en-us/details/200693064-0836/machine-learning-engineer-siri-speech?team=SFTWR)
+  • [Senior ML Engineer - Ads ML Infrastructure](https://jobs.apple.com/en-us/details/200692043-2459/senior-ml-engineer-ads-ml-infrastructure?team=SFTWR)
+  • [Computational Support for Machine Learning and Transformers, Core OS](https://jobs.apple.com/en-us/details/200692952-0836/computational-support-for-machine-learning-and-transformers-core-os?team=SFTWR)
