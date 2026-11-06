@@ -1,41 +1,38 @@
-# Job Scan Summary - 2026-11-05
+# Job Scan Summary - 2026-11-06
 
-**New jobs today:** 449
-**Relevant new jobs:** 28
+**New jobs today:** 208
+**Relevant new jobs:** 18
 
-🎯 **Deloitte** - 6 relevant new jobs:
-  • [Lead AI and Data Science Engineer II– Marketing Measurement](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-and-Data-Science-Engineer-II-Marketing-Measurement/374443)
-  • [Oracle HCM Cloud Core HR Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Oracle-HCM-Cloud-Core-HR-Analyst/374303)
-  • [Cyber Cloud DevSecOps Analyst / Security Engineer I](https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Cloud-DevSecOps-Analyst-Security-Engineer-I/374288)
-  • [Audit & Assurance – Analyst – Business Process Controls Advisory – Summer/Fall 2027, Winter 2028](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Business-Process-Controls-Advisory-Summer-Fall-2027-Winter-2028/374253)
-  • [Experienced Business Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Experienced-Business-Analyst/374243)
+🎯 **Deloitte** - 1 relevant new jobs:
+  • [Senior Data Scientist/Engineer and Application Developer](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-Scientist-Engineer-and-Application-Developer/374460)
 
-🎯 **Fidelity** - 6 relevant new jobs:
-  • [Treasury Brokerage Operations Analyst](https://jobs.fidelity.com/en/jobs/2137463/treasury-brokerage-operations-analyst/)
-  • [Principal Business Analyst](https://jobs.fidelity.com/en/jobs/2130925/principal-business-analyst/)
-  • [Nlp Data Science Analyst](https://jobs.fidelity.com/en/jobs/2137383/nlp-data-science-analyst/)
-  • [Principal Aiml Engineer](https://jobs.fidelity.com/en/jobs/2137730/principal-aiml-engineer/)
-  • [Senior Systems Analyst](https://jobs.fidelity.com/en/jobs/2132039/senior-systems-analyst/)
+🎯 **Fidelity** - 1 relevant new jobs:
+  • [Senior It Data Analyst](https://jobs.fidelity.com/en/jobs/2136603/senior-it-data-analyst/)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Systems Analyst, Access and Compromise Integrity](https://www.metacareers.com/profile/job_details/1367959535215289)
+🎯 **Meta** - 4 relevant new jobs:
+  • [Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)](https://www.metacareers.com/profile/job_details/1414987577372371)
+  • [Research Scientist Intern, AI Agents and Machine Learning (PhD)](https://www.metacareers.com/profile/job_details/1826604892017856)
+  • [Research Scientist Intern, AI Systems and Infrastructure (PhD)](https://www.metacareers.com/profile/job_details/1750797606003820)
+  • [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/profile/job_details/1895256495232542)
 
-🎯 **Morganstanley** - 3 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801204206?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801171756?source=mscom)
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801184386?source=mscom)
+🎯 **Gm** - 4 relevant new jobs:
+  • [Process Analyst - Consignment](https://search-careers.gm.com/en/jobs/jr-202623081/process-analyst-consignment/)
+  • [Senior Research Scientist](https://search-careers.gm.com/en/jobs/jr-202623858/senior-research-scientist/)
+  • [Research Scientist](https://search-careers.gm.com/en/jobs/jr-202623861/research-scientist/)
+  • [Staff ML Engineer - Embodied AI Scaling Foundations](https://search-careers.gm.com/en/jobs/jr-202622758/staff-ml-engineer-embodied-ai-scaling-foundations/)
 
-🎯 **Toyota** - 3 relevant new jobs:
-  • [Master Data Governance Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Master-Data-Governance-Analyst_10339420)
-  • [Analyst, Billing & Invoices](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst--Billing---Invoices_10339422)
-  • [Payments, and Accounting Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano/Payments--and-Accounting-Analyst_10339421)
+🎯 **Morganstanley** - 2 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801207362?source=mscom)
+  • [Equity Research – Analyst/Associate, Utilities & Clean Tech Associate (New York)](https://morganstanley.eightfold.ai/careers/job/549801216267?source=mscom)
 
-🎯 **Barclays** - 1 relevant new jobs:
-  • [FinCrime Data Analyst Lead](https://search.jobs.barclays/job/pune/fincrime-data-analyst-lead/13015/102902144256)
+🎯 **Toyota** - 1 relevant new jobs:
+  • [Sr. Analyst, Accounting](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst--Accounting_10339781)
 
-🎯 **Apple** - 8 relevant new jobs:
-  • [Staff Machine Learning Engineer - Matching, Apple Ads](https://jobs.apple.com/en-us/details/200693171-0836/staff-machine-learning-engineer-matching-apple-ads?team=SFTWR)
-  • [Computer Vision & Machine Learning Engineer](https://jobs.apple.com/en-us/details/200693652-3956/computer-vision-machine-learning-engineer?team=MLAI)
-  • [Machine Learning Engineer](https://jobs.apple.com/en-us/details/200693705-0836/machine-learning-engineer?team=HRDWR)
-  • [Financial Analyst](https://jobs.apple.com/en-us/details/200691316-1269/financial-analyst?team=CORSV)
-  • [Machine Learning Engineer, Platform Architecture](https://jobs.apple.com/en-us/details/200693487-0836/machine-learning-engineer-platform-architecture?team=HRDWR)
+🎯 **Barclays** - 4 relevant new jobs:
+  • [2027 Operations Analyst Project Management Degree Apprenticeship Programme Knutsford](https://search.jobs.barclays/job/knutsford/2027-operations-analyst-project-management-degree-apprenticeship-programme-knutsford/13015/102946224336)
+  • [2027 Operations Analyst Data Science Degree Apprenticeship Programme Knutsford](https://search.jobs.barclays/job/knutsford/2027-operations-analyst-data-science-degree-apprenticeship-programme-knutsford/13015/102946222240)
+  • [2027 Operations Analyst Degree Apprenticeship Programme Northampton](https://search.jobs.barclays/job/northampton/2027-operations-analyst-degree-apprenticeship-programme-northampton/13015/102946222160)
+  • [Financial Crime Analyst](https://search.jobs.barclays/job/edinburgh/financial-crime-analyst/13015/102946215088)
+
+🎯 **Apple** - 1 relevant new jobs:
+  • [AIML - Sr Machine Learning Platform Engineer, Evaluation](https://jobs.apple.com/en-us/details/200693241-3337/aiml-sr-machine-learning-platform-engineer-evaluation?team=MLAI)
