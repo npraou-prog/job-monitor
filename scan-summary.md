@@ -1,35 +1,28 @@
-# Job Scan Summary - 2026-11-17
+# Job Scan Summary - 2026-11-18
 
-**New jobs today:** 218
-**Relevant new jobs:** 13
+**New jobs today:** 249
+**Relevant new jobs:** 12
 
-🎯 **Cisco** - 2 relevant new jobs:
-  • [Data Analyst](https://careers.cisco.com/global/en/job/2025635/Data-Analyst)
-  • [Finance Analyst](https://careers.cisco.com/global/en/job/2030134/Finance-Analyst)
+🎯 **Deloitte** - 3 relevant new jobs:
+  • [Project GenAI Engineer III](https://apply.deloitte.com/en_US/careers/JobDetail/Project-GenAI-Engineer-III/375918)
+  • [Lead Generative AI Engineer - Federal Health](https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Generative-AI-Engineer-Federal-Health/375889)
+  • [Site Team Analyst - Secret cleared](https://apply.deloitte.com/en_US/careers/JobDetail/Site-Team-Analyst-Secret-cleared/375797)
 
-🎯 **Synopsys** - 1 relevant new jobs:
-  • [Director, AI EngineeringCanada Off-siteCategory:EngineeringPosted:11/15/2026Job ID:19788](https://careers.synopsys.com/job/ottawa/director-ai-engineering/44408/103407504832)
+🎯 **Meta** - 2 relevant new jobs:
+  • [Research Scientist Intern, Computational Mechanics (PhD)](https://www.metacareers.com/profile/job_details/1283598853967973)
+  • [Research Scientist, Applied AI - AI Specialist](https://www.metacareers.com/profile/job_details/1845141720022019)
 
-🎯 **Meta** - 1 relevant new jobs:
-  • [Global Payroll Technology and AI Analyst](https://www.metacareers.com/profile/job_details/1463640159052438)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Network Operations Analyst](https://careers.elevancehealth.com/network-operations-analyst/job/32C41465E118E5F2328FFB20823B7CE8)
 
-🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Technical Support Associate Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26013890/Technical-Support-Associate-Analyst-Cigna-Healthcare)
-
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [CyberArk EPM Operations Security Analyst III](https://careers.elevancehealth.com/cyberark-epm-operations-security-analyst-iii/job/F777F50A3767F2AB5F01F91F672E2D3F)
-  • [Security Analyst III](https://careers.elevancehealth.com/security-analyst-iii/job/DBD5AABF02A3E06C97A3FED30E8B4641)
-
-🎯 **Delta** - 2 relevant new jobs:
-  • [Sr Analyst, Domestic Revenue Management](https://delta.avature.net/en_US/careers/JobDetail/Sr-Analyst-Domestic-Revenue-Management/35111?jobId=35111)
-  • [Sr. Data Analyst, Operations Planning and Performance](https://delta.avature.net/en_US/careers/JobDetail/Sr-Data-Analyst-Operations-Planning-and-Performance/35121?jobId=35121)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801390202?source=mscom)
 
 🎯 **Toyota** - 1 relevant new jobs:
-  • [Analyst II - Project/Program Management](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Analyst-II---Project-Program-Management_10340486)
+  • [Business Analyst - Vehicle Configuration Management](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Business-Analyst---Vehicle-Configuration-Management_10340014)
 
-🎯 **Barclays** - 1 relevant new jobs:
-  • [AI Delivery Analyst](https://search.jobs.barclays/job/london/ai-delivery-analyst/13015/103430526000)
-
-🎯 **Apple** - 2 relevant new jobs:
-  • [Machine Learning Engineer Platform - iCloud Mail Intelligence](https://jobs.apple.com/en-us/details/200695220-3543/machine-learning-engineer-platform-icloud-mail-intelligence?team=MLAI)
-  • [AIML EPM Manager - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200694606-0157/aiml-epm-manager-strategic-data-solutions?team=CORSV)
+🎯 **Apple** - 4 relevant new jobs:
+  • [Senior/Staff Machine Learning Engineer, Search & Knowledge Platforms](https://jobs.apple.com/en-us/details/200695799-3760/senior-staff-machine-learning-engineer-search-knowledge-platforms?team=MLAI)
+  • [AIML - Sr. Software Engineer](https://jobs.apple.com/en-us/details/200695755-0836/aiml-sr-software-engineer?team=SFTWR)
+  • [Machine Learning Systems Engineer](https://jobs.apple.com/en-us/details/200694562-0836/machine-learning-systems-engineer?team=MLAI)
+  • [Senior Machine Learning Engineer, Conversational AI - Services Special Projects](https://jobs.apple.com/en-us/details/200695556-0836/senior-machine-learning-engineer-conversational-ai-services-special-projects?team=SFTWR)
