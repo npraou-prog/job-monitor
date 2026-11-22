@@ -1,17 +1,11 @@
-# Job Scan Summary - 2026-11-21
+# Job Scan Summary - 2026-11-22
 
-**New jobs today:** 96
-**Relevant new jobs:** 5
+**New jobs today:** 16
+**Relevant new jobs:** 3
 
-🎯 **Elevancehealth** - 1 relevant new jobs:
-  • [Business Analyst II](https://careers.elevancehealth.com/business-analyst-ii/job/59E73DA270174F21EE8CAD08AE45897D)
+🎯 **Cisco** - 1 relevant new jobs:
+  • [Sales Operations Analyst](https://careers.cisco.com/global/en/job/2030264/Sales-Operations-Analyst)
 
-🎯 **Intel** - 1 relevant new jobs:
-  • [Foundry Advanced Packaging Customer Engineer Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-Advanced-Packaging-Customer-Engineer-Analyst_JR0289222)
-
-🎯 **Qualcomm** - 1 relevant new jobs:
-  • [Engineering Operations Analyst](https://careers.qualcomm.com/careers/job/446722247303?domain=qualcomm.com)
-
-🎯 **Apple** - 2 relevant new jobs:
-  • [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405-0157/purchasing-operations-analyst-infrastructure-services?team=OPMFG)
-  • [ML Engineering Manager, Agentic Search Evaluation](https://jobs.apple.com/en-us/details/200672920-0836/ml-engineering-manager-agentic-search-evaluation?team=MLAI)
+🎯 **Cigna-Healthcare** - 2 relevant new jobs:
+  • [Legal Compliance Lead Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26013482/Legal-Compliance-Lead-Analyst-Cigna-Healthcare)
+  • [Senior Digital Marketing Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26014161/Senior-Digital-Marketing-Analyst-Cigna-Healthcare)

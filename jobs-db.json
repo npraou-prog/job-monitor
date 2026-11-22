@@ -105465,6 +105465,34 @@
         "url": "https://careers.cisco.com/global/en/job/2029693/Software-Engineer-India-ComSec-NCCS",
         "firstSeen": "2026-11-21T20:39:45.112290",
         "restrictions": []
+      },
+      "2030264": {
+        "id": "2030264",
+        "title": "Sales Operations Analyst",
+        "url": "https://careers.cisco.com/global/en/job/2030264/Sales-Operations-Analyst",
+        "firstSeen": "2026-11-22T20:52:41.100082",
+        "restrictions": []
+      },
+      "2031685": {
+        "id": "2031685",
+        "title": "Solutions Engineer",
+        "url": "https://careers.cisco.com/global/en/job/2031685/Solutions-Engineer",
+        "firstSeen": "2026-11-22T20:52:46.685349",
+        "restrictions": []
+      },
+      "2029401": {
+        "id": "2029401",
+        "title": "Renewals Specialist",
+        "url": "https://careers.cisco.com/global/en/job/2029401/Renewals-Specialist",
+        "firstSeen": "2026-11-22T20:52:46.692367",
+        "restrictions": []
+      },
+      "2031369": {
+        "id": "2031369",
+        "title": "Account Executive - Portfolio",
+        "url": "https://careers.cisco.com/global/en/job/2031369/Account-Executive-Portfolio",
+        "firstSeen": "2026-11-22T20:52:46.698388",
+        "restrictions": []
       }
     },
     "visa": {
@@ -176227,6 +176255,41 @@
         "url": "https://jobs.thecignagroup.com/us/en/job/26013232/Manager-Business-Development-Cigna-Healthcare",
         "firstSeen": "2026-11-21T20:46:06.360919",
         "restrictions": []
+      },
+      "26013238": {
+        "id": "26013238",
+        "title": "Senior Salesforce Developer - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26013238/Senior-Salesforce-Developer-Cigna-Healthcare",
+        "firstSeen": "2026-11-22T20:58:59.904443",
+        "restrictions": []
+      },
+      "26013392": {
+        "id": "26013392",
+        "title": "Senior RPG Developer - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26013392/Senior-RPG-Developer-Cigna-Healthcare",
+        "firstSeen": "2026-11-22T20:58:59.909025",
+        "restrictions": []
+      },
+      "26013482": {
+        "id": "26013482",
+        "title": "Legal Compliance Lead Analyst - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26013482/Legal-Compliance-Lead-Analyst-Cigna-Healthcare",
+        "firstSeen": "2026-11-22T20:58:59.913875",
+        "restrictions": []
+      },
+      "26012614": {
+        "id": "26012614",
+        "title": "Supervisor \u2013 Claims Operations - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26012614/Supervisor-Claims-Operations-Cigna-Healthcare",
+        "firstSeen": "2026-11-22T20:58:59.918659",
+        "restrictions": []
+      },
+      "26014161": {
+        "id": "26014161",
+        "title": "Senior Digital Marketing Analyst - Cigna Healthcare",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26014161/Senior-Digital-Marketing-Analyst-Cigna-Healthcare",
+        "firstSeen": "2026-11-22T20:58:59.923198",
+        "restrictions": []
       }
     },
     "cigna-evernorth": {
@@ -180309,6 +180372,13 @@
         "title": "Pharmacy Technician Associate - Accredo - Tempe, AZ",
         "url": "https://jobs.thecignagroup.com/us/en/job/26012945/Pharmacy-Technician-Associate-Accredo-Tempe-AZ",
         "firstSeen": "2026-11-21T20:47:15.883441",
+        "restrictions": []
+      },
+      "26013887": {
+        "id": "26013887",
+        "title": "Senior Advisor, Automation Risk & Controls - Evernorth - Remote",
+        "url": "https://jobs.thecignagroup.com/us/en/job/26013887/Senior-Advisor-Automation-Risk-Controls-Evernorth-Remote",
+        "firstSeen": "2026-11-22T21:00:09.563739",
         "restrictions": []
       }
     },
@@ -437800,6 +437870,48 @@
         "url": "https://jobs.apple.com/en-us/details/200696373-2761/us-operations-specialist?team=APPST",
         "firstSeen": "2026-11-21T21:00:35.968755",
         "restrictions": []
+      },
+      "200695791-0836": {
+        "id": "200695791-0836",
+        "title": "Communication Strategist, Apple Ads",
+        "url": "https://jobs.apple.com/en-us/details/200695791-0836/communication-strategist-apple-ads?team=MKTG",
+        "firstSeen": "2026-11-22T21:12:48.140174",
+        "restrictions": []
+      },
+      "200689632-3337": {
+        "id": "200689632-3337",
+        "title": "Senior Security Engineer - Strategic Risk",
+        "url": "https://jobs.apple.com/en-us/details/200689632-3337/senior-security-engineer-strategic-risk?team=SFTWR",
+        "firstSeen": "2026-11-22T21:12:48.148842",
+        "restrictions": []
+      },
+      "200694552-0157": {
+        "id": "200694552-0157",
+        "title": "Senior Manager, Support Experience Readiness",
+        "url": "https://jobs.apple.com/en-us/details/200694552-0157/senior-manager-support-experience-readiness?team=OPMFG",
+        "firstSeen": "2026-11-22T21:12:48.157543",
+        "restrictions": []
+      },
+      "200694552-0776": {
+        "id": "200694552-0776",
+        "title": "Senior Manager, Support Experience Readiness",
+        "url": "https://jobs.apple.com/en-us/details/200694552-0776/senior-manager-support-experience-readiness?team=OPMFG",
+        "firstSeen": "2026-11-22T21:12:48.167341",
+        "restrictions": []
+      },
+      "200694552-3956": {
+        "id": "200694552-3956",
+        "title": "Senior Manager, Support Experience Readiness",
+        "url": "https://jobs.apple.com/en-us/details/200694552-3956/senior-manager-support-experience-readiness?team=OPMFG",
+        "firstSeen": "2026-11-22T21:12:48.176110",
+        "restrictions": []
+      },
+      "200695752-3956": {
+        "id": "200695752-3956",
+        "title": "Supply Chain Planning Engineer",
+        "url": "https://jobs.apple.com/en-us/details/200695752-3956/supply-chain-planning-engineer?team=OPMFG",
+        "firstSeen": "2026-11-22T21:12:48.183962",
+        "restrictions": []
       }
     },
     "rhoda": {},
@@ -437827,5 +437939,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-21T21:01:25.748203"
+  "lastUpdated": "2026-11-22T21:13:39.207935"
 }
