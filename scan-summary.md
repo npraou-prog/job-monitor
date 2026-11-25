@@ -1,41 +1,34 @@
-# Job Scan Summary - 2026-11-24
+# Job Scan Summary - 2026-11-25
 
-**New jobs today:** 154
-**Relevant new jobs:** 28
+**New jobs today:** 270
+**Relevant new jobs:** 25
 
-🎯 **Deloitte** - 2 relevant new jobs:
-  • [Project Technical Program Analyst](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Technical-Program-Analyst/376372)
-  • [Functional Analyst/Scrum Master - Project Consultant](https://apply.deloitte.com/en_US/careers/JobDetail/Functional-Analyst-Scrum-Master-Project-Consultant/376358)
+🎯 **Meta** - 2 relevant new jobs:
+  • [Backend Software Engineer, Applied AI Engineering](https://www.metacareers.com/profile/job_details/2226129517969205)
+  • [Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)](https://www.metacareers.com/profile/job_details/1482835147112669)
 
-🎯 **Globalpartners** - 1 relevant new jobs:
-  • [Senior Compensation Analyst](https://careers.globalp.com/senior-compensation-analyst/job/P1-7727019-0)
-
-🎯 **Chewy** - 1 relevant new jobs:
-  • [Machine Learning Engineer II](https://careers.chewy.com/us/en/job/R31506/Machine-Learning-Engineer-II)
-
-🎯 **Meta** - 3 relevant new jobs:
-  • [Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)](https://www.metacareers.com/profile/job_details/2357948038329505)
-  • [Software Engineer Intern, Machine Learning (PhD)](https://www.metacareers.com/profile/job_details/2180490782513668)
-  • [Research Scientist Intern, uLED Display Characterization (PhD)](https://www.metacareers.com/profile/job_details/1296888565955935)
-
-🎯 **Cigna-Healthcare** - 3 relevant new jobs:
-  • [Fraud Senior Analyst –Payment Integrity Provider Investigation (APAC Team) - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26009898/Fraud-Senior-Analyst-Payment-Integrity-Provider-Investigation-APAC-Team-Cigna-Healthcare)
-  • [Provider Relations Senior Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26012717/Provider-Relations-Senior-Analyst-Cigna-Healthcare)
-  • [Strategic Planning Senior Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26014212/Strategic-Planning-Senior-Analyst-Cigna-Healthcare)
+🎯 **Cigna-Healthcare** - 1 relevant new jobs:
+  • [Fraud Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26013297/Fraud-Analyst-Cigna-Healthcare)
 
 🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Actuarial Analyst III](https://careers.elevancehealth.com/actuarial-analyst-iii/job/A6A8928FB80003D60EDF921B0A4B6B5C)
-  • [Distinguished AI Engineer](https://careers.elevancehealth.com/distinguished-ai-engineer/job/EFB604636967E8BC79C62B1EE95BDE5D)
+  • [Business Information Analyst Senior](https://careers.elevancehealth.com/business-information-analyst-senior/job/811C9EBCD2D4E8248E55C65C2D36F9D8)
+  • [Grievance & Appeals Analyst I (California Only)](https://careers.elevancehealth.com/grievance-appeals-analyst-i-california-only/job/569D62B2DBB3797CC26274B366C49DD5)
 
-🎯 **Morganstanley** - 4 relevant new jobs:
-  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549801416190?source=mscom)
-  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549801531495?source=mscom)
-  • [Endowment & Foundation Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549801442422?source=mscom)
-  • [Wealth Management Analyst](https://morganstanley.eightfold.ai/careers/job/549801531487?source=mscom)
+🎯 **Gm** - 14 relevant new jobs:
+  • [Data Scientist, AI/ML Solutions](https://search-careers.gm.com/en/jobs/jr-202624251/data-scientist-ai-ml-solutions/)
+  • [Controllership Systems OneStream Analyst](https://search-careers.gm.com/en/jobs/jr-202624067/controllership-systems-onestream-analyst/)
+  • [Intercompany Analyst](https://search-careers.gm.com/en/jobs/jr-202624119/intercompany-analyst/)
+  • [Senior Data Scientist - AI/ML Solutions](https://search-careers.gm.com/en/jobs/jr-202624136/senior-data-scientist-ai-ml-solutions/)
+  • [Travel & Expense Audit and Payroll Accounting Senior Analyst - Team Lead](https://search-careers.gm.com/en/jobs/jr-202624558/travel-expense-audit-and-payroll-accounting-senior-analyst-team-lead/)
 
-🎯 **Barclays** - 12 relevant new jobs:
-  • [Markets Quantitative Analyst Summer Internship Program 2028 New York](https://search.jobs.barclays/job/new-york/markets-quantitative-analyst-summer-internship-program-2028-new-york/13015/103680421584)
-  • [Public Finance Analyst Summer Internship Program 2028 New York](https://search.jobs.barclays/job/new-york/public-finance-analyst-summer-internship-program-2028-new-york/13015/103680421376)
-  • [Equity Research Analyst Summer Internship Program 2028 New York](https://search.jobs.barclays/job/new-york/equity-research-analyst-summer-internship-program-2028-new-york/13015/103680420720)
-  • [Credit Research Analyst Summer Internship Program 2028 New York](https://search.jobs.barclays/job/new-york/credit-research-analyst-summer-internship-program-2028-new-york/13015/103680420672)
-  • [Sales, Trading and Structuring Analyst Summer Internship Program 2028 New York](https://search.jobs.barclays/job/new-york/sales-trading-and-structuring-analyst-summer-internship-program-2028-new-york/13015/103680420608)
+🎯 **Morganstanley** - 1 relevant new jobs:
+  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801548991?source=mscom)
+
+🎯 **Ey** - 1 relevant new jobs:
+  • [Government and Infrastructure - AI & Data - Data Science Senior Consultant - Healthcare](https://careers.ey.com/ey/job/McLean-Government-and-Infrastructure-AI-&-Data-Data-Science-Senior-Consultant-Healthcare-VA-22102/1460347433/)
+
+🎯 **Barclays** - 4 relevant new jobs:
+  • [Customer Specialist Credit Analyst](https://search.jobs.barclays/job/wilmington/customer-specialist-credit-analyst/13015/103750783088)
+  • [Customer Specialist Credit Analyst](https://search.jobs.barclays/job/henderson/customer-specialist-credit-analyst/13015/103750783072)
+  • [Investment Banking Analyst, Consumer and Retail Group (CRG)](https://search.jobs.barclays/job/new-york/investment-banking-analyst-consumer-and-retail-group-crg/13015/98861300448)
+  • [Residential Warehouse Trader Analyst](https://search.jobs.barclays/job/new-york/residential-warehouse-trader-analyst/13015/99217215456)
