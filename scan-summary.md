@@ -1,34 +1,28 @@
-# Job Scan Summary - 2026-11-25
+# Job Scan Summary - 2026-11-26
 
-**New jobs today:** 270
-**Relevant new jobs:** 25
+**New jobs today:** 101
+**Relevant new jobs:** 12
 
-🎯 **Meta** - 2 relevant new jobs:
-  • [Backend Software Engineer, Applied AI Engineering](https://www.metacareers.com/profile/job_details/2226129517969205)
-  • [Research Scientist Intern, Machine Learning for Robust 3D Perception (PhD)](https://www.metacareers.com/profile/job_details/1482835147112669)
+🎯 **Elevancehealth** - 1 relevant new jobs:
+  • [Grievance & Appeals Analyst I (California Only)](https://careers.elevancehealth.com/grievance-appeals-analyst-i-california-only/job/FEC7D6D9A682917CB2C7255191D188FE)
 
-🎯 **Cigna-Healthcare** - 1 relevant new jobs:
-  • [Fraud Analyst - Cigna Healthcare](https://jobs.thecignagroup.com/us/en/job/26013297/Fraud-Analyst-Cigna-Healthcare)
+🎯 **Gm** - 1 relevant new jobs:
+  • [Staff AI/ML Engineer](https://search-careers.gm.com/en/jobs/jr-202623885/staff-ai-ml-engineer/)
 
-🎯 **Elevancehealth** - 2 relevant new jobs:
-  • [Business Information Analyst Senior](https://careers.elevancehealth.com/business-information-analyst-senior/job/811C9EBCD2D4E8248E55C65C2D36F9D8)
-  • [Grievance & Appeals Analyst I (California Only)](https://careers.elevancehealth.com/grievance-appeals-analyst-i-california-only/job/569D62B2DBB3797CC26274B366C49DD5)
+🎯 **Intel** - 1 relevant new jobs:
+  • [Senior Sales Operations Analyst](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Senior-Sales-Operations-Analyst_JR0289577)
 
-🎯 **Gm** - 14 relevant new jobs:
-  • [Data Scientist, AI/ML Solutions](https://search-careers.gm.com/en/jobs/jr-202624251/data-scientist-ai-ml-solutions/)
-  • [Controllership Systems OneStream Analyst](https://search-careers.gm.com/en/jobs/jr-202624067/controllership-systems-onestream-analyst/)
-  • [Intercompany Analyst](https://search-careers.gm.com/en/jobs/jr-202624119/intercompany-analyst/)
-  • [Senior Data Scientist - AI/ML Solutions](https://search-careers.gm.com/en/jobs/jr-202624136/senior-data-scientist-ai-ml-solutions/)
-  • [Travel & Expense Audit and Payroll Accounting Senior Analyst - Team Lead](https://search-careers.gm.com/en/jobs/jr-202624558/travel-expense-audit-and-payroll-accounting-senior-analyst-team-lead/)
+🎯 **Morganstanley** - 3 relevant new jobs:
+  • [Overnight Non-Dollar Fixed Income Sales & Trading Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549801550861?source=mscom)
+  • [Overnight Non-Dollar Fixed Income Sales & Trading Analyst/Associate](https://morganstanley.eightfold.ai/careers/job/549801550887?source=mscom)
+  • [Private Wealth Management Registered Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801570682?source=mscom)
 
-🎯 **Morganstanley** - 1 relevant new jobs:
-  • [Client Relationship Analyst](https://morganstanley.eightfold.ai/careers/job/549801548991?source=mscom)
+🎯 **Delta** - 1 relevant new jobs:
+  • [Associate AI Engineer](https://delta.avature.net/en_US/careers/JobDetail/Associate-AI-Engineer/35162?jobId=35162)
 
-🎯 **Ey** - 1 relevant new jobs:
-  • [Government and Infrastructure - AI & Data - Data Science Senior Consultant - Healthcare](https://careers.ey.com/ey/job/McLean-Government-and-Infrastructure-AI-&-Data-Data-Science-Senior-Consultant-Healthcare-VA-22102/1460347433/)
-
-🎯 **Barclays** - 4 relevant new jobs:
-  • [Customer Specialist Credit Analyst](https://search.jobs.barclays/job/wilmington/customer-specialist-credit-analyst/13015/103750783088)
-  • [Customer Specialist Credit Analyst](https://search.jobs.barclays/job/henderson/customer-specialist-credit-analyst/13015/103750783072)
-  • [Investment Banking Analyst, Consumer and Retail Group (CRG)](https://search.jobs.barclays/job/new-york/investment-banking-analyst-consumer-and-retail-group-crg/13015/98861300448)
-  • [Residential Warehouse Trader Analyst](https://search.jobs.barclays/job/new-york/residential-warehouse-trader-analyst/13015/99217215456)
+🎯 **Toyota** - 5 relevant new jobs:
+  • [Senior Safety Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Georgetown-Kentucky/Senior-Safety-Analyst_10340290-1)
+  • [Senior Analyst, Financial Services Sourcing](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Analyst--Financial-Services-Sourcing_10336924)
+  • [Senior Legal Analyst](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Legal-Analyst_10339829)
+  • [Business Systems Analyst II - Risk, Legal, Compliance & Learning Systems](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Business-Systems-Analyst-II---Risk--Legal--Compliance---Learning-Systems_10340379)
+  • [Sr. Analyst - Supply Chain](https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Sr-Analyst---Supply-Chain_10340011)
